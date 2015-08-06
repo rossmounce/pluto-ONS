@@ -1,0 +1,1 @@
+while read i ; do timeout 60s mvn exec:java  -Dexec.mainClass='org.xmlcml.ami2.plugins.phylotree.RunPhylo'  -Dexec.args=''"$i"' ./all-output/'"$i"'' -e -X | tee $i.log ; done <list-of-input-images.txt

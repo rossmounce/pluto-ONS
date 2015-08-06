@@ -1,0 +1,505 @@
+Apache Maven 3.0.5
+Maven home: /usr/share/maven
+Java version: 1.7.0_79, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-openjdk-amd64/jre
+Default locale: en_GB, platform encoding: UTF-8
+OS name: "linux", version: "3.19.0-25-generic", arch: "amd64", family: "unix"
+[INFO] Error stacktraces are turned on.
+[DEBUG] Reading global settings from /usr/share/maven/conf/settings.xml
+[DEBUG] Reading user settings from /home/ross/.m2/settings.xml
+[DEBUG] Using local repository at /home/ross/.m2/repository
+[DEBUG] Using manager EnhancedLocalRepositoryManager with priority 10 for /home/ross/.m2/repository
+[INFO] Scanning for projects...
+[DEBUG] Extension realms for project org.xml-cml:ami2:jar:0.1-SNAPSHOT: (none)
+[DEBUG] Looking up lifecyle mappings for packaging jar from ClassRealm[plexus.core, parent: null]
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.xml-cml:ami2:jar:0.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ line 228, column 12
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[DEBUG] Resolving plugin prefix exec from [org.apache.maven.plugins, org.codehaus.mojo]
+[DEBUG] Could not find metadata org.apache.maven.plugins/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.apache.maven.plugins/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.codehaus.mojo/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.codehaus.mojo/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Resolved plugin prefix exec to org.codehaus.mojo:exec-maven-plugin from repository central
+[DEBUG] Resolving plugin version for org.codehaus.mojo:exec-maven-plugin
+[DEBUG] Could not find metadata org.codehaus.mojo:exec-maven-plugin/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.codehaus.mojo:exec-maven-plugin/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Resolved plugin version for org.codehaus.mojo:exec-maven-plugin to 1.4.0 from repository central (https://repo.maven.apache.org/maven2, releases)
+[DEBUG] === REACTOR BUILD PLAN ================================================
+[DEBUG] Project: org.xml-cml:ami2:jar:0.1-SNAPSHOT
+[DEBUG] Tasks:   [exec:java]
+[DEBUG] Style:   Regular
+[DEBUG] =======================================================================
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building AMI 0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[DEBUG] Resolving plugin prefix exec from [org.apache.maven.plugins, org.codehaus.mojo]
+[DEBUG] Could not find metadata org.apache.maven.plugins/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.apache.maven.plugins/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.codehaus.mojo/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.codehaus.mojo/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Resolved plugin prefix exec to org.codehaus.mojo:exec-maven-plugin from repository central
+[DEBUG] Resolving plugin version for org.codehaus.mojo:exec-maven-plugin
+[DEBUG] Could not find metadata org.codehaus.mojo:exec-maven-plugin/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Skipped remote update check for org.codehaus.mojo:exec-maven-plugin/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Resolved plugin version for org.codehaus.mojo:exec-maven-plugin to 1.4.0 from repository central (https://repo.maven.apache.org/maven2, releases)
+[DEBUG] Lifecycle default -> [validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy]
+[DEBUG] Lifecycle clean -> [pre-clean, clean, post-clean]
+[DEBUG] Lifecycle site -> [pre-site, site, post-site, site-deploy]
+[DEBUG] === PROJECT BUILD PLAN ================================================
+[DEBUG] Project:       org.xml-cml:ami2:0.1-SNAPSHOT
+[DEBUG] Dependencies (collect): []
+[DEBUG] Dependencies (resolve): [test]
+[DEBUG] Repositories (dependencies): [ebi-repo (http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo/, releases), ebi-repo-snapshots (http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/, snapshots), ebi-repo-3rd (http://www.ebi.ac.uk/~maven/m2repo, releases+snapshots), ucc-repo (https://maven.ch.cam.ac.uk/m2repo, releases+snapshots), central (https://repo.maven.apache.org/maven2, releases)]
+[DEBUG] Repositories (plugins)     : [central (https://repo.maven.apache.org/maven2, releases)]
+[DEBUG] -----------------------------------------------------------------------
+[DEBUG] Goal:          org.codehaus.mojo:exec-maven-plugin:1.4.0:java (default-cli)
+[DEBUG] Style:         Regular
+[DEBUG] Configuration: <?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <arguments>${exec.arguments}</arguments>
+  <classpathScope default-value="runtime">${exec.classpathScope}</classpathScope>
+  <cleanupDaemonThreads default-value="true">${exec.cleanupDaemonThreads}</cleanupDaemonThreads>
+  <commandlineArgs>${exec.args}</commandlineArgs>
+  <daemonThreadJoinTimeout default-value="15000">${exec.daemonThreadJoinTimeout}</daemonThreadJoinTimeout>
+  <includePluginDependencies default-value="false">${exec.includePluginsDependencies}</includePluginDependencies>
+  <includeProjectDependencies default-value="true">${exec.includeProjectDependencies}</includeProjectDependencies>
+  <keepAlive default-value="false">${exec.keepAlive}</keepAlive>
+  <killAfter default-value="-1">${exec.killAfter}</killAfter>
+  <localRepository default-value="${localRepository}"/>
+  <mainClass>${exec.mainClass}</mainClass>
+  <pluginDependencies default-value="${plugin.artifacts}"/>
+  <project default-value="${project}"/>
+  <remoteRepositories default-value="${project.remoteArtifactRepositories}"/>
+  <skip default-value="false">${exec.skip}</skip>
+  <sourceRoot>${sourceRoot}</sourceRoot>
+  <stopUnresponsiveDaemonThreads default-value="false">${exec.stopUnresponsiveDaemonThreads}</stopUnresponsiveDaemonThreads>
+  <testSourceRoot>${testSourceRoot}</testSourceRoot>
+</configuration>
+[DEBUG] =======================================================================
+[DEBUG] Failure to find org.xml-cml:norma:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:norma:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:norma:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:cmine:0.1-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:cmine:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:cmine:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:cmine:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:html:0.2-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:html:0.2-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:html:0.2-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:html:0.2-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:svg:0.2-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:svg:0.2-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:svg:0.2-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:svg:0.2-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:euclid:1.1-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:euclid:1.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:euclid:1.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:euclid:1.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata uk.ac.cam.ch.wwmm:wwmm-parent:5-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find uk.ac.cam.ch.wwmm:wwmm-parent:5-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find uk.ac.cam.ch.wwmm:wwmm-parent:5-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for uk.ac.cam.ch.wwmm:wwmm-parent:5-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:svg2xml:0.1-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:svg2xml:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:svg2xml:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:svg2xml:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:pdf2svg:1.1-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:pdf2svg:1.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:pdf2svg:1.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:pdf2svg:1.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Failure to find org.xml-cml:imageanalysis:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:imageanalysis:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:imageanalysis:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Could not find metadata org.xml-cml:svgbuilder:0.1-SNAPSHOT/maven-metadata.xml in local (/home/ross/.m2/repository)
+[DEBUG] Failure to find org.xml-cml:svgbuilder:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:svgbuilder:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:svgbuilder:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Failure to find org.xml-cml:diagramanalyzer:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:diagramanalyzer:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:diagramanalyzer:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] Failure to find org.xml-cml:javaocrnew:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/ was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-snapshots has elapsed or updates are forced
+[DEBUG] Failure to find org.xml-cml:javaocrnew:0.1-SNAPSHOT/maven-metadata.xml in http://www.ebi.ac.uk/~maven/m2repo was cached in the local repository, resolution will not be reattempted until the update interval of ebi-repo-3rd has elapsed or updates are forced
+[DEBUG] Skipped remote update check for org.xml-cml:javaocrnew:0.1-SNAPSHOT/maven-metadata.xml, locally cached metadata up-to-date.
+[DEBUG] org.xml-cml:ami2:jar:0.1-SNAPSHOT
+[DEBUG]    org.xml-cml:norma:jar:0.1-SNAPSHOT:compile
+[DEBUG]       org.xml-cml:cmine:jar:0.1-SNAPSHOT:compile
+[DEBUG]          org.xml-cml:html:jar:0.2-SNAPSHOT:compile
+[DEBUG]             org.xml-cml:svg:jar:0.2-SNAPSHOT:compile
+[DEBUG]                org.xml-cml:euclid:jar:1.1-SNAPSHOT:compile
+[DEBUG]                   log4j:log4j:jar:1.2.16:compile
+[DEBUG]                   org.apache.commons:commons-math:jar:2.2:compile
+[DEBUG]                   joda-time:joda-time:jar:1.6.2:compile
+[DEBUG]                   xom:xom:jar:1.2.5:compile
+[DEBUG]             xml-apis:xml-apis:jar:1.4.01:compile
+[DEBUG]             jtidy:jtidy:jar:4aug2000r7-dev:compile
+[DEBUG]             org.ccil.cowan.tagsoup:tagsoup:jar:1.2:compile
+[DEBUG]             net.sourceforge.htmlunit:htmlunit:jar:2.15:compile
+[DEBUG]                xalan:xalan:jar:2.7.1:compile
+[DEBUG]                   xalan:serializer:jar:2.7.1:compile
+[DEBUG]                commons-collections:commons-collections:jar:3.2.1:compile
+[DEBUG]                org.apache.commons:commons-lang3:jar:3.3.2:compile
+[DEBUG]                org.apache.httpcomponents:httpclient:jar:4.3.3:compile
+[DEBUG]                   org.apache.httpcomponents:httpcore:jar:4.3.2:compile
+[DEBUG]                org.apache.httpcomponents:httpmime:jar:4.3.3:compile
+[DEBUG]                commons-codec:commons-codec:jar:1.9:compile
+[DEBUG]                net.sourceforge.htmlunit:htmlunit-core-js:jar:2.15:compile
+[DEBUG]                xerces:xercesImpl:jar:2.11.0:compile
+[DEBUG]                net.sourceforge.nekohtml:nekohtml:jar:1.9.21:compile
+[DEBUG]                net.sourceforge.cssparser:cssparser:jar:0.9.14:compile
+[DEBUG]                   org.w3c.css:sac:jar:1.3:compile
+[DEBUG]                commons-logging:commons-logging:jar:1.1.3:compile
+[DEBUG]                org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411:compile
+[DEBUG]                   org.eclipse.jetty:jetty-util:jar:8.1.15.v20140411:compile
+[DEBUG]                   org.eclipse.jetty:jetty-io:jar:8.1.15.v20140411:compile
+[DEBUG]                   org.eclipse.jetty:jetty-http:jar:8.1.15.v20140411:compile
+[DEBUG]          com.google.code.gson:gson:jar:2.3.1:compile
+[DEBUG]       net.sf.saxon:Saxon-HE:jar:9.6.0-3:compile
+[DEBUG]       org.xml-cml:svg2xml:jar:0.1-SNAPSHOT:compile
+[DEBUG]          org.xml-cml:pdf2svg:jar:1.1-SNAPSHOT:compile
+[DEBUG]             org.apache.pdfbox:pdfbox:jar:1.8.8:compile
+[DEBUG]                org.apache.pdfbox:fontbox:jar:1.8.8:compile
+[DEBUG]                org.apache.pdfbox:jempbox:jar:1.8.8:compile
+[DEBUG]             org.bouncycastle:bcprov-jdk16:jar:1.46:compile
+[DEBUG]       org.jsoup:jsoup:jar:1.8.2:compile
+[DEBUG]       xmlunit:xmlunit:jar:1.4:compile
+[DEBUG]    org.xml-cml:diagramanalyzer:jar:0.1-SNAPSHOT:compile
+[DEBUG]       org.xml-cml:javaocrnew:jar:0.1-SNAPSHOT:compile
+[DEBUG]          org.xml-cml:imageanalysis:jar:0.1-SNAPSHOT:compile
+[DEBUG]             org.boofcv:io:jar:0.17:compile
+[DEBUG]                org.ddogleg:ddogleg:jar:0.5:compile
+[DEBUG]                org.boofcv:ip:jar:0.17:compile
+[DEBUG]                com.thoughtworks.xstream:xstream:jar:1.4.7:compile
+[DEBUG]                   xmlpull:xmlpull:jar:1.1.3.1:compile
+[DEBUG]                   xpp3:xpp3_min:jar:1.1.4c:compile
+[DEBUG]                org.georegression:georegression:jar:0.6:compile
+[DEBUG]                com.googlecode.efficient-java-matrix-library:ejml:jar:0.25:compile
+[DEBUG]             org.boofcv:feature:jar:0.17:compile
+[DEBUG]             org.boofcv:visualize:jar:0.17:compile
+[DEBUG]                org.boofcv:recognition:jar:0.17:compile
+[DEBUG]                org.boofcv:sfm:jar:0.17:compile
+[DEBUG]                   org.boofcv:calibration:jar:0.17:compile
+[DEBUG]                org.boofcv:geo:jar:0.17:compile
+[DEBUG]             org.imgscalr:imgscalr-lib:jar:4.2:compile
+[DEBUG]       org.xml-cml:svgbuilder:jar:0.1-SNAPSHOT:compile
+[DEBUG]          com.google.code.findbugs:jsr305:jar:2.0.2:compile
+[DEBUG]    org.apache.lucene:lucene-core:jar:4.10.3:compile
+[DEBUG]    org.apache.lucene:lucene-analyzers-common:jar:4.10.3:compile
+[DEBUG]    com.google.guava:guava:jar:18.0:compile
+[DEBUG]    junit:junit:jar:4.11:test
+[DEBUG]       org.hamcrest:hamcrest-core:jar:1.3:test
+[DEBUG]    blogspot.software-and-algorithms:stern-library:jar:0.1:compile
+[DEBUG]    org.vafer:jdeb:jar:1.3:provided
+[DEBUG]       commons-io:commons-io:jar:2.4:compile
+[DEBUG]       org.apache.commons:commons-compress:jar:1.7:provided
+[DEBUG]          org.tukaani:xz:jar:1.4:provided
+[DEBUG]       org.apache.maven:maven-core:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-model:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-settings:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-settings-builder:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-repository-metadata:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-artifact:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-model-builder:jar:3.2.2:provided
+[DEBUG]          org.apache.maven:maven-aether-provider:jar:3.2.2:provided
+[DEBUG]             org.eclipse.aether:aether-spi:jar:0.9.0.M2:provided
+[DEBUG]          org.eclipse.aether:aether-impl:jar:0.9.0.M2:provided
+[DEBUG]          org.eclipse.aether:aether-api:jar:0.9.0.M2:provided
+[DEBUG]          org.eclipse.aether:aether-util:jar:0.9.0.M2:provided
+[DEBUG]          org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.0.0.M5:provided
+[DEBUG]             javax.enterprise:cdi-api:jar:1.0:provided
+[DEBUG]                javax.annotation:jsr250-api:jar:1.0:provided
+[DEBUG]                javax.inject:javax.inject:jar:1:provided
+[DEBUG]             org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0:provided
+[DEBUG]                aopalliance:aopalliance:jar:1.0:provided
+[DEBUG]             org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.0.0.M5:provided
+[DEBUG]          org.codehaus.plexus:plexus-interpolation:jar:1.19:provided
+[DEBUG]          org.codehaus.plexus:plexus-utils:jar:3.0.17:provided
+[DEBUG]          org.codehaus.plexus:plexus-classworlds:jar:2.5.1:provided
+[DEBUG]          org.codehaus.plexus:plexus-component-annotations:jar:1.5.5:provided
+[DEBUG]          org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:provided
+[DEBUG]             org.sonatype.plexus:plexus-cipher:jar:1.4:provided
+[DEBUG]       org.apache.maven:maven-plugin-api:jar:3.2.2:provided
+[DEBUG]       org.apache.ant:ant:jar:1.9.3:provided
+[DEBUG]          org.apache.ant:ant-launcher:jar:1.9.3:provided
+[DEBUG]       org.bouncycastle:bcpg-jdk15on:jar:1.51:provided
+[DEBUG]          org.bouncycastle:bcprov-jdk15on:jar:1.51:provided
+[DEBUG]    com.jayway.jsonpath:json-path:jar:2.0.0:compile
+[DEBUG]       org.slf4j:slf4j-api:jar:1.7.10:compile
+[DEBUG]       net.minidev:json-smart:jar:2.1.1:compile
+[DEBUG]          net.minidev:asm:jar:1.0.2:compile
+[DEBUG]             asm:asm:jar:3.3.1:compile
+[INFO] 
+[INFO] --- exec-maven-plugin:1.4.0:java (default-cli) @ ami2 ---
+[DEBUG] Created new class realm maven.api
+[DEBUG] Importing foreign packages into class realm maven.api
+[DEBUG]   Imported: org.apache.maven.wagon.events < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.transfer < plexus.core
+[DEBUG]   Imported: org.apache.maven.exception < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.metadata < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.util.xml.Xpp3Dom < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.collection < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.version < plexus.core
+[DEBUG]   Imported: org.apache.maven.monitor < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.repository < plexus.core
+[DEBUG]   Imported: org.apache.maven.repository < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.resource < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.logging < plexus.core
+[DEBUG]   Imported: org.apache.maven.profiles < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.repository < plexus.core
+[DEBUG]   Imported: org.apache.maven.classrealm < plexus.core
+[DEBUG]   Imported: org.apache.maven.execution < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.artifact < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.spi < plexus.core
+[DEBUG]   Imported: org.apache.maven.reporting < plexus.core
+[DEBUG]   Imported: org.apache.maven.usability < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.container < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.component < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.util.xml.pull.XmlSerializer < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.authentication < plexus.core
+[DEBUG]   Imported: org.apache.maven.lifecycle < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.classworlds < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.graph < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.* < plexus.core
+[DEBUG]   Imported: org.apache.maven.settings < plexus.core
+[DEBUG]   Imported: org.codehaus.classworlds < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.impl < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.* < plexus.core
+[DEBUG]   Imported: org.apache.maven.toolchain < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.deployment < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.observers < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.util.xml.pull.XmlPullParserException < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.util.xml.pull.XmlPullParser < plexus.core
+[DEBUG]   Imported: org.apache.maven.configuration < plexus.core
+[DEBUG]   Imported: org.apache.maven.cli < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.installation < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.context < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.authorization < plexus.core
+[DEBUG]   Imported: org.apache.maven.project < plexus.core
+[DEBUG]   Imported: org.apache.maven.rtinfo < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.lifecycle < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.configuration < plexus.core
+[DEBUG]   Imported: org.apache.maven.artifact < plexus.core
+[DEBUG]   Imported: org.apache.maven.model < plexus.core
+[DEBUG]   Imported: org.apache.maven.* < plexus.core
+[DEBUG]   Imported: org.apache.maven.wagon.proxy < plexus.core
+[DEBUG]   Imported: org.sonatype.aether.resolution < plexus.core
+[DEBUG]   Imported: org.apache.maven.plugin < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.* < plexus.core
+[DEBUG]   Imported: org.codehaus.plexus.personality < plexus.core
+[DEBUG] Populating class realm maven.api
+[DEBUG] org.codehaus.mojo:exec-maven-plugin:jar:1.4.0:
+[DEBUG]    org.apache.maven:maven-toolchain:jar:1.0:compile
+[DEBUG]    org.apache.maven:maven-project:jar:2.2.1:compile
+[DEBUG]       org.apache.maven:maven-settings:jar:2.2.1:compile
+[DEBUG]       org.apache.maven:maven-profile:jar:2.2.1:compile
+[DEBUG]       org.apache.maven:maven-plugin-registry:jar:2.2.1:compile
+[DEBUG]       org.codehaus.plexus:plexus-interpolation:jar:1.11:compile
+[DEBUG]       org.codehaus.plexus:plexus-container-default:jar:1.0-alpha-9-stable-1:compile
+[DEBUG]          junit:junit:jar:4.11:test (scope managed from compile) (version managed from 3.8.1)
+[DEBUG]             org.hamcrest:hamcrest-core:jar:1.3:test
+[DEBUG]    org.apache.maven:maven-model:jar:2.2.1:compile
+[DEBUG]    org.apache.maven:maven-artifact:jar:2.2.1:compile
+[DEBUG]    org.apache.maven:maven-artifact-manager:jar:2.2.1:compile
+[DEBUG]       org.apache.maven:maven-repository-metadata:jar:2.2.1:compile
+[DEBUG]       backport-util-concurrent:backport-util-concurrent:jar:3.1:compile
+[DEBUG]    org.apache.maven:maven-core:jar:2.2.1:compile
+[DEBUG]       org.apache.maven:maven-plugin-parameter-documenter:jar:2.2.1:compile
+[DEBUG]       org.slf4j:slf4j-jdk14:jar:1.5.6:runtime
+[DEBUG]          org.slf4j:slf4j-api:jar:1.5.6:runtime
+[DEBUG]       org.slf4j:jcl-over-slf4j:jar:1.5.6:runtime
+[DEBUG]       org.apache.maven.reporting:maven-reporting-api:jar:2.2.1:compile
+[DEBUG]          org.apache.maven.doxia:doxia-sink-api:jar:1.1:compile
+[DEBUG]          org.apache.maven.doxia:doxia-logging-api:jar:1.1:compile
+[DEBUG]       org.apache.maven:maven-error-diagnostics:jar:2.2.1:compile
+[DEBUG]       commons-cli:commons-cli:jar:1.2:compile
+[DEBUG]       org.apache.maven:maven-plugin-descriptor:jar:2.2.1:compile
+[DEBUG]       org.codehaus.plexus:plexus-interactivity-api:jar:1.0-alpha-4:compile
+[DEBUG]       org.apache.maven:maven-monitor:jar:2.2.1:compile
+[DEBUG]       classworlds:classworlds:jar:1.1:compile
+[DEBUG]       org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:compile
+[DEBUG]          org.sonatype.plexus:plexus-cipher:jar:1.4:compile
+[DEBUG]    org.apache.maven:maven-plugin-api:jar:2.2.1:compile
+[DEBUG]    org.codehaus.plexus:plexus-utils:jar:3.0.20:compile
+[DEBUG]    org.apache.commons:commons-exec:jar:1.3:compile
+[DEBUG] Created new class realm plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0
+[DEBUG] Importing foreign packages into class realm plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0
+[DEBUG]   Imported:  < maven.api
+[DEBUG] Populating class realm plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0
+[DEBUG]   Included: org.codehaus.mojo:exec-maven-plugin:jar:1.4.0
+[DEBUG]   Included: org.codehaus.plexus:plexus-interpolation:jar:1.11
+[DEBUG]   Included: backport-util-concurrent:backport-util-concurrent:jar:3.1
+[DEBUG]   Included: org.slf4j:slf4j-jdk14:jar:1.5.6
+[DEBUG]   Included: org.slf4j:slf4j-api:jar:1.5.6
+[DEBUG]   Included: org.slf4j:jcl-over-slf4j:jar:1.5.6
+[DEBUG]   Included: org.apache.maven.reporting:maven-reporting-api:jar:2.2.1
+[DEBUG]   Included: org.apache.maven.doxia:doxia-sink-api:jar:1.1
+[DEBUG]   Included: org.apache.maven.doxia:doxia-logging-api:jar:1.1
+[DEBUG]   Included: commons-cli:commons-cli:jar:1.2
+[DEBUG]   Included: org.codehaus.plexus:plexus-interactivity-api:jar:1.0-alpha-4
+[DEBUG]   Included: org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3
+[DEBUG]   Included: org.sonatype.plexus:plexus-cipher:jar:1.4
+[DEBUG]   Included: org.codehaus.plexus:plexus-utils:jar:3.0.20
+[DEBUG]   Included: org.apache.commons:commons-exec:jar:1.3
+[DEBUG]   Excluded: org.apache.maven:maven-toolchain:jar:1.0
+[DEBUG]   Excluded: org.apache.maven:maven-project:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-settings:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-profile:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-plugin-registry:jar:2.2.1
+[DEBUG]   Excluded: org.codehaus.plexus:plexus-container-default:jar:1.0-alpha-9-stable-1
+[DEBUG]   Excluded: junit:junit:jar:4.11
+[DEBUG]   Excluded: org.hamcrest:hamcrest-core:jar:1.3
+[DEBUG]   Excluded: org.apache.maven:maven-model:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-artifact:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-artifact-manager:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-repository-metadata:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-core:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-plugin-parameter-documenter:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-error-diagnostics:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-plugin-descriptor:jar:2.2.1
+[DEBUG]   Excluded: org.apache.maven:maven-monitor:jar:2.2.1
+[DEBUG]   Excluded: classworlds:classworlds:jar:1.1
+[DEBUG]   Excluded: org.apache.maven:maven-plugin-api:jar:2.2.1
+[DEBUG] Configuring mojo org.codehaus.mojo:exec-maven-plugin:1.4.0:java from plugin realm ClassRealm[plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0, parent: sun.misc.Launcher$AppClassLoader@24065c4]
+[DEBUG] Configuring mojo 'org.codehaus.mojo:exec-maven-plugin:1.4.0:java' with basic configurator -->
+[DEBUG]   (f) arguments = []
+[DEBUG]   (f) classpathScope = runtime
+[DEBUG]   (f) cleanupDaemonThreads = true
+[DEBUG]   (f) commandlineArgs = ./all-input/ijs.0.006759-0-000.pbm.png all-output/./all-input/ijs.0.006759-0-000.pbm.png
+[DEBUG]   (f) daemonThreadJoinTimeout = 15000
+[DEBUG]   (f) includePluginDependencies = false
+[DEBUG]   (f) includeProjectDependencies = true
+[DEBUG]   (f) keepAlive = false
+[DEBUG]   (f) killAfter = -1
+[DEBUG]   (f) localRepository =        id: local
+      url: file:///home/ross/.m2/repository/
+   layout: none
+
+[DEBUG]   (f) mainClass = org.xmlcml.ami2.plugins.phylotree.RunPhylo
+[DEBUG]   (f) pluginDependencies = [org.codehaus.mojo:exec-maven-plugin:maven-plugin:1.4.0:, org.codehaus.plexus:plexus-interpolation:jar:1.11:compile, backport-util-concurrent:backport-util-concurrent:jar:3.1:compile, org.slf4j:slf4j-jdk14:jar:1.5.6:runtime, org.slf4j:slf4j-api:jar:1.5.6:runtime, org.slf4j:jcl-over-slf4j:jar:1.5.6:runtime, org.apache.maven.reporting:maven-reporting-api:jar:2.2.1:compile, org.apache.maven.doxia:doxia-sink-api:jar:1.1:compile, org.apache.maven.doxia:doxia-logging-api:jar:1.1:compile, commons-cli:commons-cli:jar:1.2:compile, org.codehaus.plexus:plexus-interactivity-api:jar:1.0-alpha-4:compile, org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:compile, org.sonatype.plexus:plexus-cipher:jar:1.4:compile, org.codehaus.plexus:plexus-utils:jar:3.0.20:compile, org.apache.commons:commons-exec:jar:1.3:compile]
+[DEBUG]   (f) project = MavenProject: org.xml-cml:ami2:0.1-SNAPSHOT @ /home/ross/workspace/ami-plugin/pom.xml
+[DEBUG]   (f) remoteRepositories = [       id: ebi-repo
+      url: http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo/
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => never]
+,        id: ebi-repo-snapshots
+      url: http://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo-snapshots/
+   layout: default
+snapshots: [enabled => true, update => interval:7200]
+ releases: [enabled => false, update => daily]
+,        id: ebi-repo-3rd
+      url: http://www.ebi.ac.uk/~maven/m2repo
+   layout: default
+snapshots: [enabled => true, update => daily]
+ releases: [enabled => true, update => daily]
+,        id: ucc-repo
+      url: https://maven.ch.cam.ac.uk/m2repo
+   layout: default
+snapshots: [enabled => true, update => daily]
+ releases: [enabled => true, update => daily]
+,        id: central
+      url: https://repo.maven.apache.org/maven2
+   layout: default
+snapshots: [enabled => false, update => daily]
+ releases: [enabled => true, update => daily]
+]
+[DEBUG]   (f) skip = false
+[DEBUG]   (f) stopUnresponsiveDaemonThreads = false
+[DEBUG] -- end configuration --
+[DEBUG] Invoking : org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()
+[DEBUG] Plugin Dependencies will be excluded.
+[DEBUG] Project Dependencies will be included.
+[DEBUG] Collected project artifacts [org.xml-cml:norma:jar:0.1-SNAPSHOT:compile, org.xml-cml:cmine:jar:0.1-SNAPSHOT:compile, org.xml-cml:html:jar:0.2-SNAPSHOT:compile, org.xml-cml:svg:jar:0.2-SNAPSHOT:compile, org.xml-cml:euclid:jar:1.1-SNAPSHOT:compile, log4j:log4j:jar:1.2.16:compile, org.apache.commons:commons-math:jar:2.2:compile, joda-time:joda-time:jar:1.6.2:compile, xom:xom:jar:1.2.5:compile, xml-apis:xml-apis:jar:1.4.01:compile, jtidy:jtidy:jar:4aug2000r7-dev:compile, org.ccil.cowan.tagsoup:tagsoup:jar:1.2:compile, net.sourceforge.htmlunit:htmlunit:jar:2.15:compile, xalan:xalan:jar:2.7.1:compile, xalan:serializer:jar:2.7.1:compile, commons-collections:commons-collections:jar:3.2.1:compile, org.apache.commons:commons-lang3:jar:3.3.2:compile, org.apache.httpcomponents:httpclient:jar:4.3.3:compile, org.apache.httpcomponents:httpcore:jar:4.3.2:compile, org.apache.httpcomponents:httpmime:jar:4.3.3:compile, commons-codec:commons-codec:jar:1.9:compile, net.sourceforge.htmlunit:htmlunit-core-js:jar:2.15:compile, xerces:xercesImpl:jar:2.11.0:compile, net.sourceforge.nekohtml:nekohtml:jar:1.9.21:compile, net.sourceforge.cssparser:cssparser:jar:0.9.14:compile, org.w3c.css:sac:jar:1.3:compile, commons-logging:commons-logging:jar:1.1.3:compile, org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411:compile, org.eclipse.jetty:jetty-util:jar:8.1.15.v20140411:compile, org.eclipse.jetty:jetty-io:jar:8.1.15.v20140411:compile, org.eclipse.jetty:jetty-http:jar:8.1.15.v20140411:compile, com.google.code.gson:gson:jar:2.3.1:compile, net.sf.saxon:Saxon-HE:jar:9.6.0-3:compile, org.xml-cml:svg2xml:jar:0.1-SNAPSHOT:compile, org.xml-cml:pdf2svg:jar:1.1-SNAPSHOT:compile, org.apache.pdfbox:pdfbox:jar:1.8.8:compile, org.apache.pdfbox:fontbox:jar:1.8.8:compile, org.apache.pdfbox:jempbox:jar:1.8.8:compile, org.bouncycastle:bcprov-jdk16:jar:1.46:compile, org.jsoup:jsoup:jar:1.8.2:compile, xmlunit:xmlunit:jar:1.4:compile, org.xml-cml:diagramanalyzer:jar:0.1-SNAPSHOT:compile, org.xml-cml:javaocrnew:jar:0.1-SNAPSHOT:compile, org.xml-cml:imageanalysis:jar:0.1-SNAPSHOT:compile, org.boofcv:io:jar:0.17:compile, org.ddogleg:ddogleg:jar:0.5:compile, org.boofcv:ip:jar:0.17:compile, com.thoughtworks.xstream:xstream:jar:1.4.7:compile, xmlpull:xmlpull:jar:1.1.3.1:compile, xpp3:xpp3_min:jar:1.1.4c:compile, org.georegression:georegression:jar:0.6:compile, com.googlecode.efficient-java-matrix-library:ejml:jar:0.25:compile, org.boofcv:feature:jar:0.17:compile, org.boofcv:visualize:jar:0.17:compile, org.boofcv:recognition:jar:0.17:compile, org.boofcv:sfm:jar:0.17:compile, org.boofcv:calibration:jar:0.17:compile, org.boofcv:geo:jar:0.17:compile, org.imgscalr:imgscalr-lib:jar:4.2:compile, org.xml-cml:svgbuilder:jar:0.1-SNAPSHOT:compile, com.google.code.findbugs:jsr305:jar:2.0.2:compile, org.apache.lucene:lucene-core:jar:4.10.3:compile, org.apache.lucene:lucene-analyzers-common:jar:4.10.3:compile, com.google.guava:guava:jar:18.0:compile, blogspot.software-and-algorithms:stern-library:jar:0.1:compile, commons-io:commons-io:jar:2.4:compile, com.jayway.jsonpath:json-path:jar:2.0.0:compile, org.slf4j:slf4j-api:jar:1.7.10:compile, net.minidev:json-smart:jar:2.1.1:compile, net.minidev:asm:jar:1.0.2:compile, asm:asm:jar:3.3.1:compile]
+[DEBUG] Collected project classpath [/home/ross/workspace/ami-plugin/target/classes]
+[DEBUG] Adding to classpath : file:/home/ross/workspace/ami-plugin/target/classes/
+[DEBUG] Adding project dependency artifact: norma to classpath
+[DEBUG] Adding project dependency artifact: cmine to classpath
+[DEBUG] Adding project dependency artifact: html to classpath
+[DEBUG] Adding project dependency artifact: svg to classpath
+[DEBUG] Adding project dependency artifact: euclid to classpath
+[DEBUG] Adding project dependency artifact: log4j to classpath
+[DEBUG] Adding project dependency artifact: commons-math to classpath
+[DEBUG] Adding project dependency artifact: joda-time to classpath
+[DEBUG] Adding project dependency artifact: xom to classpath
+[DEBUG] Adding project dependency artifact: xml-apis to classpath
+[DEBUG] Adding project dependency artifact: jtidy to classpath
+[DEBUG] Adding project dependency artifact: tagsoup to classpath
+[DEBUG] Adding project dependency artifact: htmlunit to classpath
+[DEBUG] Adding project dependency artifact: xalan to classpath
+[DEBUG] Adding project dependency artifact: serializer to classpath
+[DEBUG] Adding project dependency artifact: commons-collections to classpath
+[DEBUG] Adding project dependency artifact: commons-lang3 to classpath
+[DEBUG] Adding project dependency artifact: httpclient to classpath
+[DEBUG] Adding project dependency artifact: httpcore to classpath
+[DEBUG] Adding project dependency artifact: httpmime to classpath
+[DEBUG] Adding project dependency artifact: commons-codec to classpath
+[DEBUG] Adding project dependency artifact: htmlunit-core-js to classpath
+[DEBUG] Adding project dependency artifact: xercesImpl to classpath
+[DEBUG] Adding project dependency artifact: nekohtml to classpath
+[DEBUG] Adding project dependency artifact: cssparser to classpath
+[DEBUG] Adding project dependency artifact: sac to classpath
+[DEBUG] Adding project dependency artifact: commons-logging to classpath
+[DEBUG] Adding project dependency artifact: jetty-websocket to classpath
+[DEBUG] Adding project dependency artifact: jetty-util to classpath
+[DEBUG] Adding project dependency artifact: jetty-io to classpath
+[DEBUG] Adding project dependency artifact: jetty-http to classpath
+[DEBUG] Adding project dependency artifact: gson to classpath
+[DEBUG] Adding project dependency artifact: Saxon-HE to classpath
+[DEBUG] Adding project dependency artifact: svg2xml to classpath
+[DEBUG] Adding project dependency artifact: pdf2svg to classpath
+[DEBUG] Adding project dependency artifact: pdfbox to classpath
+[DEBUG] Adding project dependency artifact: fontbox to classpath
+[DEBUG] Adding project dependency artifact: jempbox to classpath
+[DEBUG] Adding project dependency artifact: bcprov-jdk16 to classpath
+[DEBUG] Adding project dependency artifact: jsoup to classpath
+[DEBUG] Adding project dependency artifact: xmlunit to classpath
+[DEBUG] Adding project dependency artifact: diagramanalyzer to classpath
+[DEBUG] Adding project dependency artifact: javaocrnew to classpath
+[DEBUG] Adding project dependency artifact: imageanalysis to classpath
+[DEBUG] Adding project dependency artifact: io to classpath
+[DEBUG] Adding project dependency artifact: ddogleg to classpath
+[DEBUG] Adding project dependency artifact: ip to classpath
+[DEBUG] Adding project dependency artifact: xstream to classpath
+[DEBUG] Adding project dependency artifact: xmlpull to classpath
+[DEBUG] Adding project dependency artifact: xpp3_min to classpath
+[DEBUG] Adding project dependency artifact: georegression to classpath
+[DEBUG] Adding project dependency artifact: ejml to classpath
+[DEBUG] Adding project dependency artifact: feature to classpath
+[DEBUG] Adding project dependency artifact: visualize to classpath
+[DEBUG] Adding project dependency artifact: recognition to classpath
+[DEBUG] Adding project dependency artifact: sfm to classpath
+[DEBUG] Adding project dependency artifact: calibration to classpath
+[DEBUG] Adding project dependency artifact: geo to classpath
+[DEBUG] Adding project dependency artifact: imgscalr-lib to classpath
+[DEBUG] Adding project dependency artifact: svgbuilder to classpath
+[DEBUG] Adding project dependency artifact: jsr305 to classpath
+[DEBUG] Adding project dependency artifact: lucene-core to classpath
+[DEBUG] Adding project dependency artifact: lucene-analyzers-common to classpath
+[DEBUG] Adding project dependency artifact: guava to classpath
+[DEBUG] Adding project dependency artifact: stern-library to classpath
+[DEBUG] Adding project dependency artifact: commons-io to classpath
+[DEBUG] Adding project dependency artifact: json-path to classpath
+[DEBUG] Adding project dependency artifact: slf4j-api to classpath
+[DEBUG] Adding project dependency artifact: json-smart to classpath
+[DEBUG] Adding project dependency artifact: asm to classpath
+[DEBUG] Adding project dependency artifact: asm to classpath
+[DEBUG] joining on thread Thread[org.xmlcml.ami2.plugins.phylotree.RunPhylo.main(),5,org.xmlcml.ami2.plugins.phylotree.RunPhylo]
+[DEBUG] Setting accessibility to true in order to invoke main().
+0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - Process failed to terminate after :60
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/ami-plugin/all-output/./all-input/ijs.0.006759-0-000.pbm.png/ijs.0.006759-0-000.pbm.pbm.png.hocr.html
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/ami-plugin/all-output/./all-input/ijs.0.006759-0-000.pbm.png/ijs.0.006759-0-000.pbm.pbm.png.hocr.hocr
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - failed to create: /home/ross/workspace/ami-plugin/all-output/./all-input/ijs.0.006759-0-000.pbm.png/ijs.0.006759-0-000.pbm.pbm.png.hocr.html or /home/ross/workspace/ami-plugin/all-output/./all-input/ijs.0.006759-0-000.pbm.png/ijs.0.006759-0-000.pbm.pbm.png.hocr.hocr
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - cannot run tesseract
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 9.219s
+[INFO] Finished at: Wed Aug 05 16:48:53 BST 2015
+[INFO] Final Memory: 15M/216M
+[INFO] ------------------------------------------------------------------------
