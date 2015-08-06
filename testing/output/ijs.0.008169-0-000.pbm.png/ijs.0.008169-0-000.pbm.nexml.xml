@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">R/kenella m/brofusus ATCC 29728T (L1 6498)</otu>
+  <otu id="otu2">Sph/hgobacter/Dm spirit/vorum ATCC 33861 T (M58 7 7 8)</otu>
+  <otu id="otu3">Bactem/b’es frag/71’s ATCC 25285T (X83935)</otu>
+  <otu id="otu4">Porphyramonas asacciIam/yt/ca ATCC 25260T (L16490)</otu>
+  <otu id="otu5">Paraprevalella ciara YIT 1 1840T (ABB31896)</otu>
+  <otu id="otu6">Uncultured clone RL386 aa088f06 (DQ797227)</otu>
+  <otu id="otu7">Uncultured clone Cadhufe032m (AY850519)</otu>
+  <otu id="otu8">Uncultured clone 29A-f9 (D0905766)</otu>
+  <otu id="otu9">Uncultured clone SJTU D 02 31 (EF400846)</otu>
+  <otu id="otu10">ParaprevaIella xylanduh/la YIT 1 1 841T (A5331 897)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Uncultured clone CD2 (DO441253)</otu>
+  <otu id="otu13">Uncultured clone AP10K.23 (AM275718)</otu>
+  <otu id="otu14">Uncultured clone MK53 (AY982394)</otu>
+  <otu id="otu15">X ylan/bacter oryzae KBC'!T (ABO78826)</otu>
+  <otu id="otu16">Prevalella melan/hogen/ba ATCC 25845T (L16469)</otu>
+  <otu id="otu17">Hallel/a seregens ATCC 51 272T (X81877)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="7.0" y="65.0"/>
+   <node id="NT1.2" label="NT1.2" x="119.0" y="190.0"/>
+   <node id="NT1.3" label="NT1.3" x="181.0" y="267.0"/>
+   <node id="NT1.4" label="NT1.4" x="202.0" y="65.0" otu="otu1"/>
+   <node id="NT1.5" label="NT1.5" x="236.0" y="374.0"/>
+   <node id="NT1.6" label="NT1.6" x="273.0" y="15.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="307.0" y="247.0"/>
+   <node id="NT1.8" label="NT1.8" x="332.0" y="503.0"/>
+   <node id="NT1.9" label="NT1.9" x="332.0" y="282.0"/>
+   <node id="NT1.10" label="NT1.10" x="380.0" y="162.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="398.0" y="615.0"/>
+   <node id="NT1.12" label="NT1.12" x="399.0" y="113.0" otu="otu4"/>
+   <node id="NT1.13" x="403.0" y="528.0" label="58"/>
+   <node id="NT1.14" x="403.0" y="746.0" label="43"/>
+   <node id="NT1.15" x="404.0" y="637.0" label="67"/>
+   <node id="NT1.16" label="NT1.16" x="407.0" y="600.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="409.0" y="503.0" otu="otu6"/>
+   <node id="NT1.18" x="411.0" y="394.0" label="100"/>
+   <node id="NT1.19" label="NT1.19" x="413.0" y="746.0" otu="otu7"/>
+   <node id="NT1.20" label="NT1.20" x="415.0" y="551.0" otu="otu8"/>
+   <node id="NT1.21" label="NT1.21" x="415.0" y="795.0" otu="otu9"/>
+   <node id="NT1.22" x="415.0" y="672.0" label="86"/>
+   <node id="NT1.23" x="416.0" y="429.0" label="100"/>
+   <node id="NT1.24" label="NT1.24" x="417.0" y="405.0" otu="otu10"/>
+   <node id="NT1.25" label="NT1.25" x="417.0" y="455.0" otu="otu11"/>
+   <node id="NT1.26" label="NT1.26" x="421.0" y="698.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="422.0" y="356.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="425.0" y="649.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="470.0" y="210.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="476.0" y="308.0" otu="otu16"/>
+   <node id="NT1.31" label="NT1.31" x="494.0" y="259.0" otu="otu17"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

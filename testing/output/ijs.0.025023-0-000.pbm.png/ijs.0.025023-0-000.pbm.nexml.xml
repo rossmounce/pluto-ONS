@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Haloferax volcanii ATCC 29605T (K00421)</otu>
+  <otu id="otu2">Strain TBN37T (G0282525)</otu>
+  <otu id="otu3">Halop/anus natans JCM 14081 T (AB477975)</otu>
+  <otu id="otu4">Halogeometricum borinquense PR 3T (AF002984)</otu>
+  <otu id="otu5">Halop/anus vescus ROS-8T (EU931578)</otu>
+  <otu id="otu6">Halosarcina pallida JCM 14848T (AB477980)</otu>
+  <otu id="otu7">Halorubrum saccharovorum JCM 8865T (U1 7364)</otu>
+  <otu id="otu8">Halorubrum litoreum Fa—1 T (EFO28067)</otu>
+  <otu id="otu9">Haloquadratum walsbyi 023T (AY676200)</otu>
+  <otu id="otu10">Methanospirillum hungatei JF-1 T (NC_OO7 796)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="224.0" y="183.0"/>
+   <node id="NT1.2" label="NT1.2" x="255.0" y="113.0"/>
+   <node id="NT1.3" label="NT1.3" x="261.0" y="251.0"/>
+   <node id="NT1.4" label="NT1.4" x="298.0" y="286.0"/>
+   <node id="NT1.5" label="NT1.5" x="366.0" y="68.0"/>
+   <node id="NT1.6" label="NT1.6" x="367.0" y="317.0"/>
+   <node id="NT1.7" x="376.0" y="38.0" label="BO"/>
+   <node id="NT1.8" label="NT1.8" x="383.0" y="217.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="404.0" y="97.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="411.0" y="16.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="413.0" y="298.0" otu="otu4"/>
+   <node id="NT1.12" x="413.0" y="156.0" label="100"/>
+   <node id="NT1.13" label="NT1.13" x="414.0" y="57.0" otu="otu5"/>
+   <node id="NT1.14" label="NT1.14" x="424.0" y="338.0" otu="otu6"/>
+   <node id="NT1.15" label="NT1.15" x="481.0" y="177.0" otu="otu7"/>
+   <node id="NT1.16" label="NT1.16" x="485.0" y="137.0" otu="otu8"/>
+   <node id="NT1.17" label="NT1.17" x="490.0" y="257.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="490.0" y="378.0" otu="otu10"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

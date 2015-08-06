@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Streptomyces malachitospinus NBRC 101004T (ABQ49954)</otu>
+  <otu id="otu5">Streptomyces tendae ATCC 1981 2T (D63873)</otu>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8">Streptomyces Violaceorubidus LMG 2031 QT (AJ781374)</otu>
+  <otu id="otu9">Streptomyces rubrogriseus LMG 2031 ST (AJ781373)</otu>
+  <otu id="otu10">Streptomyces parvulus NBRC 131 QST (AB1 84326)</otu>
+  <otu id="otu11">Streptomyces pactum NBRC 13433T (AB184398)</otu>
+  <otu id="otu12">Streptomyces olivaceus NBRC 12805T (ABQ49920)</otu>
+  <otu id="otu13">Streptomyces aurantiogriseus NRRL B-5416T (AY999773)</otu>
+  <otu id="otu14">Streptomyces lienomycini LMG 20091T (AJ781353)</otu>
+  <otu id="otu15">Streptomyces tritolerans DAS 1 GST (D0345779)</otu>
+  <otu id="otu16">Streptomyces violaceolatus DSM 40438T (AF503497)</otu>
+  <otu id="otu17">Streptomyces humiferus DSM 43030T (AF503491)</otu>
+  <otu id="otu18">Streptomyces lomondensis NBRC 15426T (AB184673)</otu>
+  <otu id="otu19">Strain OU-40T (FM998652)</otu>
+  <otu id="otu20">Streptomyces cacaoi subsp. cacaoi KCTC 9758T (AY999819)</otu>
+  <otu id="otu21">Streptomyces marokkonensis Ap1T (AJ965470)</otu>
+  <otu id="otu22">Streptomyces viridodiastaticus NBRC 13106T (AB18431 7)</otu>
+  <otu id="otu23">Streptomyces albogriseolus NRRL B-1305T (AJ494865)</otu>
+  <otu id="otu24">Streptomyces Iuteogriseus NBRC 13402T (AB184379)</otu>
+  <otu id="otu25">Streptomyces pilosus NBRC 12807T(AB184161)</otu>
+  <otu id="otu26">Streptomyces f/avoviridis NBRC 12772T (AB184842)</otu>
+  <otu id="otu27">Streptomyces diastaticus subsp. ardesiacus NRRL B—1 773T (D0026631)</otu>
+  <otu id="otu28">Streptomyces spinoverrucosus NBRC 14228T (AB184578)</otu>
+  <otu id="otu29">Streptomyces calvus ISP 5010T (AY999780)</otu>
+  <otu id="otu30">Streptomyces asterosporus NRRL B—24328T (AY999902)</otu>
+  <otu id="otu31">Streptomyces atrovirens NRRL B—16357T(D0026672)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="30.0" y="450.0"/>
+   <node id="NT1.2" x="48.0" y="379.0" label="‘46"/>
+   <node id="NT1.3" label="NT1.3" x="49.0" y="458.0" otu="otu1"/>
+   <node id="NT1.4" label="NT1.4" x="49.0" y="449.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="52.0" y="457.0"/>
+   <node id="NT1.6" label="NT1.6" x="61.0" y="447.0"/>
+   <node id="NT1.7" label="NT1.7" x="77.0" y="322.0"/>
+   <node id="NT1.8" label="NT1.8" x="116.0" y="700.0"/>
+   <node id="NT1.9" label="NT1.9" x="118.0" y="705.0"/>
+   <node id="NT1.10" x="118.0" y="693.0" label="*84"/>
+   <node id="NT1.11" label="NT1.11" x="122.0" y="698.0" otu="otu3"/>
+   <node id="NT1.12" label="NT1.12" x="122.0" y="269.0"/>
+   <node id="NT1.13" label="NT1.13" x="123.0" y="518.0" otu="otu4"/>
+   <node id="NT1.14" x="125.0" y="698.0" label="*84"/>
+   <node id="NT1.15" label="NT1.15" x="127.0" y="601.0"/>
+   <node id="NT1.16" label="NT1.16" x="129.0" y="591.0"/>
+   <node id="NT1.17" label="NT1.17" x="131.0" y="554.0" otu="otu5"/>
+   <node id="NT1.18" label="NT1.18" x="133.0" y="706.0" otu="otu6"/>
+   <node id="NT1.19" label="NT1.19" x="133.0" y="697.0" otu="otu7"/>
+   <node id="NT1.20" label="NT1.20" x="135.0" y="705.0"/>
+   <node id="NT1.21" label="NT1.21" x="137.0" y="201.0"/>
+   <node id="NT1.22" label="NT1.22" x="140.0" y="802.0"/>
+   <node id="NT1.23" label="NT1.23" x="142.0" y="769.0"/>
+   <node id="NT1.24" label="NT1.24" x="143.0" y="146.0"/>
+   <node id="NT1.25" label="NT1.25" x="146.0" y="627.0" otu="otu8"/>
+   <node id="NT1.26" label="NT1.26" x="148.0" y="709.0"/>
+   <node id="NT1.27" label="NT1.27" x="150.0" y="865.0"/>
+   <node id="NT1.28" label="NT1.28" x="151.0" y="807.0" otu="otu9"/>
+   <node id="NT1.29" label="NT1.29" x="154.0" y="373.0" otu="otu10"/>
+   <node id="NT1.30" label="NT1.30" x="155.0" y="462.0"/>
+   <node id="NT1.31" label="NT1.31" x="156.0" y="445.0" otu="otu11"/>
+   <node id="NT1.32" label="NT1.32" x="156.0" y="483.0" otu="otu12"/>
+   <node id="NT1.33" label="NT1.33" x="161.0" y="255.0"/>
+   <node id="NT1.34" x="176.0" y="681.0" label="*84"/>
+   <node id="NT1.35" label="NT1.35" x="177.0" y="662.0" otu="otu13"/>
+   <node id="NT1.36" label="NT1.36" x="177.0" y="700.0" otu="otu14"/>
+   <node id="NT1.37" label="NT1.37" x="191.0" y="591.0" otu="otu15"/>
+   <node id="NT1.38" label="NT1.38" x="193.0" y="925.0"/>
+   <node id="NT1.39" label="NT1.39" x="198.0" y="97.0"/>
+   <node id="NT1.40" x="213.0" y="863.0" label="‘66"/>
+   <node id="NT1.41" label="NT1.41" x="214.0" y="843.0" otu="otu16"/>
+   <node id="NT1.42" label="NT1.42" x="214.0" y="881.0" otu="otu17"/>
+   <node id="NT1.43" label="NT1.43" x="217.0" y="337.0" otu="otu18"/>
+   <node id="NT1.44" label="NT1.44" x="228.0" y="410.0" otu="otu19"/>
+   <node id="NT1.45" label="NT1.45" x="238.0" y="1061.0" otu="otu20"/>
+   <node id="NT1.46" x="253.0" y="58.0" label="40"/>
+   <node id="NT1.47" label="NT1.47" x="262.0" y="735.0" otu="otu21"/>
+   <node id="NT1.48" label="NT1.48" x="281.0" y="136.0"/>
+   <node id="NT1.49" label="NT1.49" x="282.0" y="119.0" otu="otu22"/>
+   <node id="NT1.50" label="NT1.50" x="282.0" y="157.0" otu="otu23"/>
+   <node id="NT1.51" label="NT1.51" x="288.0" y="229.0" otu="otu24"/>
+   <node id="NT1.52" label="NT1.52" x="307.0" y="29.0"/>
+   <node id="NT1.53" label="NT1.53" x="308.0" y="48.0" otu="otu25"/>
+   <node id="NT1.54" label="NT1.54" x="309.0" y="10.0" otu="otu26"/>
+   <node id="NT1.55" label="NT1.55" x="316.0" y="769.0" otu="otu27"/>
+   <node id="NT1.56" label="NT1.56" x="320.0" y="192.0" otu="otu28"/>
+   <node id="NT1.57" label="NT1.57" x="359.0" y="281.0"/>
+   <node id="NT1.58" label="NT1.58" x="360.0" y="264.0" otu="otu29"/>
+   <node id="NT1.59" label="NT1.59" x="360.0" y="302.0" otu="otu30"/>
+   <node id="NT1.60" label="NT1.60" x="417.0" y="84.0" otu="otu31"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

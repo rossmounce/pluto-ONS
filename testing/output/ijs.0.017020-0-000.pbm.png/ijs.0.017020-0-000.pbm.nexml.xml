@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6">P. corporis ATCC 33547T (L1 6465)</otu>
+  <otu id="otu7">P. tannerae ATCC 51259T (AJ005634)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="9.0" y="807.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="13.0" y="808.0"/>
+   <node id="NT1.3" label="NT1.3" x="89.0" y="807.0"/>
+   <node id="NT1.4" label="NT1.4" x="90.0" y="814.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="111.0" y="421.0"/>
+   <node id="NT1.6" label="NT1.6" x="124.0" y="158.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="125.0" y="162.0"/>
+   <node id="NT1.8" label="NT1.8" x="134.0" y="700.0"/>
+   <node id="NT1.9" label="NT1.9" x="135.0" y="633.0" otu="otu4"/>
+   <node id="NT1.10" label="NT1.10" x="405.0" y="775.0" otu="otu5"/>
+   <node id="NT1.11" label="NT1.11" x="460.0" y="82.0" otu="otu6"/>
+   <node id="NT1.12" label="NT1.12" x="945.0" y="1599.0" otu="otu7"/>
+   <edge source="NT1.7" target="NT1.6"/>
+   <edge source="NT1.8" target="NT1.9"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.8"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.2" target="NT1.12"/>
+   <edge source="NT1.8" target="NT1.10"/>
+   <edge source="NT1.7" target="NT1.11"/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Adhaeribacter aquaticus MBRG1.5T (AJ626894)</otu>
+  <otu id="otu2">Pant/beater actiniarum KMM 6156T (AY989908)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5">Hymenobacter rigui WPCB131T (DQOBQBBQ)</otu>
+  <otu id="otu6">Hymenobacter chitinivorans Tx&lt;31T (Y18837)</otu>
+  <otu id="otu7">Hymenobacter actinoscierus CCUG 39621T (Y17356)</otu>
+  <otu id="otu8">Hymenobacter norwr'chens/s NS/50T (AJ549285)</otu>
+  <otu id="otu9">Hymenobacter psychrotolerans Tibet—I |U1 1T (DQ177475)</otu>
+  <otu id="otu10">Hymenobacter aerophilus |/26—Cor1T (AJ276901)</otu>
+  <otu id="otu11">Hymenobacter soli PB17T (AB251884)</otu>
+  <otu id="otu12">Hymenobacter roseosalivarius AA—718T (Y18833)</otu>
+  <otu id="otu13">Hymenobacter gellpurpurascens T&gt;&lt;g1T (Y18836)</otu>
+  <otu id="otu14">Hymenobacter Xinjiangensis X2-1gT (D0888329)</otu>
+  <otu id="otu15">Flavobacterium aquatile ATCC 11947T (M62797)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="127.0" y="544.0"/>
+   <node id="NT1.2" x="158.0" y="488.0" label="86"/>
+   <node id="NT1.3" x="231.0" y="423.0" label="100"/>
+   <node id="NT1.4" label="NT1.4" x="267.0" y="360.0"/>
+   <node id="NT1.5" label="NT1.5" x="284.0" y="599.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="297.0" y="485.0"/>
+   <node id="NT1.7" label="NT1.7" x="305.0" y="303.0"/>
+   <node id="NT1.8" label="NT1.8" x="317.0" y="232.0"/>
+   <node id="NT1.9" label="NT1.9" x="325.0" y="304.0"/>
+   <node id="NT1.10" x="328.0" y="160.0" label="59"/>
+   <node id="NT1.11" label="NT1.11" x="342.0" y="107.0"/>
+   <node id="NT1.12" label="NT1.12" x="347.0" y="67.0"/>
+   <node id="NT1.13" label="NT1.13" x="361.0" y="33.0"/>
+   <node id="NT1.14" label="NT1.14" x="370.0" y="213.0"/>
+   <node id="NT1.15" label="NT1.15" x="374.0" y="553.0" otu="otu2"/>
+   <node id="NT1.16" label="NT1.16" x="389.0" y="462.0" otu="otu3"/>
+   <node id="NT1.17" label="NT1.17" x="391.0" y="508.0" otu="otu4"/>
+   <node id="NT1.18" label="NT1.18" x="395.0" y="10.0" otu="otu5"/>
+   <node id="NT1.19" label="NT1.19" x="396.0" y="281.0" otu="otu6"/>
+   <node id="NT1.20" label="NT1.20" x="397.0" y="236.0" otu="otu7"/>
+   <node id="NT1.21" label="NT1.21" x="407.0" y="328.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="408.0" y="146.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="420.0" y="191.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="424.0" y="418.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="425.0" y="373.0" otu="otu12"/>
+   <node id="NT1.26" label="NT1.26" x="428.0" y="101.0" otu="otu13"/>
+   <node id="NT1.27" label="NT1.27" x="430.0" y="56.0" otu="otu14"/>
+   <node id="NT1.28" label="NT1.28" x="430.0" y="644.0" otu="otu15"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

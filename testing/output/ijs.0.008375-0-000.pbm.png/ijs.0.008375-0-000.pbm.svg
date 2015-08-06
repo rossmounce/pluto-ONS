@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="139.0" cy="155.0" r="1.0"/>
+    <text stroke="none" x="139.0" y="155.0" font-size="20.0" font-family="helvetica">90</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="158.0" cy="238.0" r="1.0"/>
+    <text stroke="none" x="158.0" y="238.0" font-size="20.0" font-family="helvetica">61</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="167.0" cy="312.0" r="1.0"/>
+    <text stroke="none" x="167.0" y="312.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="180.0" cy="164.0" r="1.0"/>
+    <text stroke="none" x="180.0" y="164.0" font-size="20.0" font-family="helvetica">90</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="195.0" cy="370.0" r="1.0"/>
+    <text stroke="none" x="195.0" y="370.0" font-size="20.0" font-family="helvetica">77</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="203.0" cy="427.0" r="1.0"/>
+    <text stroke="none" x="203.0" y="427.0" font-size="20.0" font-family="helvetica">57</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="222.0" cy="195.0" r="1.0"/>
+    <text stroke="none" x="222.0" y="195.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="231.0" cy="134.0" r="1.0"/>
+    <text stroke="none" x="231.0" y="134.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="243.0" cy="255.0" r="1.0"/>
+    <text stroke="none" x="243.0" y="255.0" font-size="20.0" font-family="helvetica">Comamonas terrigena IMI 359870 (AF078772)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="250.0" cy="374.0" r="1.0"/>
+    <text stroke="none" x="250.0" y="374.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="257.0" cy="314.0" r="1.0"/>
+    <text stroke="none" x="257.0" y="314.0" font-size="20.0" font-family="helvetica"> Comamonas testosteroni ATCC 1 1996T (M1 1 224)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="258.0" cy="14.0" r="1.0"/>
+    <text stroke="none" x="258.0" y="14.0" font-size="20.0" font-family="helvetica">Neisseria gonorrhoeae NCTC 83785T (X0771 4)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="265.0" cy="74.0" r="1.0"/>
+    <text stroke="none" x="265.0" y="74.0" font-size="20.0" font-family="helvetica">Comamonas bad/a IAM 14839T (AB164432)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="269.0" cy="479.0" r="1.0"/>
+    <text stroke="none" x="269.0" y="479.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="279.0" cy="524.0" r="1.0"/>
+    <text stroke="none" x="279.0" y="524.0" font-size="10.0" font-family="helvetica">NT1.15</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="280.0" cy="556.0" r="1.0"/>
+    <text stroke="none" x="280.0" y="556.0" font-size="20.0" font-family="helvetica">Strain 332T (EU888308)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="283.0" cy="494.0" r="1.0"/>
+    <text stroke="none" x="283.0" y="494.0" font-size="20.0" font-family="helvetica">Delftia tsuruhatensis T7T (ABO7501 7)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="295.0" cy="435.0" r="1.0"/>
+    <text stroke="none" x="295.0" y="435.0" font-size="20.0" font-family="helvetica"> Delftia acidovorans IAM 1 2409T (AB02141 7)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1.0" cy="84.0" r="1.0"/>
+    <text stroke="none" x="1.0" y="84.0" font-size="10.0" font-family="helvetica">NT1.19</text>
+   </g>
+   <line stroke="black" x1="265.0" y1="74.0" x2="139.0" y2="155.0" stroke-width="0.5"/>
+   <line stroke="black" x1="222.0" y1="195.0" x2="180.0" y2="164.0" stroke-width="0.5"/>
+   <line stroke="black" x1="231.0" y1="134.0" x2="180.0" y2="164.0" stroke-width="0.5"/>
+   <line stroke="black" x1="243.0" y1="255.0" x2="167.0" y2="312.0" stroke-width="0.5"/>
+   <line stroke="black" x1="257.0" y1="314.0" x2="195.0" y2="370.0" stroke-width="0.5"/>
+   <line stroke="black" x1="250.0" y1="374.0" x2="203.0" y2="427.0" stroke-width="0.5"/>
+   <line stroke="black" x1="295.0" y1="435.0" x2="269.0" y2="479.0" stroke-width="0.5"/>
+   <line stroke="black" x1="283.0" y1="494.0" x2="279.0" y2="524.0" stroke-width="0.5"/>
+   <line stroke="black" x1="280.0" y1="556.0" x2="279.0" y2="524.0" stroke-width="0.5"/>
+   <line stroke="black" x1="139.0" y1="155.0" x2="158.0" y2="238.0" stroke-width="0.5"/>
+   <line stroke="black" x1="158.0" y1="238.0" x2="167.0" y2="312.0" stroke-width="0.5"/>
+   <line stroke="black" x1="158.0" y1="238.0" x2="180.0" y2="164.0" stroke-width="0.5"/>
+   <line stroke="black" x1="167.0" y1="312.0" x2="195.0" y2="370.0" stroke-width="0.5"/>
+   <line stroke="black" x1="195.0" y1="370.0" x2="203.0" y2="427.0" stroke-width="0.5"/>
+   <line stroke="black" x1="203.0" y1="427.0" x2="269.0" y2="479.0" stroke-width="0.5"/>
+   <line stroke="black" x1="269.0" y1="479.0" x2="279.0" y2="524.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1.0" y1="84.0" x2="258.0" y2="14.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1.0" y1="84.0" x2="139.0" y2="155.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

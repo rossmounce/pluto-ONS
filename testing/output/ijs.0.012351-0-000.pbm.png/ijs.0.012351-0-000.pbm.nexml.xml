@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">lll'rg/baCIY/us koreens/s B H 300 9 7T (AY6 1 601 2)</otu>
+  <otu id="otu3">BIB V/bacﬂ/us /aterasporus DSM 25T (A B1 1 2 7 20)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="492.0" y="743.0" label="100"/>
+   <node id="NT1.2" label="NT1.2" x="546.0" y="646.0" otu="otu1"/>
+   <node id="NT1.3" label="NT1.3" x="590.0" y="1003.0" otu="otu2"/>
+   <node id="NT1.4" label="NT1.4" x="812.0" y="840.0" otu="otu3"/>
+   <node id="NT1.5" label="NT1.5" x="2.0" y="873.0" root="true"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.1" target="NT1.4"/>
+   <edge source="NT1.5" target="NT1.3"/>
+   <edge source="NT1.5" target="NT1.1"/>
+  </tree>
+ </trees>
+</nexml>

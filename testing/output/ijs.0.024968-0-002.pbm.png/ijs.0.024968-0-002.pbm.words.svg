@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <svg font-family="helvetica" font-size="10.0" tesseractVersion="tesseract 3.03">
+  <g class="wordPageList">
+   <g class="wordPage" id="page_1">
+    <g class="wordBlock" id="block_1_1">
+     <g class="para" id="par_1_1">
+      <g id="line_1_1" baseline="(0.0,15.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="0.0" y="446.0" width="8.0" height="192.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_1"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_2">
+     <g class="para" id="par_1_2">
+      <g id="line_1_2" baseline="(0.0,0.0)" font-size="16.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="41.0" y="21.0" width="43.0" height="16.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_2" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="41.0" y="21.0" width="43.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="41.0" y="37.0" font-style="italic">0.05</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_3">
+     <g class="para" id="par_1_3">
+      <g class="line" id="line_1_3"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_4">
+     <g class="para" id="par_1_4">
+      <g class="line" id="line_1_4"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_5">
+     <g class="para" id="par_1_5">
+      <g id="line_1_5" baseline="(0.003,-9.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="417.0" y="2.0" width="631.0" height="30.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_5" class="word" x_wconf="91">
+        <rect stroke="black" stroke-width="1.0" x="417.0" y="7.0" width="37.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="417.0" y="23.0">100</text>
+       </g>
+       <g id="word_1_6" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="470.0" y="5.0" width="138.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="470.0" y="23.9" font-style="italic">Thiodictyon</text>
+       </g>
+       <g id="word_1_7" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="618.0" y="5.0" width="131.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="618.0" y="26.0" font-style="italic">bacillosum</text>
+       </g>
+       <g id="word_1_8" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="760.0" y="5.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="760.0" y="26.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_9" class="word" x_wconf="72">
+        <rect stroke="black" stroke-width="1.0" x="831.0" y="2.0" width="217.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="831.0" y="21.599999999999998" font-style="italic">234T(EF641915)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_6">
+      <g id="line_1_6" baseline="(-0.002,-5.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="470.0" y="35.0" width="609.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_10" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="470.0" y="37.0" width="121.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="470.0" y="55.9" font-style="italic">Thiocapsa</text>
+       </g>
+       <g id="word_1_11" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="601.0" y="37.0" width="178.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="601.0" y="55.9" font-style="italic">roseopersicina</text>
+       </g>
+       <g id="word_1_12" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="790.0" y="37.0" width="58.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="790.0" y="59.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_13" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="861.0" y="38.0" width="25.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="861.0" y="58.0">21</text>
+       </g>
+       <g id="word_1_14" class="word" x_wconf="91">
+        <rect stroke="black" stroke-width="1.0" x="895.0" y="35.0" width="25.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="895.0" y="58.0" font-style="italic">7T</text>
+       </g>
+       <g id="word_1_15" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="929.0" y="35.0" width="84.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="929.0" y="53.9" font-style="italic">(EF641</text>
+       </g>
+       <g id="word_1_16" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="1022.0" y="35.0" width="57.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="1022.0" y="53.9" font-style="italic">907)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_7">
+      <g id="line_1_7" baseline="(0.0,-6.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="478.0" y="68.0" width="526.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_17" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="478.0" y="70.0" width="118.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="478.0" y="88.9" font-style="italic">Thiocystis</text>
+       </g>
+       <g id="word_1_18" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="608.0" y="70.0" width="96.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="608.0" y="91.0" font-style="italic">violacea</text>
+       </g>
+       <g id="word_1_19" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="716.0" y="70.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="716.0" y="91.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_20" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="786.0" y="68.0" width="59.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="786.0" y="91.0" font-style="italic">207T</text>
+       </g>
+       <g id="word_1_21" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="854.0" y="68.0" width="118.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="854.0" y="86.9" font-style="italic">(EF64191</text>
+       </g>
+       <g id="word_1_22" class="word" x_wconf="96">
+        <rect stroke="black" stroke-width="1.0" x="982.0" y="68.0" width="22.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="982.0" y="86.9" font-style="italic">2)</text>
+       </g>
+      </g>
+      <g id="line_1_8" baseline="(0.0,-4.0)" font-size="28.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="562.0" y="100.0" width="620.0" height="28.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_23" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="562.0" y="103.0" width="209.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="562.0" y="124.0" font-style="italic">Th/orhodococcus</text>
+       </g>
+       <g id="word_1_24" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="781.0" y="103.0" width="70.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="27.3" x="781.0" y="124.0" font-style="italic">minor</text>
+       </g>
+       <g id="word_1_25" class="word" x_wconf="92">
+        <rect stroke="black" stroke-width="1.0" x="860.0" y="103.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="860.0" y="124.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_26" class="word" x_wconf="97">
+        <rect stroke="black" stroke-width="1.0" x="931.0" y="104.0" width="7.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="931.0" y="124.0" font-style="italic">1</text>
+       </g>
+       <g id="word_1_27" class="word" x_wconf="68">
+        <rect stroke="black" stroke-width="1.0" x="948.0" y="100.0" width="234.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="948.0" y="119.6" font-style="italic">1518T(EF641913)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_8">
+      <g id="line_1_9" baseline="(-0.002,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="352.0" y="133.0" width="555.0" height="30.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_28" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="352.0" y="135.0" width="119.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="352.0" y="154.6" font-style="italic">Th/ocystis</text>
+       </g>
+       <g id="word_1_29" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="483.0" y="135.0" width="125.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="483.0" y="157.0" font-style="italic">violascens</text>
+       </g>
+       <g id="word_1_30" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="619.0" y="135.0" width="58.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="619.0" y="157.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_31" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="690.0" y="133.0" width="58.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="690.0" y="156.0" font-style="italic">198T</text>
+       </g>
+       <g id="word_1_32" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="757.0" y="133.0" width="150.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="757.0" y="152.6" font-style="italic">(EF641910)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_9">
+      <g id="line_1_10" baseline="(0.0,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="368.0" y="165.0" width="551.0" height="30.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_33" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="368.0" y="168.0" width="119.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="368.0" y="186.9" font-style="italic">Thiocystis</text>
+       </g>
+       <g id="word_1_34" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="495.0" y="168.0" width="124.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="495.0" y="186.9" font-style="italic">gelatinosa</text>
+       </g>
+       <g id="word_1_35" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="630.0" y="168.0" width="59.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="630.0" y="189.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_36" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="701.0" y="165.0" width="59.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="701.0" y="189.0" font-style="italic">215T</text>
+       </g>
+       <g id="word_1_37" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="769.0" y="166.0" width="118.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="769.0" y="184.9" font-style="italic">(EF64191</text>
+       </g>
+       <g id="word_1_38" class="word" x_wconf="94">
+        <rect stroke="black" stroke-width="1.0" x="897.0" y="166.0" width="22.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="897.0" y="184.9">1)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_10">
+      <g id="line_1_11" baseline="(0.0,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="376.0" y="198.0" width="536.0" height="30.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_39" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="376.0" y="201.0" width="121.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="376.0" y="219.9" font-style="italic">Thiocapsa</text>
+       </g>
+       <g id="word_1_40" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="506.0" y="201.0" width="106.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="506.0" y="219.9" font-style="italic">pendens</text>
+       </g>
+       <g id="word_1_41" class="word" x_wconf="92">
+        <rect stroke="black" stroke-width="1.0" x="623.0" y="201.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="623.0" y="222.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_42" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="694.0" y="198.0" width="58.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="694.0" y="222.0" font-style="italic">286T</text>
+       </g>
+       <g id="word_1_43" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="761.0" y="199.0" width="151.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="761.0" y="217.9" font-style="italic">(EF641914)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_11">
+      <g id="line_1_12" baseline="(0.0,-6.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="382.0" y="231.0" width="594.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_44" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="382.0" y="233.0" width="160.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="382.0" y="251.9" font-style="italic">Lamprocystis</text>
+       </g>
+       <g id="word_1_45" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="550.0" y="240.0" width="108.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="15.384615384615383" x="550.0" y="254.0" font-style="italic">purpurea</text>
+       </g>
+       <g id="word_1_46" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="670.0" y="233.0" width="59.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="670.0" y="254.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_47" class="word" x_wconf="72">
+        <rect stroke="black" stroke-width="1.0" x="740.0" y="231.0" width="236.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="740.0" y="249.9" font-style="italic">4197T(EF641909)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_12">
+      <g id="line_1_13" baseline="(0.0,-4.0)" font-size="27.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="446.0" y="264.0" width="479.0" height="27.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_48" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="446.0" y="266.0" width="103.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="446.0" y="287.0" font-style="italic">ThiothriX</text>
+       </g>
+       <g id="word_1_49" class="word" x_wconf="78">
+        <rect stroke="black" stroke-width="1.0" x="557.0" y="266.0" width="62.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="557.0" y="287.0" font-style="italic">nillea</text>
+       </g>
+       <g id="word_1_50" class="word" x_wconf="93">
+        <rect stroke="black" stroke-width="1.0" x="630.0" y="266.0" width="59.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="630.0" y="287.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_51" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="700.0" y="267.0" width="64.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="700.0" y="287.0" font-style="italic">5205</text>
+       </g>
+       <g id="word_1_52" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="774.0" y="264.0" width="151.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="774.0" y="282.9" font-style="italic">(EF641919)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_13">
+      <g id="line_1_14" baseline="(0.0,-7.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="391.0" y="297.0" width="451.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_53" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="391.0" y="300.0" width="37.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="391.0" y="316.0" font-style="italic">100</text>
+       </g>
+       <g id="word_1_54" class="word" x_wconf="75">
+        <rect stroke="black" stroke-width="1.0" x="446.0" y="299.0" width="103.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="446.0" y="320.0" font-style="italic">Thiothrix</text>
+       </g>
+       <g id="word_1_55" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="556.0" y="306.0" width="33.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="15.384615384615383" x="556.0" y="320.0" font-style="italic">Sp.</text>
+       </g>
+       <g id="word_1_56" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="603.0" y="300.0" width="79.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="24.700000000000003" x="603.0" y="319.0">12730</text>
+       </g>
+       <g id="word_1_57" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="692.0" y="297.0" width="150.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="692.0" y="315.9" font-style="italic">(EF641918)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_14">
+      <g id="line_1_15" baseline="(-0.002,-5.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="335.0" y="329.0" width="598.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_58" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="335.0" y="331.0" width="143.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="335.0" y="353.0" font-style="italic">Thiobacillus</text>
+       </g>
+       <g id="word_1_59" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="487.0" y="331.0" width="130.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="487.0" y="349.9" font-style="italic">aquaesulis</text>
+       </g>
+       <g id="word_1_60" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="627.0" y="331.0" width="59.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="627.0" y="353.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_61" class="word" x_wconf="73">
+        <rect stroke="black" stroke-width="1.0" x="697.0" y="329.0" width="236.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="697.0" y="347.9" font-style="italic">4255T(EF641916)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_15">
+      <g id="line_1_16" baseline="(0.0,-4.0)" font-size="28.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="397.0" y="361.0" width="667.0" height="28.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_62" class="word" x_wconf="73">
+        <rect stroke="black" stroke-width="1.0" x="397.0" y="364.0" width="135.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="397.0" y="385.0" font-style="italic">SulfuricelIa</text>
+       </g>
+       <g id="word_1_63" class="word" x_wconf="75">
+        <rect stroke="black" stroke-width="1.0" x="543.0" y="364.0" width="147.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="543.0" y="385.0" font-style="italic">denitrificans</text>
+       </g>
+       <g id="word_1_64" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="701.0" y="364.0" width="77.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="701.0" y="385.0">NBRC</text>
+       </g>
+       <g id="word_1_65" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="791.0" y="361.0" width="108.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="791.0" y="385.0" font-style="italic">105220T</text>
+       </g>
+       <g id="word_1_66" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="908.0" y="362.0" width="156.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="908.0" y="380.9" font-style="italic">(A8506457)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_6">
+     <g class="para" id="par_1_16">
+      <g class="line" id="line_1_17"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_7">
+     <g class="para" id="par_1_17">
+      <g id="line_1_18" baseline="(0.0,0.0)" font-size="16.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="343.0" y="60.0" width="25.0" height="16.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_68" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="343.0" y="60.0" width="25.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="343.0" y="76.0" font-style="italic">85</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_8">
+     <g class="para" id="par_1_18">
+      <g class="line" id="line_1_19"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_9">
+     <g class="para" id="par_1_19">
+      <g id="line_1_20" baseline="(0.0,535.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="310.0" y="78.0" width="68.0" height="40.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_70"/>
+      </g>
+      <g id="line_1_21" baseline="(0.0,-32.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="216.0" y="118.0" width="152.0" height="92.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_71"/>
+      </g>
+      <g id="line_1_22" baseline="(0.0,0.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="176.0" y="210.0" width="265.0" height="105.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_72"/>
+      </g>
+      <g id="line_1_23" baseline="(0.0,313.0)" font-size="25.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="216.0" y="315.0" width="112.0" height="25.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_73"/>
+      </g>
+      <g id="line_1_24" baseline="(0.0,-33.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="216.0" y="340.0" width="112.0" height="67.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_74"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_10">
+     <g class="para" id="par_1_20">
+      <g id="line_1_25" baseline="(-0.001,-52.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="242.0" y="394.0" width="772.0" height="76.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_75" class="word" x_wconf="72">
+        <rect stroke="black" stroke-width="1.0" x="242.0" y="414.0" width="25.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="242.0" y="429.0" font-style="italic">54</text>
+       </g>
+       <g id="word_1_76" class="word" x_wconf="49">
+        <rect stroke="black" x="274.0" y="406.0" width="83.0" height="64.0" fill="green" opacity="0.2" stroke-width="3.0"/>
+        <text font-size="39.0" x="274.0" y="436.0" opacity="0.343" fill="red" font-style="bold">{</text>
+       </g>
+       <g id="word_1_77" class="word" x_wconf="77">
+        <rect stroke="black" stroke-width="1.0" x="366.0" y="396.0" width="152.0" height="22.0" opacity="0.2" fill="pink"/>
+        <text font-size="22.0" x="366.0" y="418.0" font-style="italic">‘Thiobacillus</text>
+       </g>
+       <g id="word_1_78" class="word" x_wconf="74">
+        <rect stroke="black" stroke-width="1.0" x="526.0" y="396.0" width="170.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="526.0" y="414.9" font-style="italic">p/umbophilus’</text>
+       </g>
+       <g id="word_1_79" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="708.0" y="396.0" width="59.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="708.0" y="418.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_80" class="word" x_wconf="72">
+        <rect stroke="black" stroke-width="1.0" x="778.0" y="394.0" width="236.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="778.0" y="412.9" font-style="italic">6690T(EF641917)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_11">
+     <g class="para" id="par_1_21">
+      <g id="line_1_26" baseline="(0.0,-4.0)" font-size="27.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="352.0" y="427.0" width="589.0" height="27.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_81" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="352.0" y="429.0" width="143.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="352.0" y="450.0" font-style="italic">Th/obacillus</text>
+       </g>
+       <g id="word_1_82" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="506.0" y="429.0" width="147.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="506.0" y="450.0" font-style="italic">den/trificans</text>
+       </g>
+       <g id="word_1_83" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="664.0" y="429.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="664.0" y="450.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_84" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="733.0" y="430.0" width="47.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="733.0" y="450.0" font-style="italic">807</text>
+       </g>
+       <g id="word_1_85" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="791.0" y="427.0" width="150.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="791.0" y="445.9" font-style="italic">(EF641922)</text>
+       </g>
+      </g>
+     </g>
+     <g class="para" id="par_1_22">
+      <g id="line_1_27" baseline="(-0.002,-9.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="302.0" y="459.0" width="653.0" height="33.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_86" class="word" x_wconf="66">
+        <rect stroke="black" stroke-width="1.0" x="302.0" y="476.0" width="24.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="302.0" y="492.0" font-style="italic">62</text>
+       </g>
+       <g id="word_1_87" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="391.0" y="462.0" width="143.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="391.0" y="483.0" font-style="italic">Thiobacillus</text>
+       </g>
+       <g id="word_1_88" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="545.0" y="462.0" width="111.0" height="26.0" fill="green" opacity="0.2"/>
+        <text font-size="20.0" x="545.0" y="480.2" font-style="italic">thioparus</text>
+       </g>
+       <g id="word_1_89" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="667.0" y="462.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="667.0" y="483.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_90" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="736.0" y="459.0" width="60.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="736.0" y="482.0" font-style="italic">505T</text>
+       </g>
+       <g id="word_1_91" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="805.0" y="460.0" width="150.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="805.0" y="478.9" font-style="italic">(EF641920)</text>
+       </g>
+      </g>
+      <g id="line_1_28" baseline="(-0.002,-23.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="333.0" y="471.0" width="647.0" height="68.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_92" class="word" x_wconf="44">
+        <rect stroke="black" x="333.0" y="471.0" width="202.0" height="68.0" opacity="0.2" fill="pink" stroke-width="3.0"/>
+        <text font-size="30.0" x="333.0" y="501.0" opacity="0.308" fill="red" font-style="italic">ELThiobacillus</text>
+       </g>
+       <g id="word_1_93" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="545.0" y="494.0" width="147.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="545.0" y="516.0" font-style="italic">denitrificans</text>
+       </g>
+       <g id="word_1_94" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="703.0" y="494.0" width="58.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="703.0" y="516.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_95" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="774.0" y="496.0" width="46.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="24.700000000000003" x="774.0" y="515.0" font-style="italic">739</text>
+       </g>
+       <g id="word_1_96" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="830.0" y="492.0" width="150.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="830.0" y="511.6" font-style="italic">(EF641923)</text>
+       </g>
+      </g>
+      <g id="line_1_29" baseline="(0.0,-4.0)" font-size="28.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="343.0" y="524.0" width="690.0" height="28.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_97" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="343.0" y="528.0" width="23.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="343.0" y="544.0" font-style="italic">72</text>
+       </g>
+       <g id="word_1_98" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="399.0" y="527.0" width="143.0" height="21.0" opacity="0.2" fill="pink"/>
+        <text font-size="21.0" x="399.0" y="548.0" font-style="italic">Thiobacillus</text>
+       </g>
+       <g id="word_1_99" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="553.0" y="527.0" width="147.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="553.0" y="548.0" font-style="italic">denitrificans</text>
+       </g>
+       <g id="word_1_100" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="711.0" y="527.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="711.0" y="548.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_101" class="word" x_wconf="75">
+        <rect stroke="black" stroke-width="1.0" x="782.0" y="524.0" width="251.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="782.0" y="543.6" font-style="italic">12475T(EF641924)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_12">
+     <g class="para" id="par_1_23">
+      <g class="line" id="line_1_30"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_13">
+     <g class="para" id="par_1_24">
+      <g id="line_1_31" baseline="(0.0,-6.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="375.0" y="558.0" width="375.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_103" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="375.0" y="560.0" width="139.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="375.0" y="578.9" font-style="italic">Th/odictyon</text>
+       </g>
+       <g id="word_1_104" class="word" x_wconf="78">
+        <rect stroke="black" stroke-width="1.0" x="523.0" y="567.0" width="34.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="15.384615384615383" x="523.0" y="581.0" font-style="italic">5p.</text>
+       </g>
+       <g id="word_1_105" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="567.0" y="560.0" width="22.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="567.0" y="581.0" font-style="italic">f4</text>
+       </g>
+       <g id="word_1_106" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="600.0" y="558.0" width="150.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="600.0" y="576.9" font-style="italic">(EF641921)</text>
+       </g>
+      </g>
+      <g id="line_1_32" baseline="(0.002,-7.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="176.0" y="571.0" width="838.0" height="48.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_107" class="word" x_wconf="38">
+        <rect stroke="black" x="176.0" y="571.0" width="196.0" height="43.0" fill="green" opacity="0.2" stroke-width="3.0"/>
+        <text font-size="30.0" x="176.0" y="601.0" opacity="0.266" fill="red" font-style="italic">WI:</text>
+       </g>
+       <g id="word_1_108" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="381.0" y="593.0" width="146.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="381.0" y="614.0" font-style="italic">Sulfuritalea</text>
+       </g>
+       <g id="word_1_109" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="537.0" y="593.0" width="213.0" height="26.0" fill="green" opacity="0.2"/>
+        <text font-size="20.0" x="537.0" y="611.2" font-style="italic">hydrogenivorans</text>
+       </g>
+       <g id="word_1_110" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="760.0" y="590.0" width="94.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="760.0" y="614.0" font-style="italic">sk43HT</text>
+       </g>
+       <g id="word_1_111" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="861.0" y="591.0" width="153.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="861.0" y="609.9" font-style="italic">(A3552843)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_14">
+     <g class="para" id="par_1_25">
+      <g id="line_1_33" baseline="(0.0,-4.0)" font-size="27.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="568.0" y="623.0" width="533.0" height="27.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_112" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="568.0" y="625.0" width="143.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="568.0" y="646.0" font-style="italic">Chlorobium</text>
+       </g>
+       <g id="word_1_113" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="720.0" y="625.0" width="91.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="720.0" y="646.0" font-style="italic">lim/cola</text>
+       </g>
+       <g id="word_1_114" class="word" x_wconf="92">
+        <rect stroke="black" stroke-width="1.0" x="823.0" y="625.0" width="58.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="823.0" y="646.0" font-style="italic">DSM</text>
+       </g>
+       <g id="word_1_115" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="894.0" y="626.0" width="46.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="894.0" y="646.0">257</text>
+       </g>
+       <g id="word_1_116" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="950.0" y="623.0" width="151.0" height="27.0" fill="green" opacity="0.2"/>
+        <text font-size="20.76923076923077" x="950.0" y="641.9" font-style="italic">(EF641903)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </svg>
+</svg>

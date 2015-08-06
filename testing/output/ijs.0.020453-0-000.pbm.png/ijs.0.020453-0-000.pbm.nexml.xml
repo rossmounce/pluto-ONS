@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Spirosoma Iuteum SPM—10T (EF451 726)</otu>
+  <otu id="otu2">Rudanella lutea 57158-1 1T (EF635010)</otu>
+  <otu id="otu3">Spirosoma spitsbergense SPM-QT (EF451 725)</otu>
+  <otu id="otu4">Spirosoma panaciterrae Gsoil 1519T(EU370956)</otu>
+  <otu id="otu5">Spirosoma linguale LMG 10896T (AMOOOO23)</otu>
+  <otu id="otu6">Larkinella bovis M2T2B15T (G0246692)</otu>
+  <otu id="otu7">Spirosoma rigui WPCB1 18T (EF507900)</otu>
+  <otu id="otu8">Larkinella insperata LMG 2251 OT (AMOOOO22)</otu>
+  <otu id="otu9">Dyadobacter fermentans DSM 18053T (AF137029)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="112.0" y="199.0"/>
+   <node id="NT1.2" label="NT1.2" x="164.0" y="152.0"/>
+   <node id="NT1.3" label="NT1.3" x="317.0" y="113.0"/>
+   <node id="NT1.4" x="357.0" y="68.0" label=" 94"/>
+   <node id="NT1.5" x="383.0" y="33.0" label="86"/>
+   <node id="NT1.6" label="NT1.6" x="420.0" y="243.0"/>
+   <node id="NT1.7" label="NT1.7" x="454.0" y="102.0"/>
+   <node id="NT1.8" label="NT1.8" x="546.0" y="85.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="552.0" y="191.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="555.0" y="121.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="555.0" y="156.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="571.0" y="14.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="580.0" y="262.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="583.0" y="50.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="594.0" y="227.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="594.0" y="298.0" otu="otu9"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

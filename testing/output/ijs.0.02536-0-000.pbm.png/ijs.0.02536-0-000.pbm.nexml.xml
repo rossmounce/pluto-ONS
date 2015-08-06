@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Pseudoalteromonas haloplanktis ATCC 14393T (X67024)</otu>
+  <otu id="otu2">Colwellia man's JCM 10085T (ABOOZSBO)</otu>
+  <otu id="otu3">Colwellia psychrerythraea ACAM 550T (AFOO1375)</otu>
+  <otu id="otu4">Colwellia hornerae ACAM 607T (U85847)</otu>
+  <otu id="otu5">Alteromonas fuliginea CIP 105339T (AF529062)</otu>
+  <otu id="otu6">Colwellia rossensis ACAM 608T (U14581)</otu>
+  <otu id="otu7">Pseudoalteromonas antarctica CECT 4664" (X98336)</otu>
+  <otu id="otu8">Pseudoalteromonas rubra ATCC 29570T (X82147)</otu>
+  <otu id="otu9">Pseudoalteromonas denitrificans ATCC 43337T (X82138)</otu>
+  <otu id="otu10">Colwellia demingiae ACAM 459T (U85845)</otu>
+  <otu id="otu11">Colwellia psychrotropica ACAM 179T (U85846)</otu>
+  <otu id="otu12">Psychromonas antarctlca DSM 10704T (Y14697)</otu>
+  <otu id="otu13">Pseudoalteromonas bacteriolytica lAM 14595T (D89929)</otu>
+  <otu id="otu14">Strain SW-47T (AF529060)</otu>
+  <otu id="otu15">Strain SW49 (AF529061)</otu>
+  <otu id="otu16">Alteromonas macleodii DSM 6062T (Y18228)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="138.0" y="580.0"/>
+   <node id="NT1.2" label="NT1.2" x="144.0" y="235.0"/>
+   <node id="NT1.3" label="NT1.3" x="205.0" y="541.0"/>
+   <node id="NT1.4" label="NT1.4" x="279.0" y="502.0"/>
+   <node id="NT1.5" label="NT1.5" x="313.0" y="463.0"/>
+   <node id="NT1.6" label="NT1.6" x="315.0" y="164.0"/>
+   <node id="NT1.7" label="NT1.7" x="335.0" y="78.0"/>
+   <node id="NT1.8" label="NT1.8" x="344.0" y="147.0"/>
+   <node id="NT1.9" label="NT1.9" x="376.0" y="34.0"/>
+   <node id="NT1.10" label="NT1.10" x="393.0" y="429.0"/>
+   <node id="NT1.11" label="NT1.11" x="398.0" y="458.0" otu="otu1"/>
+   <node id="NT1.12" label="NT1.12" x="399.0" y="94.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="400.0" y="175.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="401.0" y="398.0"/>
+   <node id="NT1.15" label="NT1.15" x="413.0" y="216.0" otu="otu4"/>
+   <node id="NT1.16" label="NT1.16" x="414.0" y="418.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="423.0" y="54.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="431.0" y="378.0" otu="otu7"/>
+   <node id="NT1.19" label="NT1.19" x="432.0" y="499.0" otu="otu8"/>
+   <node id="NT1.20" label="NT1.20" x="436.0" y="538.0" otu="otu9"/>
+   <node id="NT1.21" label="NT1.21" x="442.0" y="135.0" otu="otu10"/>
+   <node id="NT1.22" label="NT1.22" x="447.0" y="13.0" otu="otu11"/>
+   <node id="NT1.23" label="NT1.23" x="472.0" y="621.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="489.0" y="306.0"/>
+   <node id="NT1.25" label="NT1.25" x="502.0" y="580.0" otu="otu13"/>
+   <node id="NT1.26" label="NT1.26" x="505.0" y="277.0"/>
+   <node id="NT1.27" label="NT1.27" x="506.0" y="254.0" otu="otu14"/>
+   <node id="NT1.28" label="NT1.28" x="512.0" y="295.0" otu="otu15"/>
+   <node id="NT1.29" label="NT1.29" x="517.0" y="337.0" otu="otu16"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

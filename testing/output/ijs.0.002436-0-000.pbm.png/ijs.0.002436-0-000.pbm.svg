@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="65.0" cy="471.0" r="1.0"/>
+    <text stroke="none" x="65.0" y="471.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="94.0" cy="615.0" r="1.0"/>
+    <text stroke="none" x="94.0" y="615.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="238.0" cy="676.0" r="1.0"/>
+    <text stroke="none" x="238.0" y="676.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="244.0" cy="676.0" r="1.0"/>
+    <text stroke="none" x="244.0" y="676.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="258.0" cy="555.0" r="1.0"/>
+    <text stroke="none" x="258.0" y="555.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="263.0" cy="554.0" r="1.0"/>
+    <text stroke="none" x="263.0" y="554.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="419.0" cy="718.0" r="1.0"/>
+    <text stroke="none" x="419.0" y="718.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="425.0" cy="718.0" r="1.0"/>
+    <text stroke="none" x="425.0" y="718.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="435.0" cy="759.0" r="1.0"/>
+    <text stroke="none" x="435.0" y="759.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="480.0" cy="758.0" r="1.0"/>
+    <text stroke="none" x="480.0" y="758.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="520.0" cy="580.0" r="1.0"/>
+    <text stroke="none" x="520.0" y="580.0" font-size="20.0" font-family="helvetica">Dyadobacter fermentans ATCC 700827T (AF137029)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="568.0" cy="631.0" r="1.0"/>
+    <text stroke="none" x="568.0" y="631.0" font-size="20.0" font-family="helvetica">LarkinelIa insperata LMG 22510T (AM000022)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="599.0" cy="528.0" r="1.0"/>
+    <text stroke="none" x="599.0" y="528.0" font-size="20.0" font-family="helvetica">RunelIa slithyformis ATCC 29530T (M62786)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="603.0" cy="682.0" r="1.0"/>
+    <text stroke="none" x="603.0" y="682.0" font-size="20.0" font-family="helvetica">Spirosoma panaciterrae Gsoil 1519T (EU370956)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="619.0" cy="734.0" r="1.0"/>
+    <text stroke="none" x="619.0" y="734.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="625.0" cy="786.0" r="1.0"/>
+    <text stroke="none" x="625.0" y="786.0" font-size="20.0" font-family="helvetica">Spirosoma rigui KCTC 12531T (EF507900)</text>
+   </g>
+   <line stroke="black" x1="65.0" y1="471.0" x2="94.0" y2="615.0" stroke-width="0.5"/>
+   <line stroke="black" x1="244.0" y1="676.0" x2="238.0" y2="676.0" stroke-width="0.5"/>
+   <line stroke="black" x1="263.0" y1="554.0" x2="258.0" y2="555.0" stroke-width="0.5"/>
+   <line stroke="black" x1="425.0" y1="718.0" x2="419.0" y2="718.0" stroke-width="0.5"/>
+   <line stroke="black" x1="480.0" y1="758.0" x2="435.0" y2="759.0" stroke-width="0.5"/>
+   <line stroke="black" x1="599.0" y1="528.0" x2="258.0" y2="555.0" stroke-width="0.5"/>
+   <line stroke="black" x1="603.0" y1="682.0" x2="419.0" y2="718.0" stroke-width="0.5"/>
+   <line stroke="black" x1="619.0" y1="734.0" x2="435.0" y2="759.0" stroke-width="0.5"/>
+   <line stroke="black" x1="625.0" y1="786.0" x2="435.0" y2="759.0" stroke-width="0.5"/>
+   <line stroke="black" x1="94.0" y1="615.0" x2="238.0" y2="676.0" stroke-width="0.5"/>
+   <line stroke="black" x1="238.0" y1="676.0" x2="435.0" y2="759.0" stroke-width="0.5"/>
+   <line stroke="black" x1="435.0" y1="759.0" x2="419.0" y2="718.0" stroke-width="0.5"/>
+   <line stroke="black" x1="94.0" y1="615.0" x2="258.0" y2="555.0" stroke-width="0.5"/>
+   <line stroke="black" x1="520.0" y1="580.0" x2="258.0" y2="555.0" stroke-width="0.5"/>
+   <line stroke="black" x1="568.0" y1="631.0" x2="238.0" y2="676.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

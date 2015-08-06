@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">A. borkumens/s SK2T-Small (AF197903)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4">A. borkumensis LE4—Large (AF197900)</otu>
+  <otu id="otu5">A. venustensis lSO1-Large (AF828763)</otu>
+  <otu id="otu6"/>
+  <otu id="otu7">Ejadensis DSM 1217818mall (AF828768)</otu>
+  <otu id="otu8">Fjadensis DSM 12178T-Large (AF328767)</otu>
+  <otu id="otu9"/>
+  <otu id="otu10">A. venustensis ISO4T-Small (AF328766)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="270.0" y="99.0"/>
+   <node id="NT1.2" label="NT1.2" x="336.0" y="66.0"/>
+   <node id="NT1.3" label="NT1.3" x="373.0" y="97.0"/>
+   <node id="NT1.4" label="NT1.4" x="374.0" y="82.0" otu="otu1"/>
+   <node id="NT1.5" label="NT1.5" x="374.0" y="117.0" otu="otu2"/>
+   <node id="NT1.6" x="415.0" y="29.0" label="99"/>
+   <node id="NT1.7" label="NT1.7" x="416.0" y="47.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="432.0" y="13.0" otu="otu4"/>
+   <node id="NT1.9" x="559.0" y="167.0" label="99"/>
+   <node id="NT1.10" label="NT1.10" x="561.0" y="272.0"/>
+   <node id="NT1.11" x="575.0" y="238.0" label="56"/>
+   <node id="NT1.12" label="NT1.12" x="576.0" y="222.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="576.0" y="256.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="634.0" y="186.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="669.0" y="151.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="673.0" y="307.0"/>
+   <node id="NT1.17" label="NT1.17" x="678.0" y="289.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="679.0" y="325.0" otu="otu10"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="9.0" cy="807.0" r="1.0"/>
+    <text stroke="none" x="9.0" y="807.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="13.0" cy="808.0" r="1.0"/>
+    <text stroke="none" x="13.0" y="808.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="89.0" cy="807.0" r="1.0"/>
+    <text stroke="none" x="89.0" y="807.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="90.0" cy="814.0" r="1.0"/>
+    <text stroke="none" x="90.0" y="814.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="111.0" cy="421.0" r="1.0"/>
+    <text stroke="none" x="111.0" y="421.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="124.0" cy="158.0" r="1.0"/>
+    <text stroke="none" x="124.0" y="158.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="125.0" cy="162.0" r="1.0"/>
+    <text stroke="none" x="125.0" y="162.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="134.0" cy="700.0" r="1.0"/>
+    <text stroke="none" x="134.0" y="700.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="135.0" cy="633.0" r="1.0"/>
+    <text stroke="none" x="135.0" y="633.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="405.0" cy="775.0" r="1.0"/>
+    <text stroke="none" x="405.0" y="775.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="460.0" cy="82.0" r="1.0"/>
+    <text stroke="none" x="460.0" y="82.0" font-size="20.0" font-family="helvetica">P. corporis ATCC 33547T (L1 6465)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="945.0" cy="1599.0" r="1.0"/>
+    <text stroke="none" x="945.0" y="1599.0" font-size="20.0" font-family="helvetica">P. tannerae ATCC 51259T (AJ005634)</text>
+   </g>
+   <line stroke="black" x1="124.0" y1="158.0" x2="125.0" y2="162.0" stroke-width="0.5"/>
+   <line stroke="black" x1="135.0" y1="633.0" x2="134.0" y2="700.0" stroke-width="0.5"/>
+   <line stroke="black" x1="90.0" y1="814.0" x2="89.0" y2="807.0" stroke-width="0.5"/>
+   <line stroke="black" x1="9.0" y1="807.0" x2="13.0" y2="808.0" stroke-width="0.5"/>
+   <line stroke="black" x1="125.0" y1="162.0" x2="111.0" y2="421.0" stroke-width="0.5"/>
+   <line stroke="black" x1="111.0" y1="421.0" x2="89.0" y2="807.0" stroke-width="0.5"/>
+   <line stroke="black" x1="111.0" y1="421.0" x2="134.0" y2="700.0" stroke-width="0.5"/>
+   <line stroke="black" x1="89.0" y1="807.0" x2="13.0" y2="808.0" stroke-width="0.5"/>
+   <line stroke="black" x1="945.0" y1="1599.0" x2="13.0" y2="808.0" stroke-width="0.5"/>
+   <line stroke="black" x1="405.0" y1="775.0" x2="134.0" y2="700.0" stroke-width="0.5"/>
+   <line stroke="black" x1="460.0" y1="82.0" x2="125.0" y2="162.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

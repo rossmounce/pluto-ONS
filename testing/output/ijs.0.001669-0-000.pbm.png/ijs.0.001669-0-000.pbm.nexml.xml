@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Acidovorax deﬂuvii BSB 411T (Y18616)</otu>
+  <otu id="otu2"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="756.0" y="359.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="783.0" y="45.0" otu="otu2"/>
+   <edge source="NT1.1" target="NT1.2"/>
+  </tree>
+ </trees>
+</nexml>

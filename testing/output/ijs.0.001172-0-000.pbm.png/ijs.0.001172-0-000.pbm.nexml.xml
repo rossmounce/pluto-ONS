@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">L. delbrueckii DSM 20074T (M58814)</otu>
+  <otu id="otu2"> L. cacaonum LMG 24285T (AM905389)</otu>
+  <otu id="otu3"> L. mali DSM 20444T (M58824)</otu>
+  <otu id="otu4">L. satsumensis NRIC 0604T (AB154519)</otu>
+  <otu id="otu5">L. algidus JCM 10491T (ABO33209)</otu>
+  <otu id="otu6">L. murinus DSM 20452T (M58826)</otu>
+  <otu id="otu7">L. animalis DSM 20602T (M58807)</otu>
+  <otu id="otu8">L. salivarius ATCC 1 1741 T (AF089108)</otu>
+  <otu id="otu9"> L. agilis DSM 20509T (M58803)</otu>
+  <otu id="otu10">L. paraplantarum DSM 10667T (AJ306297)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">L. plantarum JCM 1149T(D79210)</otu>
+  <otu id="otu13">L. ruminis DSM 20403T (M58828)</otu>
+  <otu id="otu14">L. equi YIT 0455T (ABO48833)</otu>
+  <otu id="otu15">L. fabifermentans LMG 24284T (AM905388)</otu>
+  <otu id="otu16">L. aviarius DSM 20655T (M58808)</otu>
+  <otu id="otu17">L. nagelii LuEwT(Y17500)</otu>
+  <otu id="otu18">L. saerimneri GDA154T (AY255802)</otu>
+  <otu id="otu19">L. acidipiscis F560-1T (ABOZ3836)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="169.0" y="849.0" otu="otu1"/>
+   <node id="NT1.2" x="181.0" y="218.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="186.0" y="339.0"/>
+   <node id="NT1.4" label="NT1.4" x="201.0" y="458.0"/>
+   <node id="NT1.5" label="NT1.5" x="210.0" y="610.0"/>
+   <node id="NT1.6" label="NT1.6" x="223.0" y="709.0"/>
+   <node id="NT1.7" label="NT1.7" x="227.0" y="307.0"/>
+   <node id="NT1.8" label="NT1.8" x="238.0" y="514.0"/>
+   <node id="NT1.9" label="NT1.9" x="240.0" y="770.0"/>
+   <node id="NT1.10" label="NT1.10" x="244.0" y="345.0"/>
+   <node id="NT1.11" label="NT1.11" x="249.0" y="379.0"/>
+   <node id="NT1.12" label="NT1.12" x="264.0" y="557.0"/>
+   <node id="NT1.13" label="NT1.13" x="271.0" y="737.0"/>
+   <node id="NT1.14" label="NT1.14" x="283.0" y="468.0"/>
+   <node id="NT1.15" label="NT1.15" x="307.0" y="492.0" otu="otu2"/>
+   <node id="NT1.16" label="NT1.16" x="308.0" y="445.0" otu="otu3"/>
+   <node id="NT1.17" label="NT1.17" x="315.0" y="580.0" otu="otu4"/>
+   <node id="NT1.18" label="NT1.18" x="327.0" y="222.0" otu="otu5"/>
+   <node id="NT1.19" label="NT1.19" x="332.0" y="647.0"/>
+   <node id="NT1.20" label="NT1.20" x="339.0" y="96.0"/>
+   <node id="NT1.21" label="NT1.21" x="342.0" y="624.0" otu="otu6"/>
+   <node id="NT1.22" label="NT1.22" x="342.0" y="671.0" otu="otu7"/>
+   <node id="NT1.23" label="NT1.23" x="348.0" y="402.0" otu="otu8"/>
+   <node id="NT1.24" label="NT1.24" x="348.0" y="759.0" otu="otu9"/>
+   <node id="NT1.25" label="NT1.25" x="351.0" y="144.0"/>
+   <node id="NT1.26" label="NT1.26" x="353.0" y="179.0" otu="otu10"/>
+   <node id="NT1.27" label="NT1.27" x="356.0" y="111.0"/>
+   <node id="NT1.28" label="NT1.28" x="357.0" y="134.0" otu="otu11"/>
+   <node id="NT1.29" label="NT1.29" x="358.0" y="88.0" otu="otu12"/>
+   <node id="NT1.30" label="NT1.30" x="361.0" y="803.0" otu="otu13"/>
+   <node id="NT1.31" label="NT1.31" x="366.0" y="714.0" otu="otu14"/>
+   <node id="NT1.32" label="NT1.32" x="370.0" y="44.0" otu="otu15"/>
+   <node id="NT1.33" label="NT1.33" x="370.0" y="357.0" otu="otu16"/>
+   <node id="NT1.34" label="NT1.34" x="382.0" y="535.0" otu="otu17"/>
+   <node id="NT1.35" label="NT1.35" x="399.0" y="266.0" otu="otu18"/>
+   <node id="NT1.36" label="NT1.36" x="404.0" y="313.0" otu="otu19"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

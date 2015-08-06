@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Methanoculleus palmolei DSM 42 73T (Y16382)</otu>
+  <otu id="otu5">Methanolinea tarda NOBI-1T (AB162774)</otu>
+  <otu id="otu6">Methanosphaerula palustris E1 -90T (EU156000)</otu>
+  <otu id="otu7">Methanoculleus marisn/gr/JR1T (CP000562)</otu>
+  <otu id="otu8">Methanogenium marinum AK-1T (D01 77344)</otu>
+  <otu id="otu9">Methanofollis ethanolicus HASUT (A8371 O73)</otu>
+  <otu id="otu10">Methanofollis liminatans DSM 4140T (Y1 6428)</otu>
+  <otu id="otu11">Methanoculleus thermophilus CR-1T (ABOG5297)</otu>
+  <otu id="otu12">Methanobacterium formicicum DSM 1535T (AF1 69245)</otu>
+  <otu id="otu13">Methanoplanus endosymbiosus DSM 3599T (AB370248)</otu>
+  <otu id="otu14">Methanocella paludicola SANAET (AB196288)</otu>
+  <otu id="otu15">Methanocalculus pumilus MHT-1T (ABOO8853)</otu>
+  <otu id="otu16">Methanospirillum hungatei NBRC 100397T (A851 7987)</otu>
+  <otu id="otu17">Methanocalculus halotolerans SEBR 4845T (AFO33672)</otu>
+  <otu id="otu18">Strain Ki8-1T(AB517986)</otu>
+  <otu id="otu19">Methanocorpusculum labreanum DSM 4855T (AY260436)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="35.0" y="584.0"/>
+   <node id="NT1.2" label="NT1.2" x="150.0" y="446.0"/>
+   <node id="NT1.3" label="NT1.3" x="159.0" y="304.0"/>
+   <node id="NT1.4" label="NT1.4" x="164.0" y="587.0"/>
+   <node id="NT1.5" label="NT1.5" x="170.0" y="158.0"/>
+   <node id="NT1.6" label="NT1.6" x="183.0" y="413.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="191.0" y="395.0"/>
+   <node id="NT1.8" label="NT1.8" x="197.0" y="291.0"/>
+   <node id="NT1.9" label="NT1.9" x="213.0" y="522.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="219.0" y="211.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="219.0" y="539.0"/>
+   <node id="NT1.12" label="NT1.12" x="225.0" y="196.0"/>
+   <node id="NT1.13" label="NT1.13" x="234.0" y="304.0"/>
+   <node id="NT1.14" label="NT1.14" x="235.0" y="78.0"/>
+   <node id="NT1.15" label="NT1.15" x="243.0" y="40.0"/>
+   <node id="NT1.16" label="NT1.16" x="266.0" y="116.0" otu="otu4"/>
+   <node id="NT1.17" label="NT1.17" x="272.0" y="368.0" otu="otu5"/>
+   <node id="NT1.18" label="NT1.18" x="273.0" y="645.0"/>
+   <node id="NT1.19" label="NT1.19" x="276.0" y="418.0" otu="otu6"/>
+   <node id="NT1.20" label="NT1.20" x="279.0" y="15.0" otu="otu7"/>
+   <node id="NT1.21" label="NT1.21" x="290.0" y="165.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="299.0" y="267.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="300.0" y="317.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="305.0" y="65.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="313.0" y="772.0" otu="otu12"/>
+   <node id="NT1.26" label="NT1.26" x="316.0" y="495.0"/>
+   <node id="NT1.27" label="NT1.27" x="318.0" y="216.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="326.0" y="721.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="327.0" y="468.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="332.0" y="620.0" otu="otu16"/>
+   <node id="NT1.31" label="NT1.31" x="337.0" y="520.0" otu="otu17"/>
+   <node id="NT1.32" label="NT1.32" x="358.0" y="670.0" otu="otu18"/>
+   <node id="NT1.33" label="NT1.33" x="417.0" y="569.0" otu="otu19"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

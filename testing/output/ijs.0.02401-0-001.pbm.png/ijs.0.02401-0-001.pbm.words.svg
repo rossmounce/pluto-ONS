@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <svg font-family="helvetica" font-size="10.0" tesseractVersion="tesseract 3.03">
+  <g class="wordPageList">
+   <g class="wordPage" id="page_1">
+    <g class="wordBlock" id="block_1_1">
+     <g class="para" id="par_1_1">
+      <g class="line" id="line_1_1"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_2">
+     <g class="para" id="par_1_2">
+      <g id="line_1_2" baseline="(0.0,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="97.0" y="6.0" width="24.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_2" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="97.0" y="6.0" width="24.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="23.400000000000002" x="97.0" y="24.0">20</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_3">
+     <g class="para" id="par_1_3">
+      <g class="line" id="line_1_3"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_4">
+     <g class="para" id="par_1_4">
+      <g id="line_1_4" baseline="(0.038,-1.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="304.0" y="7.0" width="26.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_4" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="304.0" y="7.0" width="26.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="23.400000000000002" x="304.0" y="25.0">40</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_5">
+     <g class="para" id="par_1_5">
+      <g id="line_1_5" baseline="(0.0,0.0)" font-size="17.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="514.0" y="8.0" width="24.0" height="17.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_5" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="514.0" y="8.0" width="24.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="514.0" y="25.0">60</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_6">
+     <g class="para" id="par_1_6">
+      <g class="line" id="line_1_6"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_7">
+     <g class="para" id="par_1_7">
+      <g id="line_1_7" baseline="(0.0,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="722.0" y="8.0" width="24.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_7" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="722.0" y="8.0" width="24.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="23.400000000000002" x="722.0" y="26.0">80</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_8">
+     <g class="para" id="par_1_8">
+      <g id="line_1_8" baseline="(0.0,0.0)" font-size="17.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="922.0" y="9.0" width="36.0" height="17.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_8" class="word" x_wconf="92">
+        <rect stroke="black" stroke-width="1.0" x="922.0" y="9.0" width="36.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="922.0" y="26.0">100</text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </svg>
+</svg>

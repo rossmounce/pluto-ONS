@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Candida parapsilosis NRRL Y-1 2969T (U45754)</otu>
+  <otu id="otu2">Candida viswanathii NRRL Y—6660T (U45752)</otu>
+  <otu id="otu3">Candida diddensiae NRRL Y-7589T (U45750)</otu>
+  <otu id="otu4">Candida germanica CBS 4105T (AF245401)</otu>
+  <otu id="otu5">Pichia nakazawae var. akitaensis NRRL Y—7904T (U45766)</otu>
+  <otu id="otu6">Pichia philogaea NRRL Y—7813T (U45765)</otu>
+  <otu id="otu7">Pichia nakazawae var. nakazawae NRRL Y-7903T (U45748)</otu>
+  <otu id="otu8">Candida dendronema NRRL Y-7781T (U45751)</otu>
+  <otu id="otu9">Yamadazyma mexioanum NRRL Y-118187(U45797)</otu>
+  <otu id="otu10">Candida trypodendroni NRRL Y—6488T (AFO1 7240)</otu>
+  <otu id="otu11">Candida sp. Mary 101 (AY731729)</otu>
+  <otu id="otu12">Candida conglobata NRRL Y—1504T (U45789)</otu>
+  <otu id="otu13">Yamadazyma scolyti NRRL Y—5512T (U45788)</otu>
+  <otu id="otu14">Candida insectorum NRRL Y—7787T (U45791)</otu>
+  <otu id="otu15">Candida sp. Mary 089 (AY731730)</otu>
+  <otu id="otu16">Candida membranifaciens NRRL Y-2089T (U45792)</otu>
+  <otu id="otu17">Candida atmosphaerica NRRL Y—17642T(U45779)</otu>
+  <otu id="otu18">Candida tenuis NRRL Y—1 498T (U457 74)</otu>
+  <otu id="otu19">Candida aaseri NRRL YB-3897T (U45802)</otu>
+  <otu id="otu20">Candida b/attariae NRRL Y-27703 (AY640213)</otu>
+  <otu id="otu21">Candida friedrichii NRRL Y-17653T(U45781)</otu>
+  <otu id="otu22"/>
+  <otu id="otu23">Candida spencermartinsiae CBS 10894T (FJ008044)</otu>
+  <otu id="otu24">Candida at/antica NRRL Y—17759T(U45799)</otu>
+  <otu id="otu25">Candida diospyri CBS 9769T (AY450918)</otu>
+  <otu id="otu26">Candida taylorii CBS 8508T (FJ008045)</otu>
+  <otu id="otu27">Candida buinensis NRRL Y—1 17O6T(U45778)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="4.0" y="1103.0"/>
+   <node id="NT1.2" x="80.0" y="453.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="95.0" y="1103.0" otu="otu1"/>
+   <node id="NT1.4" label="NT1.4" x="97.0" y="133.0"/>
+   <node id="NT1.5" label="NT1.5" x="102.0" y="1146.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="111.0" y="774.0"/>
+   <node id="NT1.7" x="122.0" y="199.0" label="57"/>
+   <node id="NT1.8" x="131.0" y="68.0" label="‘00"/>
+   <node id="NT1.9" label="NT1.9" x="135.0" y="982.0"/>
+   <node id="NT1.10" label="NT1.10" x="138.0" y="515.0"/>
+   <node id="NT1.11" x="143.0" y="166.0" label="73"/>
+   <node id="NT1.12" label="NT1.12" x="144.0" y="188.0" otu="otu3"/>
+   <node id="NT1.13" label="NT1.13" x="154.0" y="231.0" otu="otu4"/>
+   <node id="NT1.14" label="NT1.14" x="157.0" y="13.0" otu="otu5"/>
+   <node id="NT1.15" label="NT1.15" x="157.0" y="36.0"/>
+   <node id="NT1.16" label="NT1.16" x="163.0" y="102.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="167.0" y="56.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="167.0" y="144.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="170.0" y="926.0"/>
+   <node id="NT1.20" label="NT1.20" x="170.0" y="665.0"/>
+   <node id="NT1.21" label="NT1.21" x="175.0" y="753.0" otu="otu9"/>
+   <node id="NT1.22" x="177.0" y="1037.0" label="95"/>
+   <node id="NT1.23" label="NT1.23" x="180.0" y="712.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="183.0" y="646.0"/>
+   <node id="NT1.25" label="NT1.25" x="187.0" y="973.0" otu="otu11"/>
+   <node id="NT1.26" label="NT1.26" x="188.0" y="558.0"/>
+   <node id="NT1.27" label="NT1.27" x="190.0" y="880.0"/>
+   <node id="NT1.28" label="NT1.28" x="196.0" y="668.0" otu="otu12"/>
+   <node id="NT1.29" label="NT1.29" x="201.0" y="493.0" otu="otu13"/>
+   <node id="NT1.30" label="NT1.30" x="202.0" y="579.0" otu="otu14"/>
+   <node id="NT1.31" label="NT1.31" x="204.0" y="1016.0" otu="otu15"/>
+   <node id="NT1.32" label="NT1.32" x="215.0" y="450.0" otu="otu16"/>
+   <node id="NT1.33" label="NT1.33" x="216.0" y="929.0" otu="otu17"/>
+   <node id="NT1.34" label="NT1.34" x="220.0" y="536.0" otu="otu18"/>
+   <node id="NT1.35" label="NT1.35" x="220.0" y="624.0" otu="otu19"/>
+   <node id="NT1.36" label="NT1.36" x="220.0" y="852.0"/>
+   <node id="NT1.37" label="NT1.37" x="221.0" y="342.0"/>
+   <node id="NT1.38" x="229.0" y="298.0" label="55"/>
+   <node id="NT1.39" label="NT1.39" x="235.0" y="384.0"/>
+   <node id="NT1.40" label="NT1.40" x="236.0" y="362.0" otu="otu20"/>
+   <node id="NT1.41" label="NT1.41" x="237.0" y="274.0" otu="otu21"/>
+   <node id="NT1.42" label="NT1.42" x="238.0" y="881.0" otu="otu22"/>
+   <node id="NT1.43" label="NT1.43" x="238.0" y="837.0" otu="otu23"/>
+   <node id="NT1.44" label="NT1.44" x="243.0" y="799.0" otu="otu24"/>
+   <node id="NT1.45" label="NT1.45" x="259.0" y="319.0" otu="otu25"/>
+   <node id="NT1.46" label="NT1.46" x="267.0" y="1059.0" otu="otu26"/>
+   <node id="NT1.47" label="NT1.47" x="299.0" y="407.0" otu="otu27"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">D. depolymerans TDMA-24T (A8264134)</otu>
+  <otu id="otu3">D. radiophilus DSM 20551T (Y1 1333)</otu>
+  <otu id="otu4"/>
+  <otu id="otu5">D. deserti DSM 17065T (AY876378)</otu>
+  <otu id="otu6">D. hohokamensis KR—40T (AY743256)</otu>
+  <otu id="otu7">D. grand/s</otu>
+  <otu id="otu8">D. caeniHo-08T(DOO17709)</otu>
+  <otu id="otu9">D. navajonens/s KR-114T(AY743259)</otu>
+  <otu id="otu10">D. proteolyticus DSM 2054OT(Y11331)</otu>
+  <otu id="otu11">D. aquaticus PB314T(DQO17708)</otu>
+  <otu id="otu12">Truepera radiovfctrix RCA-24T (D0022076)</otu>
+  <otu id="otu13">D. ind/bus DSMZ 15307T(AJ549111)</otu>
+  <otu id="otu14">D. hopiensis KR—140T (AY743262)</otu>
+  <otu id="otu15">D. geothermalls DSMZ 1 1300T (Y13038)</otu>
+  <otu id="otu16">D. aquatilis CCUG 53370T (AM940971)</otu>
+  <otu id="otu17">D. ficus CON-1 (D0003135)</otu>
+  <otu id="otu18"/>
+  <otu id="otu19">D. rad/opugnans ATCC 191 72T (Y1 1334)</otu>
+  <otu id="otu20">D. radiodurans DSM 20539T(Y11332)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="2.0" y="668.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="4.0" y="668.0"/>
+   <node id="NT1.3" label="NT1.3" x="208.0" y="616.0"/>
+   <node id="NT1.4" label="NT1.4" x="230.0" y="541.0"/>
+   <node id="NT1.5" label="NT1.5" x="304.0" y="447.0"/>
+   <node id="NT1.6" label="NT1.6" x="328.0" y="562.0"/>
+   <node id="NT1.7" label="NT1.7" x="339.0" y="327.0"/>
+   <node id="NT1.8" label="NT1.8" x="346.0" y="411.0"/>
+   <node id="NT1.9" label="NT1.9" x="351.0" y="634.0"/>
+   <node id="NT1.10" label="NT1.10" x="362.0" y="238.0"/>
+   <node id="NT1.11" label="NT1.11" x="386.0" y="465.0"/>
+   <node id="NT1.12" label="NT1.12" x="389.0" y="362.0"/>
+   <node id="NT1.13" label="NT1.13" x="393.0" y="179.0"/>
+   <node id="NT1.14" label="NT1.14" x="439.0" y="112.0"/>
+   <node id="NT1.15" label="NT1.15" x="443.0" y="493.0"/>
+   <node id="NT1.16" label="NT1.16" x="444.0" y="173.0"/>
+   <node id="NT1.17" label="NT1.17" x="453.0" y="243.0"/>
+   <node id="NT1.18" label="NT1.18" x="468.0" y="122.0" otu="otu2"/>
+   <node id="NT1.19" label="NT1.19" x="468.0" y="653.0" otu="otu3"/>
+   <node id="NT1.20" label="NT1.20" x="469.0" y="57.0"/>
+   <node id="NT1.21" label="NT1.21" x="470.0" y="14.0" otu="otu4"/>
+   <node id="NT1.22" label="NT1.22" x="475.0" y="440.0" otu="otu5"/>
+   <node id="NT1.23" label="NT1.23" x="478.0" y="476.0" otu="otu6"/>
+   <node id="NT1.24" label="NT1.24" x="481.0" y="299.0" otu="otu7"/>
+   <node id="NT1.25" label="NT1.25" x="485.0" y="192.0" otu="otu8"/>
+   <node id="NT1.26" label="NT1.26" x="485.0" y="511.0" otu="otu9"/>
+   <node id="NT1.27" label="NT1.27" x="488.0" y="618.0" otu="otu10"/>
+   <node id="NT1.28" label="NT1.28" x="489.0" y="155.0" otu="otu11"/>
+   <node id="NT1.29" label="NT1.29" x="504.0" y="724.0" otu="otu12"/>
+   <node id="NT1.30" label="NT1.30" x="505.0" y="263.0" otu="otu13"/>
+   <node id="NT1.31" label="NT1.31" x="507.0" y="546.0" otu="otu14"/>
+   <node id="NT1.32" label="NT1.32" x="530.0" y="689.0" otu="otu15"/>
+   <node id="NT1.33" label="NT1.33" x="543.0" y="333.0" otu="otu16"/>
+   <node id="NT1.34" label="NT1.34" x="546.0" y="407.0" otu="otu17"/>
+   <node id="NT1.35" label="NT1.35" x="546.0" y="386.0"/>
+   <node id="NT1.36" label="NT1.36" x="548.0" y="368.0" otu="otu18"/>
+   <node id="NT1.37" label="NT1.37" x="551.0" y="583.0" otu="otu19"/>
+   <node id="NT1.38" label="NT1.38" x="606.0" y="227.0" otu="otu20"/>
+   <edge source="NT1.20" target="NT1.21"/>
+   <edge source="NT1.20" target="NT1.18"/>
+   <edge source="NT1.16" target="NT1.28"/>
+   <edge source="NT1.17" target="NT1.30"/>
+   <edge source="NT1.10" target="NT1.24"/>
+   <edge source="NT1.12" target="NT1.33"/>
+   <edge source="NT1.35" target="NT1.34"/>
+   <edge source="NT1.6" target="NT1.31"/>
+   <edge source="NT1.6" target="NT1.37"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.9" target="NT1.19"/>
+   <edge source="NT1.3" target="NT1.32"/>
+   <edge source="NT1.14" target="NT1.20"/>
+   <edge source="NT1.13" target="NT1.14"/>
+   <edge source="NT1.14" target="NT1.16"/>
+   <edge source="NT1.10" target="NT1.13"/>
+   <edge source="NT1.13" target="NT1.17"/>
+   <edge source="NT1.7" target="NT1.10"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.7" target="NT1.8"/>
+   <edge source="NT1.8" target="NT1.11"/>
+   <edge source="NT1.8" target="NT1.12"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.11" target="NT1.15"/>
+   <edge source="NT1.12" target="NT1.35"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.9"/>
+   <edge source="NT1.35" target="NT1.36"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.2" target="NT1.29"/>
+   <edge source="NT1.11" target="NT1.22"/>
+   <edge source="NT1.9" target="NT1.27"/>
+   <edge source="NT1.15" target="NT1.23"/>
+   <edge source="NT1.16" target="NT1.25"/>
+   <edge source="NT1.15" target="NT1.26"/>
+   <edge source="NT1.17" target="NT1.38"/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="18.0" cy="337.0" r="1.0"/>
+    <text stroke="none" x="18.0" y="337.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="42.0" cy="337.0" r="1.0"/>
+    <text stroke="none" x="42.0" y="337.0" font-size="20.0" font-family="helvetica">82</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="69.0" cy="255.0" r="1.0"/>
+    <text stroke="none" x="69.0" y="255.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="69.0" cy="289.0" r="1.0"/>
+    <text stroke="none" x="69.0" y="289.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="99.0" cy="260.0" r="1.0"/>
+    <text stroke="none" x="99.0" y="260.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="101.0" cy="411.0" r="1.0"/>
+    <text stroke="none" x="101.0" y="411.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="144.0" cy="385.0" r="1.0"/>
+    <text stroke="none" x="144.0" y="385.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="214.0" cy="218.0" r="1.0"/>
+    <text stroke="none" x="214.0" y="218.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="258.0" cy="445.0" r="1.0"/>
+    <text stroke="none" x="258.0" y="445.0" font-size="20.0" font-family="helvetica">Aquabacterium parvum BEET (AFO35052)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="263.0" cy="406.0" r="1.0"/>
+    <text stroke="none" x="263.0" y="406.0" font-size="20.0" font-family="helvetica">Aquabacter/um commune BBT (AF035054)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="297.0" cy="182.0" r="1.0"/>
+    <text stroke="none" x="297.0" y="182.0" font-size="10.0" font-family="helvetica">NT1.11</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="300.0" cy="364.0" r="1.0"/>
+    <text stroke="none" x="300.0" y="364.0" font-size="20.0" font-family="helvetica">Aquabacterium citratiphilum B4T (AFO35050)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="384.0" cy="296.0" r="1.0"/>
+    <text stroke="none" x="384.0" y="296.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="403.0" cy="213.0" r="1.0"/>
+    <text stroke="none" x="403.0" y="213.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="426.0" cy="255.0" r="1.0"/>
+    <text stroke="none" x="426.0" y="255.0" font-size="20.0" font-family="helvetica">Methyllbium subsaxonicum B F49T (AM 7 74413)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="511.0" cy="151.0" r="1.0"/>
+    <text stroke="none" x="511.0" y="151.0" font-size="10.0" font-family="helvetica">NT1.16</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="538.0" cy="130.0" r="1.0"/>
+    <text stroke="none" x="538.0" y="130.0" font-size="20.0" font-family="helvetica">Rhizobacter dauct ATCC 43778T (A8297965)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="554.0" cy="172.0" r="1.0"/>
+    <text stroke="none" x="554.0" y="172.0" font-size="20.0" font-family="helvetica">Methylib/um fulllum Gsoil 328T (ABQ45357)</text>
+   </g>
+   <line stroke="black" x1="99.0" y1="260.0" x2="69.0" y2="255.0" stroke-width="0.5"/>
+   <line stroke="black" x1="69.0" y1="289.0" x2="99.0" y2="260.0" stroke-width="0.5"/>
+   <line stroke="black" x1="18.0" y1="337.0" x2="42.0" y2="337.0" stroke-width="0.5"/>
+   <line stroke="black" x1="511.0" y1="151.0" x2="297.0" y2="182.0" stroke-width="0.5"/>
+   <line stroke="black" x1="297.0" y1="182.0" x2="214.0" y2="218.0" stroke-width="0.5"/>
+   <line stroke="black" x1="214.0" y1="218.0" x2="99.0" y2="260.0" stroke-width="0.5"/>
+   <line stroke="black" x1="99.0" y1="260.0" x2="42.0" y2="337.0" stroke-width="0.5"/>
+   <line stroke="black" x1="42.0" y1="337.0" x2="101.0" y2="411.0" stroke-width="0.5"/>
+   <line stroke="black" x1="101.0" y1="411.0" x2="144.0" y2="385.0" stroke-width="0.5"/>
+   <line stroke="black" x1="258.0" y1="445.0" x2="101.0" y2="411.0" stroke-width="0.5"/>
+   <line stroke="black" x1="300.0" y1="364.0" x2="144.0" y2="385.0" stroke-width="0.5"/>
+   <line stroke="black" x1="263.0" y1="406.0" x2="144.0" y2="385.0" stroke-width="0.5"/>
+   <line stroke="black" x1="384.0" y1="296.0" x2="99.0" y2="260.0" stroke-width="0.5"/>
+   <line stroke="black" x1="426.0" y1="255.0" x2="214.0" y2="218.0" stroke-width="0.5"/>
+   <line stroke="black" x1="403.0" y1="213.0" x2="297.0" y2="182.0" stroke-width="0.5"/>
+   <line stroke="black" x1="538.0" y1="130.0" x2="511.0" y2="151.0" stroke-width="0.5"/>
+   <line stroke="black" x1="554.0" y1="172.0" x2="511.0" y2="151.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

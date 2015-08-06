@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Paenibacillus anaelicanus MH21T (AJ318909)</otu>
+  <otu id="otu2">Paenibacillus timonensis 2301 O32T (AY323610)</otu>
+  <otu id="otu3">Paenibacillus borealis KK19T (AJO1 1322)</otu>
+  <otu id="otu4">Paenibacillus odorifer TOD45T (AJ223990)</otu>
+  <otu id="otu5">Paenibacillus motobuensis M010T (AY741810)</otu>
+  <otu id="otu6">Paenibacillus barengoltzii SAFN-O16T (AY167814)</otu>
+  <otu id="otu7">Paenibacillus jamilae CECT 5266T (A1271 157)</otu>
+  <otu id="otu8">Paenibacillus lactis MB 1871T (AY257868)</otu>
+  <otu id="otu9">Paenibacillus macerans ATCC 8244T (X57306)</otu>
+  <otu id="otu10">Paenibacillus campinasensis 324T (AFO21924)</otu>
+  <otu id="otu11">Paenibacillus azoreducens CM1T (AJ272249)</otu>
+  <otu id="otu12">Paenibacillus terrae AM141T (AF391 124)</otu>
+  <otu id="otu13">Paenibacillus lautus NRRL NRS-666T (D78473)</otu>
+  <otu id="otu14">Paenibacillus cineris LMG 18439T (AJ575658)</otu>
+  <otu id="otu15">Paenibacillus stellifer IS 1T(AJ316O13)</otu>
+  <otu id="otu16">Paenibacillus bras/lensis PB1 72T (AF273740)</otu>
+  <otu id="otu17">Paenibacillus massiliensis 2301065T (AY323608)</otu>
+  <otu id="otu18">Paenibacillus favisporus (3MPO1T (AY208751)</otu>
+  <otu id="otu19">Paenibacillus cookii LMG 18419T(AJ250317)</otu>
+  <otu id="otu20">Paenibacillus phoenicis HM06-03 (EU004565)</otu>
+  <otu id="otu21">Paenibacillus phoenicis 3P02$AT (EU977789)</otu>
+  <otu id="otu22">Paenibacillus azotofixans ATCC 35681 T (X60608)</otu>
+  <otu id="otu23">Paenibacillus kribbensis AM49T (AF391 1 23)</otu>
+  <otu id="otu24">Paenibacillus rhizosphaerae CECAP06T (AY751 754)</otu>
+  <otu id="otu25">Paenibacillus glucanolyticus DSM 5162T (D78470)</otu>
+  <otu id="otu26">Paenibacillus chibensis NRRL B—142T (D85395)</otu>
+  <otu id="otu27">Paenibacillus peoriae IFO 15541T (D78476)</otu>
+  <otu id="otu28">Paenibacillus wynnii LMG 221 76T (AJ633647)</otu>
+  <otu id="otu29">Paenibacillus turicensis MOL722T (AF378694)</otu>
+  <otu id="otu30">Paenibacillus gram/his RSA19T (AJ223987)</otu>
+  <otu id="otu31">Paenibacillus sanguinis 2301083T (AY323609)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="17.0" y="581.0"/>
+   <node id="NT1.2" label="NT1.2" x="19.0" y="858.0"/>
+   <node id="NT1.3" label="NT1.3" x="21.0" y="981.0"/>
+   <node id="NT1.4" label="NT1.4" x="32.0" y="429.0"/>
+   <node id="NT1.5" x="77.0" y="657.0" label="62"/>
+   <node id="NT1.6" label="NT1.6" x="87.0" y="320.0"/>
+   <node id="NT1.7" label="NT1.7" x="162.0" y="607.0"/>
+   <node id="NT1.8" label="NT1.8" x="162.0" y="1032.0"/>
+   <node id="NT1.9" label="NT1.9" x="185.0" y="1096.0"/>
+   <node id="NT1.10" label="NT1.10" x="197.0" y="198.0"/>
+   <node id="NT1.11" label="NT1.11" x="208.0" y="369.0"/>
+   <node id="NT1.12" label="NT1.12" x="213.0" y="1142.0"/>
+   <node id="NT1.13" label="NT1.13" x="230.0" y="162.0"/>
+   <node id="NT1.14" label="NT1.14" x="243.0" y="575.0"/>
+   <node id="NT1.15" x="280.0" y="1170.0" label="‘38"/>
+   <node id="NT1.16" x="286.0" y="327.0" label="79"/>
+   <node id="NT1.17" x="293.0" y="125.0" label="93"/>
+   <node id="NT1.18" x="315.0" y="413.0" label="93"/>
+   <node id="NT1.19" x="316.0" y="1052.0" label="99"/>
+   <node id="NT1.20" x="339.0" y="708.0" label="100"/>
+   <node id="NT1.21" x="343.0" y="89.0" label="76"/>
+   <node id="NT1.22" x="363.0" y="548.0" label="99"/>
+   <node id="NT1.23" label="NT1.23" x="365.0" y="932.0" otu="otu1"/>
+   <node id="NT1.24" x="376.0" y="743.0" label="so"/>
+   <node id="NT1.25" label="NT1.25" x="381.0" y="161.0" otu="otu2"/>
+   <node id="NT1.26" label="NT1.26" x="382.0" y="1189.0" otu="otu3"/>
+   <node id="NT1.27" label="NT1.27" x="390.0" y="1152.0" otu="otu4"/>
+   <node id="NT1.28" x="391.0" y="775.0" label="53"/>
+   <node id="NT1.29" label="NT1.29" x="400.0" y="271.0" otu="otu5"/>
+   <node id="NT1.30" x="416.0" y="802.0" label="65"/>
+   <node id="NT1.31" label="NT1.31" x="420.0" y="124.0" otu="otu6"/>
+   <node id="NT1.32" label="NT1.32" x="426.0" y="748.0" otu="otu7"/>
+   <node id="NT1.33" label="NT1.33" x="429.0" y="601.0" otu="otu8"/>
+   <node id="NT1.34" label="NT1.34" x="443.0" y="197.0" otu="otu9"/>
+   <node id="NT1.35" label="NT1.35" x="452.0" y="638.0" otu="otu10"/>
+   <node id="NT1.36" label="NT1.36" x="466.0" y="381.0" otu="otu11"/>
+   <node id="NT1.37" label="NT1.37" x="466.0" y="675.0" otu="otu12"/>
+   <node id="NT1.38" x="466.0" y="445.0" label="100"/>
+   <node id="NT1.39" label="NT1.39" x="467.0" y="528.0" otu="otu13"/>
+   <node id="NT1.40" label="NT1.40" x="469.0" y="492.0" otu="otu14"/>
+   <node id="NT1.41" x="469.0" y="456.0" label="100"/>
+   <node id="NT1.42" label="NT1.42" x="472.0" y="1079.0" otu="otu15"/>
+   <node id="NT1.43" label="NT1.43" x="473.0" y="712.0" otu="otu16"/>
+   <node id="NT1.44" label="NT1.44" x="485.0" y="858.0" otu="otu17"/>
+   <node id="NT1.45" label="NT1.45" x="486.0" y="455.0" otu="otu18"/>
+   <node id="NT1.46" label="NT1.46" x="487.0" y="345.0" otu="otu19"/>
+   <node id="NT1.47" x="493.0" y="52.0" label="100"/>
+   <node id="NT1.48" label="NT1.48" x="494.0" y="13.0" otu="otu20"/>
+   <node id="NT1.49" label="NT1.49" x="494.0" y="89.0" otu="otu21"/>
+   <node id="NT1.50" label="NT1.50" x="496.0" y="1024.0" otu="otu22"/>
+   <node id="NT1.51" label="NT1.51" x="500.0" y="822.0" otu="otu23"/>
+   <node id="NT1.52" label="NT1.52" x="510.0" y="418.0" otu="otu24"/>
+   <node id="NT1.53" label="NT1.53" x="533.0" y="565.0" otu="otu25"/>
+   <node id="NT1.54" label="NT1.54" x="541.0" y="307.0" otu="otu26"/>
+   <node id="NT1.55" label="NT1.55" x="561.0" y="785.0" otu="otu27"/>
+   <node id="NT1.56" label="NT1.56" x="576.0" y="969.0" otu="otu28"/>
+   <node id="NT1.57" label="NT1.57" x="616.0" y="895.0" otu="otu29"/>
+   <node id="NT1.58" label="NT1.58" x="616.0" y="1115.0" otu="otu30"/>
+   <node id="NT1.59" label="NT1.59" x="619.0" y="234.0" otu="otu31"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

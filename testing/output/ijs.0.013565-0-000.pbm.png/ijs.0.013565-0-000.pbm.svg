@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="282.0" cy="656.0" r="1.0"/>
+    <text stroke="none" x="282.0" y="656.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="436.0" cy="292.0" r="1.0"/>
+    <text stroke="none" x="436.0" y="292.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="443.0" cy="293.0" r="1.0"/>
+    <text stroke="none" x="443.0" y="293.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="481.0" cy="203.0" r="1.0"/>
+    <text stroke="none" x="481.0" y="203.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="483.0" cy="198.0" r="1.0"/>
+    <text stroke="none" x="483.0" y="198.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="489.0" cy="198.0" r="1.0"/>
+    <text stroke="none" x="489.0" y="198.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="547.0" cy="267.0" r="1.0"/>
+    <text stroke="none" x="547.0" y="267.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="552.0" cy="267.0" r="1.0"/>
+    <text stroke="none" x="552.0" y="267.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="586.0" cy="380.0" r="1.0"/>
+    <text stroke="none" x="586.0" y="380.0" font-size="10.0" font-family="helvetica">NT1.9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="591.0" cy="381.0" r="1.0"/>
+    <text stroke="none" x="591.0" y="381.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="636.0" cy="239.0" r="1.0"/>
+    <text stroke="none" x="636.0" y="239.0" font-size="20.0" font-family="helvetica">Lentibacillus jeotgali GrbiT (FJ 182050)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="640.0" cy="296.0" r="1.0"/>
+    <text stroke="none" x="640.0" y="296.0" font-size="20.0" font-family="helvetica">Lenribaclllus kapialis PN7—6T(AB231905)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="656.0" cy="14.0" r="1.0"/>
+    <text stroke="none" x="656.0" y="14.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="656.0" cy="352.0" r="1.0"/>
+    <text stroke="none" x="656.0" y="352.0" font-size="20.0" font-family="helvetica">Lentibacillusjurlpiscarius IS4O-3T (AB 127980)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="815.0" cy="409.0" r="1.0"/>
+    <text stroke="none" x="815.0" y="409.0" font-size="20.0" font-family="helvetica">Lentibacillus halophilus PSl 1-21 (AB 191345)</text>
+   </g>
+   <line stroke="black" x1="656.0" y1="14.0" x2="483.0" y2="198.0" stroke-width="0.5"/>
+   <line stroke="black" x1="489.0" y1="198.0" x2="483.0" y2="198.0" stroke-width="0.5"/>
+   <line stroke="black" x1="443.0" y1="293.0" x2="436.0" y2="292.0" stroke-width="0.5"/>
+   <line stroke="black" x1="552.0" y1="267.0" x2="547.0" y2="267.0" stroke-width="0.5"/>
+   <line stroke="black" x1="636.0" y1="239.0" x2="547.0" y2="267.0" stroke-width="0.5"/>
+   <line stroke="black" x1="591.0" y1="381.0" x2="586.0" y2="380.0" stroke-width="0.5"/>
+   <line stroke="black" x1="656.0" y1="352.0" x2="586.0" y2="380.0" stroke-width="0.5"/>
+   <line stroke="black" x1="815.0" y1="409.0" x2="586.0" y2="380.0" stroke-width="0.5"/>
+   <line stroke="black" x1="282.0" y1="656.0" x2="436.0" y2="292.0" stroke-width="0.5"/>
+   <line stroke="black" x1="483.0" y1="198.0" x2="481.0" y2="203.0" stroke-width="0.5"/>
+   <line stroke="black" x1="481.0" y1="203.0" x2="436.0" y2="292.0" stroke-width="0.5"/>
+   <line stroke="black" x1="481.0" y1="203.0" x2="547.0" y2="267.0" stroke-width="0.5"/>
+   <line stroke="black" x1="436.0" y1="292.0" x2="586.0" y2="380.0" stroke-width="0.5"/>
+   <line stroke="black" x1="640.0" y1="296.0" x2="547.0" y2="267.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

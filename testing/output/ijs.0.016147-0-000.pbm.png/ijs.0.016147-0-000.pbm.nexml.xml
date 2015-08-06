@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Xanthomonas campestris LMG 568T(X95917)</otu>
+  <otu id="otu2">Methylonatrum kenyense ATM 1T (DQ789390)</otu>
+  <otu id="otu3"> Thiococcus pfennigii 4250T (Y1 2373)</otu>
+  <otu id="otu4">Methylococcus capsulatus ACM 1 292T (X72770)</otu>
+  <otu id="otu5">Spongiibacter man'nus HAL4ObT (AM1 17932)</otu>
+  <otu id="otu6">Alkalflimnicola halodurans 34AICT (AJ404972)</otu>
+  <otu id="otu7"/>
+  <otu id="otu8"> Reinekea marinised/mentorum KMM (3655T (AJ561 121)</otu>
+  <otu id="otu9">Strain KMM 3900T (AB500095)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="156.0" y="417.0"/>
+   <node id="NT1.2" label="NT1.2" x="196.0" y="688.0"/>
+   <node id="NT1.3" x="197.0" y="241.0" label="72"/>
+   <node id="NT1.4" label="NT1.4" x="204.0" y="610.0"/>
+   <node id="NT1.5" label="NT1.5" x="232.0" y="333.0"/>
+   <node id="NT1.6" x="270.0" y="295.0" label="80"/>
+   <node id="NT1.7" label="NT1.7" x="273.0" y="737.0"/>
+   <node id="NT1.8" label="NT1.8" x="307.0" y="864.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="418.0" y="762.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="433.0" y="626.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="453.0" y="558.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="484.0" y="185.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="490.0" y="694.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="541.0" y="354.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="612.0" y="321.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="702.0" y="252.0" otu="otu9"/>
+   <node id="NT1.17" label="NT1.17" x="2.0" y="640.0" root="true"/>
+   <edge source="NT1.3" target="NT1.12"/>
+   <edge source="NT1.5" target="NT1.14"/>
+   <edge source="NT1.6" target="NT1.15"/>
+   <edge source="NT1.6" target="NT1.16"/>
+   <edge source="NT1.7" target="NT1.9"/>
+   <edge source="NT1.4" target="NT1.10"/>
+   <edge source="NT1.4" target="NT1.11"/>
+   <edge source="NT1.7" target="NT1.13"/>
+   <edge source="NT1.1" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.7"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.17" target="NT1.8"/>
+   <edge source="NT1.17" target="NT1.1"/>
+  </tree>
+ </trees>
+</nexml>

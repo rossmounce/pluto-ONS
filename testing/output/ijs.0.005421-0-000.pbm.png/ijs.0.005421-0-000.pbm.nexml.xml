@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Formosa algae KMM 3553T (AY228461)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Psychroserpens bunfonensis ACAM 188T (U62913)</otu>
+  <otu id="otu5">Gelidibacter algens ACAM 536T (U62914)</otu>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="2.0" y="62.0"/>
+   <node id="NT1.2" x="46.0" y="182.0" label="99"/>
+   <node id="NT1.3" label="NT1.3" x="217.0" y="251.0"/>
+   <node id="NT1.4" label="NT1.4" x="242.0" y="193.0"/>
+   <node id="NT1.5" label="NT1.5" x="254.0" y="10.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="254.0" y="310.0"/>
+   <node id="NT1.7" label="NT1.7" x="295.0" y="349.0"/>
+   <node id="NT1.8" label="NT1.8" x="370.0" y="270.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="374.0" y="166.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="379.0" y="114.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="382.0" y="61.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="403.0" y="219.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="403.0" y="323.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="487.0" y="375.0" otu="otu8"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

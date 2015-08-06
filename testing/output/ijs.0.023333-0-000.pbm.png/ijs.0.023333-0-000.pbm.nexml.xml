@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+  <otu id="otu9"/>
+  <otu id="otu10"/>
+  <otu id="otu11"/>
+  <otu id="otu12"/>
+  <otu id="otu13"/>
+  <otu id="otu14"/>
+  <otu id="otu15"/>
+  <otu id="otu16"/>
+  <otu id="otu17"/>
+  <otu id="otu18"/>
+  <otu id="otu19"/>
+  <otu id="otu20"/>
+  <otu id="otu21"/>
+  <otu id="otu22">Paracoccus denitrilicans DSM 413T (Y16929)</otu>
+  <otu id="otu23"/>
+  <otu id="otu24"/>
+  <otu id="otu25"/>
+  <otu id="otu26">Paracoccus pantotrophus ATCC 35512T(Y16933)</otu>
+  <otu id="otu27"/>
+  <otu id="otu28">Paracoccus versutus ATCC 25364T (Y16932)</otu>
+  <otu id="otu29"/>
+  <otu id="otu30"/>
+  <otu id="otu31">Paracoccus chinensis KS—11T(EU660389)</otu>
+  <otu id="otu32">Paracoccus bengalensis JJJT (A1864469)</otu>
+  <otu id="otu33">Paracoccus sulfuroxidans LW36T (DO512861)</otu>
+  <otu id="otu34">Paracoccus solvent/vorans DSM 6637T (YO7705)</otu>
+  <otu id="otu35">Paracoccus aminovorans JCM</otu>
+  <otu id="otu36">Paracoccus thiocyanatus TH|011T (D32242)</otu>
+  <otu id="otu37">Paracoccus halophilus HN—182T (DO423482)</otu>
+  <otu id="otu38"/>
+  <otu id="otu39">Paracoccus koreensis Ch05T (AB187584)</otu>
+  <otu id="otu40">Paracoccus aminophilus JCM 7686T (D32239)</otu>
+  <otu id="otu41">Paracoccus kondratievae GBT (AF250332)</otu>
+  <otu id="otu42">ParacoccusyeeiG1212T(AYO14173)</otu>
+  <otu id="otu43"/>
+  <otu id="otu44">Paracoccus saliph/lus YIM 90738T (DOQ23133)</otu>
+  <otu id="otu45">Paracoccus alcaliphilus JCM</otu>
+  <otu id="otu46">Paracoccus seriniphilus MBT—A4T (AJ428275)</otu>
+  <otu id="otu47">Paracoccus alkenifer 901 /1T (Y1 3827)</otu>
+  <otu id="otu48"/>
+  <otu id="otu49">Paracoccus kocurii JCM 7684T (D32241)</otu>
+  <otu id="otu50">Paracoccus fistulariae 22—5T (60260189)</otu>
+  <otu id="otu51">Paracoccus marcusiiDSM11574T(Y12703)</otu>
+  <otu id="otu52">Paracoccus haeundaensis BC74171T(AY189743)</otu>
+  <otu id="otu53">Paracoccus carotinifaciens E—396T (ABOO6899)</otu>
+  <otu id="otu54">Paracoccus methylutens DM12T (AF250334)</otu>
+  <otu id="otu55">Pelagibaca bermudensis HTCC 2601 T (D01 78660)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="119.0" y="749.0"/>
+   <node id="NT1.2" label="NT1.2" x="156.0" y="527.0"/>
+   <node id="NT1.3" label="NT1.3" x="179.0" y="326.0"/>
+   <node id="NT1.4" label="NT1.4" x="183.0" y="803.0"/>
+   <node id="NT1.5" label="NT1.5" x="190.0" y="877.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="197.0" y="868.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="197.0" y="699.0"/>
+   <node id="NT1.8" label="NT1.8" x="200.0" y="862.0"/>
+   <node id="NT1.9" label="NT1.9" x="205.0" y="874.0"/>
+   <node id="NT1.10" label="NT1.10" x="207.0" y="844.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="211.0" y="871.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="211.0" y="403.0"/>
+   <node id="NT1.13" label="NT1.13" x="212.0" y="883.0"/>
+   <node id="NT1.14" label="NT1.14" x="215.0" y="157.0"/>
+   <node id="NT1.15" label="NT1.15" x="220.0" y="378.0"/>
+   <node id="NT1.16" label="NT1.16" x="221.0" y="885.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="221.0" y="96.0"/>
+   <node id="NT1.18" label="NT1.18" x="222.0" y="693.0" otu="otu6"/>
+   <node id="NT1.19" label="NT1.19" x="222.0" y="686.0" otu="otu7"/>
+   <node id="NT1.20" label="NT1.20" x="224.0" y="692.0"/>
+   <node id="NT1.21" label="NT1.21" x="226.0" y="382.0"/>
+   <node id="NT1.22" label="NT1.22" x="226.0" y="371.0"/>
+   <node id="NT1.23" label="NT1.23" x="228.0" y="132.0"/>
+   <node id="NT1.24" label="NT1.24" x="234.0" y="129.0"/>
+   <node id="NT1.25" label="NT1.25" x="234.0" y="139.0"/>
+   <node id="NT1.26" label="NT1.26" x="237.0" y="44.0" otu="otu8"/>
+   <node id="NT1.27" label="NT1.27" x="237.0" y="706.0"/>
+   <node id="NT1.28" label="NT1.28" x="238.0" y="41.0" otu="otu9"/>
+   <node id="NT1.29" label="NT1.29" x="238.0" y="134.0"/>
+   <node id="NT1.30" label="NT1.30" x="239.0" y="39.0"/>
+   <node id="NT1.31" label="NT1.31" x="240.0" y="134.0" otu="otu10"/>
+   <node id="NT1.32" label="NT1.32" x="240.0" y="543.0"/>
+   <node id="NT1.33" label="NT1.33" x="242.0" y="477.0"/>
+   <node id="NT1.34" label="NT1.34" x="247.0" y="46.0"/>
+   <node id="NT1.35" label="NT1.35" x="254.0" y="215.0"/>
+   <node id="NT1.36" label="NT1.36" x="257.0" y="919.0"/>
+   <node id="NT1.37" label="NT1.37" x="263.0" y="920.0" otu="otu11"/>
+   <node id="NT1.38" label="NT1.38" x="267.0" y="31.0"/>
+   <node id="NT1.39" label="NT1.39" x="268.0" y="669.0"/>
+   <node id="NT1.40" label="NT1.40" x="273.0" y="31.0" otu="otu12"/>
+   <node id="NT1.41" label="NT1.41" x="275.0" y="672.0"/>
+   <node id="NT1.42" label="NT1.42" x="275.0" y="662.0"/>
+   <node id="NT1.43" label="NT1.43" x="278.0" y="667.0"/>
+   <node id="NT1.44" label="NT1.44" x="280.0" y="667.0" otu="otu13"/>
+   <node id="NT1.45" label="NT1.45" x="291.0" y="859.0" otu="otu14"/>
+   <node id="NT1.46" label="NT1.46" x="291.0" y="865.0" otu="otu15"/>
+   <node id="NT1.47" label="NT1.47" x="294.0" y="257.0" otu="otu16"/>
+   <node id="NT1.48" label="NT1.48" x="294.0" y="862.0" otu="otu17"/>
+   <node id="NT1.49" label="NT1.49" x="296.0" y="266.0" otu="otu18"/>
+   <node id="NT1.50" label="NT1.50" x="297.0" y="862.0"/>
+   <node id="NT1.51" x="302.0" y="620.0" label="98"/>
+   <node id="NT1.52" label="NT1.52" x="303.0" y="855.0"/>
+   <node id="NT1.53" label="NT1.53" x="305.0" y="250.0"/>
+   <node id="NT1.54" x="310.0" y="626.0" label="98"/>
+   <node id="NT1.55" label="NT1.55" x="312.0" y="851.0" otu="otu19"/>
+   <node id="NT1.56" label="NT1.56" x="314.0" y="248.0" otu="otu20"/>
+   <node id="NT1.57" label="NT1.57" x="314.0" y="617.0" otu="otu21"/>
+   <node id="NT1.58" label="NT1.58" x="316.0" y="116.0" otu="otu22"/>
+   <node id="NT1.59" label="NT1.59" x="317.0" y="638.0" otu="otu23"/>
+   <node id="NT1.60" label="NT1.60" x="317.0" y="627.0" otu="otu24"/>
+   <node id="NT1.61" x="317.0" y="617.0" label="98"/>
+   <node id="NT1.62" x="318.0" y="614.0" label="98"/>
+   <node id="NT1.63" label="NT1.63" x="319.0" y="428.0" otu="otu25"/>
+   <node id="NT1.64" label="NT1.64" x="323.0" y="664.0" otu="otu26"/>
+   <node id="NT1.65" label="NT1.65" x="327.0" y="479.0" otu="otu27"/>
+   <node id="NT1.66" label="NT1.66" x="327.0" y="594.0" otu="otu28"/>
+   <node id="NT1.67" x="327.0" y="612.0" label="98"/>
+   <node id="NT1.68" label="NT1.68" x="333.0" y="611.0" otu="otu29"/>
+   <node id="NT1.69" label="NT1.69" x="335.0" y="393.0" otu="otu30"/>
+   <node id="NT1.70" label="NT1.70" x="335.0" y="800.0" otu="otu31"/>
+   <node id="NT1.71" label="NT1.71" x="338.0" y="629.0" otu="otu32"/>
+   <node id="NT1.72" label="NT1.72" x="349.0" y="971.0" otu="otu33"/>
+   <node id="NT1.73" label="NT1.73" x="358.0" y="835.0" otu="otu34"/>
+   <node id="NT1.74" label="NT1.74" x="360.0" y="82.0" otu="otu35"/>
+   <node id="NT1.75" label="NT1.75" x="364.0" y="48.0" otu="otu36"/>
+   <node id="NT1.76" label="NT1.76" x="369.0" y="766.0" otu="otu37"/>
+   <node id="NT1.77" label="NT1.77" x="371.0" y="462.0" otu="otu38"/>
+   <node id="NT1.78" label="NT1.78" x="372.0" y="903.0" otu="otu39"/>
+   <node id="NT1.79" label="NT1.79" x="375.0" y="150.0" otu="otu40"/>
+   <node id="NT1.80" label="NT1.80" x="380.0" y="732.0" otu="otu41"/>
+   <node id="NT1.81" label="NT1.81" x="384.0" y="14.0" otu="otu42"/>
+   <node id="NT1.82" label="NT1.82" x="402.0" y="496.0" otu="otu43"/>
+   <node id="NT1.83" label="NT1.83" x="402.0" y="526.0" otu="otu44"/>
+   <node id="NT1.84" label="NT1.84" x="408.0" y="185.0" otu="otu45"/>
+   <node id="NT1.85" label="NT1.85" x="411.0" y="219.0" otu="otu46"/>
+   <node id="NT1.86" label="NT1.86" x="423.0" y="869.0" otu="otu47"/>
+   <node id="NT1.87" label="NT1.87" x="426.0" y="359.0" otu="otu48"/>
+   <node id="NT1.88" label="NT1.88" x="432.0" y="937.0" otu="otu49"/>
+   <node id="NT1.89" label="NT1.89" x="441.0" y="561.0" otu="otu50"/>
+   <node id="NT1.90" label="NT1.90" x="455.0" y="278.0"/>
+   <node id="NT1.91" label="NT1.91" x="456.0" y="252.0" otu="otu51"/>
+   <node id="NT1.92" label="NT1.92" x="458.0" y="288.0"/>
+   <node id="NT1.93" label="NT1.93" x="476.0" y="322.0" otu="otu52"/>
+   <node id="NT1.94" label="NT1.94" x="477.0" y="287.0" otu="otu53"/>
+   <node id="NT1.95" label="NT1.95" x="529.0" y="698.0" otu="otu54"/>
+   <node id="NT1.96" label="NT1.96" x="529.0" y="1006.0" otu="otu55"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

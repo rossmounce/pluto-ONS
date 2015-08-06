@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">F. islandicum H21T(M59176)</otu>
+  <otu id="otu2">F. changbaicum CBS-1T (AY878719)</otu>
+  <otu id="otu3">F. pennivorans (EF565822)</otu>
+  <otu id="otu4">F. nodosum Rt17-B1T(CPOOO771)</otu>
+  <otu id="otu5">F. riparium 1445tT (EU851047)</otu>
+  <otu id="otu6">Thermotoga maritima MSBBT (AE000512)</otu>
+  <otu id="otu7">F. gondwanense A839T (Z491 1 7)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="186.0" y="131.0"/>
+   <node id="NT1.2" label="NT1.2" x="208.0" y="63.0"/>
+   <node id="NT1.3" label="NT1.3" x="211.0" y="154.0"/>
+   <node id="NT1.4" label="NT1.4" x="222.0" y="182.0"/>
+   <node id="NT1.5" label="NT1.5" x="246.0" y="164.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="261.0" y="201.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="267.0" y="127.0" otu="otu3"/>
+   <node id="NT1.8" x="292.0" y="35.0" label="100"/>
+   <node id="NT1.9" label="NT1.9" x="309.0" y="90.0" otu="otu4"/>
+   <node id="NT1.10" label="NT1.10" x="325.0" y="16.0" otu="otu5"/>
+   <node id="NT1.11" label="NT1.11" x="361.0" y="238.0" otu="otu6"/>
+   <node id="NT1.12" label="NT1.12" x="362.0" y="54.0" otu="otu7"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

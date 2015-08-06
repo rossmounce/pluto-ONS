@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Natrialba asiatica 172P1T(D14123)</otu>
+  <otu id="otu5">Nat/onerubrum tibetense GASST (AB005656)</otu>
+  <otu id="otu6">Halopiger xanaduensis SH-GT (AM2681 14)</otu>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+  <otu id="otu9"/>
+  <otu id="otu10">Halobiforma nitratileducens 02131T (NR_028153)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Halovivax ruberXH-70T (AM269467)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="45.0" y="242.0"/>
+   <node id="NT1.2" label="NT1.2" x="65.0" y="478.0"/>
+   <node id="NT1.3" label="NT1.3" x="146.0" y="326.0"/>
+   <node id="NT1.4" label="NT1.4" x="234.0" y="176.0"/>
+   <node id="NT1.5" label="NT1.5" x="271.0" y="307.0"/>
+   <node id="NT1.6" label="NT1.6" x="366.0" y="286.0"/>
+   <node id="NT1.7" label="NT1.7" x="557.0" y="264.0"/>
+   <node id="NT1.8" label="NT1.8" x="576.0" y="91.0"/>
+   <node id="NT1.9" label="NT1.9" x="624.0" y="502.0" otu="otu1"/>
+   <node id="NT1.10" label="NT1.10" x="789.0" y="457.0" otu="otu2"/>
+   <node id="NT1.11" label="NT1.11" x="834.0" y="200.0" otu="otu3"/>
+   <node id="NT1.12" label="NT1.12" x="880.0" y="416.0" otu="otu4"/>
+   <node id="NT1.13" label="NT1.13" x="902.0" y="547.0" otu="otu5"/>
+   <node id="NT1.14" label="NT1.14" x="1029.0" y="115.0" otu="otu6"/>
+   <node id="NT1.15" label="NT1.15" x="1053.0" y="156.0" otu="otu7"/>
+   <node id="NT1.16" label="NT1.16" x="1164.0" y="72.0" otu="otu8"/>
+   <node id="NT1.17" label="NT1.17" x="1232.0" y="373.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="1338.0" y="242.0" otu="otu10"/>
+   <node id="NT1.19" label="NT1.19" x="1353.0" y="286.0" otu="otu11"/>
+   <node id="NT1.20" label="NT1.20" x="1362.0" y="329.0" otu="otu12"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Pedobacter roseus CL-GP80T (D01 12353)</otu>
+  <otu id="otu5">[Flexibacter] canadensis</otu>
+  <otu id="otu6">Sphingobacterium multivorum CR11</otu>
+  <otu id="otu7">Nubsella zeaxanthinifaciens TDMA-5T (AB264126)</otu>
+  <otu id="otu8">Strain WPCB133T(EU747841)</otu>
+  <otu id="otu9">Mucilaginibacter paludis TPT56T (AM490402)</otu>
+  <otu id="otu10">Mucilaginibacter kameinonensis SCKT (AB330392)</otu>
+  <otu id="otu11">Pedobacter heparinus DSM 2366T (AJ4381 72)</otu>
+  <otu id="otu12">Sphingobacterium spirit/vorum ATCC 33861T (M58778)</otu>
+  <otu id="otu13">Mucilaginibacter gracilis TPT18T (AM490403)</otu>
+  <otu id="otu14">Parapedobacter soli DCY14T (EF151805)</otu>
+  <otu id="otu15">Parapedobacter koreensis Jip14T (DQ680836)</otu>
+  <otu id="otu16">Pseudosphingobacterium domesticum DC—186T (AM407725)</otu>
+  <otu id="otu17">Olivibacter sitiensis AW—6T (DQ421387)</otu>
+  <otu id="otu18">Hymenobacter rigui WPCB 131 T (00089669)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="30.0" y="501.0"/>
+   <node id="NT1.2" label="NT1.2" x="83.0" y="350.0"/>
+   <node id="NT1.3" label="NT1.3" x="105.0" y="502.0"/>
+   <node id="NT1.4" label="NT1.4" x="108.0" y="196.0"/>
+   <node id="NT1.5" label="NT1.5" x="127.0" y="260.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="127.0" y="253.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="131.0" y="256.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="131.0" y="575.0"/>
+   <node id="NT1.9" label="NT1.9" x="139.0" y="259.0"/>
+   <node id="NT1.10" label="NT1.10" x="169.0" y="120.0"/>
+   <node id="NT1.11" label="NT1.11" x="179.0" y="431.0"/>
+   <node id="NT1.12" label="NT1.12" x="180.0" y="77.0"/>
+   <node id="NT1.13" label="NT1.13" x="205.0" y="235.0"/>
+   <node id="NT1.14" label="NT1.14" x="206.0" y="382.0"/>
+   <node id="NT1.15" label="NT1.15" x="231.0" y="41.0"/>
+   <node id="NT1.16" label="NT1.16" x="263.0" y="259.0" otu="otu4"/>
+   <node id="NT1.17" label="NT1.17" x="267.0" y="477.0"/>
+   <node id="NT1.18" label="NT1.18" x="272.0" y="649.0" otu="otu5"/>
+   <node id="NT1.19" label="NT1.19" x="277.0" y="552.0" otu="otu6"/>
+   <node id="NT1.20" label="NT1.20" x="282.0" y="308.0" otu="otu7"/>
+   <node id="NT1.21" label="NT1.21" x="288.0" y="161.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="301.0" y="64.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="302.0" y="112.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="306.0" y="210.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="307.0" y="601.0" otu="otu12"/>
+   <node id="NT1.26" label="NT1.26" x="309.0" y="15.0" otu="otu13"/>
+   <node id="NT1.27" label="NT1.27" x="349.0" y="503.0" otu="otu14"/>
+   <node id="NT1.28" label="NT1.28" x="353.0" y="454.0" otu="otu15"/>
+   <node id="NT1.29" label="NT1.29" x="370.0" y="405.0" otu="otu16"/>
+   <node id="NT1.30" label="NT1.30" x="449.0" y="357.0" otu="otu17"/>
+   <node id="NT1.31" label="NT1.31" x="520.0" y="698.0" otu="otu18"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

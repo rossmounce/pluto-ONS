@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Cupriav/dus campinensis WS2T [AF312020]</otu>
+  <otu id="otu2">Burkholderia cepacia ATCC 25416T [M22518]</otu>
+  <otu id="otu3">Ralstonia solanacearum ATCC 1 1696T [X67036]</otu>
+  <otu id="otu4">Ralstonia pickettiiATCC 2751 1T [AY741342]</otu>
+  <otu id="otu5">Cupriavidus metallidurans CH34T [Y10824]</otu>
+  <otu id="otu6">Comamonas terrigena LMG 1253T [N430342]</otu>
+  <otu id="otu7">Polynucleobacter cosmopolitanus MWH—Molso2T [AJ550672]</otu>
+  <otu id="otu8">Polynucleobacter necessarius subsp. asymbioticus OLW-P1DMWA-1T [AJ879783]</otu>
+  <otu id="otu9">MT-CBb6A5T [FM208182]</otu>
+  <otu id="otu10">Polynucleobacter necessarius subsp. necessarius ‘E24' [AM397067]</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="84.0" y="241.0"/>
+   <node id="NT1.2" label="NT1.2" x="235.0" y="146.0"/>
+   <node id="NT1.3" label="NT1.3" x="303.0" y="235.0"/>
+   <node id="NT1.4" label="NT1.4" x="343.0" y="198.0"/>
+   <node id="NT1.5" label="NT1.5" x="419.0" y="177.0" otu="otu1"/>
+   <node id="NT1.6" label="NT1.6" x="421.0" y="275.0"/>
+   <node id="NT1.7" label="NT1.7" x="461.0" y="335.0" otu="otu2"/>
+   <node id="NT1.8" label="NT1.8" x="494.0" y="296.0" otu="otu3"/>
+   <node id="NT1.9" label="NT1.9" x="495.0" y="55.0"/>
+   <node id="NT1.10" label="NT1.10" x="506.0" y="256.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="511.0" y="217.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="524.0" y="87.0"/>
+   <node id="NT1.13" label="NT1.13" x="629.0" y="375.0" otu="otu6"/>
+   <node id="NT1.14" x="652.0" y="117.0" label="100"/>
+   <node id="NT1.15" label="NT1.15" x="654.0" y="58.0" otu="otu7"/>
+   <node id="NT1.16" label="NT1.16" x="661.0" y="138.0" otu="otu8"/>
+   <node id="NT1.17" label="NT1.17" x="675.0" y="19.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="694.0" y="98.0" otu="otu10"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

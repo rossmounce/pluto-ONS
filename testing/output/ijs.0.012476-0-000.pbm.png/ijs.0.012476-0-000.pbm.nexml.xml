@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5">Winogradskyella thalassocola KMM 3907T (AY521223)</otu>
+  <otu id="otu6">Lacinutrix copepodicola DJ3T (AY694001)</otu>
+  <otu id="otu7"/>
+  <otu id="otu8">Winogradskyella eXim/a KMM 3944T (AY521 225)</otu>
+  <otu id="otu9">Winogradskyella epiphyt/ca KMM 3906T (AY521 224)</otu>
+  <otu id="otu10">Winogradskyella exilis 022-2-26T (FJ595484)</otu>
+  <otu id="otu11">WinogradskyelIa poriferorum UST030701 -295T (AY848823)</otu>
+  <otu id="otu12">Gilv/bacter sed/minis Mok—1 —36T (AB255368)</otu>
+  <otu id="otu13">U/vibacter antarcticus |MCC3101T(EF554364)</otu>
+  <otu id="otu14">U/vibacter litoralis KMM 391 2T (AY243096)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="20.0" y="229.0"/>
+   <node id="NT1.2" label="NT1.2" x="82.0" y="149.0"/>
+   <node id="NT1.3" label="NT1.3" x="91.0" y="149.0" otu="otu1"/>
+   <node id="NT1.4" label="NT1.4" x="94.0" y="427.0"/>
+   <node id="NT1.5" label="NT1.5" x="102.0" y="428.0" otu="otu2"/>
+   <node id="NT1.6" x="111.0" y="95.0" label="82"/>
+   <node id="NT1.7" label="NT1.7" x="111.0" y="226.0"/>
+   <node id="NT1.8" label="NT1.8" x="118.0" y="95.0" otu="otu3"/>
+   <node id="NT1.9" label="NT1.9" x="125.0" y="238.0" otu="otu4"/>
+   <node id="NT1.10" label="NT1.10" x="191.0" y="385.0"/>
+   <node id="NT1.11" label="NT1.11" x="194.0" y="214.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="196.0" y="314.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="198.0" y="386.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="221.0" y="167.0" otu="otu8"/>
+   <node id="NT1.15" label="NT1.15" x="223.0" y="262.0" otu="otu9"/>
+   <node id="NT1.16" label="NT1.16" x="247.0" y="72.0" otu="otu10"/>
+   <node id="NT1.17" label="NT1.17" x="254.0" y="120.0" otu="otu11"/>
+   <node id="NT1.18" label="NT1.18" x="267.0" y="459.0" otu="otu12"/>
+   <node id="NT1.19" label="NT1.19" x="280.0" y="408.0" otu="otu13"/>
+   <node id="NT1.20" label="NT1.20" x="327.0" y="360.0" otu="otu14"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

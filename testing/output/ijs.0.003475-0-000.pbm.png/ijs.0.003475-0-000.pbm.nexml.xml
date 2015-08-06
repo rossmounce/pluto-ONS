@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="10.0" y="470.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="144.0" y="152.0"/>
+   <node id="NT1.3" label="NT1.3" x="455.0" y="43.0" otu="otu2"/>
+   <node id="NT1.4" label="NT1.4" x="466.0" y="186.0" otu="otu3"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.4"/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="0.0" cy="411.0" r="1.0"/>
+    <text stroke="none" x="0.0" y="411.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="234.0" cy="273.0" r="1.0"/>
+    <text stroke="none" x="234.0" y="273.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="366.0" cy="128.0" r="1.0"/>
+    <text stroke="none" x="366.0" y="128.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="530.0" cy="206.0" r="1.0"/>
+    <text stroke="none" x="530.0" y="206.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="582.0" cy="418.0" r="1.0"/>
+    <text stroke="none" x="582.0" y="418.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="671.0" cy="366.0" r="1.0"/>
+    <text stroke="none" x="671.0" y="366.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="704.0" cy="393.0" r="1.0"/>
+    <text stroke="none" x="704.0" y="393.0" font-size="20.0" font-family="helvetica"> P. kishitanii NCIMB 844</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="715.0" cy="471.0" r="1.0"/>
+    <text stroke="none" x="715.0" y="471.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="716.0" cy="445.0" r="1.0"/>
+    <text stroke="none" x="716.0" y="445.0" font-size="20.0" font-family="helvetica">P. phosphoreum ATCC 11040T (AY341063)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="725.0" cy="339.0" r="1.0"/>
+    <text stroke="none" x="725.0" y="339.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="728.0" cy="498.0" r="1.0"/>
+    <text stroke="none" x="728.0" y="498.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="798.0" cy="259.0" r="1.0"/>
+    <text stroke="none" x="798.0" y="259.0" font-size="10.0" font-family="helvetica">NT1.12</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="799.0" cy="286.0" r="1.0"/>
+    <text stroke="none" x="799.0" y="286.0" font-size="20.0" font-family="helvetica">P. IeiognathiATCC 27561</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="799.0" cy="233.0" r="1.0"/>
+    <text stroke="none" x="799.0" y="233.0" font-size="20.0" font-family="helvetica">P. Ieiognathi</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="818.0" cy="154.0" r="1.0"/>
+    <text stroke="none" x="818.0" y="154.0" font-size="10.0" font-family="helvetica">NT1.15</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="819.0" cy="181.0" r="1.0"/>
+    <text stroke="none" x="819.0" y="181.0" font-size="20.0" font-family="helvetica">LC2-065T (AB428891)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="820.0" cy="127.0" r="1.0"/>
+    <text stroke="none" x="820.0" y="127.0" font-size="20.0" font-family="helvetica">ch-ose (AB428892)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1226.0" cy="48.0" r="1.0"/>
+    <text stroke="none" x="1226.0" y="48.0" font-size="10.0" font-family="helvetica">NT1.18</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1230.0" cy="21.0" r="1.0"/>
+    <text stroke="none" x="1230.0" y="21.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1230.0" cy="75.0" r="1.0"/>
+    <text stroke="none" x="1230.0" y="75.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <line stroke="black" x1="1230.0" y1="21.0" x2="1226.0" y2="48.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1230.0" y1="75.0" x2="1226.0" y2="48.0" stroke-width="0.5"/>
+   <line stroke="black" x1="799.0" y1="286.0" x2="798.0" y2="259.0" stroke-width="0.5"/>
+   <line stroke="black" x1="799.0" y1="233.0" x2="798.0" y2="259.0" stroke-width="0.5"/>
+   <line stroke="black" x1="820.0" y1="127.0" x2="818.0" y2="154.0" stroke-width="0.5"/>
+   <line stroke="black" x1="819.0" y1="181.0" x2="818.0" y2="154.0" stroke-width="0.5"/>
+   <line stroke="black" x1="0.0" y1="411.0" x2="234.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="704.0" y1="393.0" x2="671.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="716.0" y1="445.0" x2="715.0" y2="471.0" stroke-width="0.5"/>
+   <line stroke="black" x1="725.0" y1="339.0" x2="671.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="728.0" y1="498.0" x2="715.0" y2="471.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1226.0" y1="48.0" x2="366.0" y2="128.0" stroke-width="0.5"/>
+   <line stroke="black" x1="366.0" y1="128.0" x2="234.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="366.0" y1="128.0" x2="530.0" y2="206.0" stroke-width="0.5"/>
+   <line stroke="black" x1="530.0" y1="206.0" x2="798.0" y2="259.0" stroke-width="0.5"/>
+   <line stroke="black" x1="530.0" y1="206.0" x2="818.0" y2="154.0" stroke-width="0.5"/>
+   <line stroke="black" x1="234.0" y1="273.0" x2="582.0" y2="418.0" stroke-width="0.5"/>
+   <line stroke="black" x1="582.0" y1="418.0" x2="715.0" y2="471.0" stroke-width="0.5"/>
+   <line stroke="black" x1="582.0" y1="418.0" x2="671.0" y2="366.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

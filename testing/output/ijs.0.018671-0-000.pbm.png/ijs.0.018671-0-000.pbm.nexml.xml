@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8">Thalassolituus olelvorans MIL-1T(AJ431 699)</otu>
+  <otu id="otu9"/>
+  <otu id="otu10"/>
+  <otu id="otu11">Oleisp/ra antarctica RB—8T (AJ426420)</otu>
+  <otu id="otu12"/>
+  <otu id="otu13">Uncultured marine bacterium clone Surf1.32 (DOO71156)</otu>
+  <otu id="otu14">Oceaniserpentilla haliotis DSM 19503T (AM 74781 7)</otu>
+  <otu id="otu15">Pseudomonas aeruginosa LMG 1242T (276651)</otu>
+  <otu id="otu16"/>
+  <otu id="otu17">Oceanobacter kr/egii IFO 15467T (ABOOG767)</otu>
+  <otu id="otu18">Oleibacter marinus 1018 (AB435651)</otu>
+  <otu id="otu19">Oleibacter marinus 1014 (AB435650)</otu>
+  <otu id="otu20">Uncultured bacterium clone ZA37060 (AF382127)</otu>
+  <otu id="otu21">Oleibacter marinus 1014 (AB435650)</otu>
+  <otu id="otu22">Oleibacter marinus 201T(AB435649)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="37.0" y="316.0"/>
+   <node id="NT1.2" label="NT1.2" x="74.0" y="315.0" otu="otu1"/>
+   <node id="NT1.3" x="83.0" y="373.0" label="524"/>
+   <node id="NT1.4" label="NT1.4" x="88.0" y="374.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="169.0" y="264.0"/>
+   <node id="NT1.6" x="169.0" y="403.0" label="963"/>
+   <node id="NT1.7" label="NT1.7" x="173.0" y="264.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="173.0" y="402.0" otu="otu4"/>
+   <node id="NT1.9" x="246.0" y="220.0" label="96‘"/>
+   <node id="NT1.10" label="NT1.10" x="250.0" y="220.0" otu="otu5"/>
+   <node id="NT1.11" label="NT1.11" x="252.0" y="385.0" otu="otu6"/>
+   <node id="NT1.12" label="NT1.12" x="262.0" y="170.0" otu="otu7"/>
+   <node id="NT1.13" label="NT1.13" x="262.0" y="309.0" otu="otu8"/>
+   <node id="NT1.14" x="284.0" y="115.0" label="—‘"/>
+   <node id="NT1.15" x="286.0" y="218.0" label="96‘"/>
+   <node id="NT1.16" x="288.0" y="220.0" label="96‘"/>
+   <node id="NT1.17" label="NT1.17" x="289.0" y="123.0" otu="otu9"/>
+   <node id="NT1.18" label="NT1.18" x="291.0" y="220.0" otu="otu10"/>
+   <node id="NT1.19" label="NT1.19" x="306.0" y="345.0" otu="otu11"/>
+   <node id="NT1.20" label="NT1.20" x="307.0" y="162.0" otu="otu12"/>
+   <node id="NT1.21" label="NT1.21" x="309.0" y="239.0" otu="otu13"/>
+   <node id="NT1.22" label="NT1.22" x="314.0" y="423.0" otu="otu14"/>
+   <node id="NT1.23" label="NT1.23" x="314.0" y="463.0" otu="otu15"/>
+   <node id="NT1.24" label="NT1.24" x="317.0" y="200.0" otu="otu16"/>
+   <node id="NT1.25" label="NT1.25" x="331.0" y="273.0" otu="otu17"/>
+   <node id="NT1.26" label="NT1.26" x="336.0" y="124.0" otu="otu18"/>
+   <node id="NT1.27" label="NT1.27" x="340.0" y="86.0" otu="otu19"/>
+   <node id="NT1.28" label="NT1.28" x="343.0" y="15.0" otu="otu20"/>
+   <node id="NT1.29" label="NT1.29" x="343.0" y="50.0"/>
+   <node id="NT1.30" label="NT1.30" x="345.0" y="87.0" otu="otu21"/>
+   <node id="NT1.31" label="NT1.31" x="348.0" y="50.0" otu="otu22"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

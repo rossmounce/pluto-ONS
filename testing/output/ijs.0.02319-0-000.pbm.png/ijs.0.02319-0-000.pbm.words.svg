@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <svg font-family="helvetica" font-size="10.0" tesseractVersion="tesseract 3.03">
+  <g class="wordPageList">
+   <g class="wordPage" id="page_1">
+    <g class="wordBlock" id="block_1_1">
+     <g class="para" id="par_1_1">
+      <g id="line_1_1" baseline="(0.0,634.0)" font-size="24.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="453.0" y="0.0" width="339.0" height="24.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_1"/>
+      </g>
+      <g id="line_1_2" baseline="(0.0,-94.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="453.0" y="24.0" width="478.0" height="134.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_2"/>
+       <g class="word" id="word_1_3"/>
+      </g>
+      <g id="line_1_3" baseline="(0.0,-11.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="213.0" y="158.0" width="718.0" height="47.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_4"/>
+      </g>
+      <g id="line_1_4" baseline="(-0.002,0.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="124.0" y="205.0" width="807.0" height="38.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_5"/>
+      </g>
+      <g id="line_1_5" baseline="(0.0,-141.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="2.0" y="243.0" width="809.0" height="177.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_6"/>
+      </g>
+      <g id="line_1_6" baseline="(0.001,-7.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="2.0" y="420.0" width="874.0" height="40.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_7"/>
+      </g>
+      <g id="line_1_7" baseline="(0.0,158.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="150.0" y="460.0" width="726.0" height="40.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_8"/>
+      </g>
+      <g id="line_1_8" baseline="(0.0,0.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="447.0" y="606.0" width="270.0" height="52.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_9"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_2">
+     <g class="para" id="par_1_2">
+      <g id="line_1_9" baseline="(-0.002,-12.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="447.0" y="34.0" width="469.0" height="32.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_10" class="word" x_wconf="55">
+        <rect stroke="black" stroke-width="1.0" x="447.0" y="49.0" width="45.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="17.0" x="447.0" y="66.0" font-style="bold">TF4</text>
+       </g>
+       <g id="word_1_11" class="word" x_wconf="74">
+        <rect stroke="black" stroke-width="1.0" x="496.0" y="49.0" width="36.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="496.0" y="66.0" font-style="bold">292</text>
+       </g>
+       <g id="word_1_12" class="word" x_wconf="76">
+        <rect stroke="black" stroke-width="1.0" x="811.0" y="35.0" width="87.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="19.0" x="811.0" y="54.0" font-style="bold">Cluster</text>
+       </g>
+       <g id="word_1_13" class="word" x_wconf="93">
+        <rect stroke="black" stroke-width="1.0" x="907.0" y="34.0" width="9.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="24.700000000000003" x="907.0" y="53.0">1</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_3">
+     <g class="para" id="par_1_3">
+      <g id="line_1_10" baseline="(0.0,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="419.0" y="120.0" width="45.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_14" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="419.0" y="120.0" width="45.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="18.0" x="419.0" y="138.0">TFG</text>
+       </g>
+      </g>
+      <g id="line_1_11" baseline="(-0.008,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="153.0" y="167.0" width="132.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_15" class="word" x_wconf="93">
+        <rect stroke="black" stroke-width="1.0" x="153.0" y="168.0" width="49.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="17.0" x="153.0" y="185.0" font-style="bold">VKM</text>
+       </g>
+       <g id="word_1_16" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="212.0" y="168.0" width="32.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="212.0" y="184.0" font-style="bold">3-1</text>
+       </g>
+       <g id="word_1_17" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="250.0" y="167.0" width="35.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="250.0" y="184.0" font-style="bold">160</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_4">
+     <g class="para" id="par_1_4">
+      <g id="line_1_12" baseline="(-0.008,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="62.0" y="214.0" width="119.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_18" class="word" x_wconf="94">
+        <rect stroke="black" stroke-width="1.0" x="62.0" y="215.0" width="49.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="17.0" x="62.0" y="232.0" font-style="bold">VKM</text>
+       </g>
+       <g id="word_1_19" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="121.0" y="214.0" width="60.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="121.0" y="231.0" font-style="bold">3-458</text>
+       </g>
+      </g>
+      <g id="line_1_13" baseline="(-0.008,0.0)" font-size="18.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="813.0" y="252.0" width="133.0" height="18.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_20" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="813.0" y="252.0" width="62.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="18.0" x="813.0" y="270.0" font-style="bold">ATCC</text>
+       </g>
+       <g id="word_1_21" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="885.0" y="252.0" width="61.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="22.1" x="885.0" y="269.0" font-style="bold">19859</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_5">
+     <g class="para" id="par_1_5">
+      <g id="line_1_14" baseline="(0.0,205.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="215.0" y="421.0" width="36.0" height="32.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_22"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_6">
+     <g class="para" id="par_1_6">
+      <g id="line_1_15" baseline="(-0.024,0.0)" font-size="17.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="251.0" y="428.0" width="42.0" height="17.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_23" class="word" x_wconf="93">
+        <rect stroke="black" stroke-width="1.0" x="251.0" y="428.0" width="42.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="17.0" x="251.0" y="445.0" font-style="bold">TFN</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_7">
+     <g class="para" id="par_1_7">
+      <g id="line_1_16" baseline="(0.0,204.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="86.0" y="421.0" width="53.0" height="33.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_24"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_8">
+     <g class="para" id="par_1_8">
+      <g id="line_1_17" baseline="(0.0,0.0)" font-size="17.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="139.0" y="429.0" width="76.0" height="17.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_25" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="139.0" y="429.0" width="76.0" height="17.0" fill="green" opacity="0.2"/>
+        <text font-size="17.0" x="139.0" y="446.0" font-style="bold">TFP-15</text>
+       </g>
+      </g>
+      <g id="line_1_18" baseline="(-0.009,0.0)" font-size="20.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="43.0" y="470.0" width="107.0" height="20.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_26" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="43.0" y="471.0" width="87.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="19.0" x="43.0" y="490.0" font-style="bold">Cluster</text>
+       </g>
+       <g id="word_1_27" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="138.0" y="470.0" width="12.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="24.700000000000003" x="138.0" y="489.0" font-style="bold">3</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_9">
+     <g class="para" id="par_1_9">
+      <g id="line_1_19" baseline="(-0.009,0.0)" font-size="19.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="742.0" y="615.0" width="107.0" height="19.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_28" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="742.0" y="615.0" width="87.0" height="19.0" fill="green" opacity="0.2"/>
+        <text font-size="19.0" x="742.0" y="634.0" font-style="bold">Cluster</text>
+       </g>
+       <g id="word_1_29" class="word" x_wconf="93">
+        <rect stroke="black" stroke-width="1.0" x="837.0" y="615.0" width="12.0" height="18.0" fill="green" opacity="0.2"/>
+        <text font-size="23.400000000000002" x="837.0" y="633.0" font-style="bold">2</text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </svg>
+</svg>

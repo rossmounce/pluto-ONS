@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">‘Ca. L. solanacearum’ N2082226 (EU834131)</otu>
+  <otu id="otu2">‘Ca. L. asiaticus’ (Brazil) (DO471904)</otu>
+  <otu id="otu3">‘03. L. asiaticus’ (M94319)</otu>
+  <otu id="otu4">‘Ca. L. africanus subsp. capensis’ (AF248498)</otu>
+  <otu id="otu5">‘Ca. L. africanus’ Nelspruit (U09675)</otu>
+  <otu id="otu6">‘03. L. americanus’ 3510 Paulo (EF1 22254)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="6.0" y="55.0"/>
+   <node id="NT1.2" label="NT1.2" x="56.0" y="216.0"/>
+   <node id="NT1.3" label="NT1.3" x="104.0" y="277.0"/>
+   <node id="NT1.4" label="NT1.4" x="124.0" y="55.0" otu="otu1"/>
+   <node id="NT1.5" label="NT1.5" x="157.0" y="157.0"/>
+   <node id="NT1.6" label="NT1.6" x="158.0" y="95.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="159.0" y="218.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="175.0" y="257.0" otu="otu4"/>
+   <node id="NT1.9" label="NT1.9" x="181.0" y="298.0" otu="otu5"/>
+   <node id="NT1.10" label="NT1.10" x="390.0" y="14.0" otu="otu6"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

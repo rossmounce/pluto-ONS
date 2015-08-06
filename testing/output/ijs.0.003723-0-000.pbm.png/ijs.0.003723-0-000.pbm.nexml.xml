@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Saccharothrix Iongispora NRRL B-16116T (AF1 14809)</otu>
+  <otu id="otu2">Saccharothrix xinjiangensis NBRC 101911T (A8381939)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4">Saccharothrix coeruleofusca NRRL B-16115T (AF114805)</otu>
+  <otu id="otu5">Actinosynnema mirum NBRC 14064T(D85475)</otu>
+  <otu id="otu6">Saccharothrix syringae NRRL B-16468T (AF114812)</otu>
+  <otu id="otu7"> Saccharothrix mutabilis subsp. mutabilis DSM 43853T (X76966)</otu>
+  <otu id="otu8"/>
+  <otu id="otu9">Saccharothrix algeriensis NRRL B-24137T (AY054972)</otu>
+  <otu id="otu10">Saccharothrix mutabilis subsp. capreolus DSM 40225T (X76965)</otu>
+  <otu id="otu11">Saccharothrix texasensis NRRL B-161 34T (AF114814)</otu>
+  <otu id="otu12"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="53.0" y="335.0"/>
+   <node id="NT1.2" label="NT1.2" x="194.0" y="420.0" otu="otu1"/>
+   <node id="NT1.3" x="266.0" y="251.0" label="96"/>
+   <node id="NT1.4" label="NT1.4" x="280.0" y="174.0"/>
+   <node id="NT1.5" label="NT1.5" x="307.0" y="328.0"/>
+   <node id="NT1.6" label="NT1.6" x="334.0" y="110.0"/>
+   <node id="NT1.7" label="NT1.7" x="335.0" y="358.0"/>
+   <node id="NT1.8" label="NT1.8" x="345.0" y="155.0"/>
+   <node id="NT1.9" label="NT1.9" x="363.0" y="236.0"/>
+   <node id="NT1.10" label="NT1.10" x="381.0" y="64.0"/>
+   <node id="NT1.11" label="NT1.11" x="396.0" y="297.0" otu="otu2"/>
+   <node id="NT1.12" label="NT1.12" x="421.0" y="217.0" otu="otu3"/>
+   <node id="NT1.13" label="NT1.13" x="474.0" y="379.0" otu="otu4"/>
+   <node id="NT1.14" label="NT1.14" x="487.0" y="461.0" otu="otu5"/>
+   <node id="NT1.15" label="NT1.15" x="489.0" y="338.0" otu="otu6"/>
+   <node id="NT1.16" x="492.0" y="33.0" label="'"/>
+   <node id="NT1.17" label="NT1.17" x="501.0" y="13.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="501.0" y="94.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="505.0" y="257.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="557.0" y="54.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="644.0" y="135.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="672.0" y="176.0" otu="otu12"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

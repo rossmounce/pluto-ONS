@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3">5</otu>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+  <otu id="otu9">Campylobacterjejuni subsp. jejuni CCUG 1 1284T (L04315)</otu>
+  <otu id="otu10"/>
+  <otu id="otu11">Campylobacter insulaenigrae NCTC 1 2927T (AJ620504)</otu>
+  <otu id="otu12">Campylobacter Iari subsp. lari CCUG 23947T (LO4316)</otu>
+  <otu id="otu13">Campylobacter curvus ATCC 35224T (L04313)</otu>
+  <otu id="otu14">Campylobacter peloridis LMG 2391 0T (AM922331)</otu>
+  <otu id="otu15">Campylobacter coli CCUG 1 1 283T (L0431 2)</otu>
+  <otu id="otu16"/>
+  <otu id="otu17"/>
+  <otu id="otu18">Campylobacter rectus ATCC 33238T (L0431 7)</otu>
+  <otu id="otu19">Campylobacter hyointestinalis subsp. hyolntestfnalfs ATCC 3521 7T (M65010)</otu>
+  <otu id="otu20">Campylobacter helveticus NCTC 12470T (U03022)</otu>
+  <otu id="otu21">Campylobacter upsaliensis CCUG 1491 ST (L1 4628)</otu>
+  <otu id="otu22">Arcobacter butz/eri ATCC 49616T (AY621 1 16)</otu>
+  <otu id="otu23">Campylobacter cuniculorum 15GBT (DO400345)</otu>
+  <otu id="otu24">Campylobacter showae CCUG 3054T (L06974)</otu>
+  <otu id="otu25">Bacteroides ureolyticus ATCC 33387T (L04321)</otu>
+  <otu id="otu26"/>
+  <otu id="otu27">Bacteroides ureolyt/cus LMG 8448 (FN401326)</otu>
+  <otu id="otu28">Arcobacter nitrof/gilis CCUG 15893T (L14627)</otu>
+  <otu id="otu29">Campylobacter gracilis ATCC 33236T (LO4320)</otu>
+  <otu id="otu30">Campylobacter mucosalis CCUG 6822T (LO6978)</otu>
+  <otu id="otu31">Campylobacter avium 86/06T (EU623473)</otu>
+  <otu id="otu32">Helicobacter pylori ATCC 43504T (M88157)</otu>
+  <otu id="otu33"/>
+  <otu id="otu34">Campylobacter canadensis L266T (EF621894)</otu>
+  <otu id="otu35">Campylobacter hominis NCTC 13146T (AJ251584)</otu>
+  <otu id="otu36">Campylobacter sputorum LMG 7795T (X67775)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="92.0" y="201.0" label="100"/>
+   <node id="NT1.2" label="NT1.2" x="99.0" y="328.0"/>
+   <node id="NT1.3" label="NT1.3" x="125.0" y="76.0"/>
+   <node id="NT1.4" label="NT1.4" x="147.0" y="196.0"/>
+   <node id="NT1.5" label="NT1.5" x="152.0" y="411.0"/>
+   <node id="NT1.6" label="NT1.6" x="158.0" y="98.0"/>
+   <node id="NT1.7" label="NT1.7" x="158.0" y="638.0"/>
+   <node id="NT1.8" label="NT1.8" x="160.0" y="705.0"/>
+   <node id="NT1.9" label="NT1.9" x="162.0" y="19.0" otu="otu1"/>
+   <node id="NT1.10" label="NT1.10" x="164.0" y="317.0" otu="otu2"/>
+   <node id="NT1.11" label="NT1.11" x="166.0" y="314.0" otu="otu3"/>
+   <node id="NT1.12" label="NT1.12" x="167.0" y="312.0"/>
+   <node id="NT1.13" label="NT1.13" x="168.0" y="737.0"/>
+   <node id="NT1.14" label="NT1.14" x="175.0" y="321.0"/>
+   <node id="NT1.15" label="NT1.15" x="178.0" y="848.0"/>
+   <node id="NT1.16" label="NT1.16" x="183.0" y="397.0"/>
+   <node id="NT1.17" label="NT1.17" x="186.0" y="274.0"/>
+   <node id="NT1.18" label="NT1.18" x="187.0" y="932.0"/>
+   <node id="NT1.19" label="NT1.19" x="189.0" y="892.0"/>
+   <node id="NT1.20" label="NT1.20" x="190.0" y="899.0" otu="otu4"/>
+   <node id="NT1.21" label="NT1.21" x="192.0" y="986.0"/>
+   <node id="NT1.22" label="NT1.22" x="195.0" y="975.0" otu="otu5"/>
+   <node id="NT1.23" label="NT1.23" x="195.0" y="990.0" otu="otu6"/>
+   <node id="NT1.24" label="NT1.24" x="197.0" y="300.0"/>
+   <node id="NT1.25" label="NT1.25" x="198.0" y="986.0" otu="otu7"/>
+   <node id="NT1.26" label="NT1.26" x="198.0" y="421.0"/>
+   <node id="NT1.27" label="NT1.27" x="198.0" y="719.0"/>
+   <node id="NT1.28" label="NT1.28" x="198.0" y="895.0"/>
+   <node id="NT1.29" label="NT1.29" x="203.0" y="854.0"/>
+   <node id="NT1.30" label="NT1.30" x="203.0" y="1013.0"/>
+   <node id="NT1.31" label="NT1.31" x="209.0" y="971.0"/>
+   <node id="NT1.32" label="NT1.32" x="211.0" y="1035.0"/>
+   <node id="NT1.33" label="NT1.33" x="212.0" y="148.0" otu="otu8"/>
+   <node id="NT1.34" label="NT1.34" x="214.0" y="986.0" otu="otu9"/>
+   <node id="NT1.35" label="NT1.35" x="217.0" y="880.0"/>
+   <node id="NT1.36" label="NT1.36" x="221.0" y="244.0" otu="otu10"/>
+   <node id="NT1.37" label="NT1.37" x="222.0" y="752.0"/>
+   <node id="NT1.38" label="NT1.38" x="223.0" y="1083.0" otu="otu11"/>
+   <node id="NT1.39" label="NT1.39" x="224.0" y="1051.0" otu="otu12"/>
+   <node id="NT1.40" label="NT1.40" x="224.0" y="324.0"/>
+   <node id="NT1.41" label="NT1.41" x="226.0" y="904.0"/>
+   <node id="NT1.42" label="NT1.42" x="227.0" y="276.0" otu="otu13"/>
+   <node id="NT1.43" label="NT1.43" x="230.0" y="1018.0" otu="otu14"/>
+   <node id="NT1.44" label="NT1.44" x="231.0" y="954.0" otu="otu15"/>
+   <node id="NT1.45" label="NT1.45" x="236.0" y="762.0" otu="otu16"/>
+   <node id="NT1.46" label="NT1.46" x="237.0" y="116.0" otu="otu17"/>
+   <node id="NT1.47" label="NT1.47" x="237.0" y="341.0" otu="otu18"/>
+   <node id="NT1.48" label="NT1.48" x="241.0" y="728.0" otu="otu19"/>
+   <node id="NT1.49" label="NT1.49" x="244.0" y="922.0" otu="otu20"/>
+   <node id="NT1.50" label="NT1.50" x="247.0" y="889.0" otu="otu21"/>
+   <node id="NT1.51" label="NT1.51" x="247.0" y="502.0"/>
+   <node id="NT1.52" label="NT1.52" x="248.0" y="212.0" otu="otu22"/>
+   <node id="NT1.53" label="NT1.53" x="249.0" y="504.0"/>
+   <node id="NT1.54" label="NT1.54" x="250.0" y="825.0" otu="otu23"/>
+   <node id="NT1.55" label="NT1.55" x="251.0" y="309.0" otu="otu24"/>
+   <node id="NT1.56" label="NT1.56" x="251.0" y="503.0" otu="otu25"/>
+   <node id="NT1.57" label="NT1.57" x="251.0" y="632.0" otu="otu26"/>
+   <node id="NT1.58" label="NT1.58" x="252.0" y="470.0" otu="otu27"/>
+   <node id="NT1.59" label="NT1.59" x="253.0" y="180.0" otu="otu28"/>
+   <node id="NT1.60" label="NT1.60" x="253.0" y="438.0" otu="otu29"/>
+   <node id="NT1.61" label="NT1.61" x="253.0" y="696.0" otu="otu30"/>
+   <node id="NT1.62" label="NT1.62" x="261.0" y="857.0" otu="otu31"/>
+   <node id="NT1.63" label="NT1.63" x="264.0" y="83.0" otu="otu32"/>
+   <node id="NT1.64" label="NT1.64" x="285.0" y="51.0" otu="otu33"/>
+   <node id="NT1.65" label="NT1.65" x="287.0" y="792.0" otu="otu34"/>
+   <node id="NT1.66" label="NT1.66" x="288.0" y="406.0" otu="otu35"/>
+   <node id="NT1.67" label="NT1.67" x="368.0" y="373.0" otu="otu36"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

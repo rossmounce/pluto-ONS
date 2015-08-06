@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <svg font-family="helvetica" font-size="10.0" tesseractVersion="tesseract 3.03">
+  <g class="wordPageList">
+   <g class="wordPage" id="page_1">
+    <g class="wordBlock" id="block_1_1">
+     <g class="para" id="par_1_1">
+      <g id="line_1_1" baseline="(0.0,0.0)" font-size="15.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="206.0" y="11.0" width="24.0" height="15.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_1" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="206.0" y="11.0" width="24.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="206.0" y="26.0" font-style="italic">90</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_2">
+     <g class="para" id="par_1_2">
+      <g id="line_1_2" baseline="(-0.002,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="237.0" y="0.0" width="603.0" height="31.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_2"/>
+       <g id="word_1_3" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="282.0" y="2.0" width="22.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="282.0" y="25.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_4" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="315.0" y="3.0" width="158.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="315.0" y="22.599999999999998" font-style="italic">pneumoniae</text>
+       </g>
+       <g id="word_1_5" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="482.0" y="2.0" width="81.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="482.0" y="25.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_6" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="573.0" y="0.0" width="98.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="573.0" y="24.0" font-style="italic">33400T</text>
+       </g>
+       <g id="word_1_7" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="681.0" y="0.0" width="159.0" height="29.0" fill="green" opacity="0.2"/>
+        <text font-size="22.307692307692307" x="681.0" y="20.299999999999997" font-style="italic">(AFOOSQSO)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_3">
+     <g class="para" id="par_1_3">
+      <g class="line" id="line_1_3"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_4">
+     <g class="para" id="par_1_4">
+      <g class="line" id="line_1_4"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_5">
+     <g class="para" id="par_1_5">
+      <g id="line_1_5" baseline="(0.0,0.0)" font-size="23.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="51.0" y="40.0" width="159.0" height="23.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_10" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="51.0" y="48.0" width="56.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="51.0" y="63.0">0.005</text>
+       </g>
+       <g id="word_1_11" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="186.0" y="40.0" width="24.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="186.0" y="55.0" font-style="italic">75</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_6">
+     <g class="para" id="par_1_6">
+      <g id="line_1_6" baseline="(0.0,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="237.0" y="38.0" width="698.0" height="31.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_12"/>
+       <g id="word_1_13" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="269.0" y="41.0" width="22.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="269.0" y="63.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_14" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="302.0" y="41.0" width="255.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="302.0" y="60.599999999999994" font-style="italic">pseudopneumoniae</text>
+       </g>
+       <g id="word_1_15" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="567.0" y="41.0" width="87.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="567.0" y="63.0" font-style="bold">CCUG</text>
+       </g>
+       <g id="word_1_16" class="word" x_wconf="74">
+        <rect stroke="black" stroke-width="1.0" x="666.0" y="38.0" width="98.0" height="25.0" fill="green" opacity="0.2"/>
+        <text font-size="25.0" x="666.0" y="63.0" font-style="italic">49455T</text>
+       </g>
+       <g id="word_1_17" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="774.0" y="39.0" width="161.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="774.0" y="58.599999999999994" font-style="italic">(EU156785)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_7">
+     <g class="para" id="par_1_7">
+      <g class="line" id="line_1_7"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_8">
+     <g class="para" id="par_1_8">
+      <g id="line_1_8" baseline="(0.0,0.0)" font-size="15.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="169.0" y="74.0" width="25.0" height="15.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_19" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="169.0" y="74.0" width="25.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="169.0" y="89.0">88</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_9">
+     <g class="para" id="par_1_9">
+      <g class="line" id="line_1_9"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_10">
+     <g class="para" id="par_1_10">
+      <g class="line" id="line_1_10"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_11">
+     <g class="para" id="par_1_11">
+      <g id="line_1_11" baseline="(0.0,0.0)" font-size="15.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="143.0" y="110.0" width="24.0" height="15.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_22" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="143.0" y="110.0" width="24.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="143.0" y="125.0" font-style="italic">98</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_12">
+     <g class="para" id="par_1_12">
+      <g class="line" id="line_1_12"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_13">
+     <g class="para" id="par_1_13">
+      <g id="line_1_13" baseline="(0.0,-5.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="216.0" y="77.0" width="485.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_24"/>
+       <g id="word_1_25" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="241.0" y="79.0" width="23.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="241.0" y="101.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_26" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="276.0" y="80.0" width="57.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="276.0" y="101.0" font-style="italic">mitis</text>
+       </g>
+       <g id="word_1_27" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="343.0" y="79.0" width="81.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="343.0" y="101.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_28" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="434.0" y="77.0" width="98.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="434.0" y="101.0" font-style="italic">49456T</text>
+       </g>
+       <g id="word_1_29" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="542.0" y="77.0" width="159.0" height="29.0" fill="green" opacity="0.2"/>
+        <text font-size="22.307692307692307" x="542.0" y="97.3" font-style="italic">(AF003929)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_14">
+     <g class="para" id="par_1_14">
+      <g id="line_1_14" baseline="(0.0,359.0)" font-size="5.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="86.0" y="128.0" width="133.0" height="5.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_30"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_15">
+     <g class="para" id="par_1_15">
+      <g class="line" id="line_1_15"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_16">
+     <g class="para" id="par_1_16">
+      <g class="line" id="line_1_16"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_17">
+     <g class="para" id="par_1_17">
+      <g class="line" id="line_1_17"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_18">
+     <g class="para" id="par_1_18">
+      <g class="line" id="line_1_18"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_19">
+     <g class="para" id="par_1_19">
+      <g id="line_1_19" baseline="(0.0,0.0)" font-size="16.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="25.0" y="219.0" width="24.0" height="16.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_35" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="25.0" y="219.0" width="24.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="25.0" y="235.0">77</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_20">
+     <g class="para" id="par_1_20">
+      <g id="line_1_20" baseline="(-0.002,-4.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="229.0" y="115.0" width="468.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_36" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="229.0" y="118.0" width="23.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="229.0" y="140.0">S.</text>
+       </g>
+       <g id="word_1_37" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="264.0" y="118.0" width="67.0" height="22.0" opacity="0.2" fill="pink"/>
+        <text font-size="22.0" x="264.0" y="140.0" font-style="italic">Oralis</text>
+       </g>
+       <g id="word_1_38" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="341.0" y="118.0" width="80.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="341.0" y="140.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_39" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="431.0" y="115.0" width="98.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="431.0" y="139.0" font-style="italic">35037T</text>
+       </g>
+       <g id="word_1_40" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="540.0" y="116.0" width="157.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="540.0" y="135.6" font-style="italic">(AF008932)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_21">
+     <g class="para" id="par_1_21">
+      <g id="line_1_21" baseline="(0.0,-5.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="173.0" y="154.0" width="533.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_41"/>
+       <g id="word_1_42" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="264.0" y="156.0" width="22.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="264.0" y="178.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_43" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="298.0" y="156.0" width="91.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="298.0" y="178.0" font-style="italic">infant/s</text>
+       </g>
+       <g id="word_1_44" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="399.0" y="156.0" width="61.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="399.0" y="178.0" font-style="italic">GTC</text>
+       </g>
+       <g id="word_1_45" class="word" x_wconf="70">
+        <rect stroke="black" stroke-width="1.0" x="471.0" y="154.0" width="62.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="471.0" y="178.0" font-style="italic">849T</text>
+       </g>
+       <g id="word_1_46" class="word" x_wconf="78">
+        <rect stroke="black" stroke-width="1.0" x="543.0" y="154.0" width="163.0" height="29.0" fill="green" opacity="0.2"/>
+        <text font-size="22.307692307692307" x="543.0" y="174.3" font-style="italic">(A8008315)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_22">
+     <g class="para" id="par_1_22">
+      <g id="line_1_22" baseline="(0.002,-7.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="286.0" y="192.0" width="588.0" height="31.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_47" class="word" x_wconf="87">
+        <rect stroke="black" stroke-width="1.0" x="286.0" y="194.0" width="23.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="286.0" y="217.0">S.</text>
+       </g>
+       <g id="word_1_48" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="320.0" y="195.0" width="177.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="320.0" y="214.6" font-style="italic">parasanguinis</text>
+       </g>
+       <g id="word_1_49" class="word" x_wconf="91">
+        <rect stroke="black" stroke-width="1.0" x="507.0" y="194.0" width="81.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="507.0" y="217.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_50" class="word" x_wconf="77">
+        <rect stroke="black" stroke-width="1.0" x="601.0" y="192.0" width="273.0" height="30.0" fill="green" opacity="0.2"/>
+        <text font-size="23.076923076923077" x="601.0" y="213.0" font-style="italic">15912T(DO303191)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_23">
+     <g class="para" id="par_1_23">
+      <g id="line_1_23" baseline="(0.0,247.0)" font-size="5.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="0.0" y="240.0" width="216.0" height="5.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_51"/>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_24">
+     <g class="para" id="par_1_24">
+      <g class="line" id="line_1_24"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_25">
+     <g class="para" id="par_1_25">
+      <g class="line" id="line_1_25"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_26">
+     <g class="para" id="par_1_26">
+      <g class="line" id="line_1_26"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_27">
+     <g class="para" id="par_1_27">
+      <g class="line" id="line_1_27"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_28">
+     <g class="para" id="par_1_28">
+      <g id="line_1_28" baseline="(0.0,0.0)" font-size="16.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="143.0" y="309.0" width="24.0" height="16.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_56" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="143.0" y="309.0" width="24.0" height="16.0" fill="green" opacity="0.2"/>
+        <text font-size="20.8" x="143.0" y="325.0" font-style="italic">96</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_29">
+     <g class="para" id="par_1_29">
+      <g id="line_1_29" baseline="(-0.002,-4.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="227.0" y="231.0" width="526.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_57" class="word" x_wconf="80">
+        <rect stroke="black" stroke-width="1.0" x="227.0" y="233.0" width="23.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="227.0" y="256.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_58" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="262.0" y="234.0" width="104.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="262.0" y="256.0" font-style="italic">australis</text>
+       </g>
+       <g id="word_1_59" class="word" x_wconf="90">
+        <rect stroke="black" stroke-width="1.0" x="376.0" y="233.0" width="80.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="376.0" y="256.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_60" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="468.0" y="231.0" width="114.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="468.0" y="255.0" font-style="italic">700641T</text>
+       </g>
+       <g id="word_1_61" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="592.0" y="231.0" width="161.0" height="29.0" fill="green" opacity="0.2"/>
+        <text font-size="22.307692307692307" x="592.0" y="251.3" font-style="italic">(AY485604)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_30">
+     <g class="para" id="par_1_30">
+      <g id="line_1_30" baseline="(0.0,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="175.0" y="269.0" width="563.0" height="31.0" fill="yellow" opacity="0.2"/>
+       <g class="word" id="word_1_62"/>
+       <g id="word_1_63" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="299.0" y="272.0" width="23.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="299.0" y="294.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_64" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="332.0" y="272.0" width="88.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="332.0" y="291.6" font-style="italic">peroris</text>
+       </g>
+       <g id="word_1_65" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="431.0" y="272.0" width="61.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="431.0" y="294.0" font-style="italic">GTC</text>
+       </g>
+       <g id="word_1_66" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="502.0" y="269.0" width="63.0" height="25.0" fill="green" opacity="0.2"/>
+        <text font-size="25.0" x="502.0" y="294.0" font-style="italic">848T</text>
+       </g>
+       <g id="word_1_67" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="575.0" y="270.0" width="163.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="575.0" y="289.6" font-style="italic">(ABOOB314)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_31">
+     <g class="para" id="par_1_31">
+      <g id="line_1_31" baseline="(0.002,-5.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="339.0" y="308.0" width="405.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_68" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="339.0" y="311.0" width="23.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="339.0" y="332.0" font-style="bold">S.</text>
+       </g>
+       <g id="word_1_69" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="374.0" y="311.0" width="116.0" height="21.0" fill="green" opacity="0.2"/>
+        <text font-size="21.0" x="374.0" y="332.0" font-style="italic">lactarius</text>
+       </g>
+       <g id="word_1_70" class="word" x_wconf="94">
+        <rect stroke="black" stroke-width="1.0" x="501.0" y="308.0" width="68.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="501.0" y="332.0" font-style="italic">MV1T</text>
+       </g>
+       <g id="word_1_71" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="579.0" y="309.0" width="165.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="579.0" y="328.6" font-style="italic">(GU045364)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_32">
+     <g class="para" id="par_1_32">
+      <g id="line_1_32" baseline="(-0.002,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="207.0" y="346.0" width="527.0" height="31.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_72" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="207.0" y="349.0" width="23.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="207.0" y="371.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_73" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="242.0" y="349.0" width="121.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="242.0" y="368.6" font-style="italic">sanguinis</text>
+       </g>
+       <g id="word_1_74" class="word" x_wconf="88">
+        <rect stroke="black" stroke-width="1.0" x="372.0" y="349.0" width="81.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="372.0" y="371.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_75" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="466.0" y="346.0" width="95.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="466.0" y="370.0" font-style="italic">10556T</text>
+       </g>
+       <g id="word_1_76" class="word" x_wconf="75">
+        <rect stroke="black" stroke-width="1.0" x="571.0" y="347.0" width="163.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="571.0" y="366.6" font-style="italic">(ABOOQ524)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_33">
+     <g class="para" id="par_1_33">
+      <g class="line" id="line_1_33"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_34">
+     <g class="para" id="par_1_34">
+      <g class="line" id="line_1_34"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_35">
+     <g class="para" id="par_1_35">
+      <g class="line" id="line_1_35"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_36">
+     <g class="para" id="par_1_36">
+      <g class="line" id="line_1_36"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_37">
+     <g class="para" id="par_1_37">
+      <g class="line" id="line_1_37"/>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_38">
+     <g class="para" id="par_1_38">
+      <g id="line_1_38" baseline="(0.0,0.0)" font-size="15.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="81.0" y="463.0" width="24.0" height="15.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_82" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="81.0" y="463.0" width="24.0" height="15.0" fill="green" opacity="0.2"/>
+        <text font-size="19.5" x="81.0" y="478.0" font-style="italic">93</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_39">
+     <g class="para" id="par_1_39">
+      <g id="line_1_39" baseline="(0.0,-6.0)" font-size="30.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="164.0" y="385.0" width="507.0" height="30.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_83" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="164.0" y="387.0" width="23.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="164.0" y="409.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_84" class="word" x_wconf="73">
+        <rect stroke="black" stroke-width="1.0" x="198.0" y="387.0" width="194.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="198.0" y="406.6" font-style="italic">gordon/I'ATCC</text>
+       </g>
+       <g id="word_1_85" class="word" x_wconf="79">
+        <rect stroke="black" stroke-width="1.0" x="405.0" y="385.0" width="96.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="405.0" y="409.0" font-style="italic">10558T</text>
+       </g>
+       <g id="word_1_86" class="word" x_wconf="84">
+        <rect stroke="black" stroke-width="1.0" x="511.0" y="385.0" width="160.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="511.0" y="404.6" font-style="italic">(AY485606)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g class="wordBlock" id="block_1_40">
+     <g class="para" id="par_1_40">
+      <g id="line_1_40" baseline="(-0.002,-4.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="222.0" y="423.0" width="511.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_87" class="word" x_wconf="86">
+        <rect stroke="black" stroke-width="1.0" x="222.0" y="425.0" width="23.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="222.0" y="448.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_88" class="word" x_wconf="82">
+        <rect stroke="black" stroke-width="1.0" x="257.0" y="426.0" width="106.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="22.0" x="257.0" y="448.0" font-style="italic">cristatus</text>
+       </g>
+       <g id="word_1_89" class="word" x_wconf="89">
+        <rect stroke="black" stroke-width="1.0" x="372.0" y="425.0" width="81.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="372.0" y="448.0" font-style="italic">ATCC</text>
+       </g>
+       <g id="word_1_90" class="word" x_wconf="81">
+        <rect stroke="black" stroke-width="1.0" x="464.0" y="427.0" width="26.0" height="20.0" fill="green" opacity="0.2"/>
+        <text font-size="26.000000000000004" x="464.0" y="447.0" font-style="italic">51</text>
+       </g>
+       <g id="word_1_91" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="502.0" y="423.0" width="59.0" height="24.0" fill="green" opacity="0.2"/>
+        <text font-size="24.0" x="502.0" y="447.0" font-style="italic">100T</text>
+       </g>
+       <g id="word_1_92" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="571.0" y="423.0" width="162.0" height="29.0" fill="green" opacity="0.2"/>
+        <text font-size="22.307692307692307" x="571.0" y="443.3" font-style="italic">(AY584476)</text>
+       </g>
+      </g>
+      <g id="line_1_41" baseline="(-0.002,-4.0)" font-size="29.0" class="line">
+       <rect stroke="black" stroke-width="1.0" x="339.0" y="462.0" width="405.0" height="29.0" fill="yellow" opacity="0.2"/>
+       <g id="word_1_93" class="word" x_wconf="85">
+        <rect stroke="black" stroke-width="1.0" x="339.0" y="464.0" width="23.0" height="23.0" fill="green" opacity="0.2"/>
+        <text font-size="23.0" x="339.0" y="487.0" font-style="italic">S.</text>
+       </g>
+       <g id="word_1_94" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="373.0" y="465.0" width="104.0" height="22.0" fill="green" opacity="0.2"/>
+        <text font-size="28.6" x="373.0" y="487.0" font-style="italic">sinensis</text>
+       </g>
+       <g id="word_1_95" class="word" x_wconf="74">
+        <rect stroke="black" stroke-width="1.0" x="488.0" y="462.0" width="88.0" height="25.0" fill="green" opacity="0.2"/>
+        <text font-size="25.0" x="488.0" y="487.0" font-style="italic">HKU4T</text>
+       </g>
+       <g id="word_1_96" class="word" x_wconf="83">
+        <rect stroke="black" stroke-width="1.0" x="586.0" y="463.0" width="158.0" height="28.0" fill="green" opacity="0.2"/>
+        <text font-size="21.538461538461537" x="586.0" y="482.6" font-style="italic">(AF432856)</text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </svg>
+</svg>

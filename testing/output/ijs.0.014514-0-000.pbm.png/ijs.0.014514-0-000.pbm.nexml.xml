@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Xylophilus ampelinus ATCC 33914T (AFO78758)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6">Variovorax soli GHQ-3T (DQ432053)</otu>
+  <otu id="otu7">Variovorax ginsengisoli Gsoil 31657(AB245358)</otu>
+  <otu id="otu8">Variovorax boron/cumulans BAM-48T (A8300597)</otu>
+  <otu id="otu9">Variovorax paradoxus DSM 66T (N420329)</otu>
+  <otu id="otu10">Acidovorax valerianellae CFBF’ 4730T (AJ431 731)</otu>
+  <otu id="otu11">Curvibacter gracilis 7-1T (AB109889)</otu>
+  <otu id="otu12">Variovorax dokdonens/s DS-43T (D01 78978)</otu>
+  <otu id="otu13">Acidovorax avenae ATCC 19860T (AFO78759)</otu>
+  <otu id="otu14">Diaphorobacter nitroreducens NA1 OBT (ABOG431 7)</otu>
+  <otu id="otu15">Acidovorax facilis CCUG 21 13T (AF078765)</otu>
+  <otu id="otu16">Xenophilus azovorans KF46FT (AF285414)</otu>
+  <otu id="otu17">Rhodoferax fermentans FR2T (D1 621 1)</otu>
+  <otu id="otu18">Alicycliphilus denitrificans K601 T (AJ418042)</otu>
+  <otu id="otu19">Delft/a acidovorans ACM 489T (AFO78774)</otu>
+  <otu id="otu20">Comamonas terrigena DSM 7099T (AJ420326)</otu>
+  <otu id="otu21">Comamonas testosteroni ATCC 1 1996T (M1 1224)</otu>
+  <otu id="otu22">Polaromonas vacuolata 34-PT (U14585)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="27.0" y="259.0"/>
+   <node id="NT1.2" label="NT1.2" x="54.0" y="169.0"/>
+   <node id="NT1.3" label="NT1.3" x="70.0" y="497.0"/>
+   <node id="NT1.4" label="NT1.4" x="110.0" y="436.0"/>
+   <node id="NT1.5" label="NT1.5" x="117.0" y="103.0"/>
+   <node id="NT1.6" label="NT1.6" x="118.0" y="408.0"/>
+   <node id="NT1.7" label="NT1.7" x="120.0" y="232.0"/>
+   <node id="NT1.8" label="NT1.8" x="135.0" y="573.0"/>
+   <node id="NT1.9" label="NT1.9" x="139.0" y="561.0" otu="otu1"/>
+   <node id="NT1.10" label="NT1.10" x="145.0" y="265.0"/>
+   <node id="NT1.11" label="NT1.11" x="171.0" y="519.0"/>
+   <node id="NT1.12" label="NT1.12" x="178.0" y="351.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="187.0" y="61.0"/>
+   <node id="NT1.14" label="NT1.14" x="189.0" y="58.0"/>
+   <node id="NT1.15" label="NT1.15" x="193.0" y="58.0" otu="otu3"/>
+   <node id="NT1.16" label="NT1.16" x="197.0" y="144.0"/>
+   <node id="NT1.17" label="NT1.17" x="202.0" y="33.0"/>
+   <node id="NT1.18" label="NT1.18" x="214.0" y="603.0"/>
+   <node id="NT1.19" label="NT1.19" x="218.0" y="603.0" otu="otu4"/>
+   <node id="NT1.20" x="248.0" y="631.0" label="77"/>
+   <node id="NT1.21" label="NT1.21" x="253.0" y="632.0" otu="otu5"/>
+   <node id="NT1.22" x="260.0" y="293.0" label="7°"/>
+   <node id="NT1.23" label="NT1.23" x="272.0" y="500.0" otu="otu6"/>
+   <node id="NT1.24" label="NT1.24" x="290.0" y="575.0" otu="otu7"/>
+   <node id="NT1.25" label="NT1.25" x="314.0" y="650.0" otu="otu8"/>
+   <node id="NT1.26" label="NT1.26" x="321.0" y="613.0" otu="otu9"/>
+   <node id="NT1.27" label="NT1.27" x="340.0" y="88.0" otu="otu10"/>
+   <node id="NT1.28" label="NT1.28" x="347.0" y="388.0" otu="otu11"/>
+   <node id="NT1.29" label="NT1.29" x="353.0" y="538.0" otu="otu12"/>
+   <node id="NT1.30" label="NT1.30" x="364.0" y="51.0" otu="otu13"/>
+   <node id="NT1.31" label="NT1.31" x="379.0" y="163.0" otu="otu14"/>
+   <node id="NT1.32" label="NT1.32" x="404.0" y="13.0" otu="otu15"/>
+   <node id="NT1.33" label="NT1.33" x="504.0" y="200.0" otu="otu16"/>
+   <node id="NT1.34" label="NT1.34" x="511.0" y="426.0" otu="otu17"/>
+   <node id="NT1.35" label="NT1.35" x="521.0" y="125.0" otu="otu18"/>
+   <node id="NT1.36" label="NT1.36" x="553.0" y="238.0" otu="otu19"/>
+   <node id="NT1.37" label="NT1.37" x="592.0" y="275.0" otu="otu20"/>
+   <node id="NT1.38" label="NT1.38" x="613.0" y="313.0" otu="otu21"/>
+   <node id="NT1.39" label="NT1.39" x="613.0" y="463.0" otu="otu22"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

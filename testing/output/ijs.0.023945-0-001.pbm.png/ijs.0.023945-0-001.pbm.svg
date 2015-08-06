@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="6.0" cy="302.0" r="1.0"/>
+    <text stroke="none" x="6.0" y="302.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="220.0" cy="228.0" r="1.0"/>
+    <text stroke="none" x="220.0" y="228.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="449.0" cy="300.0" r="1.0"/>
+    <text stroke="none" x="449.0" y="300.0" font-size="20.0" font-family="helvetica">L. garviae DSM 20684T (GU799685)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="514.0" cy="88.0" r="1.0"/>
+    <text stroke="none" x="514.0" y="88.0" font-size="20.0" font-family="helvetica">97</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="521.0" cy="126.0" r="1.0"/>
+    <text stroke="none" x="521.0" y="126.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="522.0" cy="111.0" r="1.0"/>
+    <text stroke="none" x="522.0" y="111.0" font-size="20.0" font-family="helvetica">L. lactis subsp. cremoris DSM 20069T (GU799686)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="522.0" cy="142.0" r="1.0"/>
+    <text stroke="none" x="522.0" y="142.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="531.0" cy="48.0" r="1.0"/>
+    <text stroke="none" x="531.0" y="48.0" font-size="20.0" font-family="helvetica">91</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="532.0" cy="16.0" r="1.0"/>
+    <text stroke="none" x="532.0" y="16.0" font-size="20.0" font-family="helvetica">L. lactis subsp. tructae L105T (GU799692)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="533.0" cy="79.0" r="1.0"/>
+    <text stroke="none" x="533.0" y="79.0" font-size="20.0" font-family="helvetica">L. lactis subsp. tructae L101 (GU799693)</text>
+   </g>
+   <line stroke="black" x1="532.0" y1="16.0" x2="531.0" y2="48.0" stroke-width="0.5"/>
+   <line stroke="black" x1="533.0" y1="79.0" x2="531.0" y2="48.0" stroke-width="0.5"/>
+   <line stroke="black" x1="522.0" y1="111.0" x2="521.0" y2="126.0" stroke-width="0.5"/>
+   <line stroke="black" x1="522.0" y1="142.0" x2="521.0" y2="126.0" stroke-width="0.5"/>
+   <line stroke="black" x1="6.0" y1="302.0" x2="220.0" y2="228.0" stroke-width="0.5"/>
+   <line stroke="black" x1="449.0" y1="300.0" x2="220.0" y2="228.0" stroke-width="0.5"/>
+   <line stroke="black" x1="531.0" y1="48.0" x2="514.0" y2="88.0" stroke-width="0.5"/>
+   <line stroke="black" x1="514.0" y1="88.0" x2="220.0" y2="228.0" stroke-width="0.5"/>
+   <line stroke="black" x1="514.0" y1="88.0" x2="521.0" y2="126.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>
