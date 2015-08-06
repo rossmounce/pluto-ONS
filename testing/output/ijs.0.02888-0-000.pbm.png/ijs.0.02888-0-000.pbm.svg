@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="33.0" cy="519.0" r="1.0"/>
+    <text stroke="none" x="33.0" y="519.0" font-size="20.0" font-family="helvetica">Burkholderia sp. LB400</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="221.0" cy="321.0" r="1.0"/>
+    <text stroke="none" x="221.0" y="321.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="304.0" cy="54.0" r="1.0"/>
+    <text stroke="none" x="304.0" y="54.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="311.0" cy="94.0" r="1.0"/>
+    <text stroke="none" x="311.0" y="94.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="317.0" cy="128.0" r="1.0"/>
+    <text stroke="none" x="317.0" y="128.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="324.0" cy="63.0" r="1.0"/>
+    <text stroke="none" x="324.0" y="63.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="372.0" cy="11.0" r="1.0"/>
+    <text stroke="none" x="372.0" y="11.0" font-size="20.0" font-family="helvetica">B. cenocepacia LMG 18863 (AF143779)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="388.0" cy="44.0" r="1.0"/>
+    <text stroke="none" x="388.0" y="44.0" font-size="20.0" font-family="helvetica">B. pyrrocinia LMG 14191T (AF143794)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="394.0" cy="81.0" r="1.0"/>
+    <text stroke="none" x="394.0" y="81.0" font-size="20.0" font-family="helvetica">B. cepacia LMG 1222T (AF143786)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="400.0" cy="113.0" r="1.0"/>
+    <text stroke="none" x="400.0" y="113.0" font-size="20.0" font-family="helvetica">B. stabilis LMG 14291T (AF143790)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="406.0" cy="147.0" r="1.0"/>
+    <text stroke="none" x="406.0" y="147.0" font-size="20.0" font-family="helvetica">B. cenocepacia LMG 18829 (AF143784)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="498.0" cy="485.0" r="1.0"/>
+    <text stroke="none" x="498.0" y="485.0" font-size="20.0" font-family="helvetica">B. anthina LMG 16670T (AF456060)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="6.0" cy="489.0" r="1.0"/>
+    <text stroke="none" x="6.0" y="489.0" font-size="10.0" font-family="helvetica">NT1.13</text>
+   </g>
+   <line stroke="black" x1="388.0" y1="44.0" x2="324.0" y2="63.0" stroke-width="0.5"/>
+   <line stroke="black" x1="394.0" y1="81.0" x2="324.0" y2="63.0" stroke-width="0.5"/>
+   <line stroke="black" x1="304.0" y1="54.0" x2="311.0" y2="94.0" stroke-width="0.5"/>
+   <line stroke="black" x1="311.0" y1="94.0" x2="317.0" y2="128.0" stroke-width="0.5"/>
+   <line stroke="black" x1="311.0" y1="94.0" x2="324.0" y2="63.0" stroke-width="0.5"/>
+   <line stroke="black" x1="6.0" y1="489.0" x2="33.0" y2="519.0" stroke-width="0.5"/>
+   <line stroke="black" x1="221.0" y1="321.0" x2="6.0" y2="489.0" stroke-width="0.5"/>
+   <line stroke="black" x1="304.0" y1="54.0" x2="221.0" y2="321.0" stroke-width="0.5"/>
+   <line stroke="black" x1="406.0" y1="147.0" x2="317.0" y2="128.0" stroke-width="0.5"/>
+   <line stroke="black" x1="372.0" y1="11.0" x2="304.0" y2="54.0" stroke-width="0.5"/>
+   <line stroke="black" x1="498.0" y1="485.0" x2="221.0" y2="321.0" stroke-width="0.5"/>
+   <line stroke="black" x1="400.0" y1="113.0" x2="317.0" y2="128.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

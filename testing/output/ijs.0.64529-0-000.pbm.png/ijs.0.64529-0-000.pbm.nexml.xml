@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Moritella marina ATCC 15381T (AB038033)</otu>
+  <otu id="otu3">Paraferrimonas sedimenticola Mok-143 (A3252734)</otu>
+  <otu id="otu4"> Moritella japan/ca DSK1T (D21224)</otu>
+  <otu id="otu5"> Moritella yayanosii DBZ1MTT (AB008797)</otu>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8">Shewanella woodyi MSSZT (AF003549)</otu>
+  <otu id="otu9">Shewanella waksmanii KMM 3823T (AY170366)</otu>
+  <otu id="otu10">Aeromonas salmonicida NI-441 (ABOZ7005)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Shewanella algae IAM 14159T (U91546)</otu>
+  <otu id="otu13">Ferrimonas marina A4D—4T (AB193751)</otu>
+  <otu id="otu14">Shewanella denitn'ficans OSZ17T(AJ311964)</otu>
+  <otu id="otu15">Ferrimonas kyonanensis Asr22—7T (AB245514)</otu>
+  <otu id="otu16">Ferrimonas futtsuensis FUT3661T (ABZ45515)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="17.0" y="789.0" label="85"/>
+   <node id="NT1.2" x="97.0" y="616.0" label="65"/>
+   <node id="NT1.3" label="NT1.3" x="147.0" y="431.0"/>
+   <node id="NT1.4" x="229.0" y="240.0" label="90"/>
+   <node id="NT1.5" x="260.0" y="622.0" label="100"/>
+   <node id="NT1.6" label="NT1.6" x="284.0" y="1086.0" otu="otu1"/>
+   <node id="NT1.7" x="293.0" y="693.0" label="57"/>
+   <node id="NT1.8" label="NT1.8" x="299.0" y="124.0"/>
+   <node id="NT1.9" x="301.0" y="959.0" label="100"/>
+   <node id="NT1.10" label="NT1.10" x="302.0" y="1014.0" otu="otu2"/>
+   <node id="NT1.11" x="319.0" y="908.0" label="72"/>
+   <node id="NT1.12" x="322.0" y="550.0" label="75"/>
+   <node id="NT1.13" x="337.0" y="355.0" label="100"/>
+   <node id="NT1.14" x="340.0" y="407.0" label="66"/>
+   <node id="NT1.15" label="NT1.15" x="341.0" y="444.0" otu="otu3"/>
+   <node id="NT1.16" label="NT1.16" x="359.0" y="942.0" otu="otu4"/>
+   <node id="NT1.17" label="NT1.17" x="359.0" y="871.0" otu="otu5"/>
+   <node id="NT1.18" label="NT1.18" x="372.0" y="302.0" otu="otu6"/>
+   <node id="NT1.19" label="NT1.19" x="372.0" y="373.0" otu="otu7"/>
+   <node id="NT1.20" x="394.0" y="52.0" label="100"/>
+   <node id="NT1.21" label="NT1.21" x="400.0" y="657.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="403.0" y="730.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="439.0" y="800.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="463.0" y="89.0" otu="otu11"/>
+   <node id="NT1.25" x="463.0" y="195.0" label="100"/>
+   <node id="NT1.26" label="NT1.26" x="491.0" y="586.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="492.0" y="19.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="511.0" y="516.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="550.0" y="230.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="581.0" y="159.0" otu="otu16"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

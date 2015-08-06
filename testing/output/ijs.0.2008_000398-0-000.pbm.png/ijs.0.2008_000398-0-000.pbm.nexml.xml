@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Glycomyces tenuis IFO 15904T (D85482)</otu>
+  <otu id="otu2">Glycomyoes sambucus E71T (DQ460469)</otu>
+  <otu id="otu3">Glycomyces arizonensis NRRL 3-16153T (AY462042)</otu>
+  <otu id="otu4">Glycomyces Iechevalierae NRRL B—16149T(AY462041)</otu>
+  <otu id="otu5">Glycornyces algeriensis NRRL B46327T (AY462044)</otu>
+  <otu id="otu6">Glycomyces harbinensis IFO 14487T (D85483)</otu>
+  <otu id="otu7">Glycomyces rutgersensis IFO 14488T (D85484)</otu>
+  <otu id="otu8"> Strain YIM 56134T (EU200681)</otu>
+  <otu id="otu9">Stackebrandtia nassauensis NRRL B46338T (AY650268)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="213.0" y="228.0"/>
+   <node id="NT1.2" label="NT1.2" x="310.0" y="277.0"/>
+   <node id="NT1.3" label="NT1.3" x="318.0" y="177.0"/>
+   <node id="NT1.4" label="NT1.4" x="427.0" y="257.0" otu="otu1"/>
+   <node id="NT1.5" label="NT1.5" x="429.0" y="217.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="437.0" y="138.0"/>
+   <node id="NT1.7" label="NT1.7" x="442.0" y="299.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="449.0" y="99.0"/>
+   <node id="NT1.9" label="NT1.9" x="488.0" y="63.0"/>
+   <node id="NT1.10" label="NT1.10" x="493.0" y="33.0"/>
+   <node id="NT1.11" label="NT1.11" x="494.0" y="11.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="498.0" y="94.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="500.0" y="176.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="502.0" y="53.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="513.0" y="135.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="601.0" y="341.0" otu="otu9"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

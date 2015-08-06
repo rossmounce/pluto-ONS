@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Rivularia sp. E7 UAM 313 (EU009150)</otu>
+  <otu id="otu2">Calothrix sp. TJ14 UAM 352 (HM751845)</otu>
+  <otu id="otu3">Calothrix sp. TJ9 UAM 336 (HM751844)</otu>
+  <otu id="otu4">R/vularia sp. MA8 UAM 355 (EU009145)</otu>
+  <otu id="otu5">Rivularia sp. BL2 UAM 347 (EU009143)</otu>
+  <otu id="otu6">Calothrix sp. TJ15 UAM 373 (HM751854)</otu>
+  <otu id="otu7">Uncultured Tolypothrix distorta var. penicillata (HM751854)</otu>
+  <otu id="otu8">Tolypothrix sp. TJ10 UAM 337 (HM751851)</otu>
+  <otu id="otu9">Tolypothrix sp. TJ6 UAM 334 (HM751849)</otu>
+  <otu id="otu10">Tolypothrix distorta var. penicillata MA11</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Calothrix sp. A1</otu>
+  <otu id="otu13">Tolypothrix sp. TJ1</otu>
+  <otu id="otu14">Uncultured Rivularia sp. clone ERIVALH2 (EU009142)</otu>
+  <otu id="otu15">Calothrix sp. A2 UAM 345 (HM751843)</otu>
+  <otu id="otu16">Calothrix sp. TJ12 UAM 372 (EU009154)</otu>
+  <otu id="otu17"/>
+  <otu id="otu18">Calothrix sp. TJ16 UAM 374 (HM751856)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="41.0" y="920.0"/>
+   <node id="NT1.2" label="NT1.2" x="314.0" y="534.0"/>
+   <node id="NT1.3" label="NT1.3" x="319.0" y="1100.0"/>
+   <node id="NT1.4" label="NT1.4" x="322.0" y="433.0"/>
+   <node id="NT1.5" label="NT1.5" x="462.0" y="633.0"/>
+   <node id="NT1.6" label="NT1.6" x="526.0" y="1355.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="526.0" y="1233.0"/>
+   <node id="NT1.8" label="NT1.8" x="541.0" y="336.0"/>
+   <node id="NT1.9" label="NT1.9" x="556.0" y="742.0"/>
+   <node id="NT1.10" label="NT1.10" x="563.0" y="768.0" otu="otu2"/>
+   <node id="NT1.11" label="NT1.11" x="597.0" y="714.0" otu="otu3"/>
+   <node id="NT1.12" label="NT1.12" x="616.0" y="1115.0"/>
+   <node id="NT1.13" label="NT1.13" x="617.0" y="1141.0" otu="otu4"/>
+   <node id="NT1.14" label="NT1.14" x="617.0" y="1086.0" otu="otu5"/>
+   <node id="NT1.15" label="NT1.15" x="619.0" y="249.0"/>
+   <node id="NT1.16" label="NT1.16" x="649.0" y="968.0"/>
+   <node id="NT1.17" label="NT1.17" x="650.0" y="1035.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="664.0" y="420.0"/>
+   <node id="NT1.19" label="NT1.19" x="691.0" y="448.0" otu="otu7"/>
+   <node id="NT1.20" label="NT1.20" x="713.0" y="157.0"/>
+   <node id="NT1.21" label="NT1.21" x="714.0" y="21.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="714.0" y="289.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="715.0" y="395.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="715.0" y="75.0"/>
+   <node id="NT1.25" label="NT1.25" x="730.0" y="75.0" otu="otu11"/>
+   <node id="NT1.26" label="NT1.26" x="760.0" y="527.0"/>
+   <node id="NT1.27" label="NT1.27" x="827.0" y="608.0" otu="otu12"/>
+   <node id="NT1.28" label="NT1.28" x="832.0" y="342.0" otu="otu13"/>
+   <node id="NT1.29" label="NT1.29" x="855.0" y="555.0" otu="otu14"/>
+   <node id="NT1.30" label="NT1.30" x="869.0" y="501.0" otu="otu15"/>
+   <node id="NT1.31" label="NT1.31" x="888.0" y="902.0"/>
+   <node id="NT1.32" label="NT1.32" x="889.0" y="982.0" otu="otu16"/>
+   <node id="NT1.33" label="NT1.33" x="889.0" y="820.0" otu="otu17"/>
+   <node id="NT1.34" label="NT1.34" x="890.0" y="661.0" otu="otu18"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.03' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "/home/ross/workspace/ami-plugin/./all-input/ijs.0.64683-0-000.pbm.png"; bbox 0 0 994 873; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 5 852 40">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 232 5 852 40">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 5 852 40; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 232 14 392 40; x_wconf 84' lang='eng' dir='ltr'><em>Agromyces</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 402 19 524 34; x_wconf 86' lang='eng' dir='ltr'><em>ramosus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 535 14 601 34; x_wconf 87' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 613 5 713 34; x_wconf 84' lang='eng' dir='ltr'><em>43045T</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 724 14 852 40; x_wconf 89' lang='eng' dir='ltr'><em>(X77447)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1 18 304 855">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 18 304 855">
+     <span class='ocr_line' id='line_1_2' title="bbox 1 18 272 115; baseline 0 -58"><span class='ocrx_word' id='word_1_6' title='bbox 1 18 272 115; x_wconf 95' lang='eng' dir='ltr'><em>   </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1 115 208 291; baseline 0 -60"><span class='ocrx_word' id='word_1_7' title='bbox 1 115 208 291; x_wconf 95' lang='eng' dir='ltr'><em>   </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1 291 213 347; baseline 0 526"><span class='ocrx_word' id='word_1_8' title='bbox 1 291 213 347; x_wconf 95' lang='eng' dir='ltr'><em> </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1 347 258 468; baseline 0 -10"><span class='ocrx_word' id='word_1_9' title='bbox 1 347 258 468; x_wconf 95' lang='eng' dir='ltr'><em>   </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 10 468 242 643; baseline 0 -56"><span class='ocrx_word' id='word_1_10' title='bbox 10 468 242 643; x_wconf 95' lang='eng' dir='ltr'><em>   </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 10 643 304 751; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 10 643 304 751; x_wconf 95' lang='eng' dir='ltr'><em>  </em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 166 751 296 855; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 166 751 296 855; x_wconf 95' lang='eng' dir='ltr'><em>   </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 206 63 967 330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 206 63 967 330">
+     <span class='ocr_line' id='line_1_9' title="bbox 294 63 967 98; baseline 0 -6"><span class='ocrx_word' id='word_1_13' title='bbox 294 71 511 92; x_wconf 83' lang='eng' dir='ltr'><em>Microbacterium</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 521 71 637 92; x_wconf 81' lang='eng' dir='ltr'><em>[act/cum</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 649 71 715 92; x_wconf 86' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 728 63 828 92; x_wconf 91' lang='eng' dir='ltr'><em>20427T</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 839 71 967 98; x_wconf 92' lang='eng' dir='ltr'><em>(X77441)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 207 119 794 154; baseline 0 -5"><span class='ocrx_word' id='word_1_18' title='bbox 207 128 333 149; x_wconf 84' lang='eng' dir='ltr'><em>Leifsonia</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 344 128 463 154; x_wconf 84' lang='eng' dir='ltr'><em>aquatica</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 475 128 542 149; x_wconf 87' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 554 119 653 149; x_wconf 79' lang='eng' dir='ltr'><em>20146T</em></span> <span class='ocrx_word' id='word_1_22' title='bbox 665 128 794 154; x_wconf 90' lang='eng' dir='ltr'>(X77450)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 206 179 864 214; baseline 0 -6"><span class='ocrx_word' id='word_1_23' title='bbox 206 188 421 208; x_wconf 82' lang='eng' dir='ltr'><em>Curtobacterium</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 432 188 535 208; x_wconf 81' lang='eng' dir='ltr'><em>citreum</em></span> <span class='ocrx_word' id='word_1_25' title='bbox 547 188 613 208; x_wconf 91' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_26' title='bbox 625 179 724 208; x_wconf 72' lang='eng' dir='ltr'><em>20528T</em></span> <span class='ocrx_word' id='word_1_27' title='bbox 735 188 864 214; x_wconf 89' lang='eng' dir='ltr'>(X77436)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 214 239 824 274; baseline 0.002 -6"><span class='ocrx_word' id='word_1_28' title='bbox 214 248 443 274; x_wconf 85' lang='eng' dir='ltr'><em>Frigoribacterium</em></span> <span class='ocrx_word' id='word_1_29' title='bbox 454 248 524 269; x_wconf 82' lang='eng' dir='ltr'><em>faeni</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 533 248 608 269; x_wconf 85' lang='eng' dir='ltr'><em>strain</em></span> <span class='ocrx_word' id='word_1_31' title='bbox 620 239 683 269; x_wconf 90' lang='eng' dir='ltr'><em>801T</em></span> <span class='ocrx_word' id='word_1_32' title='bbox 695 248 824 274; x_wconf 89' lang='eng' dir='ltr'><em>(Y18807)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 213 295 827 330; baseline 0 -5"><span class='ocrx_word' id='word_1_33' title='bbox 213 304 412 330; x_wconf 83' lang='eng' dir='ltr'><em>Rathayibacter</em></span> <span class='ocrx_word' id='word_1_34' title='bbox 420 304 516 330; x_wconf 82' lang='eng' dir='ltr'><em>rathayi</em></span> <span class='ocrx_word' id='word_1_35' title='bbox 527 304 593 325; x_wconf 89' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_36' title='bbox 606 295 687 325; x_wconf 89' lang='eng' dir='ltr'><em>7485T</em></span> <span class='ocrx_word' id='word_1_37' title='bbox 698 304 827 330; x_wconf 85' lang='eng' dir='ltr'>(X77439)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 242 358 990 745">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 242 358 990 745">
+     <span class='ocr_line' id='line_1_14' title="bbox 271 358 967 393; baseline 0 -6"><span class='ocrx_word' id='word_1_38' title='bbox 271 366 421 387; x_wconf 84' lang='eng' dir='ltr'><em>Subtercola</em></span> <span class='ocrx_word' id='word_1_39' title='bbox 432 366 600 393; x_wconf 84' lang='eng' dir='ltr'><em>frigoramans</em></span> <span class='ocrx_word' id='word_1_40' title='bbox 612 366 678 387; x_wconf 87' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_41' title='bbox 693 358 790 387; x_wconf 76' lang='eng' dir='ltr'><em>13057T</em></span> <span class='ocrx_word' id='word_1_42' title='bbox 801 366 967 393; x_wconf 86' lang='eng' dir='ltr'><em>(AF224723)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 265 416 965 451; baseline 0 -6"><span class='ocrx_word' id='word_1_43' title='bbox 265 424 425 445; x_wconf 85' lang='eng' dir='ltr'><em>Clavibacter</em></span> <span class='ocrx_word' id='word_1_44' title='bbox 433 425 635 451; x_wconf 81' lang='eng' dir='ltr'><em>michiganensis</em></span> <span class='ocrx_word' id='word_1_45' title='bbox 646 424 712 445; x_wconf 90' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_46' title='bbox 724 416 825 445; x_wconf 82' lang='eng' dir='ltr'><em>46364T</em></span> <span class='ocrx_word' id='word_1_47' title='bbox 836 424 965 451; x_wconf 86' lang='eng' dir='ltr'>(X77435)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 247 475 825 510; baseline -0.002 -5"><span class='ocrx_word' id='word_1_48' title='bbox 247 484 474 505; x_wconf 82' lang='eng' dir='ltr'><em>Leucobacterluti</em></span> <span class='ocrx_word' id='word_1_49' title='bbox 482 484 558 505; x_wconf 83' lang='eng' dir='ltr'><em>strain</em></span> <span class='ocrx_word' id='word_1_50' title='bbox 571 475 641 505; x_wconf 79' lang='eng' dir='ltr'><em>RFEST</em></span> <span class='ocrx_word' id='word_1_51' title='bbox 652 484 825 510; x_wconf 87' lang='eng' dir='ltr'><em>(AMO72819)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 242 533 990 569; baseline 0 -6"><span class='ocrx_word' id='word_1_52' title='bbox 242 542 420 563; x_wconf 83' lang='eng' dir='ltr'><em>Leucobacter</em></span> <span class='ocrx_word' id='word_1_53' title='bbox 428 542 662 563; x_wconf 85' lang='eng' dir='ltr'><em>chromiireducens</em></span> <span class='ocrx_word' id='word_1_54' title='bbox 672 542 747 563; x_wconf 87' lang='eng' dir='ltr'><em>strain</em></span> <span class='ocrx_word' id='word_1_55' title='bbox 761 533 816 563; x_wconf 75' lang='eng' dir='ltr'><em>L-1T</em></span> <span class='ocrx_word' id='word_1_56' title='bbox 827 542 990 569; x_wconf 85' lang='eng' dir='ltr'>(AJ781046)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 242 591 886 626; baseline -0.002 -5"><span class='ocrx_word' id='word_1_57' title='bbox 242 600 420 621; x_wconf 82' lang='eng' dir='ltr'><em>Leucobacter</em></span> <span class='ocrx_word' id='word_1_58' title='bbox 428 600 559 621; x_wconf 82' lang='eng' dir='ltr'><em>aridicollis</em></span> <span class='ocrx_word' id='word_1_59' title='bbox 568 600 644 621; x_wconf 85' lang='eng' dir='ltr'><em>strain</em></span> <span class='ocrx_word' id='word_1_60' title='bbox 657 591 712 621; x_wconf 74' lang='eng' dir='ltr'><em>L—QT</em></span> <span class='ocrx_word' id='word_1_61' title='bbox 724 600 886 626; x_wconf 86' lang='eng' dir='ltr'>(AJ781047)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 249 652 975 687; baseline -0.001 -5"><span class='ocrx_word' id='word_1_62' title='bbox 249 661 426 682; x_wconf 84' lang='eng' dir='ltr'><em>Leucobacter</em></span> <span class='ocrx_word' id='word_1_63' title='bbox 434 661 591 687; x_wconf 80' lang='eng' dir='ltr'><em>komagatae</em></span> <span class='ocrx_word' id='word_1_64' title='bbox 603 661 690 682; x_wconf 91' lang='eng' dir='ltr'><em>NBRC</em></span> <span class='ocrx_word' id='word_1_65' title='bbox 703 652 801 682; x_wconf 76' lang='eng' dir='ltr'><em>15245T</em></span> <span class='ocrx_word' id='word_1_66' title='bbox 812 661 975 687; x_wconf 85' lang='eng' dir='ltr'>(AJ746337)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 308 710 923 745; baseline 0 -6"><span class='ocrx_word' id='word_1_67' title='bbox 308 718 485 739; x_wconf 83' lang='eng' dir='ltr'><em>Leucobacter</em></span> <span class='ocrx_word' id='word_1_68' title='bbox 493 718 568 739; x_wconf 87' lang='eng' dir='ltr'><em>albus</em></span> <span class='ocrx_word' id='word_1_69' title='bbox 580 718 632 739; x_wconf 93' lang='eng' dir='ltr'><em>IAM</em></span> <span class='ocrx_word' id='word_1_70' title='bbox 647 718 726 739; x_wconf 80' lang='eng'>14851</span> <span class='ocrx_word' id='word_1_71' title='bbox 733 710 744 722; x_wconf 67' lang='eng' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_72' title='bbox 755 718 923 745; x_wconf 80' lang='eng' dir='ltr'><em>(ABO12594)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 137 747 939 803">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 137 747 939 803">
+     <span class='ocr_line' id='line_1_21' title="bbox 137 747 167 768; baseline 0 0"><span class='ocrx_word' id='word_1_73' title='bbox 137 747 167 768; x_wconf 97' lang='eng'><em>77</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 302 768 939 803; baseline 0 -6"><span class='ocrx_word' id='word_1_74' title='bbox 302 777 480 797; x_wconf 83' lang='eng' dir='ltr'><em>Leucobacter</em></span> <span class='ocrx_word' id='word_1_75' title='bbox 488 777 568 797; x_wconf 89' lang='eng' dir='ltr'><em>alluvii</em></span> <span class='ocrx_word' id='word_1_76' title='bbox 577 777 652 797; x_wconf 83' lang='eng' dir='ltr'><em>strain</em></span> <span class='ocrx_word' id='word_1_77' title='bbox 665 768 754 797; x_wconf 85' lang='eng' dir='ltr'><em>RB1OT</em></span> <span class='ocrx_word' id='word_1_78' title='bbox 766 776 939 803; x_wconf 90' lang='eng' dir='ltr'><em>(AMO72820)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 16 813 556 862">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 16 813 556 862">
+     <span class='ocr_line' id='line_1_23' title="bbox 16 813 72 835; baseline 0 0"><span class='ocrx_word' id='word_1_79' title='bbox 16 813 72 835; x_wconf 89' lang='eng'><em>0.01</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 141 822 556 862; baseline 0.002 -6"><span class='ocrx_word' id='word_1_80' title='bbox 141 822 172 844; x_wconf 79' lang='eng'><strong>65</strong></span> <span class='ocrx_word' id='word_1_81' title='bbox 224 836 312 857; x_wconf 81' lang='eng' dir='ltr'><em>Strain</em></span> <span class='ocrx_word' id='word_1_82' title='bbox 324 827 370 857; x_wconf 84' lang='eng' dir='ltr'><em>4oT</em></span> <span class='ocrx_word' id='word_1_83' title='bbox 381 836 556 862; x_wconf 85' lang='eng' dir='ltr'>(AM040493)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

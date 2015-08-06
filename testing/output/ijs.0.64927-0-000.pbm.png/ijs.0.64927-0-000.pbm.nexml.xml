@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Rheinheimera baltr’ca OSBAC5 (AJ441082)</otu>
+  <otu id="otu2">Rheinheimera baltr’ca 08140 (AJOOZOOB)</otu>
+  <otu id="otu3">Rheinheimera baltica OSBAC1T (AJ441080)</otu>
+  <otu id="otu4">Rheinheimera pacifica KMM 1406T (ABO73132)</otu>
+  <otu id="otu5">Rheinheimera perlucida BA1 31T (AM 1 83347)</otu>
+  <otu id="otu6">Rheinheimera chironomi K19414T (D0298025)</otu>
+  <otu id="otu7">AlishewanelIa fetal[s CCUG 30811T (AF144407)</otu>
+  <otu id="otu8">Brenneria salicis DSM 30166T (AJ233419)</otu>
+  <otu id="otu9">Colwellia piezophila Y223GT (ABOQ4412)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="74.0" y="255.0"/>
+   <node id="NT1.2" x="335.0" y="145.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="349.0" y="227.0"/>
+   <node id="NT1.4" label="NT1.4" x="391.0" y="183.0"/>
+   <node id="NT1.5" label="NT1.5" x="396.0" y="276.0"/>
+   <node id="NT1.6" label="NT1.6" x="454.0" y="52.0"/>
+   <node id="NT1.7" label="NT1.7" x="455.0" y="14.0" otu="otu1"/>
+   <node id="NT1.8" label="NT1.8" x="456.0" y="64.0"/>
+   <node id="NT1.9" label="NT1.9" x="461.0" y="64.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="464.0" y="112.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="500.0" y="206.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="505.0" y="253.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="521.0" y="159.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="583.0" y="302.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="604.0" y="349.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="604.0" y="397.0" otu="otu9"/>
+   <node id="NT1.17" label="NT1.17" x="6.0" y="326.0" root="true"/>
+   <edge source="NT1.6" target="NT1.7"/>
+   <edge source="NT1.8" target="NT1.9"/>
+   <edge source="NT1.4" target="NT1.11"/>
+   <edge source="NT1.5" target="NT1.14"/>
+   <edge source="NT1.1" target="NT1.15"/>
+   <edge source="NT1.2" target="NT1.6"/>
+   <edge source="NT1.6" target="NT1.8"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.17" target="NT1.1"/>
+   <edge source="NT1.17" target="NT1.16"/>
+   <edge source="NT1.5" target="NT1.12"/>
+   <edge source="NT1.4" target="NT1.13"/>
+   <edge source="NT1.8" target="NT1.10"/>
+  </tree>
+ </trees>
+</nexml>

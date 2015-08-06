@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="4.0" cy="2218.0" r="1.0"/>
+    <text stroke="none" x="4.0" y="2218.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="6.0" cy="2218.0" r="1.0"/>
+    <text stroke="none" x="6.0" y="2218.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="38.0" cy="2103.0" r="1.0"/>
+    <text stroke="none" x="38.0" y="2103.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="96.0" cy="1883.0" r="1.0"/>
+    <text stroke="none" x="96.0" y="1883.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="178.0" cy="1517.0" r="1.0"/>
+    <text stroke="none" x="178.0" y="1517.0" font-size="20.0" font-family="helvetica">65</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="201.0" cy="2321.0" r="1.0"/>
+    <text stroke="none" x="201.0" y="2321.0" font-size="20.0" font-family="helvetica">93</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="251.0" cy="1272.0" r="1.0"/>
+    <text stroke="none" x="251.0" y="1272.0" font-size="20.0" font-family="helvetica">52</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="310.0" cy="1758.0" r="1.0"/>
+    <text stroke="none" x="310.0" y="1758.0" font-size="20.0" font-family="helvetica">77</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="332.0" cy="1075.0" r="1.0"/>
+    <text stroke="none" x="332.0" y="1075.0" font-size="20.0" font-family="helvetica">73</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="342.0" cy="2449.0" r="1.0"/>
+    <text stroke="none" x="342.0" y="2449.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="410.0" cy="1933.0" r="1.0"/>
+    <text stroke="none" x="410.0" y="1933.0" font-size="20.0" font-family="helvetica">80</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="417.0" cy="2482.0" r="1.0"/>
+    <text stroke="none" x="417.0" y="2482.0" font-size="20.0" font-family="helvetica">6‘</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="432.0" cy="778.0" r="1.0"/>
+    <text stroke="none" x="432.0" y="778.0" font-size="20.0" font-family="helvetica">66</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="470.0" cy="998.0" r="1.0"/>
+    <text stroke="none" x="470.0" y="998.0" font-size="20.0" font-family="helvetica">83</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="510.0" cy="2343.0" r="1.0"/>
+    <text stroke="none" x="510.0" y="2343.0" font-size="10.0" font-family="helvetica">NT1.15</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="512.0" cy="2378.0" r="1.0"/>
+    <text stroke="none" x="512.0" y="2378.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="513.0" cy="2376.0" r="1.0"/>
+    <text stroke="none" x="513.0" y="2376.0" font-size="10.0" font-family="helvetica">NT1.17</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="514.0" cy="2333.0" r="1.0"/>
+    <text stroke="none" x="514.0" y="2333.0" font-size="20.0" font-family="helvetica">Rhizobium sp. NGR234 (U00090.2)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="523.0" cy="2376.0" r="1.0"/>
+    <text stroke="none" x="523.0" y="2376.0" font-size="20.0" font-family="helvetica">s. fredii HH103 (D0060002)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="525.0" cy="556.0" r="1.0"/>
+    <text stroke="none" x="525.0" y="556.0" font-size="20.0" font-family="helvetica">72</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="592.0" cy="892.0" r="1.0"/>
+    <text stroke="none" x="592.0" y="892.0" font-size="20.0" font-family="helvetica">92</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="635.0" cy="447.0" r="1.0"/>
+    <text stroke="none" x="635.0" y="447.0" font-size="20.0" font-family="helvetica">72</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="650.0" cy="1107.0" r="1.0"/>
+    <text stroke="none" x="650.0" y="1107.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="661.0" cy="1021.0" r="1.0"/>
+    <text stroke="none" x="661.0" y="1021.0" font-size="10.0" font-family="helvetica">NT1.24</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="667.0" cy="525.0" r="1.0"/>
+    <text stroke="none" x="667.0" y="525.0" font-size="10.0" font-family="helvetica">NT1.25</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="676.0" cy="860.0" r="1.0"/>
+    <text stroke="none" x="676.0" y="860.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="677.0" cy="881.0" r="1.0"/>
+    <text stroke="none" x="677.0" y="881.0" font-size="20.0" font-family="helvetica">SEMIA 6160 (HQ259486)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="692.0" cy="988.0" r="1.0"/>
+    <text stroke="none" x="692.0" y="988.0" font-size="20.0" font-family="helvetica">93</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="698.0" cy="965.0" r="1.0"/>
+    <text stroke="none" x="698.0" y="965.0" font-size="20.0" font-family="helvetica">SEMIA 6053 (H0259456)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="701.0" cy="837.0" r="1.0"/>
+    <text stroke="none" x="701.0" y="837.0" font-size="20.0" font-family="helvetica">SEMIA 6152 (HQ259468)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="701.0" cy="2248.0" r="1.0"/>
+    <text stroke="none" x="701.0" y="2248.0" font-size="20.0" font-family="helvetica">M. Ioti MAFF303099 (BAOOOO12.4)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="710.0" cy="366.0" r="1.0"/>
+    <text stroke="none" x="710.0" y="366.0" font-size="20.0" font-family="helvetica">81</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="719.0" cy="1198.0" r="1.0"/>
+    <text stroke="none" x="719.0" y="1198.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="720.0" cy="1092.0" r="1.0"/>
+    <text stroke="none" x="720.0" y="1092.0" font-size="20.0" font-family="helvetica">B. elkanii USDA 767(AM117554.1)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="721.0" cy="1309.0" r="1.0"/>
+    <text stroke="none" x="721.0" y="1309.0" font-size="20.0" font-family="helvetica">SEMIA 587 (HQ259488)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="722.0" cy="1264.0" r="1.0"/>
+    <text stroke="none" x="722.0" y="1264.0" font-size="10.0" font-family="helvetica">NT1.36</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="726.0" cy="429.0" r="1.0"/>
+    <text stroke="none" x="726.0" y="429.0" font-size="20.0" font-family="helvetica">46</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="732.0" cy="923.0" r="1.0"/>
+    <text stroke="none" x="732.0" y="923.0" font-size="20.0" font-family="helvetica">B. japonicum USDA 135 (AJ300253)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="741.0" cy="1008.0" r="1.0"/>
+    <text stroke="none" x="741.0" y="1008.0" font-size="20.0" font-family="helvetica">SEMIA 5026 (H0259489)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="743.0" cy="1051.0" r="1.0"/>
+    <text stroke="none" x="743.0" y="1051.0" font-size="20.0" font-family="helvetica">SEMIA 695 (HQ259467)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="746.0" cy="1369.0" r="1.0"/>
+    <text stroke="none" x="746.0" y="1369.0" font-size="10.0" font-family="helvetica">NT1.41</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="755.0" cy="1264.0" r="1.0"/>
+    <text stroke="none" x="755.0" y="1264.0" font-size="20.0" font-family="helvetica">SEMIA 5011</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="769.0" cy="2507.0" r="1.0"/>
+    <text stroke="none" x="769.0" y="2507.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="769.0" cy="2505.0" r="1.0"/>
+    <text stroke="none" x="769.0" y="2505.0" font-size="10.0" font-family="helvetica">NT1.44</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="776.0" cy="2290.0" r="1.0"/>
+    <text stroke="none" x="776.0" y="2290.0" font-size="20.0" font-family="helvetica">R. etli CFN42T (U2309285)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="793.0" cy="2145.0" r="1.0"/>
+    <text stroke="none" x="793.0" y="2145.0" font-size="10.0" font-family="helvetica">NT1.46</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="794.0" cy="2462.0" r="1.0"/>
+    <text stroke="none" x="794.0" y="2462.0" font-size="20.0" font-family="helvetica">R. Ieguminosarum bv. Viciae 3841 (AM236084)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="794.0" cy="557.0" r="1.0"/>
+    <text stroke="none" x="794.0" y="557.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="795.0" cy="536.0" r="1.0"/>
+    <text stroke="none" x="795.0" y="536.0" font-size="20.0" font-family="helvetica">SEMIA 656 (H0259469)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="795.0" cy="582.0" r="1.0"/>
+    <text stroke="none" x="795.0" y="582.0" font-size="20.0" font-family="helvetica">SEMIA 6077 (HQ259474)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="801.0" cy="2141.0" r="1.0"/>
+    <text stroke="none" x="801.0" y="2141.0" font-size="10.0" font-family="helvetica">NT1.51</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="804.0" cy="1724.0" r="1.0"/>
+    <text stroke="none" x="804.0" y="1724.0" font-size="10.0" font-family="helvetica">NT1.52</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="805.0" cy="2205.0" r="1.0"/>
+    <text stroke="none" x="805.0" y="2205.0" font-size="20.0" font-family="helvetica">SEMIA 6179 (H0259465)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="806.0" cy="2036.0" r="1.0"/>
+    <text stroke="none" x="806.0" y="2036.0" font-size="10.0" font-family="helvetica">NT1.54</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="807.0" cy="2079.0" r="1.0"/>
+    <text stroke="none" x="807.0" y="2079.0" font-size="20.0" font-family="helvetica">SEMIA 6187 (H0259459) </text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="807.0" cy="1990.0" r="1.0"/>
+    <text stroke="none" x="807.0" y="1990.0" font-size="20.0" font-family="helvetica">SEMIA 6164 (HQ259458)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="820.0" cy="495.0" r="1.0"/>
+    <text stroke="none" x="820.0" y="495.0" font-size="20.0" font-family="helvetica">SEMIA 6059 (H0259491)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="830.0" cy="1795.0" r="1.0"/>
+    <text stroke="none" x="830.0" y="1795.0" font-size="20.0" font-family="helvetica">54</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="838.0" cy="1466.0" r="1.0"/>
+    <text stroke="none" x="838.0" y="1466.0" font-size="10.0" font-family="helvetica">NT1.59</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="845.0" cy="2119.0" r="1.0"/>
+    <text stroke="none" x="845.0" y="2119.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. USDA 3475 (AJ430710)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="855.0" cy="2163.0" r="1.0"/>
+    <text stroke="none" x="855.0" y="2163.0" font-size="20.0" font-family="helvetica">SEMIA 6186 (HO259462)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="859.0" cy="299.0" r="1.0"/>
+    <text stroke="none" x="859.0" y="299.0" font-size="10.0" font-family="helvetica">NT1.62</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="860.0" cy="368.0" r="1.0"/>
+    <text stroke="none" x="860.0" y="368.0" font-size="20.0" font-family="helvetica">SEMIA 512 (H0259470)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="861.0" cy="366.0" r="1.0"/>
+    <text stroke="none" x="861.0" y="366.0" font-size="10.0" font-family="helvetica">NT1.64</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="863.0" cy="366.0" r="1.0"/>
+    <text stroke="none" x="863.0" y="366.0" font-size="20.0" font-family="helvetica">SEMIA 512 (H0259470)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="877.0" cy="229.0" r="1.0"/>
+    <text stroke="none" x="877.0" y="229.0" font-size="20.0" font-family="helvetica">59</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="879.0" cy="281.0" r="1.0"/>
+    <text stroke="none" x="879.0" y="281.0" font-size="10.0" font-family="helvetica">NT1.67</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="881.0" cy="1393.0" r="1.0"/>
+    <text stroke="none" x="881.0" y="1393.0" font-size="20.0" font-family="helvetica">SEMIA 6319 (HQ259457)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="884.0" cy="281.0" r="1.0"/>
+    <text stroke="none" x="884.0" y="281.0" font-size="20.0" font-family="helvetica">SEMIA 5045 (H0259472)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="889.0" cy="22.0" r="1.0"/>
+    <text stroke="none" x="889.0" y="22.0" font-size="20.0" font-family="helvetica">B. japonicum</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="889.0" cy="97.0" r="1.0"/>
+    <text stroke="none" x="889.0" y="97.0" font-size="10.0" font-family="helvetica">NT1.71</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="890.0" cy="239.0" r="1.0"/>
+    <text stroke="none" x="890.0" y="239.0" font-size="20.0" font-family="helvetica">SEMIA 560 (H0259482)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="891.0" cy="2419.0" r="1.0"/>
+    <text stroke="none" x="891.0" y="2419.0" font-size="20.0" font-family="helvetica">S. meliloti 1021 (AE006469.1)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="895.0" cy="1649.0" r="1.0"/>
+    <text stroke="none" x="895.0" y="1649.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. Lpol9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="901.0" cy="324.0" r="1.0"/>
+    <text stroke="none" x="901.0" y="324.0" font-size="20.0" font-family="helvetica">SEMIA 5079 (H0259490)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="904.0" cy="1736.0" r="1.0"/>
+    <text stroke="none" x="904.0" y="1736.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="905.0" cy="1779.0" r="1.0"/>
+    <text stroke="none" x="905.0" y="1779.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. USDA 3505 (AJ430709)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="905.0" cy="1690.0" r="1.0"/>
+    <text stroke="none" x="905.0" y="1690.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. CH2355 (AM117561)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="910.0" cy="661.0" r="1.0"/>
+    <text stroke="none" x="910.0" y="661.0" font-size="10.0" font-family="helvetica">NT1.79</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="915.0" cy="1349.0" r="1.0"/>
+    <text stroke="none" x="915.0" y="1349.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. Lcamp8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="921.0" cy="409.0" r="1.0"/>
+    <text stroke="none" x="921.0" y="409.0" font-size="20.0" font-family="helvetica">B. yuanmingense CCBAU 10071 T (AM1 1 7557.1)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="921.0" cy="701.0" r="1.0"/>
+    <text stroke="none" x="921.0" y="701.0" font-size="20.0" font-family="helvetica">59</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="934.0" cy="1856.0" r="1.0"/>
+    <text stroke="none" x="934.0" y="1856.0" font-size="20.0" font-family="helvetica">98</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="943.0" cy="739.0" r="1.0"/>
+    <text stroke="none" x="943.0" y="739.0" font-size="20.0" font-family="helvetica">58</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="944.0" cy="623.0" r="1.0"/>
+    <text stroke="none" x="944.0" y="623.0" font-size="20.0" font-family="helvetica">SEMIA 6028 (HQ259473)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="948.0" cy="708.0" r="1.0"/>
+    <text stroke="none" x="948.0" y="708.0" font-size="20.0" font-family="helvetica">SEMIA 6148 (H0259481)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="967.0" cy="1587.0" r="1.0"/>
+    <text stroke="none" x="967.0" y="1587.0" font-size="10.0" font-family="helvetica">NT1.87</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="968.0" cy="1436.0" r="1.0"/>
+    <text stroke="none" x="968.0" y="1436.0" font-size="20.0" font-family="helvetica">SEMIA 6101</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="968.0" cy="1609.0" r="1.0"/>
+    <text stroke="none" x="968.0" y="1609.0" font-size="20.0" font-family="helvetica">SEMIA 6374 (HQ259464)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="968.0" cy="1893.0" r="1.0"/>
+    <text stroke="none" x="968.0" y="1893.0" font-size="20.0" font-family="helvetica">91</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="969.0" cy="1562.0" r="1.0"/>
+    <text stroke="none" x="969.0" y="1562.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. CH2509 (AM117556) </text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="975.0" cy="1926.0" r="1.0"/>
+    <text stroke="none" x="975.0" y="1926.0" font-size="10.0" font-family="helvetica">NT1.92</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="977.0" cy="452.0" r="1.0"/>
+    <text stroke="none" x="977.0" y="452.0" font-size="20.0" font-family="helvetica">SEMIA 5062 (HQ259484)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="978.0" cy="1820.0" r="1.0"/>
+    <text stroke="none" x="978.0" y="1820.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. BLUH1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="993.0" cy="665.0" r="1.0"/>
+    <text stroke="none" x="993.0" y="665.0" font-size="20.0" font-family="helvetica">SEMIA 6146 (HQ259475)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1006.0" cy="1906.0" r="1.0"/>
+    <text stroke="none" x="1006.0" y="1906.0" font-size="20.0" font-family="helvetica">Bradyrhizobium sp. ICED (AM117551)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1010.0" cy="771.0" r="1.0"/>
+    <text stroke="none" x="1010.0" y="771.0" font-size="20.0" font-family="helvetica">98</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1011.0" cy="750.0" r="1.0"/>
+    <text stroke="none" x="1011.0" y="750.0" font-size="20.0" font-family="helvetica">SEMIA 6069 (H0259480)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1012.0" cy="796.0" r="1.0"/>
+    <text stroke="none" x="1012.0" y="796.0" font-size="20.0" font-family="helvetica">SEMIA 6093 (HQ259485)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1017.0" cy="1949.0" r="1.0"/>
+    <text stroke="none" x="1017.0" y="1949.0" font-size="20.0" font-family="helvetica">SEMIA 928 (H0259487)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1034.0" cy="1863.0" r="1.0"/>
+    <text stroke="none" x="1034.0" y="1863.0" font-size="20.0" font-family="helvetica">SEMIA 6156 (H0259466)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1056.0" cy="1498.0" r="1.0"/>
+    <text stroke="none" x="1056.0" y="1498.0" font-size="10.0" font-family="helvetica">NT1.102</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1057.0" cy="1477.0" r="1.0"/>
+    <text stroke="none" x="1057.0" y="1477.0" font-size="20.0" font-family="helvetica">SEMIA 6440 (HQ259461)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1123.0" cy="2504.0" r="1.0"/>
+    <text stroke="none" x="1123.0" y="2504.0" font-size="20.0" font-family="helvetica">R. Ieguminosarum bv. trifolii WSM1325</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1124.0" cy="1521.0" r="1.0"/>
+    <text stroke="none" x="1124.0" y="1521.0" font-size="20.0" font-family="helvetica">SEMIA 6099 (H0259463)</text>
+   </g>
+   <line stroke="black" x1="889.0" y1="22.0" x2="889.0" y2="97.0" stroke-width="0.5"/>
+   <line stroke="black" x1="890.0" y1="239.0" x2="889.0" y2="97.0" stroke-width="0.5"/>
+   <line stroke="black" x1="884.0" y1="281.0" x2="879.0" y2="281.0" stroke-width="0.5"/>
+   <line stroke="black" x1="863.0" y1="366.0" x2="861.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="860.0" y1="368.0" x2="861.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="795.0" y1="536.0" x2="794.0" y2="557.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1011.0" y1="750.0" x2="1010.0" y2="771.0" stroke-width="0.5"/>
+   <line stroke="black" x1="677.0" y1="881.0" x2="676.0" y2="860.0" stroke-width="0.5"/>
+   <line stroke="black" x1="755.0" y1="1264.0" x2="722.0" y2="1264.0" stroke-width="0.5"/>
+   <line stroke="black" x1="720.0" y1="1092.0" x2="719.0" y2="1198.0" stroke-width="0.5"/>
+   <line stroke="black" x1="721.0" y1="1309.0" x2="722.0" y2="1264.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1057.0" y1="1477.0" x2="1056.0" y2="1498.0" stroke-width="0.5"/>
+   <line stroke="black" x1="6.0" y1="2218.0" x2="4.0" y2="2218.0" stroke-width="0.5"/>
+   <line stroke="black" x1="968.0" y1="1609.0" x2="967.0" y2="1587.0" stroke-width="0.5"/>
+   <line stroke="black" x1="807.0" y1="2079.0" x2="806.0" y2="2036.0" stroke-width="0.5"/>
+   <line stroke="black" x1="514.0" y1="2333.0" x2="510.0" y2="2343.0" stroke-width="0.5"/>
+   <line stroke="black" x1="512.0" y1="2378.0" x2="513.0" y2="2376.0" stroke-width="0.5"/>
+   <line stroke="black" x1="523.0" y1="2376.0" x2="513.0" y2="2376.0" stroke-width="0.5"/>
+   <line stroke="black" x1="905.0" y1="1779.0" x2="904.0" y2="1736.0" stroke-width="0.5"/>
+   <line stroke="black" x1="769.0" y1="2507.0" x2="769.0" y2="2505.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1123.0" y1="2504.0" x2="769.0" y2="2505.0" stroke-width="0.5"/>
+   <line stroke="black" x1="889.0" y1="97.0" x2="877.0" y2="229.0" stroke-width="0.5"/>
+   <line stroke="black" x1="877.0" y1="229.0" x2="859.0" y2="299.0" stroke-width="0.5"/>
+   <line stroke="black" x1="877.0" y1="229.0" x2="879.0" y2="281.0" stroke-width="0.5"/>
+   <line stroke="black" x1="859.0" y1="299.0" x2="710.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="859.0" y1="299.0" x2="861.0" y2="366.0" stroke-width="0.5"/>
+   <line stroke="black" x1="710.0" y1="366.0" x2="635.0" y2="447.0" stroke-width="0.5"/>
+   <line stroke="black" x1="710.0" y1="366.0" x2="726.0" y2="429.0" stroke-width="0.5"/>
+   <line stroke="black" x1="635.0" y1="447.0" x2="525.0" y2="556.0" stroke-width="0.5"/>
+   <line stroke="black" x1="635.0" y1="447.0" x2="667.0" y2="525.0" stroke-width="0.5"/>
+   <line stroke="black" x1="667.0" y1="525.0" x2="794.0" y2="557.0" stroke-width="0.5"/>
+   <line stroke="black" x1="525.0" y1="556.0" x2="432.0" y2="778.0" stroke-width="0.5"/>
+   <line stroke="black" x1="525.0" y1="556.0" x2="910.0" y2="661.0" stroke-width="0.5"/>
+   <line stroke="black" x1="432.0" y1="778.0" x2="332.0" y2="1075.0" stroke-width="0.5"/>
+   <line stroke="black" x1="432.0" y1="778.0" x2="470.0" y2="998.0" stroke-width="0.5"/>
+   <line stroke="black" x1="910.0" y1="661.0" x2="921.0" y2="701.0" stroke-width="0.5"/>
+   <line stroke="black" x1="921.0" y1="701.0" x2="943.0" y2="739.0" stroke-width="0.5"/>
+   <line stroke="black" x1="470.0" y1="998.0" x2="650.0" y2="1107.0" stroke-width="0.5"/>
+   <line stroke="black" x1="470.0" y1="998.0" x2="592.0" y2="892.0" stroke-width="0.5"/>
+   <line stroke="black" x1="943.0" y1="739.0" x2="1010.0" y2="771.0" stroke-width="0.5"/>
+   <line stroke="black" x1="332.0" y1="1075.0" x2="251.0" y2="1272.0" stroke-width="0.5"/>
+   <line stroke="black" x1="332.0" y1="1075.0" x2="746.0" y2="1369.0" stroke-width="0.5"/>
+   <line stroke="black" x1="592.0" y1="892.0" x2="676.0" y2="860.0" stroke-width="0.5"/>
+   <line stroke="black" x1="650.0" y1="1107.0" x2="719.0" y2="1198.0" stroke-width="0.5"/>
+   <line stroke="black" x1="650.0" y1="1107.0" x2="661.0" y2="1021.0" stroke-width="0.5"/>
+   <line stroke="black" x1="661.0" y1="1021.0" x2="692.0" y2="988.0" stroke-width="0.5"/>
+   <line stroke="black" x1="251.0" y1="1272.0" x2="178.0" y2="1517.0" stroke-width="0.5"/>
+   <line stroke="black" x1="251.0" y1="1272.0" x2="838.0" y2="1466.0" stroke-width="0.5"/>
+   <line stroke="black" x1="719.0" y1="1198.0" x2="722.0" y2="1264.0" stroke-width="0.5"/>
+   <line stroke="black" x1="178.0" y1="1517.0" x2="96.0" y2="1883.0" stroke-width="0.5"/>
+   <line stroke="black" x1="178.0" y1="1517.0" x2="310.0" y2="1758.0" stroke-width="0.5"/>
+   <line stroke="black" x1="310.0" y1="1758.0" x2="410.0" y2="1933.0" stroke-width="0.5"/>
+   <line stroke="black" x1="310.0" y1="1758.0" x2="967.0" y2="1587.0" stroke-width="0.5"/>
+   <line stroke="black" x1="96.0" y1="1883.0" x2="38.0" y2="2103.0" stroke-width="0.5"/>
+   <line stroke="black" x1="838.0" y1="1466.0" x2="1056.0" y2="1498.0" stroke-width="0.5"/>
+   <line stroke="black" x1="410.0" y1="1933.0" x2="793.0" y2="2145.0" stroke-width="0.5"/>
+   <line stroke="black" x1="410.0" y1="1933.0" x2="804.0" y2="1724.0" stroke-width="0.5"/>
+   <line stroke="black" x1="38.0" y1="2103.0" x2="6.0" y2="2218.0" stroke-width="0.5"/>
+   <line stroke="black" x1="38.0" y1="2103.0" x2="201.0" y2="2321.0" stroke-width="0.5"/>
+   <line stroke="black" x1="6.0" y1="2218.0" x2="342.0" y2="2449.0" stroke-width="0.5"/>
+   <line stroke="black" x1="201.0" y1="2321.0" x2="510.0" y2="2343.0" stroke-width="0.5"/>
+   <line stroke="black" x1="793.0" y1="2145.0" x2="801.0" y2="2141.0" stroke-width="0.5"/>
+   <line stroke="black" x1="801.0" y1="2141.0" x2="806.0" y2="2036.0" stroke-width="0.5"/>
+   <line stroke="black" x1="804.0" y1="1724.0" x2="830.0" y2="1795.0" stroke-width="0.5"/>
+   <line stroke="black" x1="830.0" y1="1795.0" x2="934.0" y2="1856.0" stroke-width="0.5"/>
+   <line stroke="black" x1="830.0" y1="1795.0" x2="904.0" y2="1736.0" stroke-width="0.5"/>
+   <line stroke="black" x1="342.0" y1="2449.0" x2="417.0" y2="2482.0" stroke-width="0.5"/>
+   <line stroke="black" x1="510.0" y1="2343.0" x2="513.0" y2="2376.0" stroke-width="0.5"/>
+   <line stroke="black" x1="934.0" y1="1856.0" x2="968.0" y2="1893.0" stroke-width="0.5"/>
+   <line stroke="black" x1="417.0" y1="2482.0" x2="769.0" y2="2505.0" stroke-width="0.5"/>
+   <line stroke="black" x1="968.0" y1="1893.0" x2="975.0" y2="1926.0" stroke-width="0.5"/>
+   <line stroke="black" x1="701.0" y1="2248.0" x2="96.0" y2="1883.0" stroke-width="0.5"/>
+   <line stroke="black" x1="776.0" y1="2290.0" x2="201.0" y2="2321.0" stroke-width="0.5"/>
+   <line stroke="black" x1="891.0" y1="2419.0" x2="342.0" y2="2449.0" stroke-width="0.5"/>
+   <line stroke="black" x1="794.0" y1="2462.0" x2="417.0" y2="2482.0" stroke-width="0.5"/>
+   <line stroke="black" x1="732.0" y1="923.0" x2="592.0" y2="892.0" stroke-width="0.5"/>
+   <line stroke="black" x1="701.0" y1="837.0" x2="676.0" y2="860.0" stroke-width="0.5"/>
+   <line stroke="black" x1="743.0" y1="1051.0" x2="661.0" y2="1021.0" stroke-width="0.5"/>
+   <line stroke="black" x1="698.0" y1="965.0" x2="692.0" y2="988.0" stroke-width="0.5"/>
+   <line stroke="black" x1="741.0" y1="1008.0" x2="692.0" y2="988.0" stroke-width="0.5"/>
+   <line stroke="black" x1="820.0" y1="495.0" x2="667.0" y2="525.0" stroke-width="0.5"/>
+   <line stroke="black" x1="921.0" y1="409.0" x2="726.0" y2="429.0" stroke-width="0.5"/>
+   <line stroke="black" x1="881.0" y1="1393.0" x2="746.0" y2="1369.0" stroke-width="0.5"/>
+   <line stroke="black" x1="795.0" y1="582.0" x2="794.0" y2="557.0" stroke-width="0.5"/>
+   <line stroke="black" x1="805.0" y1="2205.0" x2="793.0" y2="2145.0" stroke-width="0.5"/>
+   <line stroke="black" x1="915.0" y1="1349.0" x2="746.0" y2="1369.0" stroke-width="0.5"/>
+   <line stroke="black" x1="807.0" y1="1990.0" x2="806.0" y2="2036.0" stroke-width="0.5"/>
+   <line stroke="black" x1="977.0" y1="452.0" x2="726.0" y2="429.0" stroke-width="0.5"/>
+   <line stroke="black" x1="845.0" y1="2119.0" x2="801.0" y2="2141.0" stroke-width="0.5"/>
+   <line stroke="black" x1="855.0" y1="2163.0" x2="801.0" y2="2141.0" stroke-width="0.5"/>
+   <line stroke="black" x1="895.0" y1="1649.0" x2="804.0" y2="1724.0" stroke-width="0.5"/>
+   <line stroke="black" x1="968.0" y1="1436.0" x2="838.0" y2="1466.0" stroke-width="0.5"/>
+   <line stroke="black" x1="901.0" y1="324.0" x2="879.0" y2="281.0" stroke-width="0.5"/>
+   <line stroke="black" x1="905.0" y1="1690.0" x2="904.0" y2="1736.0" stroke-width="0.5"/>
+   <line stroke="black" x1="944.0" y1="623.0" x2="910.0" y2="661.0" stroke-width="0.5"/>
+   <line stroke="black" x1="993.0" y1="665.0" x2="921.0" y2="701.0" stroke-width="0.5"/>
+   <line stroke="black" x1="948.0" y1="708.0" x2="943.0" y2="739.0" stroke-width="0.5"/>
+   <line stroke="black" x1="978.0" y1="1820.0" x2="934.0" y2="1856.0" stroke-width="0.5"/>
+   <line stroke="black" x1="969.0" y1="1562.0" x2="967.0" y2="1587.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1006.0" y1="1906.0" x2="975.0" y2="1926.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1034.0" y1="1863.0" x2="968.0" y2="1893.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1017.0" y1="1949.0" x2="975.0" y2="1926.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1012.0" y1="796.0" x2="1010.0" y2="771.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1124.0" y1="1521.0" x2="1056.0" y2="1498.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

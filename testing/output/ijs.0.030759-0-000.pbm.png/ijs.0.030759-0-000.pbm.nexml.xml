@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Saturnispora aheamii</otu>
+  <otu id="otu2">Saturnispora besseyi</otu>
+  <otu id="otu3">Saturnispora mendoncae NRRL Y -1 1515T (EF550214)</otu>
+  <otu id="otu4">Saturnispora saitoi</otu>
+  <otu id="otu5">Candida sanitii RV152T (ABB32397)</otu>
+  <otu id="otu6">Candida silllae NRRL Y-6725T (U71065)</otu>
+  <otu id="otu7">Saturnispora gosingensis (3A4M05T (FJ873525)</otu>
+  <otu id="otu8">Saturnispora Sp. GJ5M11 (HM461621)</otu>
+  <otu id="otu9">Candida diversa</otu>
+  <otu id="otu10">Candida agrestis</otu>
+  <otu id="otu11">Saturnispora quitensis CLQCA -10-1 14T (FN908197)</otu>
+  <otu id="otu12">Saturnispora zaruensis</otu>
+  <otu id="otu13">Saturnispora hag/eri UFMG -55T (AY762368)</otu>
+  <otu id="otu14">Saturnispora serradocipensis UFMG-DC-198T (GU952247)</otu>
+  <otu id="otu15">Candida suwanariz‘ii EA1T (AB439256)</otu>
+  <otu id="otu16">Saturnispora dispora</otu>
+  <otu id="otu17">Candida siamensis</otu>
+  <otu id="otu18">Candida sekii ST84T (DO404448)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="178.0" y="1115.0" label="100"/>
+   <node id="NT1.2" x="222.0" y="208.0" label="58"/>
+   <node id="NT1.3" x="284.0" y="312.0" label="99"/>
+   <node id="NT1.4" x="558.0" y="429.0" label="57"/>
+   <node id="NT1.5" x="596.0" y="568.0" label="100"/>
+   <node id="NT1.6" x="614.0" y="198.0" label="100"/>
+   <node id="NT1.7" label="NT1.7" x="760.0" y="710.0"/>
+   <node id="NT1.8" x="802.0" y="431.0" label="100"/>
+   <node id="NT1.9" x="868.0" y="385.0" label="99"/>
+   <node id="NT1.10" label="NT1.10" x="878.0" y="353.0" otu="otu1"/>
+   <node id="NT1.11" label="NT1.11" x="897.0" y="415.0" otu="otu2"/>
+   <node id="NT1.12" label="NT1.12" x="920.0" y="165.0" otu="otu3"/>
+   <node id="NT1.13" x="922.0" y="803.0" label="79"/>
+   <node id="NT1.14" label="NT1.14" x="930.0" y="478.0" otu="otu4"/>
+   <node id="NT1.15" x="943.0" y="1072.0" label="100"/>
+   <node id="NT1.16" label="NT1.16" x="981.0" y="883.0"/>
+   <node id="NT1.17" label="NT1.17" x="989.0" y="1039.0" otu="otu5"/>
+   <node id="NT1.18" label="NT1.18" x="991.0" y="822.0"/>
+   <node id="NT1.19" label="NT1.19" x="993.0" y="1164.0" otu="otu6"/>
+   <node id="NT1.20" label="NT1.20" x="993.0" y="945.0"/>
+   <node id="NT1.21" x="1005.0" y="618.0" label="100"/>
+   <node id="NT1.22" label="NT1.22" x="1009.0" y="914.0" otu="otu7"/>
+   <node id="NT1.23" label="NT1.23" x="1011.0" y="665.0" otu="otu8"/>
+   <node id="NT1.24" x="1018.0" y="572.0" label="64"/>
+   <node id="NT1.25" label="NT1.25" x="1022.0" y="290.0" otu="otu9"/>
+   <node id="NT1.26" label="NT1.26" x="1024.0" y="540.0" otu="otu10"/>
+   <node id="NT1.27" label="NT1.27" x="1028.0" y="789.0" otu="otu11"/>
+   <node id="NT1.28" label="NT1.28" x="1030.0" y="602.0" otu="otu12"/>
+   <node id="NT1.29" label="NT1.29" x="1032.0" y="853.0" otu="otu13"/>
+   <node id="NT1.30" label="NT1.30" x="1055.0" y="977.0" otu="otu14"/>
+   <node id="NT1.31" label="NT1.31" x="1082.0" y="1102.0" otu="otu15"/>
+   <node id="NT1.32" label="NT1.32" x="1084.0" y="727.0" otu="otu16"/>
+   <node id="NT1.33" label="NT1.33" x="1134.0" y="228.0" otu="otu17"/>
+   <node id="NT1.34" label="NT1.34" x="1159.0" y="103.0" otu="otu18"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

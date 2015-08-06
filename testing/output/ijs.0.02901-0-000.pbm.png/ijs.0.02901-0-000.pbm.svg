@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="15.0" cy="222.0" r="1.0"/>
+    <text stroke="none" x="15.0" y="222.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="24.0" cy="536.0" r="1.0"/>
+    <text stroke="none" x="24.0" y="536.0" font-size="20.0" font-family="helvetica">58</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="41.0" cy="321.0" r="1.0"/>
+    <text stroke="none" x="41.0" y="321.0" font-size="20.0" font-family="helvetica">56</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="70.0" cy="387.0" r="1.0"/>
+    <text stroke="none" x="70.0" y="387.0" font-size="20.0" font-family="helvetica">60</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="96.0" cy="419.0" r="1.0"/>
+    <text stroke="none" x="96.0" y="419.0" font-size="20.0" font-family="helvetica"> A. rifamycinica DSM 46095T (AY083603)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="98.0" cy="254.0" r="1.0"/>
+    <text stroke="none" x="98.0" y="254.0" font-size="20.0" font-family="helvetica">90</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="102.0" cy="289.0" r="1.0"/>
+    <text stroke="none" x="102.0" y="289.0" font-size="20.0" font-family="helvetica">A. pretoriensis NRRL B-24133T (AY183356)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="109.0" cy="107.0" r="1.0"/>
+    <text stroke="none" x="109.0" y="107.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="115.0" cy="220.0" r="1.0"/>
+    <text stroke="none" x="115.0" y="220.0" font-size="20.0" font-family="helvetica">A. lexingtonensis NRRL 8-24129T (AY183358)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="115.0" cy="586.0" r="1.0"/>
+    <text stroke="none" x="115.0" y="586.0" font-size="20.0" font-family="helvetica">97</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="116.0" cy="554.0" r="1.0"/>
+    <text stroke="none" x="116.0" y="554.0" font-size="20.0" font-family="helvetica">A. mediterranei NRRL 3-3240T (AY184424)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="134.0" cy="622.0" r="1.0"/>
+    <text stroke="none" x="134.0" y="622.0" font-size="20.0" font-family="helvetica"> A. mediterranei F1/24 (AY083604)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="137.0" cy="24.0" r="1.0"/>
+    <text stroke="none" x="137.0" y="24.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="148.0" cy="354.0" r="1.0"/>
+    <text stroke="none" x="148.0" y="354.0" font-size="20.0" font-family="helvetica">A. kentuckyensis NRRL B-24129T (AY183357)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="170.0" cy="487.0" r="1.0"/>
+    <text stroke="none" x="170.0" y="487.0" font-size="20.0" font-family="helvetica">A. balhimycina DSM 44591T (AJ508239)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="207.0" cy="156.0" r="1.0"/>
+    <text stroke="none" x="207.0" y="156.0" font-size="20.0" font-family="helvetica">A. tolypomycina DSM 44544T (AJ508241)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="293.0" cy="86.0" r="1.0"/>
+    <text stroke="none" x="293.0" y="86.0" font-size="20.0" font-family="helvetica">A. vancoresmycina DSM 44592T (AJ508240)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="5.0" cy="359.0" r="1.0"/>
+    <text stroke="none" x="5.0" y="359.0" font-size="10.0" font-family="helvetica">NT1.18</text>
+   </g>
+   <line stroke="black" x1="137.0" y1="24.0" x2="15.0" y2="222.0" stroke-width="0.5"/>
+   <line stroke="black" x1="96.0" y1="419.0" x2="70.0" y2="387.0" stroke-width="0.5"/>
+   <line stroke="black" x1="102.0" y1="289.0" x2="98.0" y2="254.0" stroke-width="0.5"/>
+   <line stroke="black" x1="115.0" y1="220.0" x2="98.0" y2="254.0" stroke-width="0.5"/>
+   <line stroke="black" x1="207.0" y1="156.0" x2="109.0" y2="107.0" stroke-width="0.5"/>
+   <line stroke="black" x1="116.0" y1="554.0" x2="115.0" y2="586.0" stroke-width="0.5"/>
+   <line stroke="black" x1="134.0" y1="622.0" x2="115.0" y2="586.0" stroke-width="0.5"/>
+   <line stroke="black" x1="15.0" y1="222.0" x2="109.0" y2="107.0" stroke-width="0.5"/>
+   <line stroke="black" x1="41.0" y1="321.0" x2="98.0" y2="254.0" stroke-width="0.5"/>
+   <line stroke="black" x1="41.0" y1="321.0" x2="70.0" y2="387.0" stroke-width="0.5"/>
+   <line stroke="black" x1="24.0" y1="536.0" x2="115.0" y2="586.0" stroke-width="0.5"/>
+   <line stroke="black" x1="5.0" y1="359.0" x2="15.0" y2="222.0" stroke-width="0.5"/>
+   <line stroke="black" x1="24.0" y1="536.0" x2="5.0" y2="359.0" stroke-width="0.5"/>
+   <line stroke="black" x1="170.0" y1="487.0" x2="24.0" y2="536.0" stroke-width="0.5"/>
+   <line stroke="black" x1="15.0" y1="222.0" x2="41.0" y2="321.0" stroke-width="0.5"/>
+   <line stroke="black" x1="148.0" y1="354.0" x2="70.0" y2="387.0" stroke-width="0.5"/>
+   <line stroke="black" x1="293.0" y1="86.0" x2="109.0" y2="107.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

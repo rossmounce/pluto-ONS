@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Hyphomicrobium vulgare ATCC 27500 (Y14302)</otu>
+  <otu id="otu2">Angulomicrobium tetraedrale DSM 5895T (AJ535708)</otu>
+  <otu id="otu3">Beijerinckia indica ATCC 9039T (M59060)</otu>
+  <otu id="otu4">Mesorhizobium loti USDA 3471T (X67229)</otu>
+  <otu id="otu5">Agrobacterium tumefaciens NCPPB 2437T (X67223)</otu>
+  <otu id="otu6">Strain MAFF 210191T (ABZ36169)</otu>
+  <otu id="otu7">Labrys methylaminiphilus DSM 16812T (ABZ36172)</otu>
+  <otu id="otu8">Strain 624103T (ABZ36170)</otu>
+  <otu id="otu9">Strain 624116 (ABZ36171)</otu>
+  <otu id="otu10">Labrys monachus VKM 8—1479T (AJ535707)</otu>
+  <otu id="otu11">Bradyrhizobium japonicum USDA 6T (U69638)</otu>
+  <otu id="otu12">Methylobacterium nodulans ORS 2060T (AF220763)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="35.0" y="214.0"/>
+   <node id="NT1.2" label="NT1.2" x="60.0" y="96.0"/>
+   <node id="NT1.3" label="NT1.3" x="87.0" y="172.0"/>
+   <node id="NT1.4" label="NT1.4" x="143.0" y="254.0"/>
+   <node id="NT1.5" label="NT1.5" x="169.0" y="353.0"/>
+   <node id="NT1.6" label="NT1.6" x="185.0" y="278.0"/>
+   <node id="NT1.7" label="NT1.7" x="376.0" y="411.0" otu="otu1"/>
+   <node id="NT1.8" label="NT1.8" x="378.0" y="90.0"/>
+   <node id="NT1.9" label="NT1.9" x="387.0" y="120.0"/>
+   <node id="NT1.10" label="NT1.10" x="400.0" y="18.0" otu="otu2"/>
+   <node id="NT1.11" label="NT1.11" x="401.0" y="231.0" otu="otu3"/>
+   <node id="NT1.12" label="NT1.12" x="408.0" y="339.0" otu="otu4"/>
+   <node id="NT1.13" label="NT1.13" x="409.0" y="146.0"/>
+   <node id="NT1.14" label="NT1.14" x="420.0" y="375.0" otu="otu5"/>
+   <node id="NT1.15" label="NT1.15" x="437.0" y="123.0" otu="otu6"/>
+   <node id="NT1.16" label="NT1.16" x="439.0" y="53.0" otu="otu7"/>
+   <node id="NT1.17" x="451.0" y="174.0" label="100"/>
+   <node id="NT1.18" label="NT1.18" x="452.0" y="161.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="452.0" y="196.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="472.0" y="89.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="541.0" y="267.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="616.0" y="303.0" otu="otu12"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

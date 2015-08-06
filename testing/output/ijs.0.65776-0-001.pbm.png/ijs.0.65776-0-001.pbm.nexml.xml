@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">P. taichungensis BCRC 17757T(EU272029)</otu>
+  <otu id="otu3">P. pabuli BCRC 15857T(EU272025)</otu>
+  <otu id="otu4">P. barcinonensis BCRC 17560T(EU272027)</otu>
+  <otu id="otu5">P. lautus NBRC 15380T (gy11201)</otu>
+  <otu id="otu6">P. polymyxa IAM 13419T (gy12417)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="52.0" y="296.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="171.0" y="238.0"/>
+   <node id="NT1.3" x="184.0" y="180.0" label="60"/>
+   <node id="NT1.4" label="NT1.4" x="210.0" y="131.0"/>
+   <node id="NT1.5" label="NT1.5" x="331.0" y="33.0"/>
+   <node id="NT1.6" label="NT1.6" x="342.0" y="185.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="351.0" y="11.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="354.0" y="55.0" otu="otu4"/>
+   <node id="NT1.9" label="NT1.9" x="357.0" y="271.0" otu="otu5"/>
+   <node id="NT1.10" label="NT1.10" x="372.0" y="228.0" otu="otu6"/>
+   <edge source="NT1.4" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.10"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.9"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.5" target="NT1.8"/>
+   <edge source="NT1.5" target="NT1.7"/>
+  </tree>
+ </trees>
+</nexml>

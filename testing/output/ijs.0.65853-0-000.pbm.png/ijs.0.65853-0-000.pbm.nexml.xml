@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Pediococcus damnosus DSM 20331T (AJ318414)</otu>
+  <otu id="otu2">Weissella ghanensis LMG 24286T (AM882997)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"> Weissella viridescens NRIC 1536T (A8023236)</otu>
+  <otu id="otu7">Weissella kandleri NCFB 2753T (X52570)</otu>
+  <otu id="otu8">Weissella koreensis 8-5623T (AY035891)</otu>
+  <otu id="otu9"/>
+  <otu id="otu10">Weissella soli LMG 20113T (AY028260)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Weissella hellenica NCFB 2973T (867831)</otu>
+  <otu id="otu13"/>
+  <otu id="otu14">Weissella halotolerans NRIC 1627T (A8022926)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="167.0" y="818.0" otu="otu1"/>
+   <node id="NT1.2" x="199.0" y="260.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="303.0" y="388.0"/>
+   <node id="NT1.4" label="NT1.4" x="312.0" y="524.0"/>
+   <node id="NT1.5" label="NT1.5" x="322.0" y="254.0"/>
+   <node id="NT1.6" label="NT1.6" x="333.0" y="631.0"/>
+   <node id="NT1.7" x="345.0" y="130.0" label="we"/>
+   <node id="NT1.8" label="NT1.8" x="346.0" y="102.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="346.0" y="159.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="350.0" y="419.0"/>
+   <node id="NT1.11" label="NT1.11" x="354.0" y="294.0"/>
+   <node id="NT1.12" label="NT1.12" x="389.0" y="569.0"/>
+   <node id="NT1.13" label="NT1.13" x="393.0" y="459.0"/>
+   <node id="NT1.14" label="NT1.14" x="403.0" y="599.0" otu="otu4"/>
+   <node id="NT1.15" label="NT1.15" x="410.0" y="703.0"/>
+   <node id="NT1.16" label="NT1.16" x="411.0" y="542.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="419.0" y="488.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="422.0" y="322.0" otu="otu7"/>
+   <node id="NT1.19" label="NT1.19" x="425.0" y="734.0"/>
+   <node id="NT1.20" label="NT1.20" x="428.0" y="267.0" otu="otu8"/>
+   <node id="NT1.21" label="NT1.21" x="430.0" y="433.0" otu="otu9"/>
+   <node id="NT1.22" label="NT1.22" x="444.0" y="213.0" otu="otu10"/>
+   <node id="NT1.23" label="NT1.23" x="445.0" y="761.0" otu="otu11"/>
+   <node id="NT1.24" label="NT1.24" x="451.0" y="652.0" otu="otu12"/>
+   <node id="NT1.25" label="NT1.25" x="470.0" y="707.0" otu="otu13"/>
+   <node id="NT1.26" label="NT1.26" x="512.0" y="378.0" otu="otu14"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

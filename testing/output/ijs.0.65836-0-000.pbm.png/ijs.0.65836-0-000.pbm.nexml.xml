@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Anap/asma phagocytophilum USG3 (AY055469)</otu>
+  <otu id="otu2">Anap/asma marginale Florida (AF309867)</otu>
+  <otu id="otu3">Anaplasma platys Okinawa 1 (AF536828)</otu>
+  <otu id="otu4">‘Candidatus Neoehrlichia lotoris’ RAC41?)R (EF633744)</otu>
+  <otu id="otu5">Anaplasma ovis Zhangjiachuan (AJ633051)</otu>
+  <otu id="otu6">‘Candidatus Neoehrlichia mikurensis’ |S58 (AB074460)</otu>
+  <otu id="otu7">Anap/asma centrele (AF283007)</otu>
+  <otu id="otu8">Ehﬂichia Chaffeensis 91HE17 (U23503)</otu>
+  <otu id="otu9">Ehrlichia ewingii 95E9-TS (U96436)</otu>
+  <otu id="otu10">Ehrlich/a muris FN2619 (AB196302)</otu>
+  <otu id="otu11">Ehrlichia ruminantium Senegal stock (X62432)</otu>
+  <otu id="otu12">Ehrlich/a cams VDE (AF373613)</otu>
+  <otu id="otu13">‘Candidatus Neoehrlichia mikurensis’ TK4456R (ABOS4582)</otu>
+  <otu id="otu14">Anap/asma bovis (ABZ11163)</otu>
+  <otu id="otu15">Neon'ckettsia sennetsu 11908 (M73225)</otu>
+  <otu id="otu16"/>
+  <otu id="otu17">Rickettsia n‘ckettsii 1989001 (DQ150682)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="30.0" y="445.0"/>
+   <node id="NT1.2" x="245.0" y="305.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="312.0" y="183.0"/>
+   <node id="NT1.4" label="NT1.4" x="366.0" y="424.0"/>
+   <node id="NT1.5" label="NT1.5" x="391.0" y="376.0"/>
+   <node id="NT1.6" x="413.0" y="347.0" label="89"/>
+   <node id="NT1.7" x="415.0" y="130.0" label="100"/>
+   <node id="NT1.8" label="NT1.8" x="416.0" y="474.0"/>
+   <node id="NT1.9" label="NT1.9" x="428.0" y="235.0"/>
+   <node id="NT1.10" label="NT1.10" x="431.0" y="92.0"/>
+   <node id="NT1.11" label="NT1.11" x="431.0" y="504.0"/>
+   <node id="NT1.12" label="NT1.12" x="434.0" y="326.0" otu="otu1"/>
+   <node id="NT1.13" label="NT1.13" x="441.0" y="486.0" otu="otu2"/>
+   <node id="NT1.14" x="445.0" y="58.0" label="65"/>
+   <node id="NT1.15" label="NT1.15" x="448.0" y="366.0" otu="otu3"/>
+   <node id="NT1.16" x="449.0" y="46.0" label="65"/>
+   <node id="NT1.17" x="456.0" y="265.0" label="99"/>
+   <node id="NT1.18" label="NT1.18" x="459.0" y="206.0" otu="otu4"/>
+   <node id="NT1.19" label="NT1.19" x="460.0" y="525.0" otu="otu5"/>
+   <node id="NT1.20" label="NT1.20" x="465.0" y="246.0" otu="otu6"/>
+   <node id="NT1.21" label="NT1.21" x="470.0" y="445.0" otu="otu7"/>
+   <node id="NT1.22" label="NT1.22" x="472.0" y="7.0" otu="otu8"/>
+   <node id="NT1.23" label="NT1.23" x="472.0" y="87.0" otu="otu9"/>
+   <node id="NT1.24" label="NT1.24" x="472.0" y="126.0" otu="otu10"/>
+   <node id="NT1.25" label="NT1.25" x="472.0" y="167.0" otu="otu11"/>
+   <node id="NT1.26" label="NT1.26" x="484.0" y="47.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="485.0" y="286.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="503.0" y="405.0" otu="otu14"/>
+   <node id="NT1.29" x="550.0" y="584.0" label="100"/>
+   <node id="NT1.30" label="NT1.30" x="565.0" y="605.0" otu="otu15"/>
+   <node id="NT1.31" label="NT1.31" x="574.0" y="564.0" otu="otu16"/>
+   <node id="NT1.32" label="NT1.32" x="574.0" y="644.0" otu="otu17"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

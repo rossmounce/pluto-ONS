@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="120.0" cy="485.0" r="1.0"/>
+    <text stroke="none" x="120.0" y="485.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="143.0" cy="625.0" r="1.0"/>
+    <text stroke="none" x="143.0" y="625.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="145.0" cy="345.0" r="1.0"/>
+    <text stroke="none" x="145.0" y="345.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="150.0" cy="205.0" r="1.0"/>
+    <text stroke="none" x="150.0" y="205.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="150.0" cy="570.0" r="1.0"/>
+    <text stroke="none" x="150.0" y="570.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="152.0" cy="484.0" r="1.0"/>
+    <text stroke="none" x="152.0" y="484.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="175.0" cy="128.0" r="1.0"/>
+    <text stroke="none" x="175.0" y="128.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="180.0" cy="595.0" r="1.0"/>
+    <text stroke="none" x="180.0" y="595.0" font-size="10.0" font-family="helvetica">NT1.8</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="185.0" cy="283.0" r="1.0"/>
+    <text stroke="none" x="185.0" y="283.0" font-size="10.0" font-family="helvetica">NT1.9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="191.0" cy="73.0" r="1.0"/>
+    <text stroke="none" x="191.0" y="73.0" font-size="10.0" font-family="helvetica">NT1.10</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="200.0" cy="109.0" r="1.0"/>
+    <text stroke="none" x="200.0" y="109.0" font-size="10.0" font-family="helvetica">NT1.11</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="205.0" cy="324.0" r="1.0"/>
+    <text stroke="none" x="205.0" y="324.0" font-size="20.0" font-family="helvetica">60</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="214.0" cy="186.0" r="1.0"/>
+    <text stroke="none" x="214.0" y="186.0" font-size="10.0" font-family="helvetica">NT1.13</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="219.0" cy="617.0" r="1.0"/>
+    <text stroke="none" x="219.0" y="617.0" font-size="20.0" font-family="helvetica">G. bronchialis DSM 43247T (X79284)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="221.0" cy="34.0" r="1.0"/>
+    <text stroke="none" x="221.0" y="34.0" font-size="20.0" font-family="helvetica">76</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="231.0" cy="354.0" r="1.0"/>
+    <text stroke="none" x="231.0" y="354.0" font-size="10.0" font-family="helvetica">NT1.16</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="242.0" cy="340.0" r="1.0"/>
+    <text stroke="none" x="242.0" y="340.0" font-size="20.0" font-family="helvetica">60</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="247.0" cy="539.0" r="1.0"/>
+    <text stroke="none" x="247.0" y="539.0" font-size="20.0" font-family="helvetica">G. polyisoprenivorans Kd2T (Y18310)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="248.0" cy="681.0" r="1.0"/>
+    <text stroke="none" x="248.0" y="681.0" font-size="10.0" font-family="helvetica">NT1.19</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="251.0" cy="467.0" r="1.0"/>
+    <text stroke="none" x="251.0" y="467.0" font-size="20.0" font-family="helvetica">G. terrae DSM 43249T (X79286)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="254.0" cy="315.0" r="1.0"/>
+    <text stroke="none" x="254.0" y="315.0" font-size="20.0" font-family="helvetica">G. rubripertincta DSM 43197T (X80632)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="260.0" cy="241.0" r="1.0"/>
+    <text stroke="none" x="260.0" y="241.0" font-size="20.0" font-family="helvetica">G. desulfuricans 21 SET (AF101416)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="261.0" cy="577.0" r="1.0"/>
+    <text stroke="none" x="261.0" y="577.0" font-size="20.0" font-family="helvetica">G. rhizosphera IFO 16068T (ABOO4729)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="266.0" cy="408.0" r="1.0"/>
+    <text stroke="none" x="266.0" y="408.0" font-size="20.0" font-family="helvetica">99</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="267.0" cy="353.0" r="1.0"/>
+    <text stroke="none" x="267.0" y="353.0" font-size="20.0" font-family="helvetica">G. namibiensis NAM—BN063AT (AF380930)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="272.0" cy="278.0" r="1.0"/>
+    <text stroke="none" x="272.0" y="278.0" font-size="20.0" font-family="helvetica"> G. amicalis IEGMT (AF101418)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="279.0" cy="390.0" r="1.0"/>
+    <text stroke="none" x="279.0" y="390.0" font-size="20.0" font-family="helvetica">G. westfalica Kb2T (AJ312907)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="281.0" cy="767.0" r="1.0"/>
+    <text stroke="none" x="281.0" y="767.0" font-size="20.0" font-family="helvetica">Vlll'lliamsia muralis MA140/96T (Y17384)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="284.0" cy="653.0" r="1.0"/>
+    <text stroke="none" x="284.0" y="653.0" font-size="20.0" font-family="helvetica">G. otitidis IFM 10032T (AB122026)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="284.0" cy="708.0" r="1.0"/>
+    <text stroke="none" x="284.0" y="708.0" font-size="20.0" font-family="helvetica">77</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="290.0" cy="428.0" r="1.0"/>
+    <text stroke="none" x="290.0" y="428.0" font-size="20.0" font-family="helvetica">G. alkanivorans HKI 0136T (Y18054)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="291.0" cy="730.0" r="1.0"/>
+    <text stroke="none" x="291.0" y="730.0" font-size="20.0" font-family="helvetica">G. aichiensis DSM 43978T (X80633)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="304.0" cy="205.0" r="1.0"/>
+    <text stroke="none" x="304.0" y="205.0" font-size="20.0" font-family="helvetica">G. hydrophobica DSM 44015T (X87340)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="307.0" cy="690.0" r="1.0"/>
+    <text stroke="none" x="307.0" y="690.0" font-size="20.0" font-family="helvetica">G. sputi DSM 43896T (X80634)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="318.0" cy="128.0" r="1.0"/>
+    <text stroke="none" x="318.0" y="128.0" font-size="20.0" font-family="helvetica">G. amarae DSM 43392T (X80635)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="318.0" cy="165.0" r="1.0"/>
+    <text stroke="none" x="318.0" y="165.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="327.0" cy="15.0" r="1.0"/>
+    <text stroke="none" x="327.0" y="15.0" font-size="20.0" font-family="helvetica">G. araii IFM 10211T (AB162800)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="329.0" cy="52.0" r="1.0"/>
+    <text stroke="none" x="329.0" y="52.0" font-size="20.0" font-family="helvetica">G. effusa IFM 10200T (AB162799)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="339.0" cy="503.0" r="1.0"/>
+    <text stroke="none" x="339.0" y="503.0" font-size="20.0" font-family="helvetica">G. paraffinivorans HD1321T (AF432348)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="438.0" cy="91.0" r="1.0"/>
+    <text stroke="none" x="438.0" y="91.0" font-size="20.0" font-family="helvetica">G. hirsute DSM 44140T (X93485)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="2.0" cy="626.0" r="1.0"/>
+    <text stroke="none" x="2.0" y="626.0" font-size="10.0" font-family="helvetica">NT1.41</text>
+   </g>
+   <line stroke="black" x1="327.0" y1="15.0" x2="221.0" y2="34.0" stroke-width="0.5"/>
+   <line stroke="black" x1="329.0" y1="52.0" x2="221.0" y2="34.0" stroke-width="0.5"/>
+   <line stroke="black" x1="318.0" y1="128.0" x2="200.0" y2="109.0" stroke-width="0.5"/>
+   <line stroke="black" x1="304.0" y1="205.0" x2="214.0" y2="186.0" stroke-width="0.5"/>
+   <line stroke="black" x1="438.0" y1="91.0" x2="200.0" y2="109.0" stroke-width="0.5"/>
+   <line stroke="black" x1="260.0" y1="241.0" x2="185.0" y2="283.0" stroke-width="0.5"/>
+   <line stroke="black" x1="267.0" y1="353.0" x2="242.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="279.0" y1="390.0" x2="266.0" y2="408.0" stroke-width="0.5"/>
+   <line stroke="black" x1="290.0" y1="428.0" x2="266.0" y2="408.0" stroke-width="0.5"/>
+   <line stroke="black" x1="247.0" y1="539.0" x2="150.0" y2="570.0" stroke-width="0.5"/>
+   <line stroke="black" x1="291.0" y1="730.0" x2="284.0" y2="708.0" stroke-width="0.5"/>
+   <line stroke="black" x1="221.0" y1="34.0" x2="191.0" y2="73.0" stroke-width="0.5"/>
+   <line stroke="black" x1="191.0" y1="73.0" x2="175.0" y2="128.0" stroke-width="0.5"/>
+   <line stroke="black" x1="191.0" y1="73.0" x2="200.0" y2="109.0" stroke-width="0.5"/>
+   <line stroke="black" x1="175.0" y1="128.0" x2="150.0" y2="205.0" stroke-width="0.5"/>
+   <line stroke="black" x1="175.0" y1="128.0" x2="214.0" y2="186.0" stroke-width="0.5"/>
+   <line stroke="black" x1="150.0" y1="205.0" x2="145.0" y2="345.0" stroke-width="0.5"/>
+   <line stroke="black" x1="150.0" y1="205.0" x2="185.0" y2="283.0" stroke-width="0.5"/>
+   <line stroke="black" x1="185.0" y1="283.0" x2="205.0" y2="324.0" stroke-width="0.5"/>
+   <line stroke="black" x1="145.0" y1="345.0" x2="120.0" y2="485.0" stroke-width="0.5"/>
+   <line stroke="black" x1="145.0" y1="345.0" x2="152.0" y2="484.0" stroke-width="0.5"/>
+   <line stroke="black" x1="205.0" y1="324.0" x2="231.0" y2="354.0" stroke-width="0.5"/>
+   <line stroke="black" x1="231.0" y1="354.0" x2="266.0" y2="408.0" stroke-width="0.5"/>
+   <line stroke="black" x1="231.0" y1="354.0" x2="242.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="120.0" y1="485.0" x2="143.0" y2="625.0" stroke-width="0.5"/>
+   <line stroke="black" x1="143.0" y1="625.0" x2="248.0" y2="681.0" stroke-width="0.5"/>
+   <line stroke="black" x1="248.0" y1="681.0" x2="284.0" y2="708.0" stroke-width="0.5"/>
+   <line stroke="black" x1="2.0" y1="626.0" x2="281.0" y2="767.0" stroke-width="0.5"/>
+   <line stroke="black" x1="2.0" y1="626.0" x2="120.0" y2="485.0" stroke-width="0.5"/>
+   <line stroke="black" x1="143.0" y1="625.0" x2="150.0" y2="570.0" stroke-width="0.5"/>
+   <line stroke="black" x1="150.0" y1="570.0" x2="180.0" y2="595.0" stroke-width="0.5"/>
+   <line stroke="black" x1="339.0" y1="503.0" x2="152.0" y2="484.0" stroke-width="0.5"/>
+   <line stroke="black" x1="261.0" y1="577.0" x2="180.0" y2="595.0" stroke-width="0.5"/>
+   <line stroke="black" x1="219.0" y1="617.0" x2="180.0" y2="595.0" stroke-width="0.5"/>
+   <line stroke="black" x1="272.0" y1="278.0" x2="205.0" y2="324.0" stroke-width="0.5"/>
+   <line stroke="black" x1="318.0" y1="165.0" x2="214.0" y2="186.0" stroke-width="0.5"/>
+   <line stroke="black" x1="251.0" y1="467.0" x2="152.0" y2="484.0" stroke-width="0.5"/>
+   <line stroke="black" x1="254.0" y1="315.0" x2="242.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="284.0" y1="653.0" x2="248.0" y2="681.0" stroke-width="0.5"/>
+   <line stroke="black" x1="307.0" y1="690.0" x2="284.0" y2="708.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

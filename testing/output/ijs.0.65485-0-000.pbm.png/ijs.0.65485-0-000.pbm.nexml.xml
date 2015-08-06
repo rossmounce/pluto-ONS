@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Clostridium proteolyticum DSM 3090T (X73448)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4">Clostridium sporogenes ATCC 3584T (X68189)</otu>
+  <otu id="otu5">Clostr/dium pascui DSM 10365T (X96736)</otu>
+  <otu id="otu6">Clostridium Iundense DSM 17049T (AY858804)</otu>
+  <otu id="otu7">Clostridium peptidovorans DSM 12505T (AF156796)</otu>
+  <otu id="otu8">Clostridium bowmanii DSM 14206T (AJ506120)</otu>
+  <otu id="otu9">Clostridium botulinum DSM 1734T (X73442)</otu>
+  <otu id="otu10">Clostridium tepidiprofundi 56 5081' (EF197795)</otu>
+  <otu id="otu11">Clostridium tetani NCTC 279T (X74770)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="2.0" y="485.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="4.0" y="485.0"/>
+   <node id="NT1.3" x="67.0" y="416.0" label="100"/>
+   <node id="NT1.4" label="NT1.4" x="102.0" y="558.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="113.0" y="316.0"/>
+   <node id="NT1.6" label="NT1.6" x="131.0" y="421.0"/>
+   <node id="NT1.7" label="NT1.7" x="134.0" y="207.0"/>
+   <node id="NT1.8" label="NT1.8" x="135.0" y="262.0" otu="otu3"/>
+   <node id="NT1.9" label="NT1.9" x="156.0" y="151.0"/>
+   <node id="NT1.10" label="NT1.10" x="172.0" y="114.0"/>
+   <node id="NT1.11" x="244.0" y="84.0" label="100"/>
+   <node id="NT1.12" label="NT1.12" x="258.0" y="474.0" otu="otu4"/>
+   <node id="NT1.13" label="NT1.13" x="258.0" y="452.0"/>
+   <node id="NT1.14" label="NT1.14" x="267.0" y="103.0" otu="otu5"/>
+   <node id="NT1.15" label="NT1.15" x="285.0" y="144.0" otu="otu6"/>
+   <node id="NT1.16" label="NT1.16" x="287.0" y="61.0" otu="otu7"/>
+   <node id="NT1.17" label="NT1.17" x="292.0" y="185.0" otu="otu8"/>
+   <node id="NT1.18" label="NT1.18" x="307.0" y="433.0" otu="otu9"/>
+   <node id="NT1.19" label="NT1.19" x="311.0" y="516.0" otu="otu10"/>
+   <node id="NT1.20" label="NT1.20" x="324.0" y="392.0" otu="otu11"/>
+   <edge source="NT1.11" target="NT1.14"/>
+   <edge source="NT1.10" target="NT1.15"/>
+   <edge source="NT1.7" target="NT1.8"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.13" target="NT1.12"/>
+   <edge source="NT1.13" target="NT1.18"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.10" target="NT1.11"/>
+   <edge source="NT1.9" target="NT1.10"/>
+   <edge source="NT1.7" target="NT1.9"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.6" target="NT1.13"/>
+   <edge source="NT1.3" target="NT1.19"/>
+   <edge source="NT1.6" target="NT1.20"/>
+   <edge source="NT1.9" target="NT1.17"/>
+   <edge source="NT1.11" target="NT1.16"/>
+  </tree>
+ </trees>
+</nexml>

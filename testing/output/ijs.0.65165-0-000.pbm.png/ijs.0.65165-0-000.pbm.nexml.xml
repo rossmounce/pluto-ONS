@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Algibacter lectus KMM 3902T (AY187689)</otu>
+  <otu id="otu2">Algibacter/ectus KMM 3914 (AY187690)</otu>
+  <otu id="otu3"> Winogradskyella thalassocola KMM 3907T (AY521223)</otu>
+  <otu id="otu4"> Biz/onia paragorgiae KMM 6029T (AY651070)</otu>
+  <otu id="otu5"> Bizionia saleffrena HFDT (AY694005)</otu>
+  <otu id="otu6">Formosa agariphila KMM 3901T (AY187688)</otu>
+  <otu id="otu7"> Vllinogradskyella eximia KMM 3944T (AY521225)</otu>
+  <otu id="otu8">Mariniﬂexile gromovii KMM 6038T (DQ312294)</otu>
+  <otu id="otu9">Winogradskyella epiphytica KMM 3906T (AY521224)</otu>
+  <otu id="otu10">Formosa algae KMM 3553T (AY228461)</otu>
+  <otu id="otu11"> Biz/onia algoritergicola APA—1T (AY694003)</otu>
+  <otu id="otu12">Algibacter mikhailo vii KMM (i171T (AM491809)</otu>
+  <otu id="otu13">VWnogradskyella poriferorum UST030701—295T (AY848823)</otu>
+  <otu id="otu14"> Biziom'a gelidisalsuginis |C164T (AY694004)</otu>
+  <otu id="otu15"> Biz/onia myxarmorum ADA—4T (AY694002)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="37.0" y="196.0"/>
+   <node id="NT1.2" label="NT1.2" x="44.0" y="895.0"/>
+   <node id="NT1.3" label="NT1.3" x="72.0" y="1228.0"/>
+   <node id="NT1.4" label="NT1.4" x="95.0" y="279.0"/>
+   <node id="NT1.5" label="NT1.5" x="96.0" y="565.0"/>
+   <node id="NT1.6" label="NT1.6" x="99.0" y="350.0"/>
+   <node id="NT1.7" x="99.0" y="1039.0" label="96"/>
+   <node id="NT1.8" x="129.0" y="1109.0" label="100"/>
+   <node id="NT1.9" x="144.0" y="635.0" label="15%"/>
+   <node id="NT1.10" x="144.0" y="826.0" label="100"/>
+   <node id="NT1.11" label="NT1.11" x="154.0" y="1299.0"/>
+   <node id="NT1.12" label="NT1.12" x="155.0" y="683.0" otu="otu1"/>
+   <node id="NT1.13" label="NT1.13" x="158.0" y="588.0" otu="otu2"/>
+   <node id="NT1.14" label="NT1.14" x="167.0" y="303.0" otu="otu3"/>
+   <node id="NT1.15" label="NT1.15" x="167.0" y="967.0" otu="otu4"/>
+   <node id="NT1.16" label="NT1.16" x="170.0" y="1062.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="184.0" y="777.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="188.0" y="399.0" otu="otu7"/>
+   <node id="NT1.19" label="NT1.19" x="193.0" y="19.0" otu="otu8"/>
+   <node id="NT1.20" label="NT1.20" x="194.0" y="209.0" otu="otu9"/>
+   <node id="NT1.21" label="NT1.21" x="195.0" y="873.0" otu="otu10"/>
+   <node id="NT1.22" label="NT1.22" x="197.0" y="1252.0" otu="otu11"/>
+   <node id="NT1.23" label="NT1.23" x="198.0" y="493.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="204.0" y="113.0" otu="otu13"/>
+   <node id="NT1.25" label="NT1.25" x="206.0" y="1157.0" otu="otu14"/>
+   <node id="NT1.26" label="NT1.26" x="225.0" y="1347.0" otu="otu15"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

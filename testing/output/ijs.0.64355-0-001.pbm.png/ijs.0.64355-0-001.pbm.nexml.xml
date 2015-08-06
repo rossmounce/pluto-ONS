@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Cobetia marina ATCC 25374T (M93354)</otu>
+  <otu id="otu2">Halomonas salina ATCC 49509T (X87217)</otu>
+  <otu id="otu3">Halomonas halophila DSM 4770T (M93353)</otu>
+  <otu id="otu4"> Halomonas eurihalina ATCC 49336T (X87218)</otu>
+  <otu id="otu5"> Halomonas elongata ATCC 33173T (X67023)</otu>
+  <otu id="otu6">Halomonas halmophila ATCC 19717T (M59153)</otu>
+  <otu id="otu7"> Chromohalobacter canadensis ATCC 43984T (AJ295143)</otu>
+  <otu id="otu8">Chromohalobacter israelensis ATCC 43985T (AJ295144)</otu>
+  <otu id="otu9"> Chromohalobacter salexigens DSM 3043T (AJ295146)</otu>
+  <otu id="otu10">Chromohalobacter man'smortui ATCC 17056T (X87219)</otu>
+  <otu id="otu11">Chromohalobacter sarecens/s LV4T (AY373448)</otu>
+  <otu id="otu12"/>
+  <otu id="otu13"> Chromohalobacter sp. strain 3b (AM048787)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="108.0" y="304.0"/>
+   <node id="NT1.2" x="129.0" y="468.0" label="70"/>
+   <node id="NT1.3" x="162.0" y="431.0" label="1;—"/>
+   <node id="NT1.4" x="259.0" y="388.0" label="98"/>
+   <node id="NT1.5" label="NT1.5" x="296.0" y="544.0" otu="otu1"/>
+   <node id="NT1.6" x="318.0" y="344.0" label="s4"/>
+   <node id="NT1.7" label="NT1.7" x="327.0" y="207.0"/>
+   <node id="NT1.8" label="NT1.8" x="328.0" y="498.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="338.0" y="455.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="352.0" y="323.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="357.0" y="368.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="399.0" y="411.0" otu="otu6"/>
+   <node id="NT1.13" x="402.0" y="164.0" label="94"/>
+   <node id="NT1.14" x="434.0" y="120.0" label="87"/>
+   <node id="NT1.15" x="438.0" y="77.0" label="87"/>
+   <node id="NT1.16" label="NT1.16" x="455.0" y="143.0" otu="otu7"/>
+   <node id="NT1.17" x="486.0" y="249.0" label="100"/>
+   <node id="NT1.18" label="NT1.18" x="492.0" y="229.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="507.0" y="274.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="536.0" y="33.0"/>
+   <node id="NT1.21" label="NT1.21" x="538.0" y="187.0" otu="otu10"/>
+   <node id="NT1.22" label="NT1.22" x="562.0" y="100.0" otu="otu11"/>
+   <node id="NT1.23" label="NT1.23" x="579.0" y="13.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="606.0" y="56.0" otu="otu13"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3">Sphingomonas ursincola DSM 9006T (ABO31016)</otu>
+  <otu id="otu4">Sphingomonas natatoria DSM 3183T (ABO12060)</otu>
+  <otu id="otu5">Porphyrobacter sanguineus IAM 12620T (ABO11074)</otu>
+  <otu id="otu6">P3229 (AY853585)</otu>
+  <otu id="otu7">Sphingomonas sp. NT12 (ABOZG182)</otu>
+  <otu id="otu8">Porphyrobacter tepidarius MBIC 3363 (ABOZOSQQ)</otu>
+  <otu id="otu9">P3180 (AY853584)</otu>
+  <otu id="otu10">P3561 (AY853583)</otu>
+  <otu id="otu11">Porphyrobacter neustonensis DSM 943M (ABO1 1073)</otu>
+  <otu id="otu12">Erythrobacter litorall's IAM 14332T (ABO10981)</otu>
+  <otu id="otu13">Erythromicrobium ramosum IAM 14333T (ABO1OB73)</otu>
+  <otu id="otu14">Erythrobacter sp. MBICSO17 (ABO15709)</otu>
+  <otu id="otu15">Erythrobacter sp. MBICSQGO (ABOZ7515)</otu>
+  <otu id="otu16">Erythrobacter sp. MB|C3031 (ABO15710)</otu>
+  <otu id="otu17">Erythrobacter sp. MB|03361 (ABO15707)</otu>
+  <otu id="otu18">Erythrobacteriongus MB|02294 (ABO35570)</otu>
+  <otu id="otu19">Erythrobacter Iongus (D50648)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="2.0" y="466.0" otu="otu1"/>
+   <node id="NT1.2" label="NT1.2" x="13.0" y="295.0"/>
+   <node id="NT1.3" label="NT1.3" x="82.0" y="146.0"/>
+   <node id="NT1.4" label="NT1.4" x="96.0" y="99.0"/>
+   <node id="NT1.5" label="NT1.5" x="141.0" y="441.0"/>
+   <node id="NT1.6" label="NT1.6" x="145.0" y="412.0"/>
+   <node id="NT1.7" label="NT1.7" x="148.0" y="353.0"/>
+   <node id="NT1.8" label="NT1.8" x="152.0" y="408.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="164.0" y="408.0"/>
+   <node id="NT1.10" label="NT1.10" x="165.0" y="306.0"/>
+   <node id="NT1.11" label="NT1.11" x="191.0" y="531.0"/>
+   <node id="NT1.12" label="NT1.12" x="202.0" y="498.0"/>
+   <node id="NT1.13" label="NT1.13" x="209.0" y="567.0"/>
+   <node id="NT1.14" label="NT1.14" x="215.0" y="50.0"/>
+   <node id="NT1.15" label="NT1.15" x="217.0" y="423.0"/>
+   <node id="NT1.16" label="NT1.16" x="248.0" y="273.0"/>
+   <node id="NT1.17" x="264.0" y="31.0" label="100"/>
+   <node id="NT1.18" label="NT1.18" x="271.0" y="135.0"/>
+   <node id="NT1.19" label="NT1.19" x="308.0" y="155.0" otu="otu3"/>
+   <node id="NT1.20" label="NT1.20" x="319.0" y="119.0" otu="otu4"/>
+   <node id="NT1.21" label="NT1.21" x="319.0" y="551.0" otu="otu5"/>
+   <node id="NT1.22" label="NT1.22" x="322.0" y="47.0" otu="otu6"/>
+   <node id="NT1.23" label="NT1.23" x="322.0" y="191.0" otu="otu7"/>
+   <node id="NT1.24" label="NT1.24" x="332.0" y="587.0" otu="otu8"/>
+   <node id="NT1.25" label="NT1.25" x="339.0" y="83.0" otu="otu9"/>
+   <node id="NT1.26" label="NT1.26" x="349.0" y="11.0" otu="otu10"/>
+   <node id="NT1.27" label="NT1.27" x="349.0" y="515.0" otu="otu11"/>
+   <node id="NT1.28" label="NT1.28" x="353.0" y="371.0" otu="otu12"/>
+   <node id="NT1.29" label="NT1.29" x="356.0" y="479.0" otu="otu13"/>
+   <node id="NT1.30" label="NT1.30" x="369.0" y="407.0" otu="otu14"/>
+   <node id="NT1.31" label="NT1.31" x="382.0" y="443.0" otu="otu15"/>
+   <node id="NT1.32" label="NT1.32" x="398.0" y="299.0" otu="otu16"/>
+   <node id="NT1.33" label="NT1.33" x="439.0" y="335.0" otu="otu17"/>
+   <node id="NT1.34" x="449.0" y="246.0" label="100"/>
+   <node id="NT1.35" label="NT1.35" x="451.0" y="227.0" otu="otu18"/>
+   <node id="NT1.36" label="NT1.36" x="451.0" y="264.0" otu="otu19"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

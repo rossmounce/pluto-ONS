@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">W. paramesenteroides NRIC 1542T (AB354953)</otu>
+  <otu id="otu3">W. vin‘descens NRIC 1536T (AB354952)</otu>
+  <otu id="otu4">W confusa NRIC 0207T (AB354954)</otu>
+  <otu id="otu5">Lactococcus lactis |L1403 (AE006272)</otu>
+  <otu id="otu6">L. mesenteroides NRIC 1541T (A8354944)</otu>
+  <otu id="otu7">F. pseudoficulneus DSM 15468T (AB354951)</otu>
+  <otu id="otu8">L. inhae NRIC 0562T (AB354947)</otu>
+  <otu id="otu9">F. ficulneus JCM 12225T (AB354940)</otu>
+  <otu id="otu10">L. fallax NRIC 0210T (A3354948)</otu>
+  <otu id="otu11">L. camosum NRIC 1722T (AB354949)</otu>
+  <otu id="otu12">F. dun‘onis LMG 22556T (A3354950)</otu>
+  <otu id="otu13">L. lactis NRIC 1540T (AB354945)</otu>
+  <otu id="otu14">L. citreum NRIC 1776T (AB354943)</otu>
+  <otu id="otu15">L. gelidum NRIC 177$T (AB354941)</otu>
+  <otu id="otu16">F. fructosus NRIC 1058T (AB354946)</otu>
+  <otu id="otu17">L. gasicomitatum JCM 12535T(A3354939)</otu>
+  <otu id="otu18">L. pseudomesenteroides NRIC 1777T (A3354942)</otu>
+  <otu id="otu19">O. oeni PSU-1 (CP000411)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="56.0" y="884.0"/>
+   <node id="NT1.2" label="NT1.2" x="140.0" y="649.0"/>
+   <node id="NT1.3" label="NT1.3" x="140.0" y="843.0"/>
+   <node id="NT1.4" label="NT1.4" x="184.0" y="539.0"/>
+   <node id="NT1.5" label="NT1.5" x="204.0" y="425.0"/>
+   <node id="NT1.6" label="NT1.6" x="206.0" y="483.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="207.0" y="481.0"/>
+   <node id="NT1.8" label="NT1.8" x="217.0" y="366.0"/>
+   <node id="NT1.9" label="NT1.9" x="221.0" y="338.0"/>
+   <node id="NT1.10" label="NT1.10" x="238.0" y="199.0"/>
+   <node id="NT1.11" label="NT1.11" x="258.0" y="654.0"/>
+   <node id="NT1.12" label="NT1.12" x="282.0" y="230.0"/>
+   <node id="NT1.13" label="NT1.13" x="288.0" y="628.0"/>
+   <node id="NT1.14" label="NT1.14" x="318.0" y="565.0"/>
+   <node id="NT1.15" label="NT1.15" x="398.0" y="107.0"/>
+   <node id="NT1.16" label="NT1.16" x="417.0" y="814.0" otu="otu2"/>
+   <node id="NT1.17" label="NT1.17" x="469.0" y="926.0" otu="otu3"/>
+   <node id="NT1.18" label="NT1.18" x="486.0" y="871.0" otu="otu4"/>
+   <node id="NT1.19" label="NT1.19" x="488.0" y="79.0"/>
+   <node id="NT1.20" label="NT1.20" x="519.0" y="982.0" otu="otu5"/>
+   <node id="NT1.21" label="NT1.21" x="520.0" y="481.0" otu="otu6"/>
+   <node id="NT1.22" label="NT1.22" x="541.0" y="592.0" otu="otu7"/>
+   <node id="NT1.23" label="NT1.23" x="542.0" y="147.0" otu="otu8"/>
+   <node id="NT1.24" label="NT1.24" x="553.0" y="703.0" otu="otu9"/>
+   <node id="NT1.25" label="NT1.25" x="560.0" y="370.0" otu="otu10"/>
+   <node id="NT1.26" label="NT1.26" x="562.0" y="259.0" otu="otu11"/>
+   <node id="NT1.27" label="NT1.27" x="567.0" y="536.0" otu="otu12"/>
+   <node id="NT1.28" label="NT1.28" x="572.0" y="315.0" otu="otu13"/>
+   <node id="NT1.29" label="NT1.29" x="573.0" y="204.0" otu="otu14"/>
+   <node id="NT1.30" label="NT1.30" x="577.0" y="92.0" otu="otu15"/>
+   <node id="NT1.31" label="NT1.31" x="582.0" y="648.0" otu="otu16"/>
+   <node id="NT1.32" label="NT1.32" x="600.0" y="36.0" otu="otu17"/>
+   <node id="NT1.33" label="NT1.33" x="622.0" y="426.0" otu="otu18"/>
+   <node id="NT1.34" label="NT1.34" x="651.0" y="759.0" otu="otu19"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

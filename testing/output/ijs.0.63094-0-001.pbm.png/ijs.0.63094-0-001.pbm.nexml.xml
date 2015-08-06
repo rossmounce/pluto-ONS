@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">M. abscessus Cl 3 104536T/AY458075</otu>
+  <otu id="otu3"/>
+  <otu id="otu4">M. mucogenicum ATCC 49651/AY45808O</otu>
+  <otu id="otu5"> M. immunogenum CIP 106684T/AY458081</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="5.0" y="401.0" otu="otu1" root="true"/>
+   <node id="NT1.2" x="133.0" y="192.0" label="99"/>
+   <node id="NT1.3" x="229.0" y="78.0" label="51"/>
+   <node id="NT1.4" label="NT1.4" x="367.0" y="104.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="445.0" y="158.0"/>
+   <node id="NT1.6" label="NT1.6" x="496.0" y="134.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="503.0" y="195.0" otu="otu4"/>
+   <node id="NT1.8" label="NT1.8" x="841.0" y="72.0" otu="otu5"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.3" target="NT1.8"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.2" target="NT1.5"/>
+  </tree>
+ </trees>
+</nexml>

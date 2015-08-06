@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Desulfohalobium retbaense DSM 5692T (X99235)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3">Desulfovibrio termitidis DSM 5308T (X87409)</otu>
+  <otu id="otu4">Desulfovibrio vulgar/s DSM 644T (AF418179)</otu>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+  <otu id="otu9">Desulfovibrio litoralis DSM 11393T (X99504)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="195.0" y="621.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="195.0" y="387.0"/>
+   <node id="NT1.3" x="235.0" y="266.0" label="33"/>
+   <node id="NT1.4" x="265.0" y="506.0" label="99"/>
+   <node id="NT1.5" label="NT1.5" x="298.0" y="175.0"/>
+   <node id="NT1.6" label="NT1.6" x="338.0" y="354.0"/>
+   <node id="NT1.7" label="NT1.7" x="359.0" y="109.0"/>
+   <node id="NT1.8" label="NT1.8" x="368.0" y="50.0"/>
+   <node id="NT1.9" label="NT1.9" x="374.0" y="12.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="379.0" y="88.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="390.0" y="240.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="395.0" y="393.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="398.0" y="164.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="411.0" y="317.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="454.0" y="469.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="459.0" y="545.0" otu="otu9"/>
+   <edge source="NT1.8" target="NT1.9"/>
+   <edge source="NT1.8" target="NT1.10"/>
+   <edge source="NT1.7" target="NT1.13"/>
+   <edge source="NT1.5" target="NT1.11"/>
+   <edge source="NT1.6" target="NT1.12"/>
+   <edge source="NT1.6" target="NT1.14"/>
+   <edge source="NT1.4" target="NT1.15"/>
+   <edge source="NT1.4" target="NT1.16"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.7" target="NT1.8"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.4"/>
+  </tree>
+ </trees>
+</nexml>

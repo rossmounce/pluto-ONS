@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"> M. mucogenicum ATCC 46951/AY458097</otu>
+  <otu id="otu3"> M. mucogenicum ATCC 46949/AY458096</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="5.0" y="541.0" otu="otu1"/>
+   <node id="NT1.2" x="691.0" y="185.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="726.0" y="230.0" otu="otu2"/>
+   <node id="NT1.4" label="NT1.4" x="754.0" y="157.0" otu="otu3"/>
+   <node id="NT1.5" label="NT1.5" x="4.0" y="455.0" root="true"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.5" target="NT1.1"/>
+   <edge source="NT1.5" target="NT1.2"/>
+  </tree>
+ </trees>
+</nexml>

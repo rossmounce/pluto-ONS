@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Agromyces ramosus DSM 43045T (X77447)</otu>
+  <otu id="otu5">Agrococcus Iahaulensis K22-21 T (DQ156908)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="143.0" y="200.0"/>
+   <node id="NT1.2" x="155.0" y="88.0" label="75"/>
+   <node id="NT1.3" label="NT1.3" x="167.0" y="162.0"/>
+   <node id="NT1.4" label="NT1.4" x="192.0" y="211.0" otu="otu1"/>
+   <node id="NT1.5" label="NT1.5" x="218.0" y="12.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="219.0" y="112.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="271.0" y="414.0" otu="otu4"/>
+   <node id="NT1.8" label="NT1.8" x="329.0" y="314.0" otu="otu5"/>
+   <node id="NT1.9" label="NT1.9" x="3.0" y="215.0" root="true"/>
+   <edge source="NT1.2" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.3" target="NT1.6"/>
+   <edge source="NT1.1" target="NT1.8"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.9" target="NT1.1"/>
+   <edge source="NT1.9" target="NT1.7"/>
+  </tree>
+ </trees>
+</nexml>

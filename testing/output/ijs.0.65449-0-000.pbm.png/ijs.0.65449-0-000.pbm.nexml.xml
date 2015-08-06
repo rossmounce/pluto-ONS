@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">S. halophlla DSM 44411T (AJ278497)</otu>
+  <otu id="otu2">S. paurometabolica YIM 90007T (AF540959)</otu>
+  <otu id="otu3">8. saliphila YIM 90502T (DQ367416)</otu>
+  <otu id="otu4">8. azurea SB-58 (238024)</otu>
+  <otu id="otu5">S. cyanea NA-134T (238018)</otu>
+  <otu id="otu6">S. xinjiangensis DSM 44391T (AJ306300)</otu>
+  <otu id="otu7">8. glauca DSM 43769T (238003)</otu>
+  <otu id="otu8">8. viridis NCIB 9602T (238007)</otu>
+  <otu id="otu9"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="38.0" y="209.0"/>
+   <node id="NT1.2" label="NT1.2" x="89.0" y="156.0"/>
+   <node id="NT1.3" label="NT1.3" x="169.0" y="105.0"/>
+   <node id="NT1.4" label="NT1.4" x="180.0" y="261.0"/>
+   <node id="NT1.5" label="NT1.5" x="205.0" y="147.0"/>
+   <node id="NT1.6" label="NT1.6" x="215.0" y="281.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="217.0" y="63.0"/>
+   <node id="NT1.8" x="238.0" y="34.0" label="74"/>
+   <node id="NT1.9" label="NT1.9" x="260.0" y="243.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="292.0" y="205.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="317.0" y="90.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="318.0" y="52.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="350.0" y="14.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="362.0" y="167.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="485.0" y="128.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="485.0" y="339.0" otu="otu9"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

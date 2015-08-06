@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Cytophaga Iatercula ATCC 23177T (M58769)</otu>
+  <otu id="otu2">Salegentibacter salegens DSM 5424T (M92279)</otu>
+  <otu id="otu3">Gillisia Iimnaea R-8282T (AJ440991)</otu>
+  <otu id="otu4"> Salegentibacter holothuriorum KMM 3524T (AB116148)</otu>
+  <otu id="otu5"> KMM 6049'r (AY576653)</otu>
+  <otu id="otu6">Flavobacterium aquatile ATCC 1 1947T (M62797)</otu>
+  <otu id="otu7">Mesom'a algae KMM 3909T (AF536383)</otu>
+  <otu id="otu8">Kordia algicida OT-1T (AY195836)</otu>
+  <otu id="otu9">Psychroﬂexus torquis ACAM 623T (U85881)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="28.0" y="242.0"/>
+   <node id="NT1.2" label="NT1.2" x="42.0" y="359.0"/>
+   <node id="NT1.3" label="NT1.3" x="47.0" y="273.0"/>
+   <node id="NT1.4" x="54.0" y="125.0" label="69"/>
+   <node id="NT1.5" label="NT1.5" x="62.0" y="446.0"/>
+   <node id="NT1.6" x="142.0" y="510.0" label="L_"/>
+   <node id="NT1.7" x="149.0" y="555.0" label="L_"/>
+   <node id="NT1.8" label="NT1.8" x="162.0" y="87.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="171.0" y="518.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="176.0" y="309.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="178.0" y="593.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="181.0" y="444.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="185.0" y="14.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="194.0" y="382.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="201.0" y="162.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="223.0" y="236.0" otu="otu9"/>
+   <node id="NT1.17" x="5.0" y="128.0" root="true" label="69"/>
+   <edge source="NT1.4" target="NT1.8"/>
+   <edge source="NT1.3" target="NT1.10"/>
+   <edge source="NT1.5" target="NT1.14"/>
+   <edge source="NT1.7" target="NT1.9"/>
+   <edge source="NT1.7" target="NT1.11"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.1" target="NT1.4"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.16"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.17" target="NT1.13"/>
+   <edge source="NT1.17" target="NT1.1"/>
+   <edge source="NT1.2" target="NT1.5"/>
+   <edge source="NT1.4" target="NT1.15"/>
+   <edge source="NT1.6" target="NT1.7"/>
+   <edge source="NT1.6" target="NT1.12"/>
+  </tree>
+ </trees>
+</nexml>

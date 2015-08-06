@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="4.0" cy="24.0" r="1.0"/>
+    <text stroke="none" x="4.0" y="24.0" font-size="20.0" font-family="helvetica">58_— N. bras/Iiensis ATCC 19296T (AY756516)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="23.0" cy="102.0" r="1.0"/>
+    <text stroke="none" x="23.0" y="102.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="40.0" cy="41.0" r="1.0"/>
+    <text stroke="none" x="40.0" y="41.0" font-size="20.0" font-family="helvetica">L</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="75.0" cy="64.0" r="1.0"/>
+    <text stroke="none" x="75.0" y="64.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="135.0" cy="17.0" r="1.0"/>
+    <text stroke="none" x="135.0" y="17.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="190.0" cy="220.0" r="1.0"/>
+    <text stroke="none" x="190.0" y="220.0" font-size="20.0" font-family="helvetica">97</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="242.0" cy="282.0" r="1.0"/>
+    <text stroke="none" x="242.0" y="282.0" font-size="20.0" font-family="helvetica">93</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="254.0" cy="159.0" r="1.0"/>
+    <text stroke="none" x="254.0" y="159.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="264.0" cy="229.0" r="1.0"/>
+    <text stroke="none" x="264.0" y="229.0" font-size="10.0" font-family="helvetica">NT1.9</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="266.0" cy="205.0" r="1.0"/>
+    <text stroke="none" x="266.0" y="205.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="266.0" cy="254.0" r="1.0"/>
+    <text stroke="none" x="266.0" y="254.0" font-size="20.0" font-family="helvetica">N. soli DSM 44488T (AY756534)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="277.0" cy="375.0" r="1.0"/>
+    <text stroke="none" x="277.0" y="375.0" font-size="20.0" font-family="helvetica">97</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="279.0" cy="399.0" r="1.0"/>
+    <text stroke="none" x="279.0" y="399.0" font-size="20.0" font-family="helvetica">N. salmon/Gide JCM 4826T (AY756532)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="293.0" cy="349.0" r="1.0"/>
+    <text stroke="none" x="293.0" y="349.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <line stroke="black" x1="75.0" y1="64.0" x2="40.0" y2="41.0" stroke-width="0.5"/>
+   <line stroke="black" x1="135.0" y1="17.0" x2="40.0" y2="41.0" stroke-width="0.5"/>
+   <line stroke="black" x1="4.0" y1="24.0" x2="23.0" y2="102.0" stroke-width="0.5"/>
+   <line stroke="black" x1="254.0" y1="159.0" x2="190.0" y2="220.0" stroke-width="0.5"/>
+   <line stroke="black" x1="266.0" y1="205.0" x2="264.0" y2="229.0" stroke-width="0.5"/>
+   <line stroke="black" x1="266.0" y1="254.0" x2="264.0" y2="229.0" stroke-width="0.5"/>
+   <line stroke="black" x1="279.0" y1="399.0" x2="277.0" y2="375.0" stroke-width="0.5"/>
+   <line stroke="black" x1="293.0" y1="349.0" x2="277.0" y2="375.0" stroke-width="0.5"/>
+   <line stroke="black" x1="40.0" y1="41.0" x2="23.0" y2="102.0" stroke-width="0.5"/>
+   <line stroke="black" x1="23.0" y1="102.0" x2="190.0" y2="220.0" stroke-width="0.5"/>
+   <line stroke="black" x1="190.0" y1="220.0" x2="242.0" y2="282.0" stroke-width="0.5"/>
+   <line stroke="black" x1="242.0" y1="282.0" x2="277.0" y2="375.0" stroke-width="0.5"/>
+   <line stroke="black" x1="242.0" y1="282.0" x2="264.0" y2="229.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

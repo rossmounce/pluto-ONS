@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Thermococcus thioreducens OG L-20PT (AF394925)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7">Thermococcus celerATCC 35543I (M21529)</otu>
+  <otu id="otu8"/>
+  <otu id="otu9"/>
+  <otu id="otu10"/>
+  <otu id="otu11"/>
+  <otu id="otu12"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="50.0" y="251.0"/>
+   <node id="NT1.2" label="NT1.2" x="130.0" y="434.0"/>
+   <node id="NT1.3" label="NT1.3" x="229.0" y="491.0"/>
+   <node id="NT1.4" label="NT1.4" x="240.0" y="184.0"/>
+   <node id="NT1.5" label="NT1.5" x="278.0" y="547.0"/>
+   <node id="NT1.6" label="NT1.6" x="382.0" y="110.0"/>
+   <node id="NT1.7" label="NT1.7" x="411.0" y="599.0"/>
+   <node id="NT1.8" label="NT1.8" x="442.0" y="437.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="458.0" y="496.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="528.0" y="167.0"/>
+   <node id="NT1.11" x="547.0" y="50.0" label="98"/>
+   <node id="NT1.12" label="NT1.12" x="548.0" y="19.0" otu="otu3"/>
+   <node id="NT1.13" label="NT1.13" x="548.0" y="80.0" otu="otu4"/>
+   <node id="NT1.14" x="667.0" y="644.0" label="93"/>
+   <node id="NT1.15" label="NT1.15" x="673.0" y="258.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="796.0" y="139.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="875.0" y="615.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="881.0" y="318.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="974.0" y="377.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="980.0" y="675.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="992.0" y="198.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="992.0" y="556.0" otu="otu12"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="189.0" cy="360.0" r="1.0"/>
+    <text stroke="none" x="189.0" y="360.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="268.0" cy="316.0" r="1.0"/>
+    <text stroke="none" x="268.0" y="316.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="412.0" cy="273.0" r="1.0"/>
+    <text stroke="none" x="412.0" y="273.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="451.0" cy="402.0" r="1.0"/>
+    <text stroke="none" x="451.0" y="402.0" font-size="20.0" font-family="helvetica">Hyphomicrobium methylovorum GM2 (ABOO4097)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="473.0" cy="231.0" r="1.0"/>
+    <text stroke="none" x="473.0" y="231.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="527.0" cy="188.0" r="1.0"/>
+    <text stroke="none" x="527.0" y="188.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="571.0" cy="147.0" r="1.0"/>
+    <text stroke="none" x="571.0" y="147.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="574.0" cy="229.0" r="1.0"/>
+    <text stroke="none" x="574.0" y="229.0" font-size="20.0" font-family="helvetica">Mtb. organophilum ATCC 27886T (M22629)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="574.0" cy="272.0" r="1.0"/>
+    <text stroke="none" x="574.0" y="272.0" font-size="20.0" font-family="helvetica">Mtb. jeotgali SZR03-9T (EF031552)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="589.0" cy="106.0" r="1.0"/>
+    <text stroke="none" x="589.0" y="106.0" font-size="10.0" font-family="helvetica">NT1.10</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="616.0" cy="359.0" r="1.0"/>
+    <text stroke="none" x="616.0" y="359.0" font-size="20.0" font-family="helvetica">Paracoccus denitrificans PD1207 (M17339)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="621.0" cy="316.0" r="1.0"/>
+    <text stroke="none" x="621.0" y="316.0" font-size="20.0" font-family="helvetica">Mtb. nodulans ORS 2060T (AF220764)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="624.0" cy="187.0" r="1.0"/>
+    <text stroke="none" x="624.0" y="187.0" font-size="20.0" font-family="helvetica">Mtb. zatmanii DSM 5688T (EF031553)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="630.0" cy="76.0" r="1.0"/>
+    <text stroke="none" x="630.0" y="76.0" font-size="10.0" font-family="helvetica">NT1.14</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="636.0" cy="143.0" r="1.0"/>
+    <text stroke="none" x="636.0" y="143.0" font-size="20.0" font-family="helvetica">Mtb. podarium FM4T (AY468366)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="636.0" cy="36.0" r="1.0"/>
+    <text stroke="none" x="636.0" y="36.0" font-size="20.0" font-family="helvetica">73</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="647.0" cy="14.0" r="1.0"/>
+    <text stroke="none" x="647.0" y="14.0" font-size="20.0" font-family="helvetica">Mb. extorquens AM1 (M31108)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="651.0" cy="57.0" r="1.0"/>
+    <text stroke="none" x="651.0" y="57.0" font-size="20.0" font-family="helvetica">Mtb. rhodinum ATCC 14821T (U70527)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="652.0" cy="100.0" r="1.0"/>
+    <text stroke="none" x="652.0" y="100.0" font-size="20.0" font-family="helvetica">Mtb. dichloromethanicum DSM 6343T (AJ878068)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="652.0" cy="445.0" r="1.0"/>
+    <text stroke="none" x="652.0" y="445.0" font-size="20.0" font-family="helvetica">Methylophilus methylotrophus W3A1 (U41040)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="4.0" cy="402.0" r="1.0"/>
+    <text stroke="none" x="4.0" y="402.0" font-size="10.0" font-family="helvetica">NT1.21</text>
+   </g>
+   <line stroke="black" x1="647.0" y1="14.0" x2="636.0" y2="36.0" stroke-width="0.5"/>
+   <line stroke="black" x1="652.0" y1="100.0" x2="630.0" y2="76.0" stroke-width="0.5"/>
+   <line stroke="black" x1="624.0" y1="187.0" x2="571.0" y2="147.0" stroke-width="0.5"/>
+   <line stroke="black" x1="574.0" y1="229.0" x2="527.0" y2="188.0" stroke-width="0.5"/>
+   <line stroke="black" x1="574.0" y1="272.0" x2="473.0" y2="231.0" stroke-width="0.5"/>
+   <line stroke="black" x1="621.0" y1="316.0" x2="412.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="451.0" y1="402.0" x2="189.0" y2="360.0" stroke-width="0.5"/>
+   <line stroke="black" x1="636.0" y1="36.0" x2="630.0" y2="76.0" stroke-width="0.5"/>
+   <line stroke="black" x1="630.0" y1="76.0" x2="589.0" y2="106.0" stroke-width="0.5"/>
+   <line stroke="black" x1="589.0" y1="106.0" x2="571.0" y2="147.0" stroke-width="0.5"/>
+   <line stroke="black" x1="571.0" y1="147.0" x2="527.0" y2="188.0" stroke-width="0.5"/>
+   <line stroke="black" x1="527.0" y1="188.0" x2="473.0" y2="231.0" stroke-width="0.5"/>
+   <line stroke="black" x1="473.0" y1="231.0" x2="412.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="412.0" y1="273.0" x2="268.0" y2="316.0" stroke-width="0.5"/>
+   <line stroke="black" x1="268.0" y1="316.0" x2="189.0" y2="360.0" stroke-width="0.5"/>
+   <line stroke="black" x1="4.0" y1="402.0" x2="189.0" y2="360.0" stroke-width="0.5"/>
+   <line stroke="black" x1="652.0" y1="445.0" x2="4.0" y2="402.0" stroke-width="0.5"/>
+   <line stroke="black" x1="616.0" y1="359.0" x2="268.0" y2="316.0" stroke-width="0.5"/>
+   <line stroke="black" x1="636.0" y1="143.0" x2="589.0" y2="106.0" stroke-width="0.5"/>
+   <line stroke="black" x1="651.0" y1="57.0" x2="636.0" y2="36.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

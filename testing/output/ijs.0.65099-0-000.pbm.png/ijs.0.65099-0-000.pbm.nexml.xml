@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Brevibacterium samyangense NRRL B-41420T (DQ344485)</otu>
+  <otu id="otu2">B</otu>
+  <otu id="otu3">Brevibacten'um mcbrellneri ATCC 49030T (X93594)</otu>
+  <otu id="otu4">Brevibacten'um Iuteolum DSM 15022T (AJ488509)</otu>
+  <otu id="otu5">Jonesia denitrificans DSM 20603T (X83811)</otu>
+  <otu id="otu6">Brevibacterium otitidis NCFB 3053T (X93593)</otu>
+  <otu id="otu7">Brevibacterium avium NCFB 3055T (Y17962)</otu>
+  <otu id="otu8"/>
+  <otu id="otu9"/>
+  <otu id="otu10"/>
+  <otu id="otu11"/>
+  <otu id="otu12"/>
+  <otu id="otu13">Brevibacten'um celere KMM 3637T (AY228463)</otu>
+  <otu id="otu14">Brevibacterium iodinum DSM 20626T (X83813)</otu>
+  <otu id="otu15"> Brevibacterium epidermidis NCDO 2286T (X76565)</otu>
+  <otu id="otu16"/>
+  <otu id="otu17">Brevibacterium pictures LMG 22061T (AJ620364)</otu>
+  <otu id="otu18">Brevibacterium case!" DSM 20657T (AJ251418)</otu>
+  <otu id="otu19">Brevibacten'um antiquum VKM Ac—2118' (AY243344)</otu>
+  <otu id="otu20"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="6.0" y="1444.0"/>
+   <node id="NT1.2" label="NT1.2" x="132.0" y="1033.0"/>
+   <node id="NT1.3" label="NT1.3" x="256.0" y="1373.0" otu="otu1"/>
+   <node id="NT1.4" label="NT1.4" x="283.0" y="1470.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="300.0" y="1566.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="332.0" y="1227.0"/>
+   <node id="NT1.7" label="NT1.7" x="353.0" y="958.0"/>
+   <node id="NT1.8" label="NT1.8" x="362.0" y="1276.0" otu="otu4"/>
+   <node id="NT1.9" x="403.0" y="589.0" label="83"/>
+   <node id="NT1.10" label="NT1.10" x="411.0" y="1663.0" otu="otu5"/>
+   <node id="NT1.11" x="431.0" y="341.0" label="66"/>
+   <node id="NT1.12" label="NT1.12" x="444.0" y="839.0"/>
+   <node id="NT1.13" label="NT1.13" x="445.0" y="1177.0" otu="otu6"/>
+   <node id="NT1.14" x="467.0" y="523.0" label="87"/>
+   <node id="NT1.15" label="NT1.15" x="477.0" y="1082.0" otu="otu7"/>
+   <node id="NT1.16" x="486.0" y="158.0" label="67"/>
+   <node id="NT1.17" label="NT1.17" x="504.0" y="907.0" otu="otu8"/>
+   <node id="NT1.18" label="NT1.18" x="508.0" y="925.0" otu="otu9"/>
+   <node id="NT1.19" label="NT1.19" x="508.0" y="925.0"/>
+   <node id="NT1.20" label="NT1.20" x="510.0" y="254.0"/>
+   <node id="NT1.21" label="NT1.21" x="513.0" y="742.0"/>
+   <node id="NT1.22" label="NT1.22" x="524.0" y="108.0" otu="otu10"/>
+   <node id="NT1.23" x="525.0" y="63.0" label="77"/>
+   <node id="NT1.24" label="NT1.24" x="534.0" y="303.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="546.0" y="451.0"/>
+   <node id="NT1.26" label="NT1.26" x="547.0" y="496.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="551.0" y="400.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="551.0" y="985.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="564.0" y="789.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="574.0" y="694.0" otu="otu16"/>
+   <node id="NT1.31" label="NT1.31" x="592.0" y="207.0" otu="otu17"/>
+   <node id="NT1.32" label="NT1.32" x="603.0" y="596.0" otu="otu18"/>
+   <node id="NT1.33" label="NT1.33" x="611.0" y="13.0" otu="otu19"/>
+   <node id="NT1.34" label="NT1.34" x="658.0" y="889.0" otu="otu20"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

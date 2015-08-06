@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">M. subterraneum AfipT (X99044)</otu>
+  <otu id="otu2">M. palustre FT (AF093061)</otu>
+  <otu id="otu3">M. beijingense 8-2‘ (AY350742)</otu>
+  <otu id="otu4">M. formicicum DSM 15357(AF169245)</otu>
+  <otu id="otu5">M. alcaliphilum WeN4T (AB496639)</otu>
+  <otu id="otu6">M. felluginls MichOST (A8542743)</otu>
+  <otu id="otu7">M. aarhusense HQ-LRT (AY386124)</otu>
+  <otu id="otu8">M. oryzae Fpi' (AF028690)</otu>
+  <otu id="otu9">M. ullginosum NBRC 105232'(AB$42914)</otu>
+  <otu id="otu10">M. petrolearium Mi95012T (A854274‘2)</otu>
+  <otu id="otu11">M. bryantii DSM 863T (M59124)</otu>
+  <otu id="otu12">M. I'vanovil OCM 140T (AF095261)</otu>
+  <otu id="otu13">M. aren't:le MT (D0517520)</otu>
+  <otu id="otu14">M. congalense CT (AF233586)</otu>
+  <otu id="otu15">Methanobacterium mavens TS-2T (EU366499)</otu>
+  <otu id="otu16">Methanobacterium ﬂexile GHT (EU333914)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="74.0" y="375.0"/>
+   <node id="NT1.2" label="NT1.2" x="101.0" y="601.0"/>
+   <node id="NT1.3" label="NT1.3" x="109.0" y="266.0"/>
+   <node id="NT1.4" label="NT1.4" x="147.0" y="628.0"/>
+   <node id="NT1.5" label="NT1.5" x="192.0" y="483.0"/>
+   <node id="NT1.6" label="NT1.6" x="194.0" y="320.0"/>
+   <node id="NT1.7" label="NT1.7" x="240.0" y="210.0"/>
+   <node id="NT1.8" label="NT1.8" x="247.0" y="445.0"/>
+   <node id="NT1.9" label="NT1.9" x="269.0" y="419.0"/>
+   <node id="NT1.10" label="NT1.10" x="281.0" y="522.0"/>
+   <node id="NT1.11" label="NT1.11" x="378.0" y="435.0" otu="otu1"/>
+   <node id="NT1.12" label="NT1.12" x="388.0" y="470.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="404.0" y="346.0"/>
+   <node id="NT1.14" label="NT1.14" x="416.0" y="611.0" otu="otu3"/>
+   <node id="NT1.15" label="NT1.15" x="420.0" y="400.0" otu="otu4"/>
+   <node id="NT1.16" label="NT1.16" x="422.0" y="294.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="430.0" y="505.0" otu="otu6"/>
+   <node id="NT1.18" x="448.0" y="159.0" label="73"/>
+   <node id="NT1.19" label="NT1.19" x="450.0" y="646.0" otu="otu7"/>
+   <node id="NT1.20" label="NT1.20" x="461.0" y="259.0" otu="otu8"/>
+   <node id="NT1.21" label="NT1.21" x="467.0" y="224.0" otu="otu9"/>
+   <node id="NT1.22" x="469.0" y="93.0" label="35"/>
+   <node id="NT1.23" label="NT1.23" x="471.0" y="541.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="471.0" y="49.0" otu="otu11"/>
+   <node id="NT1.25" x="479.0" y="136.0" label="73"/>
+   <node id="NT1.26" label="NT1.26" x="480.0" y="83.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="494.0" y="189.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="504.0" y="576.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="567.0" y="329.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="596.0" y="365.0" otu="otu16"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

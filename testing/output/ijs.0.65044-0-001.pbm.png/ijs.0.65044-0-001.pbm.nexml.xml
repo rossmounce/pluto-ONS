@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="295.0" y="278.0" label="85"/>
+   <node id="NT1.2" x="352.0" y="180.0" label="88"/>
+   <node id="NT1.3" x="428.0" y="128.0" label="100"/>
+   <node id="NT1.4" label="NT1.4" x="439.0" y="371.0"/>
+   <node id="NT1.5" label="NT1.5" x="441.0" y="230.0"/>
+   <node id="NT1.6" label="NT1.6" x="444.0" y="336.0"/>
+   <node id="NT1.7" label="NT1.7" x="445.0" y="360.0" otu="otu1"/>
+   <node id="NT1.8" label="NT1.8" x="446.0" y="307.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="447.0" y="103.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="447.0" y="154.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="447.0" y="206.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="447.0" y="255.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="447.0" y="411.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="447.0" y="462.0" otu="otu8"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

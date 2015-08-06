@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Sulfolobus solfataricus DSM 1 61 GT (X90478)</otu>
+  <otu id="otu2">Sulfolobus shibatae DSM 5389T (M32504)</otu>
+  <otu id="otu3">Stygiolobus azor/cus DSM 6296T (D85520)</otu>
+  <otu id="otu4">Sulfolobus tokodail 7T (NC_003106)</otu>
+  <otu id="otu5"/>
+  <otu id="otu6">Sulfolobus acidocaldarius ATCC 33909T (D14876)</otu>
+  <otu id="otu7">Sulfolobus yangmingens/s YM1T (A801 095 7)</otu>
+  <otu id="otu8">Acid/anus ambivalens DSM 13772T (X90484)</otu>
+  <otu id="otu9">Acidianus infernus DSM 31 91T (D85505)</otu>
+  <otu id="otu10">Pyrodictium occultum PL-197(M21087)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Sulfolobus metallicus DSM 6482T (D85519)</otu>
+  <otu id="otu13"/>
+  <otu id="otu14">‘Acfd/anus manzaensis‘ NA-1 (AB182498)</otu>
+  <otu id="otu15"/>
+  <otu id="otu16"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="28.0" y="588.0"/>
+   <node id="NT1.2" label="NT1.2" x="108.0" y="506.0"/>
+   <node id="NT1.3" label="NT1.3" x="222.0" y="651.0"/>
+   <node id="NT1.4" x="262.0" y="758.0" label="95"/>
+   <node id="NT1.5" label="NT1.5" x="314.0" y="402.0"/>
+   <node id="NT1.6" label="NT1.6" x="379.0" y="881.0"/>
+   <node id="NT1.7" x="503.0" y="378.0" label="100"/>
+   <node id="NT1.8" label="NT1.8" x="505.0" y="623.0" otu="otu1"/>
+   <node id="NT1.9" label="NT1.9" x="505.0" y="677.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="511.0" y="730.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="532.0" y="840.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="533.0" y="951.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="539.0" y="895.0"/>
+   <node id="NT1.14" label="NT1.14" x="563.0" y="786.0" otu="otu6"/>
+   <node id="NT1.15" label="NT1.15" x="585.0" y="895.0" otu="otu7"/>
+   <node id="NT1.16" label="NT1.16" x="589.0" y="141.0"/>
+   <node id="NT1.17" label="NT1.17" x="600.0" y="351.0" otu="otu8"/>
+   <node id="NT1.18" label="NT1.18" x="612.0" y="405.0" otu="otu9"/>
+   <node id="NT1.19" x="728.0" y="486.0" label="100"/>
+   <node id="NT1.20" label="NT1.20" x="752.0" y="1002.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="819.0" y="460.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="821.0" y="52.0"/>
+   <node id="NT1.23" label="NT1.23" x="870.0" y="570.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="871.0" y="132.0" otu="otu13"/>
+   <node id="NT1.25" label="NT1.25" x="874.0" y="512.0" otu="otu14"/>
+   <node id="NT1.26" label="NT1.26" x="884.0" y="22.0" otu="otu15"/>
+   <node id="NT1.27" label="NT1.27" x="884.0" y="240.0" otu="otu16"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

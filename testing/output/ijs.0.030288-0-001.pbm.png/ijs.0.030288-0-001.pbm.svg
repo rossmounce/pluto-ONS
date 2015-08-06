@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1.0" cy="463.0" r="1.0"/>
+    <text stroke="none" x="1.0" y="463.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="692.0" cy="376.0" r="1.0"/>
+    <text stroke="none" x="692.0" y="376.0" font-size="20.0" font-family="helvetica"> C. islandicus SET IS-9T (G0324698)</text>
+   </g>
+   <line stroke="black" x1="1.0" y1="463.0" x2="692.0" y2="376.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

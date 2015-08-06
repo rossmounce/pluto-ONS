@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Saccharomyces cerevisiae CBS 1171 T (U44806)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Pichia (Ogataea) dorogensis NCAIM Y—91539T (AF403146)</otu>
+  <otu id="otu5">Ogataea thermomethanolica CBS 10098T (AB200285)</otu>
+  <otu id="otu6">Ogataea minuta var. nonfermentans CBS 5764T (U75518)</otu>
+  <otu id="otu7">Ogataea minute var‘ minuta CBS 1708T (U75515)</otu>
+  <otu id="otu8">Ogataea nakhonphanomensis $051T (AB307722)</otu>
+  <otu id="otu9">Ogataea siamensis TISTR 5818T (AB120217)</otu>
+  <otu id="otu10">Ogataea thermophila Y94T (AF283568)</otu>
+  <otu id="otu11">Ogataea chonburiensis PT44T (A3307721)</otu>
+  <otu id="otu12">Ogataea wickerhamii (Pichia finlandica) CBS 4307T (U75517)</otu>
+  <otu id="otu13">Ogataea falcaomoraisii CBS 9814T (AY561260)</otu>
+  <otu id="otu14">Ogataea polymorpha (Pichia angusta) CBS 7073T (U75524)</otu>
+  <otu id="otu15">Pichia (Ogataea) zsoltii NCAIM Y-01540T (AF403147)</otu>
+  <otu id="otu16">Candida nemodendra NRRL Y-7779T (U70246)</otu>
+  <otu id="otu17">Ogataea philodendri CBS 6075T (U75522)</otu>
+  <otu id="otu18">Pichia (Ogataea) trehaloabstinens NCAIM Y—91537T (AF403145)</otu>
+  <otu id="otu19">Candida odonii CBS 8843T (AF313350)</otu>
+  <otu id="otu20">Ogataea kodamae CBS 7081T (U75525)</otu>
+  <otu id="otu21">Ogataea glucozyma CBS 5766WU75520)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="372.0" y="359.0"/>
+   <node id="NT1.2" label="NT1.2" x="382.0" y="701.0" otu="otu1"/>
+   <node id="NT1.3" label="NT1.3" x="394.0" y="441.0"/>
+   <node id="NT1.4" label="NT1.4" x="402.0" y="643.0"/>
+   <node id="NT1.5" label="NT1.5" x="405.0" y="526.0"/>
+   <node id="NT1.6" label="NT1.6" x="419.0" y="243.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="421.0" y="242.0"/>
+   <node id="NT1.8" label="NT1.8" x="423.0" y="238.0"/>
+   <node id="NT1.9" label="NT1.9" x="427.0" y="233.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="428.0" y="104.0"/>
+   <node id="NT1.11" label="NT1.11" x="444.0" y="145.0"/>
+   <node id="NT1.12" label="NT1.12" x="446.0" y="61.0"/>
+   <node id="NT1.13" label="NT1.13" x="449.0" y="469.0" otu="otu4"/>
+   <node id="NT1.14" label="NT1.14" x="449.0" y="430.0"/>
+   <node id="NT1.15" label="NT1.15" x="451.0" y="662.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="454.0" y="507.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="462.0" y="546.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="469.0" y="225.0"/>
+   <node id="NT1.19" label="NT1.19" x="488.0" y="624.0" otu="otu8"/>
+   <node id="NT1.20" label="NT1.20" x="490.0" y="279.0" otu="otu9"/>
+   <node id="NT1.21" x="496.0" y="32.0" label="100"/>
+   <node id="NT1.22" label="NT1.22" x="505.0" y="203.0" otu="otu10"/>
+   <node id="NT1.23" label="NT1.23" x="505.0" y="392.0" otu="otu11"/>
+   <node id="NT1.24" label="NT1.24" x="506.0" y="354.0" otu="otu12"/>
+   <node id="NT1.25" label="NT1.25" x="509.0" y="50.0" otu="otu13"/>
+   <node id="NT1.26" label="NT1.26" x="515.0" y="241.0" otu="otu14"/>
+   <node id="NT1.27" label="NT1.27" x="520.0" y="165.0" otu="otu15"/>
+   <node id="NT1.28" label="NT1.28" x="523.0" y="88.0" otu="otu16"/>
+   <node id="NT1.29" label="NT1.29" x="523.0" y="584.0" otu="otu17"/>
+   <node id="NT1.30" label="NT1.30" x="528.0" y="316.0" otu="otu18"/>
+   <node id="NT1.31" label="NT1.31" x="543.0" y="11.0" otu="otu19"/>
+   <node id="NT1.32" label="NT1.32" x="561.0" y="431.0" otu="otu20"/>
+   <node id="NT1.33" label="NT1.33" x="576.0" y="127.0" otu="otu21"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

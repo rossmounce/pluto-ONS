@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Natrinema versiforme JCM 10478T (A3023426)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3">Halovivax asiaticus EJ-46T (AM039978)</otu>
+  <otu id="otu4"> Natrinema pallidum NCIMB 777T (AJ002949)</otu>
+  <otu id="otu5"/>
+  <otu id="otu6">Natrinema ej/norense EJ-57T (AM231733)</otu>
+  <otu id="otu7"> Haloterrigena turkrnenica VKM B-1734T (AB004878)</otu>
+  <otu id="otu8"> Natrinema pellirubrum NCIMB 786T (AJ002947)</otu>
+  <otu id="otu9"> Halobiforma haloterrestris 135T (AF333760)</otu>
+  <otu id="otu10"> Natronococcus occultus NCIMB 2192T (228378)</otu>
+  <otu id="otu11">Natronobacterium gregoryl NCIMB 2189T (D87970)</otu>
+  <otu id="otu12"> Halostagnicola Iarsem'i XH—48T (AM1 17571)</otu>
+  <otu id="otu13">Natrinema altunense JCM 12890T (AY208972)</otu>
+  <otu id="otu14">Natronolimnobius baerhuensis IHC—005T (AB125106)</otu>
+  <otu id="otu15">Natrialba asiatica 172P1T (D14123)</otu>
+  <otu id="otu16">Natronorubrum bangense A33T (Y14028)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="47.0" y="85.0"/>
+   <node id="NT1.2" label="NT1.2" x="52.0" y="681.0"/>
+   <node id="NT1.3" label="NT1.3" x="66.0" y="156.0"/>
+   <node id="NT1.4" label="NT1.4" x="115.0" y="86.0"/>
+   <node id="NT1.5" label="NT1.5" x="124.0" y="718.0"/>
+   <node id="NT1.6" x="127.0" y="226.0" label="83"/>
+   <node id="NT1.7" label="NT1.7" x="161.0" y="294.0"/>
+   <node id="NT1.8" label="NT1.8" x="192.0" y="232.0"/>
+   <node id="NT1.9" x="221.0" y="356.0" label="76"/>
+   <node id="NT1.10" x="317.0" y="408.0" label="99"/>
+   <node id="NT1.11" label="NT1.11" x="368.0" y="462.0"/>
+   <node id="NT1.12" x="372.0" y="523.0" label="100"/>
+   <node id="NT1.13" x="424.0" y="476.0" label="95"/>
+   <node id="NT1.14" x="425.0" y="572.0" label="100"/>
+   <node id="NT1.15" label="NT1.15" x="438.0" y="353.0" otu="otu1"/>
+   <node id="NT1.16" label="NT1.16" x="449.0" y="596.0" otu="otu2"/>
+   <node id="NT1.17" label="NT1.17" x="450.0" y="13.0" otu="otu3"/>
+   <node id="NT1.18" label="NT1.18" x="450.0" y="450.0" otu="otu4"/>
+   <node id="NT1.19" label="NT1.19" x="453.0" y="548.0" otu="otu5"/>
+   <node id="NT1.20" label="NT1.20" x="466.0" y="305.0" otu="otu6"/>
+   <node id="NT1.21" label="NT1.21" x="471.0" y="256.0" otu="otu7"/>
+   <node id="NT1.22" label="NT1.22" x="474.0" y="500.0" otu="otu8"/>
+   <node id="NT1.23" label="NT1.23" x="476.0" y="694.0" otu="otu9"/>
+   <node id="NT1.24" label="NT1.24" x="491.0" y="743.0" otu="otu10"/>
+   <node id="NT1.25" label="NT1.25" x="493.0" y="644.0" otu="otu11"/>
+   <node id="NT1.26" label="NT1.26" x="496.0" y="62.0" otu="otu12"/>
+   <node id="NT1.27" label="NT1.27" x="512.0" y="401.0" otu="otu13"/>
+   <node id="NT1.28" label="NT1.28" x="547.0" y="159.0" otu="otu14"/>
+   <node id="NT1.29" label="NT1.29" x="576.0" y="111.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="583.0" y="207.0" otu="otu16"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

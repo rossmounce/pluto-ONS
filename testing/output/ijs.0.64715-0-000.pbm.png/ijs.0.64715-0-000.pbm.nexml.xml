@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Thermoleophilum album ATCC 35263T (AJ458462)</otu>
+  <otu id="otu2">Solirubrobacter soli Gsoil 355T (ABZ45334)</otu>
+  <otu id="otu3">Solirubrobacter pauli B3301T (AY039806)</otu>
+  <otu id="otu4">Patulibacter minatonensis KV-614T (AB193261)</otu>
+  <otu id="otu5">Conexibacter woesei DSM 14684T (AJ440237)</otu>
+  <otu id="otu6">Micrococcus Iuteus IFO 16250T (A3023371)</otu>
+  <otu id="otu7">Rubrobacter radiotolerans DSM 5868T (X98372)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="47.0" y="183.0"/>
+   <node id="NT1.2" label="NT1.2" x="87.0" y="135.0"/>
+   <node id="NT1.3" x="166.0" y="94.0" label="100"/>
+   <node id="NT1.4" x="191.0" y="69.0" label="87"/>
+   <node id="NT1.5" x="244.0" y="36.0" label="100"/>
+   <node id="NT1.6" label="NT1.6" x="270.0" y="164.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="276.0" y="53.0" otu="otu2"/>
+   <node id="NT1.8" label="NT1.8" x="283.0" y="18.0" otu="otu3"/>
+   <node id="NT1.9" label="NT1.9" x="288.0" y="124.0" otu="otu4"/>
+   <node id="NT1.10" label="NT1.10" x="296.0" y="89.0" otu="otu5"/>
+   <node id="NT1.11" label="NT1.11" x="333.0" y="240.0" otu="otu6"/>
+   <node id="NT1.12" label="NT1.12" x="385.0" y="203.0" otu="otu7"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>

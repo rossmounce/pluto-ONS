@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">P. aminovorans JCM 7685T (032240)</otu>
+  <otu id="otu2">P. denitrificans ATCC 17741T (Y16927)</otu>
+  <otu id="otu3">P. pantotrophus ATCC 35512T (Y16933)</otu>
+  <otu id="otu4">P thiocyanatus IFO 14569T (D32242)</otu>
+  <otu id="otu5">P. solventivorans DSM 6637T (Y07705)</otu>
+  <otu id="otu6">P. koreensis Ch05T (AB187584)</otu>
+  <otu id="otu7">P. kocurii JCM 7684T (D32241)</otu>
+  <otu id="otu8">P. alkenifer DSM 1 1593T (Y13827)</otu>
+  <otu id="otu9"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="86.0" y="315.0"/>
+   <node id="NT1.2" label="NT1.2" x="114.0" y="260.0"/>
+   <node id="NT1.3" x="161.0" y="162.0" label="73"/>
+   <node id="NT1.4" label="NT1.4" x="169.0" y="308.0"/>
+   <node id="NT1.5" label="NT1.5" x="224.0" y="84.0"/>
+   <node id="NT1.6" label="NT1.6" x="247.0" y="391.0" otu="otu1"/>
+   <node id="NT1.7" label="NT1.7" x="249.0" y="40.0"/>
+   <node id="NT1.8" label="NT1.8" x="252.0" y="337.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="272.0" y="282.0" otu="otu3"/>
+   <node id="NT1.10" x="285.0" y="147.0" label="99"/>
+   <node id="NT1.11" label="NT1.11" x="293.0" y="229.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="357.0" y="175.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="364.0" y="12.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="427.0" y="67.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="427.0" y="120.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="429.0" y="465.0" otu="otu9"/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+   <edge/>
+  </tree>
+ </trees>
+</nexml>
