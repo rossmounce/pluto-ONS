@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">4 0 011 90 6 1 11 17 78163311131 181 0 16060 930047119</otu>
+  <otu id="otu3">541-610138616111101 015 1139 59. 101 08-66 5 239498</otu>
+  <otu id="otu4">1 1 0 0115101 6 1 1 9103116 11109115 18 0 145487 0 8004724</otu>
+  <otu id="otu5">1141 0 017310 9 1 1 6111 6217 61011 1 1 18120 15234 8004726</otu>
+  <otu id="otu6">1 1 6 01 30 91 11171 1 1 77 61139 0 3 11 027 008013903</otu>
+  <otu id="otu7">1 4 0 0 35 0 5 11 1-0 7037906 1004 011117 1 1813 0 15077 0 8004722</otu>
+  <otu id="otu8">1 4 0 01230 91113 1 16 3110041 0 11 1 145 0 14592 0-6007413</otu>
+  <otu id="otu9">1141 0 0 1 0 917 11 17 1529 61171 0 18 18 1 181 0 14471 8007416</otu>
+  <otu id="otu10">1 1 0 0 610 6 11 711 6 69 18 6 153007 8004720</otu>
+  <otu id="otu11">1 4 0 0116016 11 1 78 6306 13 1 18 3 0 15039 0 8004716</otu>
+  <otu id="otu12">1 1-0 01330 6 11177 0 1000161 11 17 1 181 0 3758 0 8004725</otu>
+  <otu id="otu13">1 1 0 01 5302 9 11 17 10 111111 5 181 0 157087 8004727</otu>
+  <otu id="otu14">1 1 0 01 30 6 11 71 343111.0111-011171 83- 0- .1853908</otu>
+  <otu id="otu15">1 1 0 01 30 9 11111 75110 3 11 111 1 1 18 0 16065 8004714</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="0.0" y="310.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="22.0" y="225.0"/>
+   <node id="NT1.3" label="NT1.3" x="27.0" y="438.0"/>
+   <node id="NT1.4" label="NT1.4" x="34.0" y="97.0"/>
+   <node id="NT1.5" label="NT1.5" x="34.0" y="407.0"/>
+   <node id="NT1.6" label="NT1.6" x="49.0" y="394.0"/>
+   <node id="NT1.7" label="NT1.7" x="74.0" y="247.0"/>
+   <node id="NT1.8" label="NT1.8" x="75.0" y="349.0"/>
+   <node id="NT1.9" label="NT1.9" x="80.0" y="199.0"/>
+   <node id="NT1.10" label="NT1.10" x="81.0" y="44.0"/>
+   <node id="NT1.11" label="NT1.11" x="86.0" y="137.0"/>
+   <node id="NT1.12" label="NT1.12" x="103.0" y="295.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="103.0" y="472.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="116.0" y="118.0" otu="otu4"/>
+   <node id="NT1.15" label="NT1.15" x="118.0" y="48.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="120.0" y="13.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="121.0" y="437.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="122.0" y="260.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="122.0" y="189.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="129.0" y="154.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="137.0" y="224.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="143.0" y="83.0" otu="otu12"/>
+   <node id="NT1.23" label="NT1.23" x="144.0" y="366.0" otu="otu13"/>
+   <node id="NT1.24" label="NT1.24" x="153.0" y="330.0" otu="otu14"/>
+   <node id="NT1.25" label="NT1.25" x="296.0" y="402.0" otu="otu15"/>
+   <edge source="NT1.16" target="NT1.10"/>
+   <edge source="NT1.15" target="NT1.10"/>
+   <edge source="NT1.22" target="NT1.10"/>
+   <edge source="NT1.14" target="NT1.11"/>
+   <edge source="NT1.20" target="NT1.11"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.12" target="NT1.2"/>
+   <edge source="NT1.18" target="NT1.7"/>
+   <edge source="NT1.19" target="NT1.9"/>
+   <edge source="NT1.21" target="NT1.9"/>
+   <edge source="NT1.23" target="NT1.8"/>
+   <edge source="NT1.24" target="NT1.8"/>
+   <edge source="NT1.25" target="NT1.6"/>
+   <edge source="NT1.10" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.11"/>
+   <edge source="NT1.2" target="NT1.7"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.7" target="NT1.9"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.6" target="NT1.8"/>
+   <edge source="NT1.13" target="NT1.3"/>
+   <edge source="NT1.17" target="NT1.5"/>
+  </tree>
+ </trees>
+</nexml>

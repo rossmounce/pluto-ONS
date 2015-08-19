@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">7677507773 37773707703 8736-207 7477779317107</otu>
+  <otu id="otu3">7497973 77700707373 7770777 7070-18047 777731593637</otu>
+  <otu id="otu4">7677507773 07960777677575 777787-277 775734661247</otu>
+  <otu id="otu5">577677507773 7777773 677778 7677 7404385857</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="134.0" y="537.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="149.0" y="429.0"/>
+   <node id="NT1.3" label="NT1.3" x="186.0" y="297.0"/>
+   <node id="NT1.4" label="NT1.4" x="205.0" y="375.0"/>
+   <node id="NT1.5" label="NT1.5" x="331.0" y="570.0" otu="otu2"/>
+   <node id="NT1.6" label="NT1.6" x="391.0" y="296.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="420.0" y="258.0" otu="otu4"/>
+   <node id="NT1.8" label="NT1.8" x="465.0" y="376.0" otu="otu5"/>
+   <edge source="NT1.7" target="NT1.3"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.6" target="NT1.4"/>
+   <edge source="NT1.5" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.8" target="NT1.4"/>
+  </tree>
+ </trees>
+</nexml>
