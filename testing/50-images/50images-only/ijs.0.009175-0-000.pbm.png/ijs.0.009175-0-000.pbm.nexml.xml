@@ -2,11 +2,11 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">031111 131118 911 390 31 1 6-07-615.13 03154790</otu>
-  <otu id="otu3">8 06 768520 8 51331511 6151 11117 11 1 . -27907 030109803</otu>
-  <otu id="otu4">0 100 113 1 91 1 1 65 1 1 212 . -27738 0 520415</otu>
-  <otu id="otu5">0511751112 1- 75662 51 3175 1 1 6. -7786</otu>
-  <otu id="otu6">0317 1111 3 04030 0 11751</otu>
+  <otu id="otu2">Candida materiae UFMG-07-C15.1BT(FJ154790)</otu>
+  <otu id="otu3">Spathaspora passaiidarum NRRL Y-279O7T (D0109807)</otu>
+  <otu id="otu4">Candida jeffriesii NRRL Y-27738T (AY520415)</otu>
+  <otu id="otu5">Candida insectamans NRRL Y-7786T</otu>
+  <otu id="otu6">Candida lyxosophila</otu>
  </otus>
  <trees>
   <tree id="T1">

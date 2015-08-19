@@ -2,9 +2,9 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">7011117701725 7911119117672 2100 1 35242 072627982</otu>
-  <otu id="otu3">21223011220161 91173622913011 013011 6432 0282674777</otu>
-  <otu id="otu4">224225112 802.1813-81. 05135928082</otu>
+  <otu id="otu2">Terrimonas ferruginea ATCC 1 3524T (M62798)</otu>
+  <otu id="otu3">Flavisolibacter ginsengisoli Gsoil 6413T (AB267477)</otu>
+  <otu id="otu4">Niabella soliJS13-E3T (EF592808)</otu>
  </otus>
  <trees>
   <tree id="T1">

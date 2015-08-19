@@ -2,23 +2,23 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">52253201325262 27702165213 129-12 0305287602</otu>
-  <otu id="otu3">71921492013215 1036115 288 68 030660890</otu>
-  <otu id="otu4">29219102115 2032215 288 632 030660892</otu>
-  <otu id="otu5">802 25022123 52215001 022344182</otu>
-  <otu id="otu6">129311223 922 2301323 1214166025872302</otu>
-  <otu id="otu7">52182270230292 4192693173 2229-12 030528760</otu>
-  <otu id="otu8">8021 25016129 1522221337 02124987192 </otu>
-  <otu id="otu9">85101736262 69918982113 2292101 1 032887760</otu>
-  <otu id="otu10">30221236162 399213922115 2133132 0221624052</otu>
-  <otu id="otu11">24016012201621.2177 04252121211217 10121 76701 03261 70</otu>
-  <otu id="otu12">14082220229221.23016227911118 1321222182 08303220</otu>
-  <otu id="otu13">802 2801329 13211342 0224987242</otu>
-  <otu id="otu14">28011117210182 11511811181 211216076 203000473</otu>
-  <otu id="otu15">8021 2502329 81216115022347672</otu>
-  <otu id="otu16">802 250929 321371 0224987530</otu>
-  <otu id="otu17">678027212 12812178223275 2-1-52 0141563</otu>
-  <otu id="otu18">12102013272921 206171151 1148842 0072152</otu>
+  <otu id="otu2">Edaphobacter modestus Jbg-1T (00528760)</otu>
+  <otu id="otu3">Terriglobus roseus KBS 68 (D0660894)</otu>
+  <otu id="otu4">Terriglobus roseus KBS 63T (D0660892)</otu>
+  <otu id="otu5">Soil isolate Ellin5001 (AY234418)</otu>
+  <otu id="otu6">Termite gut isolate TAA166 (AY587230)</otu>
+  <otu id="otu7">Edaphobacter aggregans ng-1T (D0528761)</otu>
+  <otu id="otu8">Soil isolate Ellin337 (AF498719) </otu>
+  <otu id="otu9">Bryobacter aggregatus MPL101 1 (AM887761)</otu>
+  <otu id="otu10">Bryobacter aggregatus MPL3T (AM162405)</otu>
+  <otu id="otu11">Acidobacterium capsulatum JCM 7670T (D261 71)</otu>
+  <otu id="otu12">Acanthopleuribacter pedis FYK2218T (A8303221)</otu>
+  <otu id="otu13">Soil isolate Ellin342 (AF498724)</otu>
+  <otu id="otu14">iSolibacter usitatusl Ellin6076 (CP000473)</otu>
+  <otu id="otu15">Soil isolate EIIin6115(AY234767)</otu>
+  <otu id="otu16">Soil isolate Ellin371 (AF498753)</otu>
+  <otu id="otu17">Geothrix fermentans H-5T (U41563)</otu>
+  <otu id="otu18">Holophaga foetida TMBS4T (X77215)</otu>
  </otus>
  <trees>
   <tree id="T1">

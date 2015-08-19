@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">13. 11712055536156 0501413061 11-17751 7541</otu>
-  <otu id="otu2"> 13. 70113511141055 1111.147 1474278321</otu>
-  <otu id="otu3"> 13. 13101755955515 081111 11.994211501793271</otu>
-  <otu id="otu4">13. 55155155565515 3247 11450219241</otu>
-  <otu id="otu5">13. 172755015011 65011 141 11114132453841</otu>
-  <otu id="otu6">13. 11100505955515 753-451 1478474631</otu>
-  <otu id="otu7"> 13. 1111501595515 0551. 058-1365110853971</otu>
-  <otu id="otu8">5. 171755555515 565051 1507410361</otu>
-  <otu id="otu9"/>
-  <otu id="otu10">13. 171753595515 55519 1507410291</otu>
-  <otu id="otu11">5. 171153565515 56511 1507410391</otu>
-  <otu id="otu12">13. 51505501141055 081111 5162110784701</otu>
-  <otu id="otu13">13. 11111717435515 51111491 1745391 1 231</otu>
-  <otu id="otu14">13. 5011117710167 081111 3611103204931</otu>
-  <otu id="otu15">13. 17711735577515 551121 1507410311</otu>
-  <otu id="otu16">13. 51511011410118 51551. 5153-2901 10853961</otu>
-  <otu id="otu17">13. 123127711 110111113 127811 11606301</otu>
-  <otu id="otu18">13. 1611616 7411111411 11-15391 1241</otu>
+  <otu id="otu1">P. rhizosphaerae CECAPOBT (AY751 754)</otu>
+  <otu id="otu2"> P. xylanilyticus XIL14T (AY427832)</otu>
+  <otu id="otu3"> P. taichungensis DSM 19942T(EU179327)</otu>
+  <otu id="otu4">P. campinasensis 324T (AF021924)</otu>
+  <otu id="otu5">P. panaoisoli Gsoil 141 1T (ABQ45384)</otu>
+  <otu id="otu6">P. woosongensis YB-45T (AY847463)</otu>
+  <otu id="otu7"> P. illinoisensis NRRL NRS-1365T (D85397)</otu>
+  <otu id="otu8">P. hunanensis FeL05T (EU741036)</otu>
+  <otu id="otu9"> P. jamilae DSM 13815T(AJ271157)</otu>
+  <otu id="otu10">P. hunanensis Fek19 (EU741029)</otu>
+  <otu id="otu11">P. hunanensis FeL11 (EU741039)</otu>
+  <otu id="otu12">P. glucanolyticus DSM 5162T (D78470)</otu>
+  <otu id="otu13">P. kribbensis AM49T (AF891 1 23)</otu>
+  <otu id="otu14">P. polymyxa DSM 36T (AJ320493)</otu>
+  <otu id="otu15">P. hunanensis Fek21 (EU741031)</otu>
+  <otu id="otu16">P. amylolyticus NRRL NRS-QQOT (D85396)</otu>
+  <otu id="otu17">P. pabuli NCIMB 12781T (xeoeao)</otu>
+  <otu id="otu18">P. terrae AM141T(AF391124)</otu>
  </otus>
  <trees>
   <tree id="T1">

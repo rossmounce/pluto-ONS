@@ -24,7 +24,7 @@
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="462.0" cy="488.0" r="1.0"/>
-    <text stroke="none" x="462.0" y="488.0" font-size="20.0" font-family="helvetica">11. 1611771601818 1011 123541 1608530681</text>
+    <text stroke="none" x="462.0" y="488.0" font-size="20.0" font-family="helvetica">N. vermiculata JCM 12354T (G0853068)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="505.0" cy="279.0" r="1.0"/>
@@ -32,7 +32,7 @@
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="516.0" cy="441.0" r="1.0"/>
-    <text stroke="none" x="516.0" y="441.0" font-size="20.0" font-family="helvetica">11. 1916921175 10111 133741 1803761661</text>
+    <text stroke="none" x="516.0" y="441.0" font-size="20.0" font-family="helvetica">N. elegans JCM 13374T (G0376166)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="565.0" cy="211.0" r="1.0"/>
@@ -40,11 +40,11 @@
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="612.0" cy="536.0" r="1.0"/>
-    <text stroke="none" x="612.0" y="536.0" font-size="20.0" font-family="helvetica">11. 13001111111100 110921 16108530711</text>
+    <text stroke="none" x="612.0" y="536.0" font-size="20.0" font-family="helvetica">N. vacciniiATCC 11092T (G0853071)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="648.0" cy="394.0" r="1.0"/>
-    <text stroke="none" x="648.0" y="394.0" font-size="20.0" font-family="helvetica">11. 131111111751 13811 444911 1114300541</text>
+    <text stroke="none" x="648.0" y="394.0" font-size="20.0" font-family="helvetica">N. africana DSM 44491T (AF430054)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="654.0" cy="145.0" r="1.0"/>
@@ -52,11 +52,11 @@
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="663.0" cy="346.0" r="1.0"/>
-    <text stroke="none" x="663.0" y="346.0" font-size="20.0" font-family="helvetica">111. 111013617515 10111 123527 1803761591</text>
+    <text stroke="none" x="663.0" y="346.0" font-size="20.0" font-family="helvetica">N. aobensis JCM 12352T (G0376159)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="701.0" cy="203.0" r="1.0"/>
-    <text stroke="none" x="701.0" y="203.0" font-size="20.0" font-family="helvetica">11. 09113110617313 08111 445461 1608530771</text>
+    <text stroke="none" x="701.0" y="203.0" font-size="20.0" font-family="helvetica">N. cerradoensis DSM 44546T (G0853077)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="718.0" cy="274.0" r="1.0"/>
@@ -68,19 +68,19 @@
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="756.0" cy="13.0" r="1.0"/>
-    <text stroke="none" x="756.0" y="13.0" font-size="20.0" font-family="helvetica">11. 1111113111</text>
+    <text stroke="none" x="756.0" y="13.0" font-size="20.0" font-family="helvetica">N. mikamii</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="756.0" cy="156.0" r="1.0"/>
-    <text stroke="none" x="756.0" y="156.0" font-size="20.0" font-family="helvetica">111. 117111317711 117467 0314843901</text>
+    <text stroke="none" x="756.0" y="156.0" font-size="20.0" font-family="helvetica">N. mikamii W7467 (EU484390)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="763.0" cy="250.0" r="1.0"/>
-    <text stroke="none" x="763.0" y="250.0" font-size="20.0" font-family="helvetica">111. 118161211721 1381111 444451 1603761811</text>
+    <text stroke="none" x="763.0" y="250.0" font-size="20.0" font-family="helvetica">N. veterana DSM 44445T (G0376181)</text>
    </g>
    <g>
     <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="774.0" cy="299.0" r="1.0"/>
-    <text stroke="none" x="774.0" y="299.0" font-size="20.0" font-family="helvetica">11. 111623143219 13311 448771 1603761761</text>
+    <text stroke="none" x="774.0" y="299.0" font-size="20.0" font-family="helvetica">N. kruczakiae DSM 44877T (G0376176)</text>
    </g>
    <line stroke="black" x1="756.0" y1="13.0" x2="755.0" y2="85.0" stroke-width="0.5"/>
    <line stroke="black" x1="756.0" y1="156.0" x2="755.0" y2="85.0" stroke-width="0.5"/>

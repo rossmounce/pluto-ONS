@@ -2,16 +2,16 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">560171118 171777113 11511111 124647 03162681</otu>
-  <otu id="otu3">336171113 131136110113 08111 147301 0114221451</otu>
-  <otu id="otu4">310171115 50111363111611 0500462681</otu>
-  <otu id="otu5">530171118 81081011111738 138114 4851 0064361</otu>
-  <otu id="otu6"> 1380171113 1101167113 11116 218371 0415425121</otu>
-  <otu id="otu7"> 36611118 1111611 1.1146 218341 0115425091</otu>
-  <otu id="otu8">3520111115 11911113 081111 13201 1130211851</otu>
-  <otu id="otu9">860171115 9615111111 1.11116 218801 0115513291</otu>
-  <otu id="otu10">3670171113 5111111115 11000 17691 01606461</otu>
-  <otu id="otu11">3610171113 1602111917313 1011 132851 9113730181</otu>
+  <otu id="otu2">Bacillus flrmus IAM 12464T (D16268)</otu>
+  <otu id="otu3">Bacillus barbaricus DSM 14730T (AJ422145)</otu>
+  <otu id="otu4">Bacillus solisalsi YC1T (EU046268)</otu>
+  <otu id="otu5">Bacillus alcalophilus DSM 485T (X76436)</otu>
+  <otu id="otu6"> Bacillus novalis LMG 21837T (AJ542512)</otu>
+  <otu id="otu7"> Bacillus vireti LMG 21834T (AJ542509)</otu>
+  <otu id="otu8">Bacillus flexus DSM 1320T (ABOZ1185)</otu>
+  <otu id="otu9">Bacillus gelatini LMG 21880T (AJ551329)</otu>
+  <otu id="otu10">Bacillus subtilis NCDO 1769T (X60646)</otu>
+  <otu id="otu11">Bacillus macauensis JCM 13285T (AY373018)</otu>
  </otus>
  <trees>
   <tree id="T1">

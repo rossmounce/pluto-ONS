@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">120 23215119311131</otu>
-  <otu id="otu2">17316.315115416111</otu>
-  <otu id="otu3">61171.1 13.7 75115416101</otu>
-  <otu id="otu4">5015.1111555991611</otu>
-  <otu id="otu5">17 00777775775 61462-11 71309229151</otu>
-  <otu id="otu6">17 00777718775 1111-111711-4 11309229191</otu>
-  <otu id="otu7">17. 007777757775 111461-11 11309229181</otu>
-  <otu id="otu8">17. 31717673733 63-11 1741171555831</otu>
-  <otu id="otu9">17. 3747575195 131-5 091135198061</otu>
-  <otu id="otu10">17. 51713973793 63-291 1701171555851</otu>
-  <otu id="otu11"> 17. 773770770077 17-11171 145961 171130003901</otu>
-  <otu id="otu12">17. 773770710077 1711171 14597 15130003911</otu>
-  <otu id="otu13">17. 7777757757173 5171721 1059229211</otu>
-  <otu id="otu14"> 17. 757175 51717221 11309142391</otu>
-  <otu id="otu15">17. 7777157767773 51717141 11309229201</otu>
-  <otu id="otu16">17. 775170776077 14171 14599 171130003931</otu>
-  <otu id="otu17">17. 77607761715 141303-11 77974269791</otu>
-  <otu id="otu18">17. 6211766 14031-11 15174269801</otu>
-  <otu id="otu19">17. 9277759 1-113171-1</otu>
-  <otu id="otu20">17. 6211736 1-1031-2 1574269811</otu>
-  <otu id="otu21">17. 957770713 6113 107865 771172579731</otu>
-  <otu id="otu22">17. 077016789 79166 140351 01746951</otu>
-  <otu id="otu23">17. 557770113 0113 107867 1572579751</otu>
+  <otu id="otu1">RD 232 (EU931113)</otu>
+  <otu id="otu2">VB 16.3 (EU541611)</otu>
+  <otu id="otu3">CMJ 13.7 (EU541610)</otu>
+  <otu id="otu4">RD 15.11T(EF599161)</otu>
+  <otu id="otu5">V comitans GHG2-1T (D0922915)</otu>
+  <otu id="otu6">V. comitans NHM1-4 (D0922919)</otu>
+  <otu id="otu7">V. comitans NHG1-11 (DQ922918)</otu>
+  <otu id="otu8">V. superstes 63-11 (AY155583)</otu>
+  <otu id="otu9">V. superstes B1-5 (AF519806)</otu>
+  <otu id="otu10">V. superstes G3-29T (AY155585)</otu>
+  <otu id="otu11"> V. halioticoli IAM 14596T (AB000390)</otu>
+  <otu id="otu12">V. halioticoli IAM 14597 (ABOOO391)</otu>
+  <otu id="otu13">v. inusitatus RW21 (DQ922921)</otu>
+  <otu id="otu14"> V. rarus RW22T (DQ914239)</otu>
+  <otu id="otu15">V. inusitatus RW14T (DQ922920)</otu>
+  <otu id="otu16">V. halioticoli IAM 14599 (AB000393)</otu>
+  <otu id="otu17">V. neonatus HDD3-1T (AY426979)</otu>
+  <otu id="otu18">V. ezurae HDS1-1T (AY426980)</otu>
+  <otu id="otu19">V. ezurae HDV1-1</otu>
+  <otu id="otu20">V. ezurae HDS1-2 (AY426981)</otu>
+  <otu id="otu21">V. gallicus CIP 107865 (AY257973)</otu>
+  <otu id="otu22">V. cholerae ATCC 14035T (X74695)</otu>
+  <otu id="otu23">V. gallicus CIP 107867 (AY257975)</otu>
  </otus>
  <trees>
   <tree id="T1">

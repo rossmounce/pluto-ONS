@@ -495,20 +495,20 @@ snapshots: [enabled => false, update => daily]
 [DEBUG] Adding project dependency artifact: asm to classpath
 [DEBUG] joining on thread Thread[org.xmlcml.ami2.plugins.phylotree.RunPhylo.main(),5,org.xmlcml.ami2.plugins.phylotree.RunPhylo]
 [DEBUG] Setting accessibility to true in order to invoke main().
-0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008540-0-000.pbm.png/ijs.0.008540-0-000.pbm.pbm.png.hocr.html
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008540-0-000.pbm.png/ijs.0.008540-0-000.pbm.pbm.png.hocr.html
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008540-0-000.pbm.png/ijs.0.008540-0-000.pbm.pbm.png.hocr.hocr
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008540-0-000.pbm.png/ijs.0.008540-0-000.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008540-0-000.pbm.png/ijs.0.008540-0-000.pbm.pbm.png.hocr.html
-3305 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
-3323 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(5,291)>
-3326 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.25
-3326 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
-3328 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
-4436 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
-4440 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
+2656 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+2669 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(5,291)>
+2672 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.25
+2672 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+2673 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+3126 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+3128 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 12.195s
-[INFO] Finished at: Wed Aug 19 10:46:23 BST 2015
-[INFO] Final Memory: 17M/593M
+[INFO] Total time: 8.108s
+[INFO] Finished at: Wed Aug 19 14:22:54 BST 2015
+[INFO] Final Memory: 22M/724M
 [INFO] ------------------------------------------------------------------------

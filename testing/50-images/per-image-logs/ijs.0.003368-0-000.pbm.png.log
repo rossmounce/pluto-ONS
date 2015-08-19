@@ -498,17 +498,17 @@ snapshots: [enabled => false, update => daily]
 0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.003368-0-000.pbm.png/ijs.0.003368-0-000.pbm.pbm.png.hocr.html
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.003368-0-000.pbm.png/ijs.0.003368-0-000.pbm.pbm.png.hocr.hocr
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.003368-0-000.pbm.png/ijs.0.003368-0-000.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.003368-0-000.pbm.png/ijs.0.003368-0-000.pbm.pbm.png.hocr.html
-4474 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
-4492 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: < l:0_95(0,95)>
-4494 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.1
-4495 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
-4496 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
-5146 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
-5152 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
+4043 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+4073 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: < l:0_95(0,95)>
+4077 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.1
+4078 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+4080 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+4627 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+4631 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 13.068s
-[INFO] Finished at: Wed Aug 19 10:43:18 BST 2015
-[INFO] Final Memory: 21M/722M
+[INFO] Total time: 9.109s
+[INFO] Finished at: Wed Aug 19 14:19:58 BST 2015
+[INFO] Final Memory: 18M/699M
 [INFO] ------------------------------------------------------------------------

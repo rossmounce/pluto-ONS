@@ -495,15 +495,22 @@ snapshots: [enabled => false, update => daily]
 [DEBUG] Adding project dependency artifact: asm to classpath
 [DEBUG] joining on thread Thread[org.xmlcml.ami2.plugins.phylotree.RunPhylo.main(),5,org.xmlcml.ami2.plugins.phylotree.RunPhylo]
 [DEBUG] Setting accessibility to true in order to invoke main().
-1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - Process failed to terminate after :60
-1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.html
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.hocr
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - failed to create: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.html or /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.hocr
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - cannot run tesseract
+0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.html
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.hocr
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.004614-0-000.pbm.png/ijs.0.004614-0-000.pbm.pbm.png.hocr.html
+5598 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.image.pixel.PixelNucleusFactory  - UNKNOWN 4 PIXEL NUCLEUS in 71; ((543,570),(169,187)); null; (558,183)(558,184)(557,183)(557,185); neigh ::
+5750 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+5769 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(2,645)>
+5772 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.45
+5772 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+5774 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+7171 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - competing words for tip
+7214 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+7217 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 9.743s
-[INFO] Finished at: Wed Aug 19 10:43:45 BST 2015
-[INFO] Final Memory: 15M/215M
+[INFO] Total time: 13.019s
+[INFO] Finished at: Wed Aug 19 14:20:24 BST 2015
+[INFO] Final Memory: 21M/724M
 [INFO] ------------------------------------------------------------------------

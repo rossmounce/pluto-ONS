@@ -2,20 +2,20 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">4 10 9 9617 3 79 1770 016 3175 9 5 0 11 15478</otu>
-  <otu id="otu3">1- 611028 16 751 5 30017 1 5 1-26375 814 0 820137</otu>
-  <otu id="otu4">1 16 16 7 1 7 2 112 1 1 101 8 777 0 002949</otu>
-  <otu id="otu5">1 16 1- 76 176 1 6 5170 1779 0 10 0- 80284260</otu>
-  <otu id="otu6">1 1 79 77 536 1 1112 377 1 1011 8 786 0 002947</otu>
-  <otu id="otu7">1 4810 6 9317 3 117150 53 07 030367240</otu>
-  <otu id="otu8">143 02 9 1 99 753 71 5 261 7 051 3131 05 285297</otu>
-  <otu id="otu9">1-1 310 6 51817 3 1 0178 7 681 0 8-1 7847 0 8004878</otu>
-  <otu id="otu10">11 0170 113 317 17139161758 8 331 048005656</otu>
-  <otu id="otu11">1 13 0 10 11 11117 13537991758 .1631 314028</otu>
-  <otu id="otu12">15 0 70 113 1 77 5 11 1 30 9 73 02 030535889</otu>
-  <otu id="otu13">15100170 1 2 177 81- 9 739 773 030205516</otu>
-  <otu id="otu14">1 12 0 10 1117 11111 51361171717713 06-61 0343768550</otu>
-  <otu id="otu15">16 0 10 111311111 515 117171171-5 66-4 034376860</otu>
+  <otu id="otu2">Haloterrigena thermotolerans PR5T (AF1 15478)</otu>
+  <otu id="otu3">Haloterrigena saccharevftans AB14T (AY820137)</otu>
+  <otu id="otu4">Natrinema pallidum NCIMB 777T (AJ002949)</otu>
+  <otu id="otu5">Natrinema versiforme XF1OT (ABOQS426)</otu>
+  <otu id="otu6">Natrinema pellirubrum NCIMB 786T (AJ002947)</otu>
+  <otu id="otu7">Haloterrigena limicola AX-7T (D0367241)</otu>
+  <otu id="otu8">Haloterrigena hispanica FP1T (AM285297)</otu>
+  <otu id="otu9">Haloterrigena turkmenica VKM B-1 784T (ABOO4878)</otu>
+  <otu id="otu10">Natronorubrum tibetense GA33T (A8005656)</otu>
+  <otu id="otu11">Natronorubrum bangense A33T (Y14028)</otu>
+  <otu id="otu12">Natronorubrum sulfidifaciens ADT (D0535889)</otu>
+  <otu id="otu13">Natronorubrum aibiense 773T(D0205516)</otu>
+  <otu id="otu14">Natronorubrum sediminis CG-6T (FN376859)</otu>
+  <otu id="otu15">Natronorubrum sediminis CG-4 (FN376860)</otu>
  </otus>
  <trees>
   <tree id="T1">

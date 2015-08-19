@@ -2,17 +2,17 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">09341711043616411177 04643105164348 177711443017 0.289467</otu>
-  <otu id="otu3">06173101780167 79517701115 13517-14237 07844977</otu>
-  <otu id="otu4">06841708407081.4118 077677175 08114 7657 01 15707</otu>
-  <otu id="otu5">06511140313070.9777115 51403791176417 01434-44 0014493050</otu>
-  <otu id="otu6">063111410174016711117 1713297147733 008-27 04949757</otu>
-  <otu id="otu7">7631170340703117113 076770767 8107 04130765277</otu>
-  <otu id="otu8">06511110513077.3445 11011719753 177774-31 81 0301174707</otu>
-  <otu id="otu9"/>
-  <otu id="otu10">06541105130103177115 136115 81131 27 06115827577</otu>
-  <otu id="otu11">09.511408170705045 171731361. 3437 471 1 570</otu>
-  <otu id="otu12">0434110101440441177 771-9772703173 111011143 83957 04621 767</otu>
+  <otu id="otu2">Desulfitobacterium dehalogenans JWlIU-DC1T (L28946)</otu>
+  <otu id="otu3">Dehalobacter restrictus PER-K23T (U84497)</otu>
+  <otu id="otu4">Desulfosporosinus orientis DSM 765T (Y1 1570)</otu>
+  <otu id="otu5">Desulfosporosinus auripigmenti OREX-4T (AJ493051)</otu>
+  <otu id="otu6">Desulfitobacterium hafniense DOB-2T (X94975)</otu>
+  <otu id="otu7">Desulfosporosinus meridiei S10T (AFO76527)</otu>
+  <otu id="otu8">Desulfosporosinus youngiae JWlYJL-B18T (DQ117470)</otu>
+  <otu id="otu9">Strain Y5 (AY233860)</otu>
+  <otu id="otu10">Desulfosporosinus Iacus STP1 2T (AJ582757)</otu>
+  <otu id="otu11">Desulfosporosinus hippei 343T (Y1 1 571)</otu>
+  <otu id="otu12">Desulfotomaculum nigrificans NCIMB 8395T (X621 76)</otu>
  </otus>
  <trees>
   <tree id="T1">

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">13333133011138 170011771013 08111 361 0442239971</otu>
-  <otu id="otu2">8173117 1419-51 0508674441</otu>
-  <otu id="otu3">19.937117017701733 311112611 7415101 00312975291</otu>
-  <otu id="otu4">13393133011133 011011191 100451 1412239921</otu>
-  <otu id="otu5">42033111113117 1117076111117 39. 59171 0307873341</otu>
-  <otu id="otu6">13333133011135 10151171171319 081111 178421 0303491241</otu>
-  <otu id="otu7">13333133011133 2317117079111 0811 182021 0303647881</otu>
-  <otu id="otu8">13333733011133 3201017713175 1-1100 3568171412994537</otu>
-  <otu id="otu9">93317133011133 71111171711 1.11116 21761 00198672471</otu>
-  <otu id="otu10">19363133011135 531711736 1381111 178411 0303491251</otu>
-  <otu id="otu11">18313170139113 13135176175151</otu>
-  <otu id="otu12">10313316113 17176111170171.5719 342 0412423551</otu>
-  <otu id="otu13">11191173317111.1131 8310173111036 2671 19971211</otu>
-  <otu id="otu14">79.367111730111713 11730613173 741106 82441 03112239931</otu>
-  <otu id="otu15">93317133011135 91317711113 1989191 1412239941</otu>
-  <otu id="otu16">44680111120171.9777 010311 913114-6371 1004072951</otu>
-  <otu id="otu17">19613110336191 71117613173111</otu>
+  <otu id="otu1">Paenibacillus polymyxa DSM 36T (AJ223997)</otu>
+  <otu id="otu2">Strain X19-5T (EU867444)</otu>
+  <otu id="otu3">Pseudomonas stutzeri A15101 (AJ297529)</otu>
+  <otu id="otu4">Paenibacillus odorifer TOD45T (AJ223992)</otu>
+  <otu id="otu5">Azospirillum Iipoferum sp. 59bT (DQ787334)</otu>
+  <otu id="otu6">Paenibacillus forsythiae DSM 17842T (DQ349124)</otu>
+  <otu id="otu7">Paenibacillus zanthoxyli DSM 18202T (DQSB4788)</otu>
+  <otu id="otu8">Paenibacillus azotofixans ATCC 35681 T (AJ299453)</otu>
+  <otu id="otu9">Paenibacillus wynnii LMG 22176T (AJ867247)</otu>
+  <otu id="otu10">Paenibacillus sabinae DSM 17841T (DQ349125)</otu>
+  <otu id="otu11">1Burkholderia brasilensis1</otu>
+  <otu id="otu12">Klebsiella pneumoniae 342 (AY242355)</otu>
+  <otu id="otu13">Herbaspirillum seropedicae 267T (U97121)</otu>
+  <otu id="otu14">Paenibacillus macerans ATCC 8244T (AJ223993)</otu>
+  <otu id="otu15">Paenibacillus graminis RSA19T (AJ223994)</otu>
+  <otu id="otu16">Mesorhizobium ciceri UPM-Ca7T (DQ407295)</otu>
+  <otu id="otu17">1Methylobacter vinelandif</otu>
  </otus>
  <trees>
   <tree id="T1">

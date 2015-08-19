@@ -369,7 +369,7 @@ OS name: "linux", version: "3.19.0-25-generic", arch: "amd64", family: "unix"
 [DEBUG]   Excluded: org.apache.maven:maven-monitor:jar:2.2.1
 [DEBUG]   Excluded: classworlds:classworlds:jar:1.1
 [DEBUG]   Excluded: org.apache.maven:maven-plugin-api:jar:2.2.1
-[DEBUG] Configuring mojo org.codehaus.mojo:exec-maven-plugin:1.4.0:java from plugin realm ClassRealm[plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0, parent: sun.misc.Launcher$AppClassLoader@24065c4]
+[DEBUG] Configuring mojo org.codehaus.mojo:exec-maven-plugin:1.4.0:java from plugin realm ClassRealm[plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0, parent: sun.misc.Launcher$AppClassLoader@51d92803]
 [DEBUG] Configuring mojo 'org.codehaus.mojo:exec-maven-plugin:1.4.0:java' with basic configurator -->
 [DEBUG]   (f) arguments = []
 [DEBUG]   (f) classpathScope = runtime
@@ -498,17 +498,17 @@ snapshots: [enabled => false, update => daily]
 0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.011122-0-000.pbm.png/ijs.0.011122-0-000.pbm.pbm.png.hocr.html
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.011122-0-000.pbm.png/ijs.0.011122-0-000.pbm.pbm.png.hocr.hocr
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.011122-0-000.pbm.png/ijs.0.011122-0-000.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.011122-0-000.pbm.png/ijs.0.011122-0-000.pbm.pbm.png.hocr.html
-4705 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
-4723 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(7,493)>
-4726 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.19
-4726 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
-4728 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
-5289 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
-5293 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
+2995 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+3013 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(7,493)>
+3018 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.19
+3018 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+3020 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+3520 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+3523 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 12.232s
-[INFO] Finished at: Wed Aug 19 10:50:03 BST 2015
-[INFO] Final Memory: 21M/720M
+[INFO] Total time: 7.909s
+[INFO] Finished at: Wed Aug 19 14:25:38 BST 2015
+[INFO] Final Memory: 21M/721M
 [INFO] ------------------------------------------------------------------------

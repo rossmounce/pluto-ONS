@@ -2,20 +2,20 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">11 13180140014616 161.00 7000351 1904961261</otu>
-  <otu id="otu3">11 811166176 08111 444911 1130496183</otu>
-  <otu id="otu4">11 1701121 61013 337261. 1904961021</otu>
-  <otu id="otu5">11 1111102811186 0311 448771 1118450793</otu>
-  <otu id="otu6">11 68113110617818 08111 445461 11304961231</otu>
-  <otu id="otu7">11.801961781810111 123521 1604961281</otu>
-  <otu id="otu8">11 118116061 61613 498731 1904960861</otu>
-  <otu id="otu9">11 1161618116 03111 444451 1604961191</otu>
-  <otu id="otu10">11 61851611310111 133741 11304961161</otu>
-  <otu id="otu11">1. 177111617711 11781 1</otu>
-  <otu id="otu12">11 1771115117711 117467</otu>
-  <otu id="otu13">111 171111317111 11180611 15114843821</otu>
-  <otu id="otu14">1. 177111817711 11901 3</otu>
-  <otu id="otu15">11 16117716111818 10111 123541 1804960871</otu>
+  <otu id="otu2">N. blacklockiae ATCC 700035T (GO496126)</otu>
+  <otu id="otu3">N. africana DSM 44491T ((30496183)</otu>
+  <otu id="otu4">N. nova ATCC 33726T (GO496102)</otu>
+  <otu id="otu5">N. kruczakiae DSM 44877T (AB450793)</otu>
+  <otu id="otu6">N. cerradoensis DSM 44546T (GO496123)</otu>
+  <otu id="otu7">N. aobensis JCM 12352T (GO496128)</otu>
+  <otu id="otu8">N. wallaceiATCC 49873T (GO496086)</otu>
+  <otu id="otu9">N. veterana DSM 44445T (GO496119)</otu>
+  <otu id="otu10">N. elegans JCM 13874T (GO496116)</otu>
+  <otu id="otu11">N. mikamii W781 1</otu>
+  <otu id="otu12">N. mikamii W7467</otu>
+  <otu id="otu13">1N. mikamii W8061T (EU484382)</otu>
+  <otu id="otu14">N. mikamiiWQO13</otu>
+  <otu id="otu15">N. vermiculata JCM 12354T (GO496087)</otu>
  </otus>
  <trees>
   <tree id="T1">

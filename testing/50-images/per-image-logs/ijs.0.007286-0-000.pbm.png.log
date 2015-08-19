@@ -495,15 +495,20 @@ snapshots: [enabled => false, update => daily]
 [DEBUG] Adding project dependency artifact: asm to classpath
 [DEBUG] joining on thread Thread[org.xmlcml.ami2.plugins.phylotree.RunPhylo.main(),5,org.xmlcml.ami2.plugins.phylotree.RunPhylo]
 [DEBUG] Setting accessibility to true in order to invoke main().
-0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - Process failed to terminate after :60
-1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.html
+0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.html
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.hocr
-1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - failed to create: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.html or /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.hocr
-1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - cannot run tesseract
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.007286-0-000.pbm.png/ijs.0.007286-0-000.pbm.pbm.png.hocr.html
+3509 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+3517 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: < l:1_817(1,817)>
+3519 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.1
+3519 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+3520 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+4150 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+4152 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 10.099s
-[INFO] Finished at: Wed Aug 19 10:44:54 BST 2015
-[INFO] Final Memory: 15M/216M
+[INFO] Total time: 11.783s
+[INFO] Finished at: Wed Aug 19 14:21:22 BST 2015
+[INFO] Final Memory: 23M/713M
 [INFO] ------------------------------------------------------------------------

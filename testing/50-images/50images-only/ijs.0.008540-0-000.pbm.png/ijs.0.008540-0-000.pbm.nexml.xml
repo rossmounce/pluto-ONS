@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">00111009011001 0111239 1111100 41951 191111041 2471</otu>
-  <otu id="otu2">00111009011010 0591111101911091111101 11011311 030365920</otu>
-  <otu id="otu3"> 51069119 81101105 0010 100931 11-01111 589791</otu>
-  <otu id="otu4">00111009011001 99111111129013 130 1967 005199391</otu>
-  <otu id="otu5">00111009011001 3111111001 1.11118 33317 0411111 143981</otu>
-  <otu id="otu6">00171009911010 10191111961001 1.11110 33011 19114906231</otu>
-  <otu id="otu7">00111003011001 01191101191159 099931 19111114906191</otu>
-  <otu id="otu8">13390110011100.391111111 9199191 101111111 38581 0183698641</otu>
-  <otu id="otu9">95900000100361111111 1110116311115 1155 7.87 1911112094961</otu>
-  <otu id="otu10">13590009111013.901111111 59090910411100111 0006 338521 1911111804841</otu>
-  <otu id="otu11">1359000001009000111 9599008100116010 0000 460161 0411111804851</otu>
-  <otu id="otu12"> 0.5900001110090000 11119011911199 0006 495841 0911112634201</otu>
-  <otu id="otu13">83110119119 11911391159 1114081413 0306454261</otu>
+  <otu id="otu1">Ochrobactrum oryzae MTCC 4195T(AMO41247)</otu>
+  <otu id="otu2">Ochrobactrum pseudmtermedium ADV31T (D0365921)</otu>
+  <otu id="otu3"> Brucella abortus NCTC 10093T (AM158979)</otu>
+  <otu id="otu4">Ochrobactrum galllnffaecls Iso 196T (AJ519939)</otu>
+  <otu id="otu5">Ochrobactrum anthropi LMG 33.311T (AM1 14398)</otu>
+  <otu id="otu6">Ochrobactrum intermedium LMG 3301 T (AM490623)</otu>
+  <otu id="otu7">Ochrobactrum grignonense OgAQaT (AM490619)</otu>
+  <otu id="otu8">Pseudochlobactrum glaciei KMM 3858T (A8369864)</otu>
+  <otu id="otu9">Pseudochrobactrum Iubricantis KSS 7.8T (FM209496)</otu>
+  <otu id="otu10">Pseudochrobactrum saccharolyticum CCUG 33852T (AM180484)</otu>
+  <otu id="otu11">Pseudochrobactrum asaccharolyticum CCUG 46016T (AM180485)</otu>
+  <otu id="otu12"> Pseudochrobactrum kiredjianiae CCUG 49584T (AM263420)</otu>
+  <otu id="otu13">Bartonella henselae M4OSHD (D0645426)</otu>
  </otus>
  <trees>
   <tree id="T1">

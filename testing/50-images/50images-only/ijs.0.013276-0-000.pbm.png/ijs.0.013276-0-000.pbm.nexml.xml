@@ -2,35 +2,35 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">0017000706050073 3073711760711 0800 1651811080583961</otu>
-  <otu id="otu3">00170007060517073 167736 0800 1566811080583941</otu>
-  <otu id="otu4">001700717060511073 070511177053 0001. 8-24047110131 147971</otu>
-  <otu id="otu5">00170007060513073 9707976316713 0001. 8-240481 10131 147981</otu>
-  <otu id="otu6">06177107006051.1073 7703773 0001. 8-164321 10131 148021</otu>
-  <otu id="otu7">0017000706050073 0700035671575 1003-07841 1084474891</otu>
-  <otu id="otu8">06170051006013 711770771 1381171 438271 111844471</otu>
-  <otu id="otu9">76671673776773 367060700796065 0001. 8-3298110131 148041</otu>
-  <otu id="otu10">00170007060517073 7351707053 0001. 8-166971 11302006011</otu>
-  <otu id="otu11">0017000706050073 77130611575 0001. 8-240501 10131 147991</otu>
-  <otu id="otu12">33007137010707 30517377671575 0001. 1 12391 10131 148031</otu>
-  <otu id="otu13">14017000709081.7073 6112311611575 0800 1651 71 1080583951</otu>
-  <otu id="otu14">07116231717363 13119677713 01027-911321 1080200311</otu>
-  <otu id="otu15">16711263 37070003070313 11171117118 13-9581 111843211</otu>
+  <otu id="otu2">Actinokineospora auranticum NBRC 16518T (AB058396)</otu>
+  <otu id="otu3">Actinokineospora terrae NBRC 15668T (A8058394)</otu>
+  <otu id="otu4">Actinokineospora diospyrosa NRRL B-24O47T (AF1 14797)</otu>
+  <otu id="otu5">Actinokineospora globicatena NRRL B-24O48T (AF1 14798)</otu>
+  <otu id="otu6">Actinokineospora riparia NRRL B-16432T (AF1 14802)</otu>
+  <otu id="otu7">Actinokineospora cibodasensis lD03-0784T (AB447489)</otu>
+  <otu id="otu8">Actinosynnema mirum DSM 43827T (X84447)</otu>
+  <otu id="otu9">Lechevalieria aerocolonigenes NRRL 8-3298T (AF1 14804)</otu>
+  <otu id="otu10">Actinokineospora fastidiosa NRRL B-16697T (GO200601)</otu>
+  <otu id="otu11">Actinokineospora inagensis NRRL B-24050T (AF1 14799)</otu>
+  <otu id="otu12">Saccharothrix australiensis NRRL 1 1239T (AF1 14803)</otu>
+  <otu id="otu13">Actinokineospora enzanensis NBRC 1651 7T (AB058395)</otu>
+  <otu id="otu14">Umezawaea tangerina MK2 7-91 F2T (ABO20031)</otu>
+  <otu id="otu15">Lentzea albidocapillata IMMIB D-958T (X84321)</otu>
  </otus>
  <trees>
   <tree id="T1">
    <node id="NT1.1" label="NT1.1" x="1.0" y="531.0" otu="otu1" root="true"/>
    <node id="NT1.2" label="NT1.2" x="115.0" y="423.0"/>
    <node id="NT1.3" label="NT1.3" x="151.0" y="337.0"/>
-   <node id="NT1.4" x="175.0" y="508.0" label="91"/>
+   <node id="NT1.4" x="175.0" y="508.0" label="g1"/>
    <node id="NT1.5" label="NT1.5" x="186.0" y="264.0"/>
    <node id="NT1.6" label="NT1.6" x="192.0" y="212.0"/>
-   <node id="NT1.7" x="193.0" y="551.0" label="441"/>
+   <node id="NT1.7" x="193.0" y="551.0" label="44w"/>
    <node id="NT1.8" label="NT1.8" x="198.0" y="317.0"/>
    <node id="NT1.9" label="NT1.9" x="206.0" y="465.0"/>
    <node id="NT1.10" label="NT1.10" x="210.0" y="346.0"/>
    <node id="NT1.11" x="217.0" y="581.0" label="591"/>
-   <node id="NT1.12" x="222.0" y="173.0" label="70"/>
+   <node id="NT1.12" x="222.0" y="173.0" label="7O"/>
    <node id="NT1.13" label="NT1.13" x="232.0" y="136.0"/>
    <node id="NT1.14" x="265.0" y="35.0" label="841"/>
    <node id="NT1.15" label="NT1.15" x="290.0" y="210.0" otu="otu2"/>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">1109656116 18611901616 81.001970611880213851</otu>
-  <otu id="otu2">886880981868818816 3118113116 313-51 05136266921</otu>
-  <otu id="otu3"/>
-  <otu id="otu4"> 38101808661618.1117 31181311866 138884-11 0113440561</otu>
-  <otu id="otu5">16111380161 8089808968313 081111 149851 051133890851</otu>
-  <otu id="otu6">141711116166 186981130811 1.11116 2305470300181171</otu>
-  <otu id="otu7">60106171021116 18081113 54130311 1811112954911</otu>
-  <otu id="otu8">1109636113 86111161116 138-281 15136266911</otu>
-  <otu id="otu9">88865811111818 561868518111 13944 08807451 81</otu>
-  <otu id="otu10">1109636116 130115 68131 0502879271</otu>
-  <otu id="otu11">68103100801611.0177 2181131161181 06-81318-111801097341</otu>
-  <otu id="otu12">14101011118816 86108681111116685 861.121 01893331</otu>
-  <otu id="otu13">13.968110116818080865 8608518896831513671816500271</otu>
+  <otu id="otu1">Vogesella indigofera ATCC19706T(AB021385)</otu>
+  <otu id="otu2">Pseudogulbenkiania subflava BP-5T (EF626692)</otu>
+  <otu id="otu3"> Chromobacterium violaceum ATCC 1 2472T (M2251 O)</otu>
+  <otu id="otu4"> Chromobacterium subtsugae PRAA4-1T (AY344056)</otu>
+  <otu id="otu5">Laribacter hongkongensis DSM 14985T (AF389085)</otu>
+  <otu id="otu6">Aquitalea magnusonii LMG 23054T(DOO18117)</otu>
+  <otu id="otu7">Gulbenkfania mobilis E4FCS1T (AM295491)</otu>
+  <otu id="otu8">Vogesella perlucida DS-28T (EF626691)</otu>
+  <otu id="otu9">Aquaspirillum serpens IAM 13944 (ABO7451 8)</otu>
+  <otu id="otu10">Vogesella Iacus GR13T (EU287927)</otu>
+  <otu id="otu11">Chromobacterium aquaticum CC-SEYA-1T(EU109734)</otu>
+  <otu id="otu12">Microvirgula aerodenitrificans SGLY2T (U89333)</otu>
+  <otu id="otu13">Pseudoxanthomonas kaohsiungensis J36T (AY650027)</otu>
  </otus>
  <trees>
   <tree id="T1">

@@ -2,11 +2,11 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">46121009 6 1771 170041 015 101 030771</otu>
-  <otu id="otu3">5116 1 1 461 3362219</otu>
-  <otu id="otu4">461 51009 21 3017115 0 1.00 35905 0330770</otu>
-  <otu id="otu5">166101780 81 866171 10 8 86217 0040669</otu>
-  <otu id="otu6">40 1 7 7 11177 0043113 7 0 1-06 334637 03807719</otu>
+  <otu id="otu2">Acidocella aminolytica 101 T (D30771)</otu>
+  <otu id="otu3">Strain AL46T (AB362219)</otu>
+  <otu id="otu4">Acidocella facilis ATCC 35904T (D30774)</otu>
+  <otu id="otu5">Acetobacteraceti NCIB 8621 T (X74066)</otu>
+  <otu id="otu6">Acidiphilium cryptum ATCC 33463T (D80778)</otu>
  </otus>
  <trees>
   <tree id="T1">

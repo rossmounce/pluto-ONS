@@ -498,19 +498,19 @@ snapshots: [enabled => false, update => daily]
 0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.009639-0-003.pbm.png/ijs.0.009639-0-003.pbm.pbm.png.hocr.html
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.009639-0-003.pbm.png/ijs.0.009639-0-003.pbm.pbm.png.hocr.hocr
 1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.009639-0-003.pbm.png/ijs.0.009639-0-003.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.009639-0-003.pbm.png/ijs.0.009639-0-003.pbm.pbm.png.hocr.html
-3780 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
-3803 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(4,409)>
-3807 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.21
-3807 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
-3809 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
-3904 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] WARN  org.xmlcml.graphics.svg.text.SVGWordLine  - Unordered wordlist from Tesseract: [99999111591 10113-4((1274.0,124.0))] => [1  0423((1274.0,33.0))]
-3905 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] WARN  org.xmlcml.graphics.svg.text.SVGWordLine  - Unordered wordlist from Tesseract: [99999111591 10113-4((1274.0,124.0))] => [1  0423((1274.0,33.0))]
-4296 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
-4299 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
+2467 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+2492 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: <(4,409)>
+2498 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.21
+2498 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+2500 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+2627 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] WARN  org.xmlcml.graphics.svg.text.SVGWordLine  - Unordered wordlist from Tesseract: [aeaaewseldouaj((1274.0,115.0))] => [Kuwed((1274.0,33.0))]
+2630 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] WARN  org.xmlcml.graphics.svg.text.SVGWordLine  - Unordered wordlist from Tesseract: [aeaaewseldouaj((1274.0,115.0))] => [Kuwed((1274.0,33.0))]
+3253 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+3256 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 12.149s
-[INFO] Finished at: Wed Aug 19 10:48:43 BST 2015
-[INFO] Final Memory: 21M/712M
+[INFO] Total time: 9.208s
+[INFO] Finished at: Wed Aug 19 14:24:26 BST 2015
+[INFO] Final Memory: 20M/724M
 [INFO] ------------------------------------------------------------------------

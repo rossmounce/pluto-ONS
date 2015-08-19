@@ -2,12 +2,12 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">11 11517317917315 118 4.1860111113331151</otu>
-  <otu id="otu3">11 011130199019106 1316271 1151132828891</otu>
-  <otu id="otu4">1. 1.139111101213311911313 08111 442901 11134300421</otu>
-  <otu id="otu5">11 11013 113111 102657 115181627901</otu>
-  <otu id="otu6">11 1219110613113 0811 430241 11134300401</otu>
-  <otu id="otu7">11 1711817611518 04-51951 1004626501</otu>
+  <otu id="otu2">N. Xishanensis AS 4.1860T(AY333115)</otu>
+  <otu id="otu3">N. cyriacigeorgica D1627T (AF282889)</otu>
+  <otu id="otu4">N. pseudobrasiliensis DSM 44290T (AF430042)</otu>
+  <otu id="otu5">N. nova IFM 102657(AB162790)</otu>
+  <otu id="otu6">N. brevicatena DSM 43024T (AF430040)</otu>
+  <otu id="otu7">N. jinanensis 04-5195T (DQ462650)</otu>
  </otus>
  <trees>
   <tree id="T1">

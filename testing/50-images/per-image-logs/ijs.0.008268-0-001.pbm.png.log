@@ -369,7 +369,7 @@ OS name: "linux", version: "3.19.0-25-generic", arch: "amd64", family: "unix"
 [DEBUG]   Excluded: org.apache.maven:maven-monitor:jar:2.2.1
 [DEBUG]   Excluded: classworlds:classworlds:jar:1.1
 [DEBUG]   Excluded: org.apache.maven:maven-plugin-api:jar:2.2.1
-[DEBUG] Configuring mojo org.codehaus.mojo:exec-maven-plugin:1.4.0:java from plugin realm ClassRealm[plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0, parent: sun.misc.Launcher$AppClassLoader@30c3bb57]
+[DEBUG] Configuring mojo org.codehaus.mojo:exec-maven-plugin:1.4.0:java from plugin realm ClassRealm[plugin>org.codehaus.mojo:exec-maven-plugin:1.4.0, parent: sun.misc.Launcher$AppClassLoader@24065c4]
 [DEBUG] Configuring mojo 'org.codehaus.mojo:exec-maven-plugin:1.4.0:java' with basic configurator -->
 [DEBUG]   (f) arguments = []
 [DEBUG]   (f) classpathScope = runtime
@@ -495,15 +495,20 @@ snapshots: [enabled => false, update => daily]
 [DEBUG] Adding project dependency artifact: asm to classpath
 [DEBUG] joining on thread Thread[org.xmlcml.ami2.plugins.phylotree.RunPhylo.main(),5,org.xmlcml.ami2.plugins.phylotree.RunPhylo]
 [DEBUG] Setting accessibility to true in order to invoke main().
-0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - Process failed to terminate after :60
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.html
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.hocr
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - failed to create: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.html or /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.hocr
-2    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - cannot run tesseract
+0    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating HTML output: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.html
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - creating hocr.hocr name: /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.hocr
+1    [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.norma.image.ocr.ImageToHOCRConverter  - copying /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.hocr to /home/ross/workspace/clean/ami-plugin/50-output/./50images-only/ijs.0.008268-0-001.pbm.png/ijs.0.008268-0-001.pbm.pbm.png.hocr.html
+4286 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.diagrams.DiagramAnalyzer  - analyzing first graph only
+4308 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - set rootPixelNode: < l:0_890(0,890)>
+4312 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - ROOT TRUE NT1.1
+4314 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.nexml.NexmlFactory  - addEdges
+4316 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - created nexml
+5764 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] DEBUG org.xmlcml.ami2.plugins.phylotree.PhyloTreeArgProcessor  - mergedOCR and tree
+5772 [org.xmlcml.ami2.plugins.phylotree.RunPhylo.main()] ERROR org.xmlcml.ami2.plugins.phylotree.nexml.NexmlTree  - No root Node ... looking 
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 9.953s
-[INFO] Finished at: Wed Aug 19 10:46:08 BST 2015
-[INFO] Final Memory: 16M/215M
+[INFO] Total time: 12.860s
+[INFO] Finished at: Wed Aug 19 14:22:44 BST 2015
+[INFO] Final Memory: 21M/714M
 [INFO] ------------------------------------------------------------------------

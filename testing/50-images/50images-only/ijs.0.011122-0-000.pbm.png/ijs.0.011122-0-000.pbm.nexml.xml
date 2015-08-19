@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">83001131013030.33013 113101711113 13811 4441 11 0112784971</otu>
-  <otu id="otu2">13131153119113 31111119311515 111111 906361 0114449941</otu>
-  <otu id="otu3"> 13121113616113 31133 111111 900051 04134350771</otu>
-  <otu id="otu4">83603310303053013 1131133963315 0811 443911 0413063001</otu>
-  <otu id="otu5">1313115913113 113113 11111 906307 1114449931</otu>
-  <otu id="otu6">13131151518113 531511911115 11111 906251 0114449921</otu>
-  <otu id="otu7">1313115613113 5311111111115 1111 906941 0114449951</otu>
-  <otu id="otu8">1313113916113 113101111113 11111 900011 001134661901</otu>
-  <otu id="otu9">88000610171000.311018 111111118 11018 96021 12380071</otu>
-  <otu id="otu10">19.381111030031313 003103013 111118140 201 1 11 0112528251</otu>
+  <otu id="otu1">Saccharomonospora halophila DSM 4441 1T (AJ278497)</otu>
+  <otu id="otu2">Prauserella aidingensis YIM 9063GT (Fl444994)</otu>
+  <otu id="otu3"> Prauserella alba YIM 90005T (AF435077)</otu>
+  <otu id="otu4">Saccharomonospora Xinjiangensis DSM 44391T (AJ306300)</otu>
+  <otu id="otu5">Prauserella flava YIM soesoT (FJ444993)</otu>
+  <otu id="otu6">Prauserella salsuginis YIM 90625T (Fl444992)</otu>
+  <otu id="otu7">Prauserella sediminis YIM 90694T (FJ444995)</otu>
+  <otu id="otu8">Prauserella halophila YIM 90001T (AF466190)</otu>
+  <otu id="otu9">Saccharomonospora viridis NCIB 9602T (238007)</otu>
+  <otu id="otu10">Pseudonocardia compacta IMSNU 201 1 1T (AJ252825)</otu>
  </otus>
  <trees>
   <tree id="T1">

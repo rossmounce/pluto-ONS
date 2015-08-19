@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1"/>
-  <otu id="otu2">14600000007006 03631115 01800 1036780 0083645890</otu>
-  <otu id="otu3"/>
-  <otu id="otu4">14000000007003 10007009175119 101800 1036850 0083645860</otu>
-  <otu id="otu5">14001700100010013 0000000161 518020 1036880 0533645790</otu>
-  <otu id="otu6">14007700706103 1173071036 518106 146280 03854680</otu>
-  <otu id="otu7">146000081000101115 36801-66 60110401 9310 0504293220</otu>
-  <otu id="otu8">14000061007003 30301.1 01800 140990 0483645810</otu>
-  <otu id="otu9">24000021100070013 010003 018106 10363830 008364589</otu>
-  <otu id="otu10">14000030001005 0040110603 1018000 1036870 0083645880</otu>
-  <otu id="otu11">0400000001170003 00001760516 1018100 1036860 0083645840</otu>
+  <otu id="otu1">Actinoallomurus amamiensis NBRC 103682T (AB364583)</otu>
+  <otu id="otu2">Actinoallomurus caesius NBRC 103678T (A8364589)</otu>
+  <otu id="otu3">Actinoallomurus fulvus NBRC 103680T (ABSG4582)</otu>
+  <otu id="otu4">Actinoallomurus iriomotensis NBRC 103685T (A8364586)</otu>
+  <otu id="otu5">Actinoallomurus coprocola NBRC 103688T (AB364579)</otu>
+  <otu id="otu6">Actinomadura madurae NBRC 14628T (D85468)</otu>
+  <otu id="otu7">Actinoallomurus acaciae GMKU 931T (EU429322)</otu>
+  <otu id="otu8">Actinoallomurus spadix NBRC 14099T (A8364581)</otu>
+  <otu id="otu9">Actinoallomurus luridus NBRC 103683T (A8364585)</otu>
+  <otu id="otu10">Actinoallomurus purpureus NBRC 103687T (A8364588)</otu>
+  <otu id="otu11">Actinoallomurus yoronensis NBRC 103686T (A8364584)</otu>
  </otus>
  <trees>
   <tree id="T1">
@@ -23,7 +23,7 @@
    <node id="NT1.6" label="NT1.6" x="325.0" y="82.0"/>
    <node id="NT1.7" label="NT1.7" x="329.0" y="250.0"/>
    <node id="NT1.8" x="341.0" y="123.0" label="8"/>
-   <node id="NT1.9" x="362.0" y="39.0" label="97"/>
+   <node id="NT1.9" x="362.0" y="39.0" label="g7"/>
    <node id="NT1.10" label="NT1.10" x="364.0" y="60.0" otu="otu1"/>
    <node id="NT1.11" label="NT1.11" x="367.0" y="145.0" otu="otu2"/>
    <node id="NT1.12" label="NT1.12" x="369.0" y="18.0" otu="otu3"/>

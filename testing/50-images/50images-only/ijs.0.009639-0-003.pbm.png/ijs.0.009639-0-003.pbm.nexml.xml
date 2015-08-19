@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">7718 1110 31351116 30 10 7 1 111111 122-1 821 0 138637</otu>
-  <otu id="otu2">116 1110131551773 1016511111171 65311 03299213</otu>
-  <otu id="otu3">31130 1117 15 11317111115 051 1 97907 0- 5017260</otu>
-  <otu id="otu4">131-6 0 7 1115 03 11 07319 . 1 12 27 0 84901</otu>
-  <otu id="otu5"> 7 1831109 1 111101110 165 761- 1 0013 6-1897 0 3269873</otu>
-  <otu id="otu6">14012111 1351118 6141 1-0111111113115 3327 0- 907888</otu>
-  <otu id="otu7">8 33 1 .1 3062309</otu>
-  <otu id="otu8">53 0 1 5 13 1 1 111 11 7 0- 1224936</otu>
-  <otu id="otu9">136 0 3 33 21 3 61611 61 2752 7113 1 6 1 0 13145440</otu>
-  <otu id="otu10">139 0 1 9317161 3 . 1 17 0 13513710</otu>
-  <otu id="otu11">13 16 1055 6173 175 1 6 1 081 1 8007 0 1012094</otu>
+  <otu id="otu1">Thermoplasma acidophilum 122-1 B2T (M38637)</otu>
+  <otu id="otu2">Thermoplasma volcanium GSS1T (AJ299215)</otu>
+  <otu id="otu3">Picrophilus torridus DSM 9790T (AEO17261)</otu>
+  <otu id="otu4">Picrophilus oshimae KAW2l2T (X84901)</otu>
+  <otu id="otu5"> Thermogymnomonas acidicola lC-189T (AB269873)</otu>
+  <otu id="otu6">Acidiplasma cupricumulans BH2T (AY907888)</otu>
+  <otu id="otu7">Strain L1 (EF062309)</otu>
+  <otu id="otu8">Ferroplasma acidiphilum YT (AJ224936)</otu>
+  <otu id="otu9">Terroplasma acidarmanus1 fer1 (AF145441)</otu>
+  <otu id="otu10">Ferroplasma Sp. MT17 (AF513710)</otu>
+  <otu id="otu11">Methanosarcina barkeri DSM 800T (A101 2094)</otu>
  </otus>
  <trees>
   <tree id="T1">

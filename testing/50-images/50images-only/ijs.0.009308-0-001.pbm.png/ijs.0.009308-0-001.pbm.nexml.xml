@@ -2,7 +2,7 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">19861711280113 10131417166 081111 178421 1013384431</otu>
+  <otu id="otu2">Paenibacillus forsythiae DSM 17842T (DQ338443)</otu>
  </otus>
  <trees>
   <tree id="T1">

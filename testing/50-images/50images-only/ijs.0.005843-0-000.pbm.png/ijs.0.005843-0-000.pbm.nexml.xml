@@ -2,24 +2,24 @@
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
   <otu id="otu1"/>
-  <otu id="otu2">86011103 61061013171103 88411 4851 01764361</otu>
-  <otu id="otu3">86011103 61111761 1 1391 1480438581</otu>
-  <otu id="otu4">860111113 06371661101031111110115 0-1 11 1480438461</otu>
-  <otu id="otu5">86011103 1416110617313 11-11 1480438511</otu>
-  <otu id="otu6">86011103 03600610611001103 88411 87251 01764491</otu>
-  <otu id="otu7">860111113 11101011017166 4111131 81 1480868971</otu>
-  <otu id="otu8">86011105 176101101605 88111 4971 1413027091</otu>
-  <otu id="otu9">86011103 009011617313 1.8831 14137631 21</otu>
-  <otu id="otu10">83011105 11.115101111116018 36404 1484821971</otu>
-  <otu id="otu11">860111115 1110011110016 36466 1484821981</otu>
-  <otu id="otu12">86011105 11211130111111.5016 5011 1434342841</otu>
-  <otu id="otu13">861011105 0101711160513 6108541 1480476841</otu>
-  <otu id="otu14">860111113 17760166114111-411410326011</otu>
-  <otu id="otu15">86011103 1617617513 4111.821 1417935501</otu>
-  <otu id="otu16">86011103 01611811031111 871 61 01764401</otu>
-  <otu id="otu17">86011103 05171177617315 111 11 1481880901</otu>
-  <otu id="otu18">86011105 06169001617513 1341 051 1412586141</otu>
-  <otu id="otu19">860111113 91030171188411 87221 01764461</otu>
+  <otu id="otu2">Bacillus alcalophilus DSM 485T (X76436)</otu>
+  <otu id="otu3">Bacillus akibai 1 139T (ABO43858)</otu>
+  <otu id="otu4">Bacillus hemicellulosilyticus C-1 1T (ABO43846)</otu>
+  <otu id="otu5">Bacillus wakoensis N-1T (AB043851)</otu>
+  <otu id="otu6">Bacillus pseudalcaliphilus DSM 8725T (X76449)</otu>
+  <otu id="otu7">Bacillus krulwichiae AM31 DT (AB086897)</otu>
+  <otu id="otu8">Bacillus halodurans DSM 497T (AJ302709)</otu>
+  <otu id="otu9">Bacillus bogoriensis LBB3T (AY37631 2)</otu>
+  <otu id="otu10">Bacillus trypoxylicola 36AC4 (AB482197)</otu>
+  <otu id="otu11">Bacillus trypoxylicola 36AC6 (AB482198)</otu>
+  <otu id="otu12">Bacillus trypoxylicola SU1T (AB434284)</otu>
+  <otu id="otu13">Bacillus okuhidensis GTCBS4T (ABO47684)</otu>
+  <otu id="otu14">Bacillus macyae JMM-4T (AY032601)</otu>
+  <otu id="otu15">Bacillus lehensis MLB2T (AY793550)</otu>
+  <otu id="otu16">Bacillus clausii DSM 871 6T (X76440)</otu>
+  <otu id="otu17">Bacillus oshimensis K1 1T (AB188090)</otu>
+  <otu id="otu18">Bacillus patagoniensis PAT 05T (AY258614)</otu>
+  <otu id="otu19">Bacillus gibsonii DSM 8722T (X76446)</otu>
  </otus>
  <trees>
   <tree id="T1">

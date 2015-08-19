@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <otus label="RootTaxaBlock">
-  <otu id="otu1">11176177676118</otu>
-  <otu id="otu2">67707860760167.1177 770177177119 00116 5271 11 0111712618681</otu>
-  <otu id="otu3">13107560177077.7171 3117731107171 11610 124831 011147486901</otu>
-  <otu id="otu4">0777139013119777717 1710116 081171 180161 0115348531</otu>
-  <otu id="otu5">071073801362371717 722111117177 08114 180151 011712328091</otu>
-  <otu id="otu6">07701530130197111777 17187381116117 101171 135541 111711591831</otu>
-  <otu id="otu7">07015601336167.1173 178176756 1.1716 240291 03132044501</otu>
-  <otu id="otu8">07707860760187.1171 11017113 1.11413 242271 05132044461</otu>
-  <otu id="otu9">51126112617710.7577 77817079086777.1363 11.00 132531 0171587761</otu>
-  <otu id="otu10">0170136030167711777 086111. 081111 1 771 07 0303367141</otu>
-  <otu id="otu11">07078801786787.1171 30117100111 1713-1-11 21 15115163521</otu>
+  <otu id="otu1">Riemerella</otu>
+  <otu id="otu2">Chryseobacterium hominis CCUG 5271 1T (AM261868)</otu>
+  <otu id="otu3">Chryseobacterium aquaticum KCTC 12483T (AM748690)</otu>
+  <otu id="otu4">Chryseobacterium molle DSM 18016T (AJ534853)</otu>
+  <otu id="otu5">Chryseobacterium pallidum DSM 18015T (AM232809)</otu>
+  <otu id="otu6">Chryseobacterium hispanicum JCM 13554T (AM159183)</otu>
+  <otu id="otu7">Chryseobacterium haifense LMG 24029T (EF204450)</otu>
+  <otu id="otu8">Chryseobacterium bovis LMG 24227T (EF204446)</otu>
+  <otu id="otu9">Elizabethkingia meningoseptica ATCC 13253T (M58776)</otu>
+  <otu id="otu10">Chryseobacterium caeni DSM 1 771 0T (DQ336714)</otu>
+  <otu id="otu11">Chryseobacterium solincola 1YB-R12T (EU516352)</otu>
  </otus>
  <trees>
   <tree id="T1">
