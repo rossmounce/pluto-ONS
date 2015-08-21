@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="5.0" cy="541.0" r="1.0"/>
+    <text stroke="none" x="5.0" y="541.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="691.0" cy="185.0" r="1.0"/>
+    <text stroke="none" x="691.0" y="185.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="726.0" cy="230.0" r="1.0"/>
+    <text stroke="none" x="726.0" y="230.0" font-size="20.0" font-family="helvetica"> M. mucogenicum ATCC 46951IAY458097</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="754.0" cy="157.0" r="1.0"/>
+    <text stroke="none" x="754.0" y="157.0" font-size="20.0" font-family="helvetica"> M. mucogenicum ATCC 46949lAY458096</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="4.0" cy="455.0" r="1.0"/>
+    <text stroke="none" x="4.0" y="455.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <line stroke="black" x1="726.0" y1="230.0" x2="691.0" y2="185.0" stroke-width="0.5"/>
+   <line stroke="black" x1="754.0" y1="157.0" x2="691.0" y2="185.0" stroke-width="0.5"/>
+   <line stroke="black" x1="4.0" y1="455.0" x2="5.0" y2="541.0" stroke-width="0.5"/>
+   <line stroke="black" x1="691.0" y1="185.0" x2="4.0" y2="455.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

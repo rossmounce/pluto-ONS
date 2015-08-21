@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="0.0" cy="162.0" r="1.0"/>
+    <text stroke="none" x="0.0" y="162.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="56.0" cy="245.0" r="1.0"/>
+    <text stroke="none" x="56.0" y="245.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="66.0" cy="81.0" r="1.0"/>
+    <text stroke="none" x="66.0" y="81.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="130.0" cy="216.0" r="1.0"/>
+    <text stroke="none" x="130.0" y="216.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="233.0" cy="30.0" r="1.0"/>
+    <text stroke="none" x="233.0" y="30.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="234.0" cy="10.0" r="1.0"/>
+    <text stroke="none" x="234.0" y="10.0" font-size="20.0" font-family="helvetica">Metschnikowia Sp. SUB 04-307.1 (DQ266430)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="236.0" cy="49.0" r="1.0"/>
+    <text stroke="none" x="236.0" y="49.0" font-size="20.0" font-family="helvetica">M. aberdeeniae SUB 05213.1T (D0266429)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="265.0" cy="197.0" r="1.0"/>
+    <text stroke="none" x="265.0" y="197.0" font-size="20.0" font-family="helvetica">M. colocasiae UWOPS 03-1342T (EU143309)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="268.0" cy="235.0" r="1.0"/>
+    <text stroke="none" x="268.0" y="235.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="288.0" cy="273.0" r="1.0"/>
+    <text stroke="none" x="288.0" y="273.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="299.0" cy="132.0" r="1.0"/>
+    <text stroke="none" x="299.0" y="132.0" font-size="10.0" font-family="helvetica">NT1.11</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="300.0" cy="85.0" r="1.0"/>
+    <text stroke="none" x="300.0" y="85.0" font-size="20.0" font-family="helvetica">M. shivogae UWOPS 07-204.1 (EU220026)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="301.0" cy="123.0" r="1.0"/>
+    <text stroke="none" x="301.0" y="123.0" font-size="10.0" font-family="helvetica">NT1.13</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="303.0" cy="159.0" r="1.0"/>
+    <text stroke="none" x="303.0" y="159.0" font-size="20.0" font-family="helvetica">M. shivogae SUB 04-310.1T (D0266431)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="304.0" cy="123.0" r="1.0"/>
+    <text stroke="none" x="304.0" y="123.0" font-size="20.0" font-family="helvetica">M. shivogae UWOPS 07-2032 (EU220027)</text>
+   </g>
+   <line stroke="black" x1="234.0" y1="10.0" x2="233.0" y2="30.0" stroke-width="0.5"/>
+   <line stroke="black" x1="304.0" y1="123.0" x2="301.0" y2="123.0" stroke-width="0.5"/>
+   <line stroke="black" x1="300.0" y1="85.0" x2="301.0" y2="123.0" stroke-width="0.5"/>
+   <line stroke="black" x1="0.0" y1="162.0" x2="66.0" y2="81.0" stroke-width="0.5"/>
+   <line stroke="black" x1="265.0" y1="197.0" x2="130.0" y2="216.0" stroke-width="0.5"/>
+   <line stroke="black" x1="268.0" y1="235.0" x2="130.0" y2="216.0" stroke-width="0.5"/>
+   <line stroke="black" x1="288.0" y1="273.0" x2="56.0" y2="245.0" stroke-width="0.5"/>
+   <line stroke="black" x1="233.0" y1="30.0" x2="66.0" y2="81.0" stroke-width="0.5"/>
+   <line stroke="black" x1="233.0" y1="30.0" x2="236.0" y2="49.0" stroke-width="0.5"/>
+   <line stroke="black" x1="66.0" y1="81.0" x2="299.0" y2="132.0" stroke-width="0.5"/>
+   <line stroke="black" x1="66.0" y1="81.0" x2="56.0" y2="245.0" stroke-width="0.5"/>
+   <line stroke="black" x1="299.0" y1="132.0" x2="301.0" y2="123.0" stroke-width="0.5"/>
+   <line stroke="black" x1="56.0" y1="245.0" x2="130.0" y2="216.0" stroke-width="0.5"/>
+   <line stroke="black" x1="303.0" y1="159.0" x2="299.0" y2="132.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

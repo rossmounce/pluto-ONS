@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"> K. sandramycini KACC 20249T (AY253864)</otu>
+  <otu id="otu4"> K. flavida KACC 20148T (AY253863)</otu>
+  <otu id="otu5">KK. ginsengisoli Gsoil 001 (AB245391)</otu>
+  <otu id="otu6">K. karoonensis Q41T (AY995146)</otu>
+  <otu id="otu7">K. alba YIM 319757(AY08262)</otu>
+  <otu id="otu8">K. solani DSA1T (AY253862)</otu>
+  <otu id="otu9">K. koreensis KACC 20250T (AY253865)</otu>
+  <otu id="otu10">K. antibiotica YIM 31530T (A3082063)</otu>
+  <otu id="otu11">K. lupini LU14T(AJ811962)</otu>
+  <otu id="otu12">K. yunnanensis YIM 30006T (AY082061)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="0.0" y="294.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="25.0" y="294.0"/>
+   <node id="NT1.3" label="NT1.3" x="51.0" y="404.0"/>
+   <node id="NT1.4" label="NT1.4" x="58.0" y="193.0"/>
+   <node id="NT1.5" label="NT1.5" x="62.0" y="484.0"/>
+   <node id="NT1.6" label="NT1.6" x="76.0" y="568.0"/>
+   <node id="NT1.7" label="NT1.7" x="80.0" y="336.0"/>
+   <node id="NT1.8" label="NT1.8" x="83.0" y="149.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="84.0" y="613.0"/>
+   <node id="NT1.10" label="NT1.10" x="91.0" y="525.0"/>
+   <node id="NT1.11" label="NT1.11" x="103.0" y="431.0"/>
+   <node id="NT1.12" label="NT1.12" x="125.0" y="302.0"/>
+   <node id="NT1.13" label="NT1.13" x="157.0" y="324.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="172.0" y="590.0" otu="otu4"/>
+   <node id="NT1.15" label="NT1.15" x="179.0" y="412.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="187.0" y="502.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="194.0" y="636.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="217.0" y="235.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="223.0" y="457.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="228.0" y="368.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="244.0" y="547.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="300.0" y="279.0" otu="otu12"/>
+   <edge source="NT1.8" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.18" target="NT1.4"/>
+   <edge source="NT1.15" target="NT1.11"/>
+   <edge source="NT1.20" target="NT1.7"/>
+   <edge source="NT1.19" target="NT1.11"/>
+   <edge source="NT1.14" target="NT1.9"/>
+   <edge source="NT1.16" target="NT1.10"/>
+   <edge source="NT1.17" target="NT1.9"/>
+   <edge source="NT1.22" target="NT1.12"/>
+   <edge source="NT1.21" target="NT1.10"/>
+   <edge source="NT1.4" target="NT1.2"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.7"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.5" target="NT1.11"/>
+   <edge source="NT1.7" target="NT1.12"/>
+   <edge source="NT1.6" target="NT1.9"/>
+   <edge source="NT1.6" target="NT1.10"/>
+   <edge source="NT1.13" target="NT1.12"/>
+  </tree>
+ </trees>
+</nexml>

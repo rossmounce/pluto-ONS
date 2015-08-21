@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Beijerinckia indica ATCC 9039T (M59060)</otu>
+  <otu id="otu3">Chelatococcus asaccharovorans TE2T (AJ294349)</otu>
+  <otu id="otu4">Methylocella palustris KT (Y17144)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="3.0" y="440.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="296.0" y="414.0"/>
+   <node id="NT1.3" label="NT1.3" x="377.0" y="322.0"/>
+   <node id="NT1.4" label="NT1.4" x="434.0" y="297.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="440.0" y="438.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="463.0" y="345.0" otu="otu4"/>
+   <edge source="NT1.6" target="NT1.3"/>
+   <edge source="NT1.5" target="NT1.2"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.3"/>
+  </tree>
+ </trees>
+</nexml>

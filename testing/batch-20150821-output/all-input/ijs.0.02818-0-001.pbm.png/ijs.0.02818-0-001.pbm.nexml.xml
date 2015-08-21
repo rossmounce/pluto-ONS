@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Enterococcus faecalis LMG 7937T (AJ301831)</otu>
+  <otu id="otu2">Streptococcus iniae ATCC 29178T (AF335572)</otu>
+  <otu id="otu3">Streptococcus gallinaceus CCUG 42692T (AJ307888)</otu>
+  <otu id="otu4">Streptococcus minor LMG 21734T (AY232832)</otu>
+  <otu id="otu5"/>
+  <otu id="otu6">Streptococcus suis NCTC 10234T (AF009477)</otu>
+  <otu id="otu7">Streptococcus ovis CCUG 39485T (Y17358)</otu>
+  <otu id="otu8">Streptococcus entericus CECT 5353T (AJ409287)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="105.0" y="298.0"/>
+   <node id="NT1.2" label="NT1.2" x="107.0" y="475.0" otu="otu1"/>
+   <node id="NT1.3" x="224.0" y="142.0" label="91"/>
+   <node id="NT1.4" label="NT1.4" x="230.0" y="310.0"/>
+   <node id="NT1.5" x="234.0" y="71.0" label="59"/>
+   <node id="NT1.6" label="NT1.6" x="241.0" y="129.0"/>
+   <node id="NT1.7" label="NT1.7" x="255.0" y="409.0" otu="otu2"/>
+   <node id="NT1.8" label="NT1.8" x="268.0" y="180.0"/>
+   <node id="NT1.9" label="NT1.9" x="279.0" y="346.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="290.0" y="213.0" otu="otu4"/>
+   <node id="NT1.11" label="NT1.11" x="292.0" y="145.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="293.0" y="279.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="325.0" y="78.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="332.0" y="13.0" otu="otu8"/>
+   <node id="NT1.15" label="NT1.15" x="14.0" y="298.0" root="true"/>
+   <edge source="NT1.14" target="NT1.5"/>
+   <edge source="NT1.10" target="NT1.8"/>
+   <edge source="NT1.13" target="NT1.6"/>
+   <edge source="NT1.9" target="NT1.4"/>
+   <edge source="NT1.12" target="NT1.4"/>
+   <edge source="NT1.7" target="NT1.1"/>
+   <edge source="NT1.5" target="NT1.3"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.1"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.6" target="NT1.8"/>
+   <edge source="NT1.8" target="NT1.11"/>
+   <edge source="NT1.15" target="NT1.1"/>
+   <edge source="NT1.2" target="NT1.15"/>
+  </tree>
+ </trees>
+</nexml>

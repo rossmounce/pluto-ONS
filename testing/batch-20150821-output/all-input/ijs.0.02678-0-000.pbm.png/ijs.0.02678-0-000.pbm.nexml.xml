@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Bacillus pseudofirmus DSM 8715T (X76439)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4">Bacillus hwajinpoensis SW-72T (AF541966)</otu>
+  <otu id="otu5"/>
+  <otu id="otu6"/>
+  <otu id="otu7"/>
+  <otu id="otu8"/>
+  <otu id="otu9">Bacillus krulwichiae NCIMB 13904T (A8086897)</otu>
+  <otu id="otu10">Bacillus okuhldensis JCM 10945T (ABO47684)</otu>
+  <otu id="otu11">BaCIllus clausu DSM 8716T (X76440)</otu>
+  <otu id="otu12">Bacillus vedderi DSM 9768T (248306)</otu>
+  <otu id="otu13">Bacillus agaradhaerens DSM 8721T (X76445)</otu>
+  <otu id="otu14"/>
+  <otu id="otu15">Bacillus horikoshii DSM 8719T (X76443)</otu>
+  <otu id="otu16"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="33.0" y="615.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="55.0" y="615.0"/>
+   <node id="NT1.3" x="72.0" y="463.0" label="502"/>
+   <node id="NT1.4" label="NT1.4" x="94.0" y="330.0"/>
+   <node id="NT1.5" x="101.0" y="597.0" label="709"/>
+   <node id="NT1.6" label="NT1.6" x="106.0" y="230.0"/>
+   <node id="NT1.7" label="NT1.7" x="112.0" y="157.0"/>
+   <node id="NT1.8" label="NT1.8" x="134.0" y="95.0"/>
+   <node id="NT1.9" label="NT1.9" x="148.0" y="429.0"/>
+   <node id="NT1.10" x="187.0" y="764.0" label="100"/>
+   <node id="NT1.11" label="NT1.11" x="193.0" y="53.0"/>
+   <node id="NT1.12" label="NT1.12" x="214.0" y="303.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="214.0" y="723.0"/>
+   <node id="NT1.14" x="242.0" y="555.0" label="100"/>
+   <node id="NT1.15" label="NT1.15" x="247.0" y="25.0" otu="otu3"/>
+   <node id="NT1.16" x="252.0" y="219.0" label="100"/>
+   <node id="NT1.17" label="NT1.17" x="253.0" y="526.0" otu="otu4"/>
+   <node id="NT1.18" label="NT1.18" x="254.0" y="584.0" otu="otu5"/>
+   <node id="NT1.19" label="NT1.19" x="256.0" y="191.0" otu="otu6"/>
+   <node id="NT1.20" label="NT1.20" x="260.0" y="81.0" otu="otu7"/>
+   <node id="NT1.21" label="NT1.21" x="268.0" y="638.0" otu="otu8"/>
+   <node id="NT1.22" label="NT1.22" x="284.0" y="136.0" otu="otu9"/>
+   <node id="NT1.23" label="NT1.23" x="284.0" y="248.0" otu="otu10"/>
+   <node id="NT1.24" label="NT1.24" x="304.0" y="470.0" otu="otu11"/>
+   <node id="NT1.25" label="NT1.25" x="320.0" y="805.0" otu="otu12"/>
+   <node id="NT1.26" label="NT1.26" x="323.0" y="694.0" otu="otu13"/>
+   <node id="NT1.27" label="NT1.27" x="327.0" y="749.0" otu="otu14"/>
+   <node id="NT1.28" x="333.0" y="387.0" label="100"/>
+   <node id="NT1.29" label="NT1.29" x="334.0" y="358.0" otu="otu15"/>
+   <node id="NT1.30" label="NT1.30" x="335.0" y="415.0" otu="otu16"/>
+   <edge source="NT1.15" target="NT1.11"/>
+   <edge source="NT1.22" target="NT1.8"/>
+   <edge source="NT1.19" target="NT1.16"/>
+   <edge source="NT1.12" target="NT1.6"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.24" target="NT1.9"/>
+   <edge source="NT1.30" target="NT1.28"/>
+   <edge source="NT1.29" target="NT1.28"/>
+   <edge source="NT1.17" target="NT1.14"/>
+   <edge source="NT1.18" target="NT1.14"/>
+   <edge source="NT1.27" target="NT1.13"/>
+   <edge source="NT1.8" target="NT1.7"/>
+   <edge source="NT1.7" target="NT1.6"/>
+   <edge source="NT1.4" target="NT1.9"/>
+   <edge source="NT1.9" target="NT1.28"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.5"/>
+   <edge source="NT1.2" target="NT1.10"/>
+   <edge source="NT1.10" target="NT1.13"/>
+   <edge source="NT1.4" target="NT1.3"/>
+   <edge source="NT1.6" target="NT1.4"/>
+   <edge source="NT1.5" target="NT1.14"/>
+   <edge source="NT1.7" target="NT1.16"/>
+   <edge source="NT1.11" target="NT1.8"/>
+   <edge source="NT1.20" target="NT1.11"/>
+   <edge source="NT1.21" target="NT1.5"/>
+   <edge source="NT1.23" target="NT1.16"/>
+   <edge source="NT1.25" target="NT1.10"/>
+   <edge source="NT1.26" target="NT1.13"/>
+  </tree>
+ </trees>
+</nexml>

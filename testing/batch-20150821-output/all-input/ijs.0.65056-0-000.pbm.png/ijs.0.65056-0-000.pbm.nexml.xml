@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Catenulispora rubra Aac-30T (AB180773)</otu>
+  <otu id="otu5">Catenulispora acidiphila ID139908T (AJ865857)</otu>
+  <otu id="otu6">Actinospica robiniae GE134769T (AJ865863)</otu>
+  <otu id="otu7">Actinospica acidiphila GE134766T (AJ865861)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="3.0" y="298.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="9.0" y="310.0" otu="otu2"/>
+   <node id="NT1.3" label="NT1.3" x="9.0" y="299.0"/>
+   <node id="NT1.4" label="NT1.4" x="11.0" y="297.0"/>
+   <node id="NT1.5" label="NT1.5" x="15.0" y="298.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="59.0" y="162.0"/>
+   <node id="NT1.7" label="NT1.7" x="252.0" y="109.0"/>
+   <node id="NT1.8" label="NT1.8" x="307.0" y="140.0" otu="otu4"/>
+   <node id="NT1.9" label="NT1.9" x="336.0" y="76.0" otu="otu5"/>
+   <node id="NT1.10" label="NT1.10" x="339.0" y="236.0"/>
+   <node id="NT1.11" label="NT1.11" x="408.0" y="270.0" otu="otu6"/>
+   <node id="NT1.12" label="NT1.12" x="416.0" y="204.0" otu="otu7"/>
+   <edge source="NT1.8" target="NT1.7"/>
+   <edge source="NT1.5" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.3"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.11" target="NT1.10"/>
+   <edge source="NT1.7" target="NT1.6"/>
+   <edge source="NT1.6" target="NT1.10"/>
+   <edge source="NT1.6" target="NT1.4"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.9" target="NT1.7"/>
+   <edge source="NT1.12" target="NT1.10"/>
+  </tree>
+ </trees>
+</nexml>

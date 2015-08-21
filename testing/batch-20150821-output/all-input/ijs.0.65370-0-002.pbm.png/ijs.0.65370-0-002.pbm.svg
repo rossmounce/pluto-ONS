@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="4.0" cy="88.0" r="1.0"/>
+    <text stroke="none" x="4.0" y="88.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="39.0" cy="243.0" r="1.0"/>
+    <text stroke="none" x="39.0" y="243.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="76.0" cy="342.0" r="1.0"/>
+    <text stroke="none" x="76.0" y="342.0" font-size="20.0" font-family="helvetica">84</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="78.0" cy="403.0" r="1.0"/>
+    <text stroke="none" x="78.0" y="403.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="78.0" cy="273.0" r="1.0"/>
+    <text stroke="none" x="78.0" y="273.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="78.0" cy="236.0" r="1.0"/>
+    <text stroke="none" x="78.0" y="236.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="113.0" cy="330.0" r="1.0"/>
+    <text stroke="none" x="113.0" y="330.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="113.0" cy="486.0" r="1.0"/>
+    <text stroke="none" x="113.0" y="486.0" font-size="20.0" font-family="helvetica">91</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="149.0" cy="144.0" r="1.0"/>
+    <text stroke="none" x="149.0" y="144.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="149.0" cy="403.0" r="1.0"/>
+    <text stroke="none" x="149.0" y="403.0" font-size="20.0" font-family="helvetica">67</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="150.0" cy="514.0" r="1.0"/>
+    <text stroke="none" x="150.0" y="514.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="52.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="52.0" font-size="20.0" font-family="helvetica">MDR7 (FL) USA)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="88.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="88.0" font-size="20.0" font-family="helvetica">WH1 (FL) USA)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="162.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="162.0" font-size="20.0" font-family="helvetica"> SL518 (S) MED)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="125.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="125.0" font-size="20.0" font-family="helvetica"> CG101 (M) AU)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="348.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="348.0" font-size="20.0" font-family="helvetica"> ET101 (Sv AU)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="311.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="311.0" font-size="20.0" font-family="helvetica"> ET301 (3) AU)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="273.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="273.0" font-size="20.0" font-family="helvetica">SI1D (S) MED)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="423.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="423.0" font-size="20.0" font-family="helvetica"> EM17 (8) JAP)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="384.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="384.0" font-size="20.0" font-family="helvetica"> SR5 (S) MED)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="236.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="236.0" font-size="20.0" font-family="helvetica">MJ101(M)JAP)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="199.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="199.0" font-size="20.0" font-family="helvetica">ES114 (8) USA)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="459.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="459.0" font-size="20.0" font-family="helvetica"> ESP915 (8) USA)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="495.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="495.0" font-size="20.0" font-family="helvetica"> ET401 (S) AU)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="187.0" cy="533.0" r="1.0"/>
+    <text stroke="none" x="187.0" y="533.0" font-size="20.0" font-family="helvetica"> ETJB5 (8) AU)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="3.0" cy="70.0" r="1.0"/>
+    <text stroke="none" x="3.0" y="70.0" font-size="10.0" font-family="helvetica">NT1.26</text>
+   </g>
+   <line stroke="black" x1="187.0" y1="88.0" x2="4.0" y2="88.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="162.0" x2="149.0" y2="144.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="125.0" x2="149.0" y2="144.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="348.0" x2="113.0" y2="330.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="311.0" x2="113.0" y2="330.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="273.0" x2="78.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="423.0" x2="149.0" y2="403.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="384.0" x2="149.0" y2="403.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="236.0" x2="78.0" y2="236.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="199.0" x2="78.0" y2="236.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="459.0" x2="113.0" y2="486.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="495.0" x2="150.0" y2="514.0" stroke-width="0.5"/>
+   <line stroke="black" x1="187.0" y1="533.0" x2="150.0" y2="514.0" stroke-width="0.5"/>
+   <line stroke="black" x1="4.0" y1="88.0" x2="39.0" y2="243.0" stroke-width="0.5"/>
+   <line stroke="black" x1="39.0" y1="243.0" x2="76.0" y2="342.0" stroke-width="0.5"/>
+   <line stroke="black" x1="39.0" y1="243.0" x2="149.0" y2="144.0" stroke-width="0.5"/>
+   <line stroke="black" x1="76.0" y1="342.0" x2="78.0" y2="403.0" stroke-width="0.5"/>
+   <line stroke="black" x1="76.0" y1="342.0" x2="113.0" y2="330.0" stroke-width="0.5"/>
+   <line stroke="black" x1="113.0" y1="330.0" x2="78.0" y2="273.0" stroke-width="0.5"/>
+   <line stroke="black" x1="78.0" y1="403.0" x2="149.0" y2="403.0" stroke-width="0.5"/>
+   <line stroke="black" x1="78.0" y1="403.0" x2="113.0" y2="486.0" stroke-width="0.5"/>
+   <line stroke="black" x1="78.0" y1="273.0" x2="78.0" y2="236.0" stroke-width="0.5"/>
+   <line stroke="black" x1="113.0" y1="486.0" x2="150.0" y2="514.0" stroke-width="0.5"/>
+   <line stroke="black" x1="3.0" y1="70.0" x2="187.0" y2="52.0" stroke-width="0.5"/>
+   <line stroke="black" x1="3.0" y1="70.0" x2="4.0" y2="88.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

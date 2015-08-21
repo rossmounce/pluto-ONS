@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.03' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "/home/ross/workspace/clean/ami-plugin/./all-input/ijs.0.63082-0-000.pbm.png"; bbox 0 0 1775 1443; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 499 7 1619 122">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 499 7 1619 122">
+     <span class='ocr_line' id='line_1_1' title="bbox 993 7 1619 38; baseline 0 -7"><span class='ocrx_word' id='word_1_1' title='bbox 993 8 1193 38; x_wconf 83' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1203 14 1330 31; x_wconf 85' lang='eng' dir='ltr'><em>macacae</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1341 12 1411 31; x_wconf 93' lang='eng' dir='ltr'><em>NCTC</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1422 7 1505 31; x_wconf 81' lang='eng' dir='ltr'><em>11558T</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1513 12 1619 36; x_wconf 84' lang='eng' dir='ltr'><em>(X58302)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 499 92 1046 122; baseline 0 -6"><span class='ocrx_word' id='word_1_6' title='bbox 499 92 699 122; x_wconf 83' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 710 93 769 122; x_wconf 89' lang='eng' dir='ltr'><em>equi</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 778 96 852 116; x_wconf 92' lang='eng' dir='ltr'><em>NCDO</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 862 92 932 116; x_wconf 84' lang='eng' dir='ltr'><em>2493T</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 941 96 1046 121; x_wconf 84' lang='eng' dir='ltr'><em>(X58314)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 568 174 1247 205">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 568 174 1247 205">
+     <span class='ocr_line' id='line_1_3' title="bbox 568 174 1247 205; baseline 0 -7"><span class='ocrx_word' id='word_1_11' title='bbox 568 174 767 204; x_wconf 85' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 777 175 974 205; x_wconf 87' lang='eng' dir='ltr'><em>hyointestinalis</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 983 178 1038 198; x_wconf 85' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1048 174 1133 198; x_wconf 90' lang='eng' dir='ltr'><em>20770T</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1142 178 1247 203; x_wconf 88' lang='eng' dir='ltr'>(X58313)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 583 262 1636 308">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 583 262 1636 308">
+     <span class='ocr_line' id='line_1_4' title="bbox 594 262 1636 308; baseline -0.001 -22"><span class='ocrx_word' id='word_1_16' title='bbox 594 292 615 308; x_wconf 69' lang='eng'>00</span> <span class='ocrx_word' id='word_1_17' title='bbox 983 262 1182 292; x_wconf 85' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1192 263 1363 292; x_wconf 87' lang='eng' dir='ltr'><em>hyovaginalis</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1373 266 1428 286; x_wconf 89' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1439 262 1523 286; x_wconf 81' lang='eng' dir='ltr'><em>12219T</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1531 266 1636 291; x_wconf 84' lang='eng' dir='ltr'><em>(Y07601)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 583 293 589 308; baseline 0 -10"><span class='ocrx_word' id='word_1_22' title='bbox 583 293 589 308; x_wconf 64' lang='eng'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1089 347 1732 377">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1089 347 1732 377">
+     <span class='ocr_line' id='line_1_6' title="bbox 1089 347 1732 377; baseline 0 -6"><span class='ocrx_word' id='word_1_23' title='bbox 1089 347 1288 377; x_wconf 85' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 1299 348 1459 371; x_wconf 85' lang='eng' dir='ltr'><em>thoraltensis</em></span> <span class='ocrx_word' id='word_1_25' title='bbox 1469 351 1524 371; x_wconf 88' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_26' title='bbox 1536 352 1601 371; x_wconf 87' lang='eng'>12221</span> <span class='ocrx_word' id='word_1_27' title='bbox 1607 347 1619 362; x_wconf 76' lang='eng' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_28' title='bbox 1627 351 1732 376; x_wconf 84' lang='eng' dir='ltr'>(Y09007)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 413 436 1300 892">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 413 436 1300 892">
+     <span class='ocr_line' id='line_1_7' title="bbox 643 436 1272 466; baseline 0 -6"><span class='ocrx_word' id='word_1_29' title='bbox 643 436 842 466; x_wconf 87' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 853 436 952 460; x_wconf 85' lang='eng' dir='ltr'><em>urinalis</em></span> <span class='ocrx_word' id='word_1_31' title='bbox 961 440 1035 460; x_wconf 89' lang='eng' dir='ltr'><strong>CCUG</strong></span> <span class='ocrx_word' id='word_1_32' title='bbox 1046 436 1131 460; x_wconf 82' lang='eng' dir='ltr'><em>41590T</em></span> <span class='ocrx_word' id='word_1_33' title='bbox 1139 440 1272 465; x_wconf 83' lang='eng' dir='ltr'><em>(AJ131965)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 532 520 1087 551; baseline 0 -7"><span class='ocrx_word' id='word_1_34' title='bbox 532 520 731 551; x_wconf 87' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_35' title='bbox 741 521 814 544; x_wconf 82' lang='eng' dir='ltr'><em>canis</em></span> <span class='ocrx_word' id='word_1_36' title='bbox 824 525 878 544; x_wconf 88' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_37' title='bbox 888 520 974 544; x_wconf 79' lang='eng' dir='ltr'><em>20715T</em></span> <span class='ocrx_word' id='word_1_38' title='bbox 982 525 1087 549; x_wconf 84' lang='eng' dir='ltr'><em>(X59061)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 544 607 1161 638; baseline 0 -7"><span class='ocrx_word' id='word_1_39' title='bbox 544 607 743 637; x_wconf 86' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_40' title='bbox 752 614 888 638; x_wconf 88' lang='eng' dir='ltr'><em>pyogenes</em></span> <span class='ocrx_word' id='word_1_41' title='bbox 898 611 968 631; x_wconf 89' lang='eng' dir='ltr'><em>NCTC</em></span> <span class='ocrx_word' id='word_1_42' title='bbox 978 607 1048 631; x_wconf 80' lang='eng' dir='ltr'><em>8198T</em></span> <span class='ocrx_word' id='word_1_43' title='bbox 1056 611 1161 636; x_wconf 83' lang='eng' dir='ltr'><em>(X59029)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 579 691 1146 722; baseline 0 -7"><span class='ocrx_word' id='word_1_44' title='bbox 579 691 779 722; x_wconf 88' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_45' title='bbox 790 692 874 715; x_wconf 93' lang='eng' dir='ltr'><em>uberis</em></span> <span class='ocrx_word' id='word_1_46' title='bbox 883 696 949 715; x_wconf 89' lang='eng' dir='ltr'><em>ATCC</em></span> <span class='ocrx_word' id='word_1_47' title='bbox 959 697 1031 715; x_wconf 87' lang='eng'><em>27958</em></span> <span class='ocrx_word' id='word_1_48' title='bbox 1040 696 1146 720; x_wconf 87' lang='eng' dir='ltr'><em>(U41048)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 413 776 1205 825; baseline 0 -25"><span class='ocrx_word' id='word_1_49' title='bbox 413 809 434 825; x_wconf 63' lang='eng'><em>97</em></span> <span class='ocrx_word' id='word_1_50' title='bbox 616 776 815 806; x_wconf 84' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_51' title='bbox 826 777 891 800; x_wconf 86' lang='eng' dir='ltr'><em>iniae</em></span> <span class='ocrx_word' id='word_1_52' title='bbox 900 780 967 800; x_wconf 89' lang='eng' dir='ltr'><em>ATCC</em></span> <span class='ocrx_word' id='word_1_53' title='bbox 976 776 1061 800; x_wconf 78' lang='eng' dir='ltr'><em>29178T</em></span> <span class='ocrx_word' id='word_1_54' title='bbox 1070 780 1205 805; x_wconf 86' lang='eng' dir='ltr'><em>(AF335572)</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 664 862 1300 892; baseline 0 -6"><span class='ocrx_word' id='word_1_55' title='bbox 664 862 863 892; x_wconf 87' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_56' title='bbox 872 863 1022 892; x_wconf 83' lang='eng' dir='ltr'><em>parauberis</em></span> <span class='ocrx_word' id='word_1_57' title='bbox 1032 866 1107 886; x_wconf 91' lang='eng' dir='ltr'><em>NCDO</em></span> <span class='ocrx_word' id='word_1_58' title='bbox 1116 862 1186 886; x_wconf 90' lang='eng' dir='ltr'><em>2020T</em></span> <span class='ocrx_word' id='word_1_59' title='bbox 1195 866 1300 891; x_wconf 86' lang='eng' dir='ltr'><em>(X89967)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 899 950 1537 980">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 899 950 1537 980">
+     <span class='ocr_line' id='line_1_13' title="bbox 899 950 1537 980; baseline -0.002 -6"><span class='ocrx_word' id='word_1_60' title='bbox 899 950 1099 980; x_wconf 86' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_61' title='bbox 1109 951 1233 980; x_wconf 89' lang='eng' dir='ltr'><em>didelphis</em></span> <span class='ocrx_word' id='word_1_62' title='bbox 1242 954 1297 974; x_wconf 89' lang='eng' dir='ltr'><em>DSM</em></span> <span class='ocrx_word' id='word_1_63' title='bbox 1309 950 1392 974; x_wconf 71' lang='eng' dir='ltr'><em>15616T</em></span> <span class='ocrx_word' id='word_1_64' title='bbox 1401 954 1537 979; x_wconf 86' lang='eng' dir='ltr'><em>(AF176103)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 903 1027 1768 1066">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 903 1027 1768 1066">
+     <span class='ocr_line' id='line_1_14' title="bbox 903 1027 1768 1066; baseline 0 -7"><span class='ocrx_word' id='word_1_65' title='bbox 903 1035 1121 1066; x_wconf 87' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_66' title='bbox 1131 1036 1282 1059; x_wconf 83' lang='eng' dir='ltr'><em>halichoeri</em></span> <span class='ocrx_word' id='word_1_67' title='bbox 1289 1042 1332 1066; x_wconf 88' lang='eng' dir='ltr'><em>sp.</em></span> <span class='ocrx_word' id='word_1_68' title='bbox 1345 1042 1406 1059; x_wconf 94' lang='eng' dir='ltr'><em>nov.</em></span> <span class='ocrx_word' id='word_1_69' title='bbox 1418 1038 1501 1059; x_wconf 90' lang='eng' dir='ltr'><strong>CCUG</strong></span> <span class='ocrx_word' id='word_1_70' title='bbox 1512 1027 1607 1059; x_wconf 50' lang='eng' dir='ltr'><em>48324-r</em></span> <span class='ocrx_word' id='word_1_71' title='bbox 1617 1038 1768 1065; x_wconf 89' lang='eng' dir='ltr'><em>(AJ606046)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 361 1084 448 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 361 1084 448 1112">
+     <span class='ocr_line' id='line_1_15' title="bbox 361 1084 448 1112; baseline 0.011 -13"><span class='ocrx_word' id='word_1_72' title='bbox 361 1084 383 1100; x_wconf 79' lang='eng'><em>46</em></span> <span class='ocrx_word' id='word_1_73' title='bbox 427 1097 448 1112; x_wconf 72' lang='eng'>30</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 759 1121 1421 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 759 1121 1421 1152">
+     <span class='ocr_line' id='line_1_16' title="bbox 759 1121 1421 1152; baseline 0 -7"><span class='ocrx_word' id='word_1_74' title='bbox 759 1122 958 1152; x_wconf 88' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_75' title='bbox 968 1122 1143 1152; x_wconf 83' lang='eng' dir='ltr'><em>dysgalactiae</em></span> <span class='ocrx_word' id='word_1_76' title='bbox 1154 1126 1228 1145; x_wconf 90' lang='eng' dir='ltr'><em>NCDO</em></span> <span class='ocrx_word' id='word_1_77' title='bbox 1237 1121 1308 1145; x_wconf 85' lang='eng' dir='ltr'><em>2023T</em></span> <span class='ocrx_word' id='word_1_78' title='bbox 1316 1126 1421 1151; x_wconf 84' lang='eng' dir='ltr'>(X59030)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 455 1206 1485 1254">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 455 1206 1485 1254">
+     <span class='ocr_line' id='line_1_17' title="bbox 455 1206 1485 1237; baseline -0.002 -5"><span class='ocrx_word' id='word_1_79' title='bbox 455 1212 476 1227; x_wconf 78' lang='eng'><em>33</em></span> <span class='ocrx_word' id='word_1_80' title='bbox 854 1207 1054 1237; x_wconf 86' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_81' title='bbox 1062 1207 1166 1237; x_wconf 86' lang='eng' dir='ltr'><em>phocae</em></span> <span class='ocrx_word' id='word_1_82' title='bbox 1176 1211 1246 1231; x_wconf 90' lang='eng' dir='ltr'><em>NCTC</em></span> <span class='ocrx_word' id='word_1_83' title='bbox 1258 1206 1341 1231; x_wconf 86' lang='eng' dir='ltr'>12719T</span> <span class='ocrx_word' id='word_1_84' title='bbox 1350 1211 1485 1236; x_wconf 84' lang='eng' dir='ltr'>(AF235052)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 505 1238 527 1254; baseline 0 0"><span class='ocrx_word' id='word_1_85' title='bbox 505 1238 527 1254; x_wconf 81' lang='eng'><em>68</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 745 1296 1371 1327">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 745 1296 1371 1327">
+     <span class='ocr_line' id='line_1_19' title="bbox 745 1296 1371 1327; baseline 0 -7"><span class='ocrx_word' id='word_1_86' title='bbox 745 1296 944 1327; x_wconf 86' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_87' title='bbox 954 1297 1098 1327; x_wconf 84' lang='eng' dir='ltr'><em>agalactiae</em></span> <span class='ocrx_word' id='word_1_88' title='bbox 1108 1301 1178 1320; x_wconf 90' lang='eng' dir='ltr'><em>NCTC</em></span> <span class='ocrx_word' id='word_1_89' title='bbox 1188 1296 1257 1320; x_wconf 78' lang='eng' dir='ltr'>8181T</span> <span class='ocrx_word' id='word_1_90' title='bbox 1266 1301 1371 1325; x_wconf 82' lang='eng' dir='ltr'><em>(X59032)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 192 1386 1360 1416">
+    <p class='ocr_par' dir='ltr' id='par_1_12' title="bbox 192 1386 1360 1416">
+     <span class='ocr_line' id='line_1_20' title="bbox 192 1386 1360 1416; baseline 0 -6"><span class='ocrx_word' id='word_1_91' title='bbox 192 1393 233 1416; x_wconf 50' lang='eng' dir='ltr'><em>1W0</em></span> <span class='ocrx_word' id='word_1_92' title='bbox 717 1386 916 1416; x_wconf 91' lang='eng' dir='ltr'><em>Streptococcus</em></span> <span class='ocrx_word' id='word_1_93' title='bbox 924 1387 1044 1416; x_wconf 88' lang='eng' dir='ltr'><em>porcinus</em></span> <span class='ocrx_word' id='word_1_94' title='bbox 1053 1390 1120 1410; x_wconf 88' lang='eng' dir='ltr'><em>ATCC</em></span> <span class='ocrx_word' id='word_1_95' title='bbox 1129 1386 1214 1410; x_wconf 83' lang='eng' dir='ltr'><em>43138T</em></span> <span class='ocrx_word' id='word_1_96' title='bbox 1223 1390 1360 1415; x_wconf 89' lang='eng' dir='ltr'>(AB002523)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

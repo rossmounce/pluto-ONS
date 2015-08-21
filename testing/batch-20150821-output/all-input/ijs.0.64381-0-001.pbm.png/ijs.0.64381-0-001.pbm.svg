@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="3.0" cy="714.0" r="1.0"/>
+    <text stroke="none" x="3.0" y="714.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="164.0" cy="518.0" r="1.0"/>
+    <text stroke="none" x="164.0" y="518.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="196.0" cy="449.0" r="1.0"/>
+    <text stroke="none" x="196.0" y="449.0" font-size="10.0" font-family="helvetica">NT1.3</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="789.0" cy="525.0" r="1.0"/>
+    <text stroke="none" x="789.0" y="525.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1011.0" cy="364.0" r="1.0"/>
+    <text stroke="none" x="1011.0" y="364.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1013.0" cy="397.0" r="1.0"/>
+    <text stroke="none" x="1013.0" y="397.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1016.0" cy="589.0" r="1.0"/>
+    <text stroke="none" x="1016.0" y="589.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1069.0" cy="333.0" r="1.0"/>
+    <text stroke="none" x="1069.0" y="333.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <line stroke="black" x1="196.0" y1="449.0" x2="164.0" y2="518.0" stroke-width="0.5"/>
+   <line stroke="black" x1="164.0" y1="518.0" x2="3.0" y2="714.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1011.0" y1="364.0" x2="196.0" y2="449.0" stroke-width="0.5"/>
+   <line stroke="black" x1="789.0" y1="525.0" x2="196.0" y2="449.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1016.0" y1="589.0" x2="164.0" y2="518.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1013.0" y1="397.0" x2="1011.0" y2="364.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1069.0" y1="333.0" x2="1011.0" y2="364.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

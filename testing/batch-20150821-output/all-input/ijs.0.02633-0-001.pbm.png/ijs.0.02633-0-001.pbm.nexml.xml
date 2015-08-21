@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5">Saccharomonospora halophila DSM 44411T (AJQ78497)</otu>
+  <otu id="otu6">Saccharomonospora glauca DSM 43769T (Z38008)</otu>
+  <otu id="otu7">Strain YIM 90007Y (AF540959)</otu>
+  <otu id="otu8"/>
+  <otu id="otu9">Prauserella rugosa DSM 48194T (AF051342)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="106.0" y="376.0"/>
+   <node id="NT1.2" label="NT1.2" x="129.0" y="95.0"/>
+   <node id="NT1.3" label="NT1.3" x="149.0" y="143.0" otu="otu1"/>
+   <node id="NT1.4" label="NT1.4" x="152.0" y="155.0" otu="otu2"/>
+   <node id="NT1.5" label="NT1.5" x="187.0" y="147.0"/>
+   <node id="NT1.6" label="NT1.6" x="201.0" y="212.0" otu="otu3"/>
+   <node id="NT1.7" label="NT1.7" x="208.0" y="85.0" otu="otu4"/>
+   <node id="NT1.8" label="NT1.8" x="233.0" y="409.0" otu="otu5"/>
+   <node id="NT1.9" label="NT1.9" x="240.0" y="23.0" otu="otu6"/>
+   <node id="NT1.10" label="NT1.10" x="241.0" y="347.0" otu="otu7"/>
+   <node id="NT1.11" label="NT1.11" x="248.0" y="148.0" otu="otu8"/>
+   <node id="NT1.12" label="NT1.12" x="276.0" y="472.0" otu="otu9"/>
+   <node id="NT1.13" label="NT1.13" x="10.0" y="290.0" root="true"/>
+   <edge source="NT1.9" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.11" target="NT1.5"/>
+   <edge source="NT1.8" target="NT1.1"/>
+   <edge source="NT1.2" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.13" target="NT1.1"/>
+   <edge source="NT1.12" target="NT1.13"/>
+   <edge source="NT1.2" target="NT1.1"/>
+   <edge source="NT1.10" target="NT1.1"/>
+  </tree>
+ </trees>
+</nexml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Aeromicrobium erythreum NRRL B-3381T (AF005021)</otu>
+  <otu id="otu2">Nocardioides dubius KCTC 9992T (AY928902)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4"/>
+  <otu id="otu5">Nocardioidesjensenii DSM 20641T (278210)</otu>
+  <otu id="otu6">Nocardioides kribbensis KCTC 19038T (AY835924)</otu>
+  <otu id="otu7"> Nocardioides aquiterrae GW-9T (AF529063)</otu>
+  <otu id="otu8">Nocardioides alkalitolerans KCTC 19037T (AY633969)</otu>
+  <otu id="otu9">Nocardioides daphniae D287T (AM398438)</otu>
+  <otu id="otu10">Nocardioides aquaticus DSM 11439T (X94145)</otu>
+  <otu id="otu11"/>
+  <otu id="otu12">Marmoricola aurantiacus BC 361T (Y18629)</otu>
+  <otu id="otu13">Nocardioides Ientus KSL-17T (DQ121389)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="127.0" y="962.0"/>
+   <node id="NT1.2" x="148.0" y="895.0" label="49"/>
+   <node id="NT1.3" x="165.0" y="1027.0" label="66"/>
+   <node id="NT1.4" label="NT1.4" x="183.0" y="826.0"/>
+   <node id="NT1.5" x="203.0" y="727.0" label="57"/>
+   <node id="NT1.6" label="NT1.6" x="215.0" y="835.0"/>
+   <node id="NT1.7" label="NT1.7" x="233.0" y="1055.0"/>
+   <node id="NT1.8" x="238.0" y="618.0" label="48"/>
+   <node id="NT1.9" label="NT1.9" x="247.0" y="799.0"/>
+   <node id="NT1.10" label="NT1.10" x="323.0" y="1110.0" otu="otu1"/>
+   <node id="NT1.11" label="NT1.11" x="344.0" y="871.0"/>
+   <node id="NT1.12" label="NT1.12" x="349.0" y="1000.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="392.0" y="854.0" otu="otu3"/>
+   <node id="NT1.14" x="396.0" y="662.0" label="99"/>
+   <node id="NT1.15" label="NT1.15" x="397.0" y="890.0" otu="otu4"/>
+   <node id="NT1.16" label="NT1.16" x="444.0" y="1073.0" otu="otu5"/>
+   <node id="NT1.17" label="NT1.17" x="476.0" y="744.0" otu="otu6"/>
+   <node id="NT1.18" label="NT1.18" x="485.0" y="671.0" otu="otu7"/>
+   <node id="NT1.19" label="NT1.19" x="496.0" y="927.0" otu="otu8"/>
+   <node id="NT1.20" label="NT1.20" x="518.0" y="963.0" otu="otu9"/>
+   <node id="NT1.21" label="NT1.21" x="527.0" y="817.0" otu="otu10"/>
+   <node id="NT1.22" label="NT1.22" x="538.0" y="634.0" otu="otu11"/>
+   <node id="NT1.23" label="NT1.23" x="548.0" y="1036.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="694.0" y="781.0" otu="otu13"/>
+   <node id="NT1.25" label="NT1.25" x="1.0" y="1036.0" root="true"/>
+   <edge source="NT1.18" target="NT1.14"/>
+   <edge source="NT1.17" target="NT1.8"/>
+   <edge source="NT1.22" target="NT1.14"/>
+   <edge source="NT1.13" target="NT1.11"/>
+   <edge source="NT1.15" target="NT1.11"/>
+   <edge source="NT1.21" target="NT1.9"/>
+   <edge source="NT1.19" target="NT1.4"/>
+   <edge source="NT1.12" target="NT1.3"/>
+   <edge source="NT1.24" target="NT1.9"/>
+   <edge source="NT1.20" target="NT1.2"/>
+   <edge source="NT1.16" target="NT1.7"/>
+   <edge source="NT1.23" target="NT1.7"/>
+   <edge source="NT1.8" target="NT1.5"/>
+   <edge source="NT1.8" target="NT1.14"/>
+   <edge source="NT1.5" target="NT1.4"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.4" target="NT1.2"/>
+   <edge source="NT1.6" target="NT1.11"/>
+   <edge source="NT1.6" target="NT1.9"/>
+   <edge source="NT1.2" target="NT1.1"/>
+   <edge source="NT1.1" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.7"/>
+   <edge source="NT1.25" target="NT1.10"/>
+   <edge source="NT1.25" target="NT1.1"/>
+  </tree>
+ </trees>
+</nexml>

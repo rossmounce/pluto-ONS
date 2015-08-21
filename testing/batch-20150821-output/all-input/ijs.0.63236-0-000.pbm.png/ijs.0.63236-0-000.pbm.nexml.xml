@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Exiguobacterium aurantiacum NCDO 2321T (X70316)</otu>
+  <otu id="otu2"/>
+  <otu id="otu3"/>
+  <otu id="otu4">Alkalibacterium olivapovliticus WW2-SN4aT (AF14351 1)</otu>
+  <otu id="otu5">Camobacterium alterfunditum ACAM 313T (L08623)</otu>
+  <otu id="otu6">Trichococcus pasteurii KoTa2T (X87150)</otu>
+  <otu id="otu7">Desemzia incerta DSM 20581 T (Y17300)</otu>
+  <otu id="otu8"/>
+  <otu id="otu9">Dolosigranulum pigrum NCFB 2975T (X70907)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="149.0" y="461.0" otu="otu1"/>
+   <node id="NT1.2" label="NT1.2" x="149.0" y="264.0"/>
+   <node id="NT1.3" x="181.0" y="152.0" label="79"/>
+   <node id="NT1.4" label="NT1.4" x="197.0" y="376.0"/>
+   <node id="NT1.5" label="NT1.5" x="207.0" y="94.0"/>
+   <node id="NT1.6" x="226.0" y="333.0" label="95"/>
+   <node id="NT1.7" label="NT1.7" x="236.0" y="207.0"/>
+   <node id="NT1.8" label="NT1.8" x="239.0" y="38.0"/>
+   <node id="NT1.9" label="NT1.9" x="274.0" y="66.0" otu="otu2"/>
+   <node id="NT1.10" label="NT1.10" x="277.0" y="8.0" otu="otu3"/>
+   <node id="NT1.11" label="NT1.11" x="282.0" y="124.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="301.0" y="292.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="304.0" y="405.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="320.0" y="348.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="372.0" y="179.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="404.0" y="236.0" otu="otu9"/>
+   <node id="NT1.17" label="NT1.17" x="3.0" y="452.0" root="true"/>
+   <edge source="NT1.10" target="NT1.8"/>
+   <edge source="NT1.9" target="NT1.8"/>
+   <edge source="NT1.11" target="NT1.5"/>
+   <edge source="NT1.15" target="NT1.7"/>
+   <edge source="NT1.16" target="NT1.7"/>
+   <edge source="NT1.13" target="NT1.4"/>
+   <edge source="NT1.12" target="NT1.6"/>
+   <edge source="NT1.8" target="NT1.5"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.3" target="NT1.7"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.6"/>
+   <edge source="NT1.17" target="NT1.1"/>
+   <edge source="NT1.2" target="NT1.17"/>
+   <edge source="NT1.5" target="NT1.3"/>
+   <edge source="NT1.14" target="NT1.6"/>
+  </tree>
+ </trees>
+</nexml>

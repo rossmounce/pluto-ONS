@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="3.0" cy="474.0" r="1.0"/>
+    <text stroke="none" x="3.0" y="474.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="313.0" cy="319.0" r="1.0"/>
+    <text stroke="none" x="313.0" y="319.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="364.0" cy="123.0" r="1.0"/>
+    <text stroke="none" x="364.0" y="123.0" font-size="20.0" font-family="helvetica">88</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="432.0" cy="417.0" r="1.0"/>
+    <text stroke="none" x="432.0" y="417.0" font-size="20.0" font-family="helvetica">44</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="650.0" cy="489.0" r="1.0"/>
+    <text stroke="none" x="650.0" y="489.0" font-size="20.0" font-family="helvetica"> M. Wolinskyi ATCC 700010.r</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="673.0" cy="81.0" r="1.0"/>
+    <text stroke="none" x="673.0" y="81.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="691.0" cy="392.0" r="1.0"/>
+    <text stroke="none" x="691.0" y="392.0" font-size="20.0" font-family="helvetica">M. houstonense ATCC 49403T</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="730.0" cy="140.0" r="1.0"/>
+    <text stroke="none" x="730.0" y="140.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="866.0" cy="109.0" r="1.0"/>
+    <text stroke="none" x="866.0" y="109.0" font-size="20.0" font-family="helvetica">M. abscessus CIP 104536T</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="885.0" cy="77.0" r="1.0"/>
+    <text stroke="none" x="885.0" y="77.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <line stroke="black" x1="3.0" y1="474.0" x2="313.0" y2="319.0" stroke-width="0.5"/>
+   <line stroke="black" x1="650.0" y1="489.0" x2="432.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="691.0" y1="392.0" x2="432.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="673.0" y1="81.0" x2="364.0" y2="123.0" stroke-width="0.5"/>
+   <line stroke="black" x1="364.0" y1="123.0" x2="313.0" y2="319.0" stroke-width="0.5"/>
+   <line stroke="black" x1="313.0" y1="319.0" x2="432.0" y2="417.0" stroke-width="0.5"/>
+   <line stroke="black" x1="730.0" y1="140.0" x2="364.0" y2="123.0" stroke-width="0.5"/>
+   <line stroke="black" x1="866.0" y1="109.0" x2="673.0" y2="81.0" stroke-width="0.5"/>
+   <line stroke="black" x1="885.0" y1="77.0" x2="673.0" y2="81.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2"> 1A. infernus1 GY785 (X85175)</otu>
+  <otu id="otu3"> A. macleodii ATCC 27126T (X82145)</otu>
+  <otu id="otu4">A. marina SW-47 (AF529060)</otu>
+  <otu id="otu5">A. stellipolaris LMG 21861T (AJ295715)</otu>
+  <otu id="otu6">A. marina SWAQT (AF529061)</otu>
+  <otu id="otu7"> A. Iitorea JCM 12188T (AY428573)</otu>
+  <otu id="otu8">A. addita R1 OSW1 3.r (AY682202)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="14.0" y="160.0" otu="otu1" root="true"/>
+   <node id="NT1.2" x="37.0" y="160.0" label="100"/>
+   <node id="NT1.3" label="NT1.3" x="63.0" y="10.0" otu="otu2"/>
+   <node id="NT1.4" label="NT1.4" x="66.0" y="308.0"/>
+   <node id="NT1.5" x="93.0" y="163.0" label="70"/>
+   <node id="NT1.6" x="113.0" y="232.0" label="88"/>
+   <node id="NT1.7" label="NT1.7" x="135.0" y="171.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="136.0" y="292.0"/>
+   <node id="NT1.9" label="NT1.9" x="139.0" y="333.0" otu="otu4"/>
+   <node id="NT1.10" x="142.0" y="454.0" label="100"/>
+   <node id="NT1.11" label="NT1.11" x="144.0" y="414.0" otu="otu5"/>
+   <node id="NT1.12" label="NT1.12" x="144.0" y="252.0" otu="otu6"/>
+   <node id="NT1.13" label="NT1.13" x="148.0" y="91.0" otu="otu7"/>
+   <node id="NT1.14" label="NT1.14" x="157.0" y="496.0" otu="otu8"/>
+   <edge source="NT1.3" target="NT1.2"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.11" target="NT1.10"/>
+   <edge source="NT1.14" target="NT1.10"/>
+   <edge source="NT1.13" target="NT1.5"/>
+   <edge source="NT1.7" target="NT1.6"/>
+   <edge source="NT1.9" target="NT1.8"/>
+   <edge source="NT1.12" target="NT1.8"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.6"/>
+   <edge source="NT1.6" target="NT1.8"/>
+   <edge source="NT1.4" target="NT1.10"/>
+  </tree>
+ </trees>
+</nexml>

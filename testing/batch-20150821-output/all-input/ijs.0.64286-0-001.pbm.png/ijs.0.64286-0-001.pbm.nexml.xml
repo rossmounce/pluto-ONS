@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Haloterrigena turkmenica VKM 8-1734T (ABOO4878)</otu>
+  <otu id="otu2">Natrinema versiforme XF1OT (AB023426)</otu>
+  <otu id="otu3">Natronorubrum tibetense GA33T (A8005656)</otu>
+  <otu id="otu4">Natronorubrum bangense A33T (Y14028)</otu>
+  <otu id="otu5">Natrinema altunense AJ2T (AY208972)</otu>
+  <otu id="otu6">Natrialba aegyptiaca 4OT (AF251941)</otu>
+  <otu id="otu7">Natrialba asiatica 172P1T (D14123)</otu>
+  <otu id="otu8">XH-48T (AM117571)</otu>
+  <otu id="otu9"/>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="170.0" y="180.0"/>
+   <node id="NT1.2" label="NT1.2" x="175.0" y="298.0"/>
+   <node id="NT1.3" label="NT1.3" x="204.0" y="104.0"/>
+   <node id="NT1.4" label="NT1.4" x="272.0" y="260.0"/>
+   <node id="NT1.5" label="NT1.5" x="298.0" y="337.0"/>
+   <node id="NT1.6" label="NT1.6" x="391.0" y="142.0"/>
+   <node id="NT1.7" label="NT1.7" x="421.0" y="84.0" otu="otu1"/>
+   <node id="NT1.8" label="NT1.8" x="460.0" y="163.0" otu="otu2"/>
+   <node id="NT1.9" label="NT1.9" x="464.0" y="319.0" otu="otu3"/>
+   <node id="NT1.10" label="NT1.10" x="492.0" y="222.0"/>
+   <node id="NT1.11" label="NT1.11" x="506.0" y="358.0" otu="otu4"/>
+   <node id="NT1.12" label="NT1.12" x="507.0" y="123.0" otu="otu5"/>
+   <node id="NT1.13" label="NT1.13" x="534.0" y="241.0" otu="otu6"/>
+   <node id="NT1.14" label="NT1.14" x="596.0" y="202.0" otu="otu7"/>
+   <node id="NT1.15" label="NT1.15" x="649.0" y="280.0" otu="otu8"/>
+   <node id="NT1.16" label="NT1.16" x="792.0" y="27.0" otu="otu9"/>
+   <edge source="NT1.8" target="NT1.6"/>
+   <edge source="NT1.9" target="NT1.5"/>
+   <edge source="NT1.11" target="NT1.5"/>
+   <edge source="NT1.13" target="NT1.10"/>
+   <edge source="NT1.14" target="NT1.10"/>
+   <edge source="NT1.15" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.1" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.6"/>
+   <edge source="NT1.2" target="NT1.5"/>
+   <edge source="NT1.2" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.10"/>
+   <edge source="NT1.16" target="NT1.1"/>
+   <edge source="NT1.7" target="NT1.3"/>
+   <edge source="NT1.12" target="NT1.6"/>
+  </tree>
+ </trees>
+</nexml>

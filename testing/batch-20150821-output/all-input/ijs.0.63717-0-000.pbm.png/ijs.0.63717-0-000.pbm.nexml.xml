@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Deinococcus radiophilus DSM 20551T (Y11333)</otu>
+  <otu id="otu2">Deinococcus grandis DSM 3963T (Y11329)</otu>
+  <otu id="otu3"/>
+  <otu id="otu4"> Deinococcus indicus th1aT (AJ5491 11)</otu>
+  <otu id="otu5">Meiothermus ruber ATCC 35948T (215059)</otu>
+  <otu id="otu6">Deinococcus deserti VCD117 (AY876379)</otu>
+  <otu id="otu7">Deinococcus deserti VCD1 15)r (AY876378)</otu>
+  <otu id="otu8">Thermus aquaticus YT-1 (L09663)</otu>
+  <otu id="otu9">Deinococcus radiopugnans ATCC 19172T (Y1 1334)</otu>
+  <otu id="otu10">Deinococcus murrayi ALT-1bT (Y13041 )</otu>
+  <otu id="otu11"> Deinococcus radiodurans DSM 20539T (Y11332)</otu>
+  <otu id="otu12">Deinococcus geothermalis AG-BaT (Y13038)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="188.0" y="41.0"/>
+   <node id="NT1.2" label="NT1.2" x="283.0" y="484.0"/>
+   <node id="NT1.3" label="NT1.3" x="313.0" y="394.0"/>
+   <node id="NT1.4" label="NT1.4" x="330.0" y="319.0"/>
+   <node id="NT1.5" label="NT1.5" x="358.0" y="249.0"/>
+   <node id="NT1.6" label="NT1.6" x="382.0" y="469.0"/>
+   <node id="NT1.7" label="NT1.7" x="384.0" y="188.0"/>
+   <node id="NT1.8" label="NT1.8" x="387.0" y="589.0"/>
+   <node id="NT1.9" label="NT1.9" x="430.0" y="309.0"/>
+   <node id="NT1.10" label="NT1.10" x="443.0" y="148.0"/>
+   <node id="NT1.11" label="NT1.11" x="466.0" y="605.0" otu="otu1"/>
+   <node id="NT1.12" label="NT1.12" x="472.0" y="229.0" otu="otu2"/>
+   <node id="NT1.13" label="NT1.13" x="486.0" y="550.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="496.0" y="335.0" otu="otu4"/>
+   <node id="NT1.15" label="NT1.15" x="499.0" y="68.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="501.0" y="175.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="502.0" y="120.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="526.0" y="14.0" otu="otu8"/>
+   <node id="NT1.19" label="NT1.19" x="527.0" y="389.0" otu="otu9"/>
+   <node id="NT1.20" label="NT1.20" x="533.0" y="497.0" otu="otu10"/>
+   <node id="NT1.21" label="NT1.21" x="536.0" y="283.0" otu="otu11"/>
+   <node id="NT1.22" label="NT1.22" x="609.0" y="442.0" otu="otu12"/>
+   <node id="NT1.23" label="NT1.23" x="4.0" y="43.0" root="true"/>
+   <edge source="NT1.13" target="NT1.8"/>
+   <edge source="NT1.20" target="NT1.6"/>
+   <edge source="NT1.19" target="NT1.4"/>
+   <edge source="NT1.12" target="NT1.7"/>
+   <edge source="NT1.22" target="NT1.6"/>
+   <edge source="NT1.14" target="NT1.9"/>
+   <edge source="NT1.21" target="NT1.9"/>
+   <edge source="NT1.16" target="NT1.10"/>
+   <edge source="NT1.17" target="NT1.10"/>
+   <edge source="NT1.2" target="NT1.8"/>
+   <edge source="NT1.2" target="NT1.3"/>
+   <edge source="NT1.3" target="NT1.6"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.9"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.7" target="NT1.10"/>
+   <edge source="NT1.23" target="NT1.1"/>
+   <edge source="NT1.2" target="NT1.23"/>
+   <edge source="NT1.18" target="NT1.1"/>
+   <edge source="NT1.15" target="NT1.1"/>
+   <edge source="NT1.11" target="NT1.8"/>
+  </tree>
+ </trees>
+</nexml>

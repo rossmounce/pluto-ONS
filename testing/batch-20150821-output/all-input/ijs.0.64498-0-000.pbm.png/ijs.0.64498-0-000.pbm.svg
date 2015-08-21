@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="18.0" cy="193.0" r="1.0"/>
+    <text stroke="none" x="18.0" y="193.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="170.0" cy="140.0" r="1.0"/>
+    <text stroke="none" x="170.0" y="140.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="190.0" cy="185.0" r="1.0"/>
+    <text stroke="none" x="190.0" y="185.0" font-size="20.0" font-family="helvetica">57</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="191.0" cy="245.0" r="1.0"/>
+    <text stroke="none" x="191.0" y="245.0" font-size="20.0" font-family="helvetica"> B. phenazinium LMG 2247T (U96936)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="263.0" cy="93.0" r="1.0"/>
+    <text stroke="none" x="263.0" y="93.0" font-size="20.0" font-family="helvetica">98</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="281.0" cy="58.0" r="1.0"/>
+    <text stroke="none" x="281.0" y="58.0" font-size="20.0" font-family="helvetica">98</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="325.0" cy="29.0" r="1.0"/>
+    <text stroke="none" x="325.0" y="29.0" font-size="10.0" font-family="helvetica">NT1.7</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="391.0" cy="88.0" r="1.0"/>
+    <text stroke="none" x="391.0" y="88.0" font-size="20.0" font-family="helvetica">B. sacchari LMG 19450T (AF263278)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="396.0" cy="206.0" r="1.0"/>
+    <text stroke="none" x="396.0" y="206.0" font-size="20.0" font-family="helvetica">B. tuberum STM678T (AJ302311)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="399.0" cy="166.0" r="1.0"/>
+    <text stroke="none" x="399.0" y="166.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="417.0" cy="48.0" r="1.0"/>
+    <text stroke="none" x="417.0" y="48.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="444.0" cy="9.0" r="1.0"/>
+    <text stroke="none" x="444.0" y="9.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="482.0" cy="127.0" r="1.0"/>
+    <text stroke="none" x="482.0" y="127.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="482.0" cy="284.0" r="1.0"/>
+    <text stroke="none" x="482.0" y="284.0" font-size="20.0" font-family="helvetica">B. andropogonis LMG 2129T (X67037)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="2.0" cy="238.0" r="1.0"/>
+    <text stroke="none" x="2.0" y="238.0" font-size="10.0" font-family="helvetica">NT1.15</text>
+   </g>
+   <line stroke="black" x1="444.0" y1="9.0" x2="325.0" y2="29.0" stroke-width="0.5"/>
+   <line stroke="black" x1="417.0" y1="48.0" x2="325.0" y2="29.0" stroke-width="0.5"/>
+   <line stroke="black" x1="391.0" y1="88.0" x2="281.0" y2="58.0" stroke-width="0.5"/>
+   <line stroke="black" x1="482.0" y1="127.0" x2="263.0" y2="93.0" stroke-width="0.5"/>
+   <line stroke="black" x1="396.0" y1="206.0" x2="190.0" y2="185.0" stroke-width="0.5"/>
+   <line stroke="black" x1="191.0" y1="245.0" x2="18.0" y2="193.0" stroke-width="0.5"/>
+   <line stroke="black" x1="325.0" y1="29.0" x2="281.0" y2="58.0" stroke-width="0.5"/>
+   <line stroke="black" x1="281.0" y1="58.0" x2="263.0" y2="93.0" stroke-width="0.5"/>
+   <line stroke="black" x1="263.0" y1="93.0" x2="170.0" y2="140.0" stroke-width="0.5"/>
+   <line stroke="black" x1="170.0" y1="140.0" x2="18.0" y2="193.0" stroke-width="0.5"/>
+   <line stroke="black" x1="170.0" y1="140.0" x2="190.0" y2="185.0" stroke-width="0.5"/>
+   <line stroke="black" x1="2.0" y1="238.0" x2="482.0" y2="284.0" stroke-width="0.5"/>
+   <line stroke="black" x1="2.0" y1="238.0" x2="18.0" y2="193.0" stroke-width="0.5"/>
+   <line stroke="black" x1="399.0" y1="166.0" x2="190.0" y2="185.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

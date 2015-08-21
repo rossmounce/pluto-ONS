@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="79.0" cy="270.0" r="1.0"/>
+    <text stroke="none" x="79.0" y="270.0" font-size="10.0" font-family="helvetica">NT1.1</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="129.0" cy="200.0" r="1.0"/>
+    <text stroke="none" x="129.0" y="200.0" font-size="20.0" font-family="helvetica">63</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="209.0" cy="340.0" r="1.0"/>
+    <text stroke="none" x="209.0" y="340.0" font-size="20.0" font-family="helvetica">90</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="279.0" cy="124.0" r="1.0"/>
+    <text stroke="none" x="279.0" y="124.0" font-size="20.0" font-family="helvetica">96</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="309.0" cy="70.0" r="1.0"/>
+    <text stroke="none" x="309.0" y="70.0" font-size="20.0" font-family="helvetica">74</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="331.0" cy="177.0" r="1.0"/>
+    <text stroke="none" x="331.0" y="177.0" font-size="10.0" font-family="helvetica">NT1.6</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="385.0" cy="210.0" r="1.0"/>
+    <text stroke="none" x="385.0" y="210.0" font-size="20.0" font-family="helvetica">95</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="407.0" cy="37.0" r="1.0"/>
+    <text stroke="none" x="407.0" y="37.0" font-size="20.0" font-family="helvetica">00</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="408.0" cy="58.0" r="1.0"/>
+    <text stroke="none" x="408.0" y="58.0" font-size="20.0" font-family="helvetica">B. sabiae Br3407T (AY773186)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="415.0" cy="13.0" r="1.0"/>
+    <text stroke="none" x="415.0" y="13.0" font-size="20.0" font-family="helvetica">B. sabiae Br3405 (AY773185)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="437.0" cy="145.0" r="1.0"/>
+    <text stroke="none" x="437.0" y="145.0" font-size="20.0" font-family="helvetica">B. caribensis MWAP64T (Y17009)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="440.0" cy="363.0" r="1.0"/>
+    <text stroke="none" x="440.0" y="363.0" font-size="20.0" font-family="helvetica">B. nodosa Br3437T (AY773189)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="446.0" cy="188.0" r="1.0"/>
+    <text stroke="none" x="446.0" y="188.0" font-size="20.0" font-family="helvetica"> B. terrae KMYO1T (AB201284)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="452.0" cy="319.0" r="1.0"/>
+    <text stroke="none" x="452.0" y="319.0" font-size="20.0" font-family="helvetica">B. mimosarum PAS44T (AY752958)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="461.0" cy="102.0" r="1.0"/>
+    <text stroke="none" x="461.0" y="102.0" font-size="20.0" font-family="helvetica">B. phymatum STM815T (AJ302312)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="464.0" cy="232.0" r="1.0"/>
+    <text stroke="none" x="464.0" y="232.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="474.0" cy="276.0" r="1.0"/>
+    <text stroke="none" x="474.0" y="276.0" font-size="20.0" font-family="helvetica">B. tuberum STM678T (AJ302311)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="474.0" cy="407.0" r="1.0"/>
+    <text stroke="none" x="474.0" y="407.0" font-size="20.0" font-family="helvetica">B. cepacia ATCC 25416T (U96927)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="1.0" cy="338.0" r="1.0"/>
+    <text stroke="none" x="1.0" y="338.0" font-size="10.0" font-family="helvetica">NT1.19</text>
+   </g>
+   <line stroke="black" x1="415.0" y1="13.0" x2="407.0" y2="37.0" stroke-width="0.5"/>
+   <line stroke="black" x1="408.0" y1="58.0" x2="407.0" y2="37.0" stroke-width="0.5"/>
+   <line stroke="black" x1="461.0" y1="102.0" x2="309.0" y2="70.0" stroke-width="0.5"/>
+   <line stroke="black" x1="437.0" y1="145.0" x2="331.0" y2="177.0" stroke-width="0.5"/>
+   <line stroke="black" x1="446.0" y1="188.0" x2="385.0" y2="210.0" stroke-width="0.5"/>
+   <line stroke="black" x1="464.0" y1="232.0" x2="385.0" y2="210.0" stroke-width="0.5"/>
+   <line stroke="black" x1="474.0" y1="276.0" x2="129.0" y2="200.0" stroke-width="0.5"/>
+   <line stroke="black" x1="440.0" y1="363.0" x2="209.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="452.0" y1="319.0" x2="209.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="407.0" y1="37.0" x2="309.0" y2="70.0" stroke-width="0.5"/>
+   <line stroke="black" x1="309.0" y1="70.0" x2="279.0" y2="124.0" stroke-width="0.5"/>
+   <line stroke="black" x1="279.0" y1="124.0" x2="129.0" y2="200.0" stroke-width="0.5"/>
+   <line stroke="black" x1="279.0" y1="124.0" x2="331.0" y2="177.0" stroke-width="0.5"/>
+   <line stroke="black" x1="331.0" y1="177.0" x2="385.0" y2="210.0" stroke-width="0.5"/>
+   <line stroke="black" x1="129.0" y1="200.0" x2="79.0" y2="270.0" stroke-width="0.5"/>
+   <line stroke="black" x1="79.0" y1="270.0" x2="209.0" y2="340.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1.0" y1="338.0" x2="474.0" y2="407.0" stroke-width="0.5"/>
+   <line stroke="black" x1="1.0" y1="338.0" x2="79.0" y2="270.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

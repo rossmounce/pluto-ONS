@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Methanothermus fervidus DSM 2088T (J03375)</otu>
+  <otu id="otu3">Methanosaeta harundinacea 8A5T (AY970348)</otu>
+  <otu id="otu4">Methanosaeta harundinacea 6Ac (AY970349)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" x="232.0" y="633.0" label="98"/>
+   <node id="NT1.2" label="NT1.2" x="411.0" y="566.0" otu="otu1"/>
+   <node id="NT1.3" label="NT1.3" x="728.0" y="841.0" otu="otu2"/>
+   <node id="NT1.4" x="729.0" y="702.0" label="100"/>
+   <node id="NT1.5" label="NT1.5" x="730.0" y="660.0" otu="otu3"/>
+   <node id="NT1.6" label="NT1.6" x="730.0" y="748.0" otu="otu4"/>
+   <node id="NT1.7" label="NT1.7" x="3.0" y="658.0" root="true"/>
+   <edge source="NT1.2" target="NT1.1"/>
+   <edge source="NT1.5" target="NT1.4"/>
+   <edge source="NT1.6" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.4"/>
+   <edge source="NT1.7" target="NT1.1"/>
+   <edge source="NT1.3" target="NT1.7"/>
+  </tree>
+ </trees>
+</nexml>

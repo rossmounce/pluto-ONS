@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1"/>
+  <otu id="otu2">Rheinheimera aquimaris SW-353T (EF016757)</otu>
+  <otu id="otu3">Shewanella putrefaciens LMG 26268T (X81623)</otu>
+  <otu id="otu4">Rheinheimera peducida BA131T (AM183347)</otu>
+  <otu id="otu5">ldiomarina abyssalis KMM 227T (AF052740)</otu>
+  <otu id="otu6">Rheinheimera baltica OSBAC1T (AJ441080)</otu>
+  <otu id="otu7">Rheinheimera pacifica KMM 1406T (ABO73132)</otu>
+  <otu id="otu8">Moritella marina NCIMB 1144T (X82142)</otu>
+  <otu id="otu9">Alishewanella fetalis CCUG 30811T (AF144407)</otu>
+  <otu id="otu10">Pseudomonas aeruginosa LMG 1242T (276651)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="2.0" y="171.0" otu="otu1" root="true"/>
+   <node id="NT1.2" label="NT1.2" x="5.0" y="172.0"/>
+   <node id="NT1.3" label="NT1.3" x="97.0" y="215.0"/>
+   <node id="NT1.4" label="NT1.4" x="111.0" y="102.0"/>
+   <node id="NT1.5" label="NT1.5" x="261.0" y="52.0"/>
+   <node id="NT1.6" label="NT1.6" x="306.0" y="15.0" otu="otu2"/>
+   <node id="NT1.7" label="NT1.7" x="312.0" y="196.0" otu="otu3"/>
+   <node id="NT1.8" label="NT1.8" x="313.0" y="124.0" otu="otu4"/>
+   <node id="NT1.9" label="NT1.9" x="318.0" y="269.0" otu="otu5"/>
+   <node id="NT1.10" label="NT1.10" x="331.0" y="88.0" otu="otu6"/>
+   <node id="NT1.11" label="NT1.11" x="336.0" y="51.0" otu="otu7"/>
+   <node id="NT1.12" label="NT1.12" x="345.0" y="233.0" otu="otu8"/>
+   <node id="NT1.13" label="NT1.13" x="369.0" y="160.0" otu="otu9"/>
+   <node id="NT1.14" label="NT1.14" x="405.0" y="305.0" otu="otu10"/>
+   <edge source="NT1.11" target="NT1.5"/>
+   <edge source="NT1.10" target="NT1.5"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.9" target="NT1.4"/>
+   <edge source="NT1.7" target="NT1.3"/>
+   <edge source="NT1.14" target="NT1.2"/>
+   <edge source="NT1.5" target="NT1.4"/>
+   <edge source="NT1.4" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.3"/>
+   <edge source="NT1.12" target="NT1.3"/>
+   <edge source="NT1.13" target="NT1.4"/>
+   <edge source="NT1.8" target="NT1.4"/>
+   <edge source="NT1.6" target="NT1.5"/>
+  </tree>
+ </trees>
+</nexml>

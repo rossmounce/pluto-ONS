@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="6.0" cy="675.0" r="1.0"/>
+    <text stroke="none" x="6.0" y="675.0" font-size="20.0" font-family="helvetica"/>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="117.0" cy="602.0" r="1.0"/>
+    <text stroke="none" x="117.0" y="602.0" font-size="10.0" font-family="helvetica">NT1.2</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="130.0" cy="646.0" r="1.0"/>
+    <text stroke="none" x="130.0" y="646.0" font-size="20.0" font-family="helvetica">41</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="151.0" cy="676.0" r="1.0"/>
+    <text stroke="none" x="151.0" y="676.0" font-size="10.0" font-family="helvetica">NT1.4</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="214.0" cy="554.0" r="1.0"/>
+    <text stroke="none" x="214.0" y="554.0" font-size="10.0" font-family="helvetica">NT1.5</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="370.0" cy="525.0" r="1.0"/>
+    <text stroke="none" x="370.0" y="525.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="389.0" cy="652.0" r="1.0"/>
+    <text stroke="none" x="389.0" y="652.0" font-size="20.0" font-family="helvetica">Pantoea stewartii ATCC 8199T (AY219003)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="415.0" cy="720.0" r="1.0"/>
+    <text stroke="none" x="415.0" y="720.0" font-size="20.0" font-family="helvetica">E. mallotivora CFBP 2503T (AY217064)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="444.0" cy="500.0" r="1.0"/>
+    <text stroke="none" x="444.0" y="500.0" font-size="20.0" font-family="helvetica">100</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="445.0" cy="483.0" r="1.0"/>
+    <text stroke="none" x="445.0" y="483.0" font-size="20.0" font-family="helvetica">E. amylovora Ea1l79 (AM055588)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="445.0" cy="516.0" r="1.0"/>
+    <text stroke="none" x="445.0" y="516.0" font-size="20.0" font-family="helvetica">E. amylovora IL6 (AY217068)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="451.0" cy="618.0" r="1.0"/>
+    <text stroke="none" x="451.0" y="618.0" font-size="20.0" font-family="helvetica">E. psidii CFBP 3627T (AY217065)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="480.0" cy="550.0" r="1.0"/>
+    <text stroke="none" x="480.0" y="550.0" font-size="20.0" font-family="helvetica">E. pyrifoliae Ep16l96T (AY217072)</text>
+   </g>
+   <g>
+    <circle stroke="black" stroke-width="0.5" fill="#aaffff" cx="506.0" cy="584.0" r="1.0"/>
+    <text stroke="none" x="506.0" y="584.0" font-size="20.0" font-family="helvetica">E. tasmaniensis Et1l99T (AM055718)</text>
+   </g>
+   <line stroke="black" x1="445.0" y1="483.0" x2="444.0" y2="500.0" stroke-width="0.5"/>
+   <line stroke="black" x1="445.0" y1="516.0" x2="444.0" y2="500.0" stroke-width="0.5"/>
+   <line stroke="black" x1="480.0" y1="550.0" x2="370.0" y2="525.0" stroke-width="0.5"/>
+   <line stroke="black" x1="506.0" y1="584.0" x2="214.0" y2="554.0" stroke-width="0.5"/>
+   <line stroke="black" x1="389.0" y1="652.0" x2="151.0" y2="676.0" stroke-width="0.5"/>
+   <line stroke="black" x1="451.0" y1="618.0" x2="130.0" y2="646.0" stroke-width="0.5"/>
+   <line stroke="black" x1="444.0" y1="500.0" x2="370.0" y2="525.0" stroke-width="0.5"/>
+   <line stroke="black" x1="370.0" y1="525.0" x2="214.0" y2="554.0" stroke-width="0.5"/>
+   <line stroke="black" x1="214.0" y1="554.0" x2="117.0" y2="602.0" stroke-width="0.5"/>
+   <line stroke="black" x1="117.0" y1="602.0" x2="130.0" y2="646.0" stroke-width="0.5"/>
+   <line stroke="black" x1="130.0" y1="646.0" x2="151.0" y2="676.0" stroke-width="0.5"/>
+   <line stroke="black" x1="6.0" y1="675.0" x2="117.0" y2="602.0" stroke-width="0.5"/>
+   <line stroke="black" x1="415.0" y1="720.0" x2="151.0" y2="676.0" stroke-width="0.5"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nexml xmlns="http://www.nexml.org/2009" xmlns:nex="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <otus label="RootTaxaBlock">
+  <otu id="otu1">Planococcus psychrophilus MTCC 3812T (AJ314746)</otu>
+  <otu id="otu2">Planomicrobium okeanokaites IFO 12536T (D55729)</otu>
+  <otu id="otu3">Planomicrobiumm mcmeekinii MTCC 3704T (AF041791)</otu>
+  <otu id="otu4">yPlanococcus psychrotoleratusy (AF324659)</otu>
+  <otu id="otu5">Sporosarcina macmurdoensis DSM 15428T (AJ 514408)</otu>
+  <otu id="otu6">Planococcus antarcticus MTCC 3854T (AJ314745)</otu>
+  <otu id="otu7">Planacoccus maritimus JCM l 1543T (AF500007)</otu>
+  <otu id="otu8">Planococcus alkanoclasticus NCIMB 13489T (AF029364)</otu>
+  <otu id="otu9">Planococcus stackebmndtii MTCC 6226T (AY437845)</otu>
+  <otu id="otu10">Planococcus rifietuensis DSM 15069T (AJ4936S9)</otu>
+  <otu id="otu11">Planococcus maitriensis DSM 15305T (AJ544622)</otu>
+  <otu id="otu12">Planococcus citreus NCIMB 1493T (X62172)</otu>
+  <otu id="otu13">Planococcus kocurii NCIMB 629T (X62173)</otu>
+ </otus>
+ <trees>
+  <tree id="T1">
+   <node id="NT1.1" label="NT1.1" x="296.0" y="603.0"/>
+   <node id="NT1.2" label="NT1.2" x="302.0" y="745.0"/>
+   <node id="NT1.3" label="NT1.3" x="313.0" y="459.0"/>
+   <node id="NT1.4" label="NT1.4" x="355.0" y="593.0"/>
+   <node id="NT1.5" label="NT1.5" x="374.0" y="325.0"/>
+   <node id="NT1.6" label="NT1.6" x="402.0" y="544.0"/>
+   <node id="NT1.7" label="NT1.7" x="405.0" y="406.0"/>
+   <node id="NT1.8" label="NT1.8" x="407.0" y="243.0"/>
+   <node id="NT1.9" label="NT1.9" x="466.0" y="711.0" otu="otu1"/>
+   <node id="NT1.10" label="NT1.10" x="480.0" y="577.0" otu="otu2"/>
+   <node id="NT1.11" label="NT1.11" x="495.0" y="150.0"/>
+   <node id="NT1.12" label="NT1.12" x="500.0" y="120.0"/>
+   <node id="NT1.13" label="NT1.13" x="529.0" y="509.0" otu="otu3"/>
+   <node id="NT1.14" label="NT1.14" x="531.0" y="372.0" otu="otu4"/>
+   <node id="NT1.15" label="NT1.15" x="554.0" y="847.0" otu="otu5"/>
+   <node id="NT1.16" label="NT1.16" x="558.0" y="442.0" otu="otu6"/>
+   <node id="NT1.17" label="NT1.17" x="573.0" y="237.0" otu="otu7"/>
+   <node id="NT1.18" label="NT1.18" x="574.0" y="69.0"/>
+   <node id="NT1.19" label="NT1.19" x="592.0" y="644.0" otu="otu8"/>
+   <node id="NT1.20" label="NT1.20" x="598.0" y="779.0" otu="otu9"/>
+   <node id="NT1.21" label="NT1.21" x="606.0" y="36.0" otu="otu10"/>
+   <node id="NT1.22" label="NT1.22" x="634.0" y="171.0" otu="otu11"/>
+   <node id="NT1.23" label="NT1.23" x="674.0" y="103.0" otu="otu12"/>
+   <node id="NT1.24" label="NT1.24" x="726.0" y="305.0" otu="otu13"/>
+   <edge source="NT1.21" target="NT1.18"/>
+   <edge source="NT1.23" target="NT1.18"/>
+   <edge source="NT1.22" target="NT1.12"/>
+   <edge source="NT1.17" target="NT1.11"/>
+   <edge source="NT1.14" target="NT1.7"/>
+   <edge source="NT1.16" target="NT1.7"/>
+   <edge source="NT1.10" target="NT1.6"/>
+   <edge source="NT1.13" target="NT1.6"/>
+   <edge source="NT1.19" target="NT1.4"/>
+   <edge source="NT1.9" target="NT1.2"/>
+   <edge source="NT1.20" target="NT1.2"/>
+   <edge source="NT1.18" target="NT1.12"/>
+   <edge source="NT1.12" target="NT1.11"/>
+   <edge source="NT1.11" target="NT1.8"/>
+   <edge source="NT1.8" target="NT1.5"/>
+   <edge source="NT1.5" target="NT1.3"/>
+   <edge source="NT1.5" target="NT1.7"/>
+   <edge source="NT1.3" target="NT1.1"/>
+   <edge source="NT1.3" target="NT1.4"/>
+   <edge source="NT1.1" target="NT1.2"/>
+   <edge source="NT1.4" target="NT1.6"/>
+   <edge source="NT1.15" target="NT1.1"/>
+   <edge source="NT1.24" target="NT1.8"/>
+  </tree>
+ </trees>
+</nexml>
