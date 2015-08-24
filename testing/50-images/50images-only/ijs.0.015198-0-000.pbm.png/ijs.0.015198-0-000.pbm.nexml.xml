@@ -8,7 +8,7 @@
   <tree id="T1">
    <node id="NT1.1" label="NT1.1" x="18.0" y="424.0" otu="otu1" root="true"/>
    <node id="NT1.2" label="NT1.2" x="554.0" y="232.0" otu="otu2"/>
-   <edge source="NT1.1" target="NT1.2"/>
+   <edge id="e.0" source="NT1.1" target="NT1.2"/>
   </tree>
  </trees>
 </nexml>
